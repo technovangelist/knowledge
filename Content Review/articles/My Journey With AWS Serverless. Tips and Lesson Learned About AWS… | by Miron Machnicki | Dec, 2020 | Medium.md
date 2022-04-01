@@ -9,7 +9,7 @@ SourceUrl: https://machnicki.medium.com/my-journey-with-aws-serverless-7db5d91ec
 
 %%7188865topstart%%
 #### Extras:
-[AWS Lambda](/knowledge/Tools I Use/AWS Lambda.md)**Miron Machnicki**
+[AWS Lambda](/knowledge/Tools I Use/AWS Lambda)**Miron Machnicki**
 %%7188865topend%%
 
 

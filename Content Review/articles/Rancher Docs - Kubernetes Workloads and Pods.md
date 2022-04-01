@@ -42,7 +42,7 @@ Updated: 02/02/2021 12:52 PM
 
 %%140460502start%%
 #### Extras:
-[desired state](/knowledge/desired state.md)
+[desired state](/knowledge/desired state)
 %%140460502end%%
 
 

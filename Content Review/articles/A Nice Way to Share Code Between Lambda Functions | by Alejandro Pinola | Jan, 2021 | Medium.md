@@ -9,7 +9,7 @@ SourceUrl: https://medium.com/@alepinola/a-nice-way-to-share-code-between-lambda
 
 %%7558279topstart%%
 #### Extras:
-**Alejandro Pinola**[AWS Lambda](/knowledge/Tools I Use/AWS Lambda.md)
+**Alejandro Pinola**[AWS Lambda](/knowledge/Tools I Use/AWS Lambda)
 %%7558279topend%%
 
 

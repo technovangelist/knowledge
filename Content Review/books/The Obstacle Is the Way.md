@@ -94,7 +94,7 @@ Updated: 01/05/2020 01:00 PM
 
 %%35507226start%%
 #### Extras:
-**path**[The Obstacle Is the Way](/knowledge/Content Review/books/The Obstacle Is the Way.md)
+**path**[The Obstacle Is the Way](/knowledge/Content Review/books/The Obstacle Is the Way)
 %%35507226end%%
 
 
@@ -625,7 +625,7 @@ Updated: 01/05/2020 01:00 PM
 
 %%35507193start%%
 #### Extras:
-[Serenity Prayer](/knowledge/Other Notes/Serenity Prayer.md)
+[Serenity Prayer](/knowledge/Other Notes/Serenity Prayer)
 %%35507193end%%
 
 

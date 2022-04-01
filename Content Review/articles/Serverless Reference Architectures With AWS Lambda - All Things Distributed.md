@@ -9,7 +9,7 @@ SourceUrl: http://www.allthingsdistributed.com/2016/06/aws-lambda-serverless-ref
 
 %%1130734topstart%%
 #### Extras:
-**serverless**[AWS Lambda](/knowledge/Tools I Use/AWS Lambda.md)
+**serverless**[AWS Lambda](/knowledge/Tools I Use/AWS Lambda)
 %%1130734topend%%
 
 

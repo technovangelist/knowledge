@@ -13,4 +13,4 @@ Many company's choose to give this role other titles due to the negative religio
 - other names as silly as those two
 
 
-I am currently an evangelist at [InfraHQ](/knowledge/LIP/What is Infra.md) and have held that title at [Datadog](/knowledge/LIP/Datadog.md), Placester, and Yottaa. And when I was an SE at Microsoft I worked closely with an evangelist there. I have had the domain Technovangelist for much longer though, first acquiring it in the early 1990's
+I am currently an evangelist at [InfraHQ](/knowledge/LIP/What is Infra) and have held that title at [Datadog](/knowledge/LIP/Datadog), Placester, and Yottaa. And when I was an SE at Microsoft I worked closely with an evangelist there. I have had the domain Technovangelist for much longer though, first acquiring it in the early 1990's

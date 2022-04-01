@@ -9,7 +9,7 @@ SourceUrl: https://nesslabs.com/metacognition
 
 %%7188868topstart%%
 #### Extras:
-[Anne-Laure Le Cunff](/knowledge/Other Notes/Anne-Laure Le Cunff.md)**metacognition**
+[Anne-Laure Le Cunff](/knowledge/Other Notes/Anne-Laure Le Cunff)**metacognition**
 %%7188868topend%%
 
 

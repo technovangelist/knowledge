@@ -9,7 +9,7 @@ SourceUrl: https://nesslabs.com/mindful-productivity-2
 
 %%6789495topstart%%
 #### Extras:
-[Anne-Laure Le Cunff](/knowledge/Other Notes/Anne-Laure Le Cunff.md)**World Health Organization**
+[Anne-Laure Le Cunff](/knowledge/Other Notes/Anne-Laure Le Cunff)**World Health Organization**
 %%6789495topend%%
 
 

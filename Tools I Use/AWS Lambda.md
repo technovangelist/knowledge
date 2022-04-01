@@ -1,1 +1,1 @@
-Serverless offering from [AWS](/knowledge/AWS.md)
+Serverless offering from [AWS](/knowledge/AWS)

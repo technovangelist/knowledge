@@ -9,7 +9,7 @@ SourceUrl: https://arthive.com/publications/4072~Love_story_in_paintings_Edvard_
 
 %%8069272topstart%%
 #### Extras:
-[Tulla Larsen](/knowledge/Other Notes/Tulla Larsen.md)
+[Tulla Larsen](/knowledge/Other Notes/Tulla Larsen)
 %%8069272topend%%
  
 -----

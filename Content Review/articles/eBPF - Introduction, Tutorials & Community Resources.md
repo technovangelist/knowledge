@@ -9,7 +9,7 @@ SourceUrl: https://ebpf.io/
 
 %%7347770topstart%%
 #### Extras:
-[ebpf](/knowledge/Other Notes/ebpf.md) **linuxkernel**
+[ebpf](/knowledge/Other Notes/ebpf) **linuxkernel**
 %%7347770topend%%
 
 

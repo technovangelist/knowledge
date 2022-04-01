@@ -8,7 +8,7 @@ SourceUrl: https://medium.com/@matthewleak/aws-lambda-functions-with-a-static-ip
 
 %%1548109topstart%%
 #### Extras:
-[AWS Lambda](/knowledge/Tools I Use/AWS Lambda.md)
+[AWS Lambda](/knowledge/Tools I Use/AWS Lambda)
 %%1548109topend%%
 
 

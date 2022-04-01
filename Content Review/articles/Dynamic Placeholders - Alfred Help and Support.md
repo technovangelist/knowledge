@@ -9,7 +9,7 @@ SourceUrl: https://www.alfredapp.com/help/workflows/advanced/placeholders/#varia
 
 %%8554849topstart%%
 #### Extras:
-[Alfred App](/knowledge/Tools I Use/Alfred App.md)
+[Alfred App](/knowledge/Tools I Use/Alfred App)
 %%8554849topend%%
 
 

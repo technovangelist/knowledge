@@ -9,7 +9,7 @@ SourceUrl: https://superorganizers.substack.com/p/how-anne-laure-le-cunff-wrote-
 
 %%6789500topstart%%
 #### Extras:
-[Anne-Laure Le Cunff](/knowledge/Other Notes/Anne-Laure Le Cunff.md)**writing**
+[Anne-Laure Le Cunff](/knowledge/Other Notes/Anne-Laure Le Cunff)**writing**
 %%6789500topend%%
 
 

@@ -42,7 +42,7 @@ Updated: 01/04/2022 07:02 AM
 
 %%266503953start%%
 #### Extras:
-![north-south for IO to from cluster](/knowledge/Content Review/articles/north-south for IO to from cluster.md)
+![north-south for IO to from cluster](/knowledge/Content Review/articles/north-south for IO to from cluster)
 %%266503953end%%
 
 

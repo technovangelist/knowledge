@@ -8,7 +8,7 @@ Published: 04/16/2019 03:37 PM
  ^yt1UDRGlmbiZAabout
 %%1UDRGlmbiZAtopstart%%
 #### Extras:
-[AWS](/knowledge/AWS.md) **App Mesh** **Envoy Proxy**
+[AWS](/knowledge/AWS) **App Mesh** **Envoy Proxy**
 %%1UDRGlmbiZAtopend%%
 
 -----

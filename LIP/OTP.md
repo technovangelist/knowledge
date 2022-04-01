@@ -1,4 +1,4 @@
 # One Time Password
-Automatically generated sequence of characters created by a device or software a user has access to. Does not guarantee on its own that the user is who they say they are ([Authentication](/knowledge/LIP/Authentication.md)), because the device could have been stolen. But in combination with a password or finger scan, provides another factor in [2FA or MFA](/knowledge/LIP/MFA.md). 
+Automatically generated sequence of characters created by a device or software a user has access to. Does not guarantee on its own that the user is who they say they are ([Authentication](/knowledge/LIP/Authentication)), because the device could have been stolen. But in combination with a password or finger scan, provides another factor in [2FA or MFA](/knowledge/LIP/MFA). 
 
-Some generate the sequence and require the human to type them in such as the older cards that you saw folks carry in their wallet. Others could type them in automatically like the YubiKey. And still others can do both, like the OTP setting in [1Password](/knowledge/LIP/1Password.md).
+Some generate the sequence and require the human to type them in such as the older cards that you saw folks carry in their wallet. Others could type them in automatically like the YubiKey. And still others can do both, like the OTP setting in [1Password](/knowledge/LIP/1Password).

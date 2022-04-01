@@ -9,7 +9,7 @@ SourceUrl: https://www.datadoghq.com/blog/monitor-vercel-serverless-functions-wi
 
 %%9870425topstart%%
 #### Extras:
-[Datadog](/knowledge/LIP/Datadog.md) **serverless**
+[Datadog](/knowledge/LIP/Datadog) **serverless**
 %%9870425topend%%
 
 

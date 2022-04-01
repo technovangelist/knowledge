@@ -9,7 +9,7 @@ SourceUrl: https://educationaltechnology.net/kirkpatrick-model-four-levels-learn
 
 %%7655538topstart%%
 #### Extras:
-[Donald Kirkpatrick - Wikipedia](/knowledge/Content Review/articles/Donald Kirkpatrick - Wikipedia.md)**Training Models**
+[Donald Kirkpatrick - Wikipedia](/knowledge/Content Review/articles/Donald Kirkpatrick - Wikipedia)**Training Models**
 %%7655538topend%%
 
 

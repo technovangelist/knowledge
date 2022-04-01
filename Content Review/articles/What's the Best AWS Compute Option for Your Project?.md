@@ -8,7 +8,7 @@ SourceUrl: https://cloudonaut.io/whats-the-best-aws-compute-option-for-your-proj
 
 %%1460679topstart%%
 #### Extras:
-[AWS](/knowledge/AWS.md)**Fargate****Docker**
+[AWS](/knowledge/AWS)**Fargate****Docker**
 %%1460679topend%%
 
 

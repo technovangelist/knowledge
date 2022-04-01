@@ -8,7 +8,7 @@ Highlights URL: https://readwise.io/bookreview/1313279
 
 %%1313279topstart%%
 #### Extras:
-[AWS](/knowledge/AWS.md)
+[AWS](/knowledge/AWS)
 %%1313279topend%%
 
 

@@ -8,7 +8,7 @@ Published: 07/15/2020 06:00 AM
  ^yt4Jg69Ygf1XIabout
 %%4Jg69Ygf1XItopstart%%
 #### Extras:
-[Obsidian](/knowledge/Tools I Use/Obsidian.md)**literature notes****Zettlekasten**
+[Obsidian](/knowledge/Tools I Use/Obsidian)**literature notes****Zettlekasten**
 %%4Jg69Ygf1XItopend%%
 
 -----

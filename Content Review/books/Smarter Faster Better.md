@@ -188,7 +188,7 @@ Updated: 01/05/2020 01:00 PM
 
 %%35507138start%%
 #### Extras:
-[Richard De Crespigny - Wikipedia](/knowledge/Content Review/articles/Richard De Crespigny - Wikipedia.md)
+[Richard De Crespigny - Wikipedia](/knowledge/Content Review/articles/Richard De Crespigny - Wikipedia)
 %%35507138end%%
 
 

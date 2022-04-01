@@ -9,7 +9,7 @@ SourceUrl: http://www.brendangregg.com/blog/2019-01-01/learn-ebpf-tracing.html
 
 %%7348325topstart%%
 #### Extras:
-[ebpf](/knowledge/Other Notes/ebpf.md)**Brendan Gregg**
+[ebpf](/knowledge/Other Notes/ebpf)**Brendan Gregg**
 %%7348325topend%%
 
 

@@ -21,7 +21,7 @@ Comment:
 >The answer was "Men simply don't think" ^ytNbBHRCD56M14c
 %%14start%%
 #### Extras:
-[Albert Schweitzer - Wikipedia](/knowledge/Content Review/articles/Albert Schweitzer - Wikipedia.md)
+[Albert Schweitzer - Wikipedia](/knowledge/Content Review/articles/Albert Schweitzer - Wikipedia)
 
 %%14end%%
 
@@ -45,7 +45,7 @@ Comment:
 >The answer was "Men simply don't think" ^ytNbBHRCD56M14c
 %%14start%%
 #### Extras:
-[Albert Schweitzer - Wikipedia](/knowledge/Content Review/articles/Albert Schweitzer - Wikipedia.md)
+[Albert Schweitzer - Wikipedia](/knowledge/Content Review/articles/Albert Schweitzer - Wikipedia)
 
 %%14end%%
 
@@ -69,7 +69,7 @@ Comment:
 >The answer was "Men simply don't think" ^ytNbBHRCD56M14c
 %%14start%%
 #### Extras:
-[Albert Schweitzer - Wikipedia](/knowledge/Content Review/articles/Albert Schweitzer - Wikipedia.md)
+[Albert Schweitzer - Wikipedia](/knowledge/Content Review/articles/Albert Schweitzer - Wikipedia)
 
 %%14end%%
 
