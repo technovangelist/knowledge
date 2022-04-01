@@ -12,5 +12,5 @@ The goal of "Learn in Public" is to
 
 - [test](/HomePage)
 - [test](/knowledge/HomePage)
-- [HomePage](/knowledge/HomePage)
+- **HomePage**
 - 
