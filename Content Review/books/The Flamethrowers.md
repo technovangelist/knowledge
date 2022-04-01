@@ -1,0 +1,101 @@
+Notes for The Flamethrowers
+
+## Source:
+Author: Rachel Kushner
+Category: books
+Updated: 01/05/2020 01:00 PM
+CoverImageUrl: 
+![|200](https://images-na.ssl-images-amazon.com/images/I/51mH-RkapBL._SL200_.jpg)
+Highlights URL: https://readwise.io/bookreview/1214102
+
+%%1214102topstart%%
+#### Extras:
+**Rachel Kushner**
+%%1214102topend%%
+
+
+ 
+-----
+ ## Highlights:
+
+### Only a killjoy would claim neon wasn’t beautiful.
+>Only a killjoy would claim neon wasn’t beautiful. ^rw35507066hl
+
+Comment: reminds me of churchills comment about lack of green in the desert ^rw35507066comment
+
+Highlighted: 02/09/2017 08:56 PM
+Updated: 01/05/2020 01:00 PM
+
+%%35507066start%%
+#### Extras:
+**Winston Churchill**
+%%35507066end%%
+
+
+
+------
+
+### the familiar rounded rear corners of a Greyhound. Builds cha...
+>the familiar rounded rear corners of a Greyhound. Builds character, my mother liked to say. She had ridden buses alone in the early 1950s, an episode just before I was born that was never explained and didn’t seem quite wholesome, a young woman drifting around on buses, patting cold water on her face in gas station bathrooms. ^rw35507065hl
+
+
+Highlighted: 02/09/2017 08:56 PM
+Updated: 01/05/2020 01:00 PM
+
+%%35507065start%%
+#### Extras:
+**greyhound**
+%%35507065end%%
+
+
+
+------
+
+### Cross-country skiing was like running. It was like walking. ...
+>Cross-country skiing was like running. It was like walking. Contemplative and aerobic. ^rw35507064hl
+
+
+Highlighted: 02/09/2017 08:56 PM
+Updated: 01/05/2020 01:00 PM
+
+%%35507064start%%
+#### Extras:
+**walking**
+%%35507064end%%
+
+
+
+------
+
+### Ski racing was drawing in time, I said to Sandro.
+>Ski racing was drawing in time, I said to Sandro. ^rw35507063hl
+
+
+Highlighted: 02/09/2017 08:56 PM
+Updated: 01/05/2020 01:00 PM
+
+%%35507063start%%
+#### Extras:
+
+%%35507063end%%
+
+
+
+------
+
+### I knew how I looked to this beautiful woman who slept with h...
+>I knew how I looked to this beautiful woman who slept with half her roster, according to Ronnie Fontaine, who was on her roster himself: I was nothing but a minor inconvenience in her campaign to represent Sandro. ^rw35507062hl
+
+
+Highlighted: 02/09/2017 08:56 PM
+Updated: 01/05/2020 01:00 PM
+
+%%35507062start%%
+#### Extras:
+
+%%35507062end%%
+
+
+
+------
+

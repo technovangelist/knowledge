@@ -1,0 +1,5 @@
+- Make sure audio comes in to first step loud enough. So mic to pre amp. Every other step should just be taking away, never adding volume anywhere. Adding volume means adding noise
+- learn to use high pass
+- [ ] Doug Johnson productions said building a course on making the full audio chain. Need to look out for it   Should be available now
+- learn to use the compressor
+- 

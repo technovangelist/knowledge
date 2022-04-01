@@ -1,0 +1,3 @@
+**Denis Diderot** (French: [\[dəni did(ə)ʁo\]](https://en.wikipedia.org/wiki/Help:IPA/French "Help:IPA/French"); 5 October 1713 – 31 July 1784) was a French philosopher, [art critic](https://en.wikipedia.org/wiki/Art_critic "Art critic"), and writer, best known for serving as co-founder, chief editor, and contributor to the _[Encyclopédie](https://en.wikipedia.org/wiki/Encyclop%C3%A9die "Encyclopédie")_ along with [Jean le Rond d'Alembert](https://en.wikipedia.org/wiki/Jean_le_Rond_d%27Alembert "Jean le Rond d'Alembert"). He was a prominent figure during the [Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment "Age of Enlightenment").
+
+**wikipedia****Age of Enlightenment****Jean le Rond d'Alembert****philosopher****French**

@@ -1,0 +1,1 @@
+If you clone, Parallels won't update the UUID. You need to do it yourself. Shut down the machine. Right click on the vm in the control center and click `show in finder` then `Show Package Contents` in finder. Open the `config.pvs` file in an editor and update any character in `SourceVmUuid`

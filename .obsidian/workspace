@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "82d03163878c82af",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e45b0361d391338",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Tools I Use/gestimer.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "243375ad2c085cc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b92ede5f8e89994",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1c8ab4418610878",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c31b7dea998007b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ebpf",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7394d29e64810ff3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 201
+  },
+  "right": {
+    "id": "24901e5b316419e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "23666e839ffb171e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02141e77a9dda160",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tools I Use/gestimer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4be225ea6ccc958a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5cfc2be5c309cbe0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tools I Use/Todoist.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9e45b0361d391338",
+  "lastOpenFiles": [
+    "Tools I Use/gestimer.md",
+    "LIP.md",
+    "esbuild.md",
+    "Tools I Use/esbuild-runner.md",
+    "Tools I Use/Todoist.md",
+    "Tools I Use/K9S.md",
+    "Not Using or Evaluating/bandwhich.md",
+    "Tools I Use/AWS Lambda.md",
+    "Tools I Use/Obsidian.md",
+    "Tools I Use/Alfred Todoist.md"
+  ]
+}

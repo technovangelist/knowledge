@@ -1,0 +1,1 @@
+Authorization is at the heart of what [InfraHQ](LIP/What is Infra.md) provides. We take the authentication completed by an [IdP](LIP/IdP.md) and apply that to the roles and users in a destination like **Kubernetes** or [AWS](AWS.md) or **Azure**, etc.

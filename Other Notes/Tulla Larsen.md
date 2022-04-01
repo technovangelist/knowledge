@@ -1,0 +1,1 @@
+Tulla Larsen was in a four year relationship with Edward Munch. She was the 11th child of a very wealthy wine merchant who died when she was four. Even as one of 12 children, she was very rich. She wanted to be with Munch far more than he wanted to be with her. Seemed to be a lot of fighting between the two. 

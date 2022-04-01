@@ -1,0 +1,3 @@
+Apparently George Washington used to say "many mickles make a muckle", the meaning that things add up. But it doesn't really make sense. Both mickles and muckles are an old scottish term for 'a large amount'. 'many a little makes a mickle' might have been closer to the original term.
+
+extracted from The Secret to Better Habits in 2022 - [The Secret to Better Habits in 2022](Content Review/articles/The Secret to Better Habits in 2022.md) on 202202171913
