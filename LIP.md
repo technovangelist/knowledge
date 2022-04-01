@@ -7,8 +7,10 @@ The goal of "Learn in Public" is to
 2. review what was talked about last week
 3. answer any questions about [Infra](LIP/What is Infra.md) (this section will be pretty light until folks know who we are)
 
-2022-02-22 - [Authentication & Authorization](LIP/Authentication & Authorization.md)
-2022-02-29 - TBD
+- 2022-02-22 - [Authentication & Authorization](LIP/Authentication & Authorization.md)
+- 2022-02-29 - TBD
 
 - [test](/HomePage)
 - [test](/knowledge/HomePage)
+- [HomePage](HomePage.md)
+- 
