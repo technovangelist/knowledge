@@ -9,7 +9,7 @@ SourceUrl: https://middy.js.org/
 
 %%7341138topstart%%
 #### Extras:
-**javascript****middleware**[AWS Lambda](Tools I Use/AWS Lambda.md)
+**javascript****middleware**[AWS Lambda](/knowledge/Tools I Use/AWS Lambda.md)
 %%7341138topend%%
 
 

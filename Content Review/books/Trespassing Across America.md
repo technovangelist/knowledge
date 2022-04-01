@@ -82,7 +82,7 @@ Updated: 02/21/2021 03:45 PM
 
 %%148732186start%%
 #### Extras:
-The future is not yet set in stone. We have a lot of expectations, but it might not be too late to solve it. But thats not an excuse to give up since it may all be all right. We need to keep working on making it better **negative feedback**  **Kerry Emanuel**  **What We Know About Climate Change**  [Books to read](Content Review/books/Books to read.md)
+The future is not yet set in stone. We have a lot of expectations, but it might not be too late to solve it. But thats not an excuse to give up since it may all be all right. We need to keep working on making it better **negative feedback**  **Kerry Emanuel**  **What We Know About Climate Change**  [Books to read](/knowledge/Content Review/books/Books to read.md)
 %%148732186end%%
 
 
@@ -241,7 +241,7 @@ Updated: 02/21/2021 03:08 PM
 
 %%148720807start%%
 #### Extras:
-**Reinhold Niebuhr** [Serenity Prayer](Other Notes/Serenity Prayer.md)
+**Reinhold Niebuhr** [Serenity Prayer](/knowledge/Other Notes/Serenity Prayer.md)
 %%148720807end%%
 
 

@@ -26,7 +26,7 @@ Updated: 12/07/2019 07:12 PM
 
 %%33272601start%%
 #### Extras:
-[spruchtafel](Other Notes/spruchtafel.md)
+[spruchtafel](/knowledge/Other Notes/spruchtafel.md)
 %%33272601end%%
 
 

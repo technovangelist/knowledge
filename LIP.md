@@ -5,12 +5,12 @@ This section in my notes supports my **Learn in Public** stream. I am planing fo
 The goal of "Learn in Public" is to 
 1. publicly prepare for a video I am producing that week
 2. review what was talked about last week
-3. answer any questions about [Infra](LIP/What is Infra.md) (this section will be pretty light until folks know who we are)
+3. answer any questions about [Infra](/knowledge/LIP/What is Infra.md) (this section will be pretty light until folks know who we are)
 
-- 2022-02-22 - [Authentication & Authorization](LIP/Authentication & Authorization.md)
+- 2022-02-22 - [Authentication & Authorization](/knowledge/LIP/Authentication & Authorization.md)
 - 2022-02-29 - TBD
 
 - [test](/HomePage)
 - [test](/knowledge/HomePage)
-- [HomePage](HomePage.md)
+- [HomePage](/knowledge/HomePage.md)
 - 

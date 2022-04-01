@@ -1,1 +1,1 @@
-Datadog is a Monitoring Platform where I worked for 7.5 years. I was the first evangelist there. I left to join [Infra](LIP/What is Infra.md) to be their first [evangelist](LIP/evangelist.md).
+Datadog is a Monitoring Platform where I worked for 7.5 years. I was the first evangelist there. I left to join [Infra](/knowledge/LIP/What is Infra.md) to be their first [evangelist](/knowledge/LIP/evangelist.md).

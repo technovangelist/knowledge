@@ -9,7 +9,7 @@ SourceUrl: https://sambupraveen.medium.com/aws-lambda-best-practices-71ebc79c47f
 
 %%7558280topstart%%
 #### Extras:
-[AWS Lambda](Tools I Use/AWS Lambda.md)**Praveen Sambu**
+[AWS Lambda](/knowledge/Tools I Use/AWS Lambda.md)**Praveen Sambu**
 %%7558280topend%%
 
 

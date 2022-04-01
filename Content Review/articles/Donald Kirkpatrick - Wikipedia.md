@@ -9,7 +9,7 @@ SourceUrl: https://en.wikipedia.org/wiki/Donald_Kirkpatrick
 
 %%7655565topstart%%
 #### Extras:
-**Training Models**[Kilpatrick Model](Other Notes/Kilpatrick Model.md)
+**Training Models**[Kilpatrick Model](/knowledge/Other Notes/Kilpatrick Model.md)
 %%7655565topend%%
 
 

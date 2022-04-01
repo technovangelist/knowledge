@@ -77,7 +77,7 @@ Updated: 02/08/2021 10:13 PM
 ### The museum already has an original Spruchtafel, the Germans'...
 >The museum already has an original Spruchtafel, the Germans' Lorenz wheel-setting aid – one of only two known to be in existence – on loan ^rw143310828hl
 
-Comment: [spruchtafel](Other Notes/spruchtafel.md) ^rw143310828comment
+Comment: [spruchtafel](/knowledge/Other Notes/spruchtafel.md) ^rw143310828comment
 
 Highlighted: 02/08/2021 10:11 PM
 Updated: 02/08/2021 10:12 PM

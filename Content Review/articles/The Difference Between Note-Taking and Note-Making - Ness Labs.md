@@ -9,7 +9,7 @@ SourceUrl: https://nesslabs.com/from-note-taking-to-note-making?ck_subscriber_id
 
 %%7188867topstart%%
 #### Extras:
-[Anne-Laure Le Cunff](Other Notes/Anne-Laure Le Cunff.md)
+[Anne-Laure Le Cunff](/knowledge/Other Notes/Anne-Laure Le Cunff.md)
 %%7188867topend%%
 
 

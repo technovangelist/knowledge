@@ -28,7 +28,7 @@ Updated: 01/05/2020 01:00 PM
 
 %%35507271start%%
 #### Extras:
-**Edward Munch**[Tulla Larsen](Other Notes/Tulla Larsen.md)**Copenhagen**
+**Edward Munch**[Tulla Larsen](/knowledge/Other Notes/Tulla Larsen.md)**Copenhagen**
 %%35507271end%%
 
 

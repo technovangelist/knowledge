@@ -5,7 +5,7 @@ There are a lot of great lab environments available out there that you can learn
 
 Posted by: **Hashicorp**
 Lab Host: **instruqt**
-Tools used: **Consul** **Nomad** **Vault**  **CentOS** **ubuntu** [dnf](Other Notes/dnf.md)  **systemctl**
+Tools used: **Consul** **Nomad** **Vault**  **CentOS** **ubuntu** [dnf](/knowledge/Other Notes/dnf.md)  **systemctl**
 Notes: install and get started. 
 
 ## Hacking 101 Sql Injection

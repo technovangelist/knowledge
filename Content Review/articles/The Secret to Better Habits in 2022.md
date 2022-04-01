@@ -42,7 +42,7 @@ Updated: 12/29/2021 06:23 PM
 
 %%263992740start%%
 #### Extras:
-![george washington mickles muckles](Content Review/articles/george washington mickles muckles.md)
+![george washington mickles muckles](/knowledge/Content Review/articles/george washington mickles muckles.md)
 %%263992740end%%
 
 
@@ -58,7 +58,7 @@ Updated: 12/29/2021 06:23 PM
 
 %%263992784start%%
 #### Extras:
-![read a page a day](Content Review/articles/read a page a day.md)
+![read a page a day](/knowledge/Content Review/articles/read a page a day.md)
 %%263992784end%%
 
 
@@ -138,7 +138,7 @@ Updated: 12/29/2021 06:29 PM
 
 %%263993538start%%
 #### Extras:
-![learn stupid](Content Review/articles/learn stupid.md)
+![learn stupid](/knowledge/Content Review/articles/learn stupid.md)
 %%263993538end%%
 
 

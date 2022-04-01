@@ -9,7 +9,7 @@ SourceUrl: https://docs.aws.amazon.com/lambda/latest/dg/runtimes-context.html#ru
 
 %%7341329topstart%%
 #### Extras:
-[AWS Lambda](Tools I Use/AWS Lambda.md)
+[AWS Lambda](/knowledge/Tools I Use/AWS Lambda.md)
 %%7341329topend%%
 
 

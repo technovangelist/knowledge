@@ -8,7 +8,7 @@ Published: 02/03/2021 06:37 AM
  ^yt58KtGtpn0gabout
 %%58KtGtpn0_gtopstart%%
 #### Extras:
-[ebpf](Other Notes/ebpf.md) **datadognpm**
+[ebpf](/knowledge/Other Notes/ebpf.md) **datadognpm**
 %%58KtGtpn0_gtopend%%
 
 -----

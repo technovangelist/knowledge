@@ -1,3 +1,3 @@
 The hardest thing about being in school for me was admitting that I didn't know everything and being willing to learn. I think once I started being ok with being seen as an idiot in a topic, I was able to learn faster than ever.
 
-extracted from The Secret to Better Habits in 2022 - [The Secret to Better Habits in 2022](Content Review/articles/The Secret to Better Habits in 2022.md) on 202202171917
+extracted from The Secret to Better Habits in 2022 - [The Secret to Better Habits in 2022](/knowledge/Content Review/articles/The Secret to Better Habits in 2022.md) on 202202171917

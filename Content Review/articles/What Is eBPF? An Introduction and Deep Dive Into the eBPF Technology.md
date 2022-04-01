@@ -9,7 +9,7 @@ SourceUrl: https://ebpf.io/what-is-ebpf
 
 %%7347778topstart%%
 #### Extras:
-[ebpf](Other Notes/ebpf.md) 
+[ebpf](/knowledge/Other Notes/ebpf.md) 
 %%7347778topend%%
 
 

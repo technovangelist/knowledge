@@ -1,3 +1,3 @@
 "north-south" is a common term for IO from and to a cluster, not within the cluster. I hadn't heard it, but the evangelist team at datadog made it pretty clear that it was well known.
 
-extracted from Ingress Controllers: The Swiss Army Knife of Kubernetes - [Ingress Controllers - The Swiss Army Knife of Kubernetes](Content Review/articles/Ingress Controllers - The Swiss Army Knife of Kubernetes.md) on 202202171905
+extracted from Ingress Controllers: The Swiss Army Knife of Kubernetes - [Ingress Controllers - The Swiss Army Knife of Kubernetes](/knowledge/Content Review/articles/Ingress Controllers - The Swiss Army Knife of Kubernetes.md) on 202202171905

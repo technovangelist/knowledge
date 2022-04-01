@@ -4,4 +4,4 @@ I can type CMD Space then gh and then it autocompletes to the repo based on fuzz
 
 https://github.com/edgarjs/alfred-github-repos
 
-[Alfred App](Tools I Use/Alfred App.md) **github** **git**  **edgarjs**
+[Alfred App](/knowledge/Tools I Use/Alfred App.md) **github** **git**  **edgarjs**

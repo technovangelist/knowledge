@@ -27,7 +27,7 @@ Updated: 12/22/2020 04:30 PM
 
 %%122287516start%%
 #### Extras:
-[Tycho Brahe](Other Notes/Tycho Brahe.md) **Johannes Kepler**
+[Tycho Brahe](/knowledge/Other Notes/Tycho Brahe.md) **Johannes Kepler**
 %%122287516end%%
 
 
