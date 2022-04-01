@@ -9,3 +9,6 @@ The goal of "Learn in Public" is to
 
 2022-02-22 - [Authentication & Authorization](LIP/Authentication & Authorization.md)
 2022-02-29 - TBD
+
+- [test](/HomePage)
+- [test](/knowledge/HomePage)
