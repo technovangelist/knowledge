@@ -7,10 +7,10 @@ Updated: 03/01/2021 09:00 PM
 Highlights URL: https://readwise.io/bookreview/8055079
 SourceUrl: https://www.datadoghq.com/blog/aws-fargate-metrics/
 
-%%8055079topstart%%
+
 #### Extras:
 **Elastic Container Service** **EKS** **Fargate** **serverless**  **scheduler**
-%%8055079topend%%
+
  
 -----
  ## Highlights:
@@ -23,7 +23,7 @@ Comment: aws fargate vs the others ^rw152371079comment
 Highlighted: 03/01/2021 11:37 AM
 Updated: 03/01/2021 11:37 AM
 
-%%152371079start%%
+
 #### Extras:
 
 What is the Google equivalent of AWS Fargate? #flashcard 
@@ -36,7 +36,7 @@ AKS virtual nodes
 <!--ID: 1614629174792-->
 
 
-%%152371079end%%
+
 
 ------
 
@@ -48,10 +48,10 @@ Comment: is serverless the right term here? ^rw152371212comment
 Highlighted: 03/01/2021 11:38 AM
 Updated: 03/01/2021 11:38 AM
 
-%%152371212start%%
+
 #### Extras:
 
-%%152371212end%%
+
 
 ------
 
@@ -63,10 +63,10 @@ Comment: so can you use your own vpc with fargate? ^rw152371345comment
 Highlighted: 03/01/2021 11:41 AM
 Updated: 03/01/2021 11:41 AM
 
-%%152371345start%%
+
 #### Extras:
 
-%%152371345end%%
+
 
 ------
 
@@ -78,10 +78,10 @@ Comment: when using ec2 backed ecs or eks, you specify the size of the ec2 insta
 Highlighted: 03/01/2021 11:42 AM
 Updated: 03/01/2021 11:51 AM
 
-%%152371429start%%
+
 #### Extras:
 
-%%152371429end%%
+
 
 ------
 
@@ -93,10 +93,10 @@ Comment: when your ec2 instances have an amount of resources even slightly below
 Highlighted: 03/01/2021 11:45 AM
 Updated: 03/01/2021 11:46 AM
 
-%%152371495start%%
+
 #### Extras:
 
-%%152371495end%%
+
 
 ------
 
@@ -108,10 +108,10 @@ Comment: with fargate you pay for the resources used by the compute resources fo
 Highlighted: 03/01/2021 11:47 AM
 Updated: 03/01/2021 11:48 AM
 
-%%152371548start%%
+
 #### Extras:
  
-%%152371548end%%
+
 
 ------
 
@@ -123,7 +123,7 @@ Comment: ecs and eks can be backed by fargate or by ec2 ^rw152372696comment
 Highlighted: 03/01/2021 11:51 AM
 Updated: 03/01/2021 11:51 AM
 
-%%152372696start%%
+
 #### Extras:
 I think this is something I didn't quite get before
 
@@ -132,7 +132,7 @@ EC2 and Fargate
 <!--ID: 1614628784794-->
 
 
-%%152372696end%%
+
 
 ------
 
@@ -144,10 +144,10 @@ Comment: ecs with windows can only use ec2. no fargate for windows ^rw152443780c
 Highlighted: 03/01/2021 04:31 PM
 Updated: 03/01/2021 04:32 PM
 
-%%152443780start%%
+
 #### Extras:
 
-%%152443780end%%
+
 
 ------
 
@@ -159,10 +159,10 @@ Comment: so fargate defines a list of acceptable cpu and memory sizes. you must 
 Highlighted: 03/01/2021 07:28 PM
 Updated: 03/01/2021 07:29 PM
 
-%%152484536start%%
+
 #### Extras:
 
-%%152484536end%%
+
 
 ------
 
@@ -173,7 +173,7 @@ Updated: 03/01/2021 07:29 PM
 Highlighted: 03/01/2021 08:16 PM
 Updated: 03/01/2021 08:16 PM
 
-%%152516686start%%
+
 #### Extras:
 
 What object defines container level resources within the task definition for ECS? #flashcard 
@@ -181,7 +181,7 @@ containerDefinitions
 <!--ID: 1614658797744-->
 
 
-%%152516686end%%
+
 
 ------
 
@@ -193,10 +193,10 @@ Comment: capacity provider strategy looks very interesting. can set a weight per
 Highlighted: 03/01/2021 08:48 PM
 Updated: 03/01/2021 08:49 PM
 
-%%152523492start%%
+
 #### Extras:
 
-%%152523492end%%
+
 
 ------
 
@@ -208,10 +208,10 @@ Comment: with fargate and eks, each pod runs in a compute resource. (vs each tas
 Highlighted: 03/01/2021 08:50 PM
 Updated: 03/01/2021 08:51 PM
 
-%%152523589start%%
+
 #### Extras:
 
-%%152523589end%%
+
 
 ------
 
@@ -222,10 +222,10 @@ Updated: 03/01/2021 08:51 PM
 Highlighted: 03/01/2021 08:51 PM
 Updated: 03/01/2021 08:51 PM
 
-%%152523618start%%
+
 #### Extras:
 
-%%152523618end%%
+
 
 ------
 
@@ -236,10 +236,10 @@ Updated: 03/01/2021 08:51 PM
 Highlighted: 03/01/2021 08:51 PM
 Updated: 03/01/2021 08:51 PM
 
-%%152523621start%%
+
 #### Extras:
 
-%%152523621end%%
+
 
 ------
 
@@ -251,10 +251,10 @@ Comment: since there is no notion of nodes in a fargate backed eks, there can be
 Highlighted: 03/01/2021 08:51 PM
 Updated: 03/01/2021 08:52 PM
 
-%%152523664start%%
+
 #### Extras:
 
-%%152523664end%%
+
 
 ------
 
@@ -266,10 +266,10 @@ Comment: instead of the capacity provider strategy in ecs, you can define multip
 Highlighted: 03/01/2021 08:53 PM
 Updated: 03/01/2021 08:55 PM
 
-%%152523701start%%
+
 #### Extras:
 
-%%152523701end%%
+
 
 ------
 
@@ -280,10 +280,10 @@ Updated: 03/01/2021 08:55 PM
 Highlighted: 03/01/2021 08:55 PM
 Updated: 03/01/2021 08:57 PM
 
-%%152523802start%%
+
 #### Extras:
 
-%%152523802end%%
+
 
 ------
 
@@ -295,10 +295,10 @@ Comment: hmm, so is it possible that a fargate resource will consume more resour
 Highlighted: 03/01/2021 08:57 PM
 Updated: 03/01/2021 08:58 PM
 
-%%152523970start%%
+
 #### Extras:
 
-%%152523970end%%
+
 
 ------
 
@@ -310,10 +310,10 @@ Comment: its potentially easy for costs to run away from you if you aren&#39;t m
 Highlighted: 03/01/2021 08:58 PM
 Updated: 03/01/2021 08:59 PM
 
-%%152524110start%%
+
 #### Extras:
 
-%%152524110end%%
+
 
 ------
 
@@ -324,10 +324,10 @@ Updated: 03/01/2021 08:59 PM
 Highlighted: 03/01/2021 09:00 PM
 Updated: 03/01/2021 09:00 PM
 
-%%152524139start%%
+
 #### Extras:
 Tags: ecs eks fargate
-%%152524139end%%
+
 
 ------
 

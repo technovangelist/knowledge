@@ -7,10 +7,10 @@ Updated: 02/11/2021 12:08 PM
 Highlights URL: https://readwise.io/bookreview/7677370
 SourceUrl: https://nesslabs.com/sophrosyne?ck_subscriber_id=1121208601&utm_source=convertkit&utm_medium=email&utm_campaign=Maker+Mind%3A+Mindful+Moderation+%F0%9F%92%AB%20-%205288993
 
-%%7677370topstart%%
+
 #### Extras:
 **sophrosyne****hubris****lucifer****satan****Plato**[Anne-Laure Le Cunff](/knowledge/Other Notes/Anne-Laure Le Cunff)
-%%7677370topend%%
+
  
 -----
  ## Highlights:
@@ -23,10 +23,10 @@ Comment: Is Minimalism the modern Sophrosyne? ^rw144368157comment
 Highlighted: 02/11/2021 12:08 PM
 Updated: 02/11/2021 12:08 PM
 
-%%144368157start%%
+
 #### Extras:
 **minimalism****Demophilus**
-%%144368157end%%
+
 
 ------
 
@@ -37,10 +37,10 @@ Updated: 02/11/2021 12:08 PM
 Highlighted: 02/11/2021 12:07 PM
 Updated: 02/11/2021 12:07 PM
 
-%%144368152start%%
+
 #### Extras:
 
-%%144368152end%%
+
 
 ------
 
@@ -51,10 +51,10 @@ Updated: 02/11/2021 12:07 PM
 Highlighted: 02/11/2021 12:07 PM
 Updated: 02/11/2021 12:07 PM
 
-%%144368144start%%
+
 #### Extras:
 
-%%144368144end%%
+
 
 ------
 
@@ -65,10 +65,10 @@ Updated: 02/11/2021 12:07 PM
 Highlighted: 02/11/2021 12:05 PM
 Updated: 02/11/2021 12:05 PM
 
-%%144368117start%%
+
 #### Extras:
 
-%%144368117end%%
+
 
 ------
 
@@ -79,10 +79,10 @@ Updated: 02/11/2021 12:05 PM
 Highlighted: 02/11/2021 12:05 PM
 Updated: 02/11/2021 12:05 PM
 
-%%144368055start%%
+
 #### Extras:
 
-%%144368055end%%
+
 
 ------
 
@@ -93,10 +93,10 @@ Updated: 02/11/2021 12:05 PM
 Highlighted: 02/11/2021 12:05 PM
 Updated: 02/11/2021 12:05 PM
 
-%%144368046start%%
+
 #### Extras:
 
-%%144368046end%%
+
 
 ------
 

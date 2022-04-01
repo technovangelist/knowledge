@@ -7,10 +7,10 @@ Updated: 03/03/2021 08:43 AM
 Highlights URL: https://readwise.io/bookreview/8077402
 SourceUrl: https://kubectl.docs.kubernetes.io/references/kubectl/annotation/
 
-%%8077402topstart%%
+
 #### Extras:
 
-%%8077402topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://kubectl.docs.kubernetes.io/references/kubectl/annotation/
 Highlighted: 03/03/2021 08:42 AM
 Updated: 03/03/2021 08:43 AM
 
-%%152976565start%%
+
 #### Extras:
 
-%%152976565end%%
+
 
 ------
 

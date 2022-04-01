@@ -7,10 +7,10 @@ Updated: 09/23/2021 09:22 PM
 Highlights URL: https://readwise.io/bookreview/11089068
 SourceUrl: https://www.datapine.com/kpi-examples-and-templates/finance
 
-%%11089068topstart%%
+
 #### Extras:
 
-%%11089068topend%%
+
 
 
  
@@ -41,10 +41,10 @@ SourceUrl: https://www.datapine.com/kpi-examples-and-templates/finance
 Highlighted: 09/23/2021 09:22 PM
 Updated: 09/23/2021 09:22 PM
 
-%%230491269start%%
+
 #### Extras:
 
-%%230491269end%%
+
 
 
 

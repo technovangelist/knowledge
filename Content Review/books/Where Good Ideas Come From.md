@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/41Ng8FC-qsL._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1214127
 
-%%1214127topstart%%
+
 #### Extras:
 
-%%1214127topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlights URL: https://readwise.io/bookreview/1214127
 Highlighted: 03/29/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507406start%%
+
 #### Extras:
 
-%%35507406end%%
+
 
 
 
@@ -41,10 +41,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/29/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507405start%%
+
 #### Extras:
 
-%%35507405end%%
+
 
 
 
@@ -57,10 +57,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/29/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507404start%%
+
 #### Extras:
 
-%%35507404end%%
+
 
 
 
@@ -74,11 +74,11 @@ Comment: gps had its origins in trackin sputnik ^rw35507403comment
 Highlighted: 03/29/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507403start%%
+
 #### Extras:
 **gps** **sputnik**
 
-%%35507403end%%
+
 
 
 
@@ -91,10 +91,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/29/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507402start%%
+
 #### Extras:
 
-%%35507402end%%
+
 
 
 
@@ -107,11 +107,11 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/29/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507401start%%
+
 #### Extras:
 ankideck: Default
 What is the term used by ecologist to designate an organism that has a disproportionate impact on it's ecosystem? #flashcard A "Keystone Species". For instance, the only predator of another species that would otherwise overwhelm the habitat with unchecked population growth. Remove that predator and the habitat falls apart
-%%35507401end%%
+
 
 
 
@@ -124,10 +124,10 @@ What is the term used by ecologist to designate an organism that has a dispropor
 Highlighted: 03/29/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507400start%%
+
 #### Extras:
 
-%%35507400end%%
+
 
 
 
@@ -140,10 +140,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/29/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507399start%%
+
 #### Extras:
 
-%%35507399end%%
+
 
 
 
@@ -156,10 +156,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/29/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507398start%%
+
 #### Extras:
 
-%%35507398end%%
+
 
 
 
@@ -172,10 +172,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/29/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507397start%%
+
 #### Extras:
 
-%%35507397end%%
+
 
 
 
@@ -188,10 +188,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/29/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507396start%%
+
 #### Extras:
 
-%%35507396end%%
+
 
 
 
@@ -204,10 +204,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/29/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507395start%%
+
 #### Extras:
 
-%%35507395end%%
+
 
 
 
@@ -220,10 +220,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/29/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507394start%%
+
 #### Extras:
 
-%%35507394end%%
+
 
 
 
@@ -236,10 +236,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/29/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507393start%%
+
 #### Extras:
 
-%%35507393end%%
+
 
 
 
@@ -253,10 +253,10 @@ Comment: write up notes on klieber law ^rw35507392comment
 Highlighted: 03/29/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507392start%%
+
 #### Extras:
 
-%%35507392end%%
+
 
 
 
@@ -269,10 +269,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/29/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507391start%%
+
 #### Extras:
 
-%%35507391end%%
+
 
 
 
@@ -285,10 +285,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/29/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507390start%%
+
 #### Extras:
 
-%%35507390end%%
+
 
 
 

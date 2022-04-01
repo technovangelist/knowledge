@@ -7,10 +7,10 @@ Updated: 09/23/2021 09:21 PM
 Highlights URL: https://readwise.io/bookreview/11089016
 SourceUrl: https://www.datapine.com/kpi-examples-and-templates/management
 
-%%11089016topstart%%
+
 #### Extras:
 
-%%11089016topend%%
+
  
 -----
  ## Highlights:
@@ -25,10 +25,10 @@ The CAC or Customer Acquisition Cost is a crucial management KPI for your busine
 Highlighted: 09/23/2021 09:20 PM
 Updated: 09/23/2021 09:20 PM
 
-%%230490449start%%
+
 #### Extras:
 
-%%230490449end%%
+
 
 ------
 
@@ -39,10 +39,10 @@ Updated: 09/23/2021 09:20 PM
 Highlighted: 09/23/2021 09:21 PM
 Updated: 09/23/2021 09:21 PM
 
-%%230490611start%%
+
 #### Extras:
 
-%%230490611end%%
+
 
 ------
 
@@ -56,10 +56,10 @@ The CLV is a prediction of all the value that will derive from doing business wi
 Highlighted: 09/23/2021 09:21 PM
 Updated: 09/23/2021 09:21 PM
 
-%%230490730start%%
+
 #### Extras:
 
-%%230490730end%%
+
 
 
 

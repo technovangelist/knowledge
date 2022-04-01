@@ -7,10 +7,10 @@ Updated: 01/04/2022 07:35 AM
 Highlights URL: https://readwise.io/bookreview/12628652
 SourceUrl: https://www.inoreader.com/article/3a9c6e7ae83dbb66-ingress-controllers-the-swiss-army-knife-of-kubernetes
 
-%%12628652topstart%%
+
 #### Extras:
 
-%%12628652topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.inoreader.com/article/3a9c6e7ae83dbb66-ingress-controller
 Highlighted: 01/04/2022 06:59 AM
 Updated: 01/04/2022 06:59 AM
 
-%%266503767start%%
+
 #### Extras:
 
-%%266503767end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 01/04/2022 06:59 AM
 Highlighted: 01/04/2022 07:02 AM
 Updated: 01/04/2022 07:02 AM
 
-%%266503953start%%
+
 #### Extras:
 ![north-south for IO to from cluster](/knowledge/Content Review/articles/north-south for IO to from cluster)
-%%266503953end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 01/04/2022 07:02 AM
 Highlighted: 01/04/2022 07:02 AM
 Updated: 01/04/2022 07:02 AM
 
-%%266503967start%%
+
 #### Extras:
 
-%%266503967end%%
+
 
 
 
@@ -72,10 +72,10 @@ Updated: 01/04/2022 07:02 AM
 Highlighted: 01/04/2022 07:15 AM
 Updated: 01/04/2022 07:15 AM
 
-%%266512626start%%
+
 #### Extras:
 
-%%266512626end%%
+
 
 
 
@@ -88,10 +88,10 @@ Updated: 01/04/2022 07:15 AM
 Highlighted: 01/04/2022 07:15 AM
 Updated: 01/04/2022 07:15 AM
 
-%%266513084start%%
+
 #### Extras:
 
-%%266513084end%%
+
 
 
 
@@ -104,10 +104,10 @@ Updated: 01/04/2022 07:15 AM
 Highlighted: 01/04/2022 07:16 AM
 Updated: 01/04/2022 07:16 AM
 
-%%266513735start%%
+
 #### Extras:
 
-%%266513735end%%
+
 
 
 
@@ -120,10 +120,10 @@ Updated: 01/04/2022 07:16 AM
 Highlighted: 01/04/2022 07:16 AM
 Updated: 01/04/2022 07:16 AM
 
-%%266513911start%%
+
 #### Extras:
 
-%%266513911end%%
+
 
 
 
@@ -136,10 +136,10 @@ Updated: 01/04/2022 07:16 AM
 Highlighted: 01/04/2022 07:19 AM
 Updated: 01/04/2022 07:19 AM
 
-%%266514712start%%
+
 #### Extras:
 
-%%266514712end%%
+
 
 
 
@@ -152,10 +152,10 @@ Updated: 01/04/2022 07:19 AM
 Highlighted: 01/04/2022 07:27 AM
 Updated: 01/04/2022 07:27 AM
 
-%%266515719start%%
+
 #### Extras:
 
-%%266515719end%%
+
 
 
 
@@ -168,10 +168,10 @@ Updated: 01/04/2022 07:27 AM
 Highlighted: 01/04/2022 07:35 AM
 Updated: 01/04/2022 07:35 AM
 
-%%266527960start%%
+
 #### Extras:
 
-%%266527960end%%
+
 
 
 

@@ -7,10 +7,10 @@ Updated: 12/29/2021 10:05 PM
 Highlights URL: https://readwise.io/bookreview/12521832
 SourceUrl: https://www.inoreader.com/article/3a9c6e7af21634ce-writing-custom-kubernetes-controllers-beware-of-state-drift
 
-%%12521832topstart%%
+
 #### Extras:
 
-%%12521832topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.inoreader.com/article/3a9c6e7af21634ce-writing-custom-kub
 Highlighted: 12/29/2021 10:05 PM
 Updated: 12/29/2021 10:05 PM
 
-%%264066598start%%
+
 #### Extras:
 
-%%264066598end%%
+
 
 
 

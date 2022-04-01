@@ -6,10 +6,10 @@ Updated: 02/28/2020 04:34 PM
 Highlights URL: https://readwise.io/bookreview/1460676
 SourceUrl: https://bigthink.com/personal-growth/science-storytelling
 
-%%1460676topstart%%
+
 #### Extras:
 
-%%1460676topend%%
+
 
 
  
@@ -23,10 +23,10 @@ SourceUrl: https://bigthink.com/personal-growth/science-storytelling
 Highlighted: 02/28/2020 02:50 PM
 Updated: 02/28/2020 04:34 PM
 
-%%41448976start%%
+
 #### Extras:
 
-%%41448976end%%
+
 
 
 
@@ -39,10 +39,10 @@ Updated: 02/28/2020 04:34 PM
 Highlighted: 02/28/2020 02:49 PM
 Updated: 02/28/2020 04:34 PM
 
-%%41448975start%%
+
 #### Extras:
 
-%%41448975end%%
+
 
 
 
@@ -55,10 +55,10 @@ Updated: 02/28/2020 04:34 PM
 Highlighted: 02/28/2020 02:47 PM
 Updated: 02/28/2020 04:34 PM
 
-%%41448974start%%
+
 #### Extras:
 **Jonathan Gottschall**
-%%41448974end%%
+
 
 
 
@@ -71,10 +71,10 @@ Updated: 02/28/2020 04:34 PM
 Highlighted: 02/28/2020 02:46 PM
 Updated: 02/28/2020 04:34 PM
 
-%%41448973start%%
+
 #### Extras:
 
-%%41448973end%%
+
 
 
 
@@ -87,10 +87,10 @@ Updated: 02/28/2020 04:34 PM
 Highlighted: 02/28/2020 02:39 PM
 Updated: 02/28/2020 04:34 PM
 
-%%41448972start%%
+
 #### Extras:
 
-%%41448972end%%
+
 
 
 
@@ -103,10 +103,10 @@ Updated: 02/28/2020 04:34 PM
 Highlighted: 02/28/2020 02:39 PM
 Updated: 02/28/2020 04:34 PM
 
-%%41448971start%%
+
 #### Extras:
 
-%%41448971end%%
+
 
 
 
@@ -119,10 +119,10 @@ Updated: 02/28/2020 04:34 PM
 Highlighted: 02/28/2020 02:38 PM
 Updated: 02/28/2020 04:34 PM
 
-%%41448970start%%
+
 #### Extras:
 
-%%41448970end%%
+
 
 
 

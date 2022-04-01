@@ -7,10 +7,10 @@ Updated: 03/04/2020 06:34 AM
 Highlights URL: https://readwise.io/bookreview/1477448
 SourceUrl: http://paulgraham.com/useful.html
 
-%%1477448topstart%%
+
 #### Extras:
 **Paul Graham**
-%%1477448topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: http://paulgraham.com/useful.html
 Highlighted: 03/03/2020 06:48 PM
 Updated: 03/04/2020 06:34 AM
 
-%%41749358start%%
+
 #### Extras:
 
-%%41749358end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 03/04/2020 06:34 AM
 Highlighted: 03/03/2020 06:48 PM
 Updated: 03/04/2020 06:34 AM
 
-%%41749357start%%
+
 #### Extras:
 **Robert Morris**
-%%41749357end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 03/04/2020 06:34 AM
 Highlighted: 03/03/2020 06:47 PM
 Updated: 03/04/2020 06:34 AM
 
-%%41749356start%%
+
 #### Extras:
 
-%%41749356end%%
+
 
 
 
@@ -72,10 +72,10 @@ Updated: 03/04/2020 06:34 AM
 Highlighted: 03/03/2020 06:42 PM
 Updated: 03/04/2020 06:34 AM
 
-%%41749355start%%
+
 #### Extras:
 
-%%41749355end%%
+
 
 
 

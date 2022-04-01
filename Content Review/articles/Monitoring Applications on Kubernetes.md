@@ -7,10 +7,10 @@ Updated: 02/02/2021 11:42 AM
 Highlights URL: https://readwise.io/bookreview/7349065
 SourceUrl: https://convox.com/blog/k8s-monitoring-overview
 
-%%7349065topstart%%
+
 #### Extras:
 **kubernetes****convox**
-%%7349065topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://convox.com/blog/k8s-monitoring-overview
 Highlighted: 02/02/2021 11:42 AM
 Updated: 02/02/2021 11:42 AM
 
-%%140431735start%%
+
 #### Extras:
 
-%%140431735end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 02/02/2021 11:42 AM
 Highlighted: 02/02/2021 11:41 AM
 Updated: 02/02/2021 11:41 AM
 
-%%140431149start%%
+
 #### Extras:
 
-%%140431149end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 02/02/2021 11:41 AM
 Highlighted: 01/28/2021 12:08 PM
 Updated: 01/28/2021 12:08 PM
 
-%%137329499start%%
+
 #### Extras:
 
-%%137329499end%%
+
 
 
 
@@ -72,10 +72,10 @@ Updated: 01/28/2021 12:08 PM
 Highlighted: 01/28/2021 11:44 AM
 Updated: 01/28/2021 11:44 AM
 
-%%137326826start%%
+
 #### Extras:
 
-%%137326826end%%
+
 
 
 
@@ -88,10 +88,10 @@ Updated: 01/28/2021 11:44 AM
 Highlighted: 01/28/2021 11:18 AM
 Updated: 01/28/2021 11:54 AM
 
-%%137321425start%%
+
 #### Extras:
 
-%%137321425end%%
+
 
 
 
@@ -105,10 +105,10 @@ Comment: This is a test note ^rw136593808comment
 Highlighted: 01/26/2021 10:15 AM
 Updated: 01/28/2021 11:54 AM
 
-%%136593808start%%
+
 #### Extras:
 
-%%136593808end%%
+
 
 
 

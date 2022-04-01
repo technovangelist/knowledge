@@ -7,10 +7,10 @@ Updated: 02/11/2021 03:49 PM
 Highlights URL: https://readwise.io/bookreview/7679806
 SourceUrl: https://medium.com/@soufianebouchaa/centralized-logging-here-is-why-you-should-use-evk-instead-of-elk-no-logstash-anymore-c7442b5b2f6b
 
-%%7679806topstart%%
+
 #### Extras:
 **vector****Timber Technologies****logging****logstash****elk**
-%%7679806topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://medium.com/@soufianebouchaa/centralized-logging-here-is-why-y
 Highlighted: 02/11/2021 03:49 PM
 Updated: 02/11/2021 03:49 PM
 
-%%144434428start%%
+
 #### Extras:
 
-%%144434428end%%
+
 
 ------
 
@@ -39,10 +39,10 @@ K stands for Kibana: is a visualization tool (a web interface) that uses Elastic
 Highlighted: 02/11/2021 03:48 PM
 Updated: 02/11/2021 03:48 PM
 
-%%144434426start%%
+
 #### Extras:
 **elasticsearch**
-%%144434426end%%
+
 
 ------
 
@@ -54,10 +54,10 @@ Comment: the elk stack is a common solution ^rw144434422comment
 Highlighted: 02/11/2021 03:48 PM
 Updated: 02/11/2021 03:48 PM
 
-%%144434422start%%
+
 #### Extras:
 
-%%144434422end%%
+
 
 ------
 
@@ -68,10 +68,10 @@ Updated: 02/11/2021 03:48 PM
 Highlighted: 02/11/2021 03:48 PM
 Updated: 02/11/2021 03:48 PM
 
-%%144434255start%%
+
 #### Extras:
 
-%%144434255end%%
+
 
 ------
 

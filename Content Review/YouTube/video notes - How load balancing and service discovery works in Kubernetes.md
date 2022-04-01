@@ -6,10 +6,10 @@ Title: How load balancing and service discovery works in Kubernetes
 Category: YouTube
 Published: 10/02/2019 04:09 AM
  ^ytxhva6DeKqVUabout
-%%xhva6DeKqVUtopstart%%
+
 #### Extras:
 
-%%xhva6DeKqVUtopend%%
+
 
 -----
 ## Highlights:
@@ -18,10 +18,10 @@ Timecode: [0:06](https://www.youtube.com/watch?v=xhva6DeKqVU&t=6) ^ytxhva6DeKqVU
 
 Comment: 
 >great description of how load balancing and services work in kubernetes ^ytxhva6DeKqVU6c
-%%6start%%
+
 #### Extras:
 
-%%6end%%
+
 
 
 ## Video Description on YouTube:

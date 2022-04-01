@@ -7,10 +7,10 @@ Updated: 12/30/2021 06:38 AM
 Highlights URL: https://readwise.io/bookreview/12526966
 SourceUrl: https://www.inoreader.com/article/3a9c6e7af5c600e2-video-how-to-build-video-games-with-rust
 
-%%12526966topstart%%
+
 #### Extras:
 
-%%12526966topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.inoreader.com/article/3a9c6e7af5c600e2-video-how-to-build
 Highlighted: 12/30/2021 06:38 AM
 Updated: 12/30/2021 06:38 AM
 
-%%264184874start%%
+
 #### Extras:
 
-%%264184874end%%
+
 
 
 

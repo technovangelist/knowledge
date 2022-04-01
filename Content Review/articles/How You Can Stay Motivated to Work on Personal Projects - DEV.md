@@ -7,10 +7,10 @@ Updated: 12/22/2020 10:16 PM
 Highlights URL: https://readwise.io/bookreview/6789499
 SourceUrl: https://dev.to/afonsopacifer/how-you-can-stay-motivated-to-work-on-personal-projects-565a
 
-%%6789499topstart%%
+
 #### Extras:
 **personal projects**
-%%6789499topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://dev.to/afonsopacifer/how-you-can-stay-motivated-to-work-on-pe
 Highlighted: 08/20/2020 06:18 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380852start%%
+
 #### Extras:
 
-%%122380852end%%
+
 
 
 
@@ -41,10 +41,10 @@ Comment: if you have an idea, take note of it, then wait till the next day befor
 Highlighted: 08/20/2020 06:17 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380851start%%
+
 #### Extras:
 
-%%122380851end%%
+
 
 
 
@@ -60,10 +60,10 @@ Third: I abandon the project ^rw122380850hl
 Highlighted: 08/20/2020 06:14 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380850start%%
+
 #### Extras:
 
-%%122380850end%%
+
 
 
 
@@ -77,10 +77,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 08/20/2020 06:14 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380849start%%
+
 #### Extras:
 
-%%122380849end%%
+
 
 
 
@@ -93,10 +93,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 08/20/2020 06:14 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380848start%%
+
 #### Extras:
 
-%%122380848end%%
+
 
 
 

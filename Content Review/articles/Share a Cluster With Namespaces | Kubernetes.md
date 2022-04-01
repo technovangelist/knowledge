@@ -7,10 +7,10 @@ Updated: 03/05/2021 09:03 AM
 Highlights URL: https://readwise.io/bookreview/8100303
 SourceUrl: https://kubernetes.io/docs/tasks/administer-cluster/namespaces/
 
-%%8100303topstart%%
+
 #### Extras:
 **Kubernetes Namespaces**
-%%8100303topend%%
+
  
 -----
  ## Highlights:
@@ -23,12 +23,12 @@ Comment: is attaching authorization policy to a namespace common? do you attach 
 Highlighted: 03/05/2021 08:19 AM
 Updated: 03/05/2021 08:43 AM
 
-%%153517148start%%
+
 #### Extras:
 #todo 
 - [ ] research attaching authorization policy to a namespace
 - [ ] 
-%%153517148end%%
+
 
 ------
 
@@ -45,10 +45,10 @@ As a cluster user, I want to interact with resources that are pertinent to my us
 Highlighted: 03/05/2021 08:22 AM
 Updated: 03/05/2021 08:23 AM
 
-%%153517279start%%
+
 #### Extras:
 
-%%153517279end%%
+
 
 ------
 
@@ -60,14 +60,14 @@ Comment: test ^rw153517291comment
 Highlighted: 03/05/2021 08:23 AM
 Updated: 03/05/2021 09:03 AM
 
-%%153517291start%%
+
 #### Extras:
 
 When you create a service, it creates a corresponding DNS entry of {[service-name]}.{[namespace-name].svc.cluster.local #cloze
 <!--ID: 1614965751910-->
 
   
-%%153517291end%%
+
 
 ------
 

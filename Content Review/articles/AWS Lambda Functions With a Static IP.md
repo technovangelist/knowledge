@@ -6,10 +6,10 @@ Updated: 03/18/2020 08:59 AM
 Highlights URL: https://readwise.io/bookreview/1548109
 SourceUrl: https://medium.com/@matthewleak/aws-lambda-functions-with-a-static-ip-89a3ada0b471
 
-%%1548109topstart%%
+
 #### Extras:
 [AWS Lambda](/knowledge/Tools I Use/AWS Lambda)
-%%1548109topend%%
+
 
 
  
@@ -30,10 +30,10 @@ Comment: How to do a lambda from static ip ^rw43203496comment
 Highlighted: 03/12/2020 08:57 AM
 Updated: 03/12/2020 05:34 PM
 
-%%43203496start%%
+
 #### Extras:
 
-%%43203496end%%
+
 
 
 
@@ -46,10 +46,10 @@ Updated: 03/12/2020 05:34 PM
 Highlighted: 03/12/2020 08:55 AM
 Updated: 03/12/2020 05:34 PM
 
-%%43203494start%%
+
 #### Extras:
 
-%%43203494end%%
+
 
 
 

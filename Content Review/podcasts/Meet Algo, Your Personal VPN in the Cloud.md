@@ -9,10 +9,10 @@ CoverImageUrl:
 Highlights URL: https://readwise.io/bookreview/6905158
 SourceUrl: https://www.airr.io/episode/5eba00ad9179c81e0c2e7d5b
 
-%%6905158topstart%%
+
 #### Extras:
 **algo****vpn****changelog****anonymous****anonymity**
-%%6905158topend%%
+
 
 
  
@@ -26,10 +26,10 @@ Highlighted: 01/16/2021 02:35 PM
 Updated: 01/16/2021 02:35 PM
 https://www.airr.io/quote/5ff2662f76e8f262d43fc484
 
-%%127786683start%%
+
 #### Extras:
 **go to jail**
-%%127786683end%%
+
 
 
 
@@ -42,10 +42,10 @@ Highlighted: 01/16/2021 02:37 PM
 Updated: 01/16/2021 02:37 PM
 https://www.airr.io/quote/5ff2654a76e8f2355b3fc464
 
-%%127786066start%%
+
 #### Extras:
 **get arrested**
-%%127786066end%%
+
 
 
 
@@ -58,10 +58,10 @@ Highlighted: 01/16/2021 02:39 PM
 Updated: 01/16/2021 02:39 PM
 https://www.airr.io/quote/5ff2652e76e8f249073fc462
 
-%%127785802start%%
+
 #### Extras:
 **openvpn**
-%%127785802end%%
+
 
 
 
@@ -74,10 +74,10 @@ Highlighted: 01/16/2021 02:41 PM
 Updated: 01/16/2021 02:41 PM
 https://www.airr.io/quote/5fece27c76e8f28b723f24ca
 
-%%125306770start%%
+
 #### Extras:
 **The Wirecutter**
-%%125306770end%%
+
 
 
 
@@ -90,10 +90,10 @@ Highlighted: 01/16/2021 02:43 PM
 Updated: 01/16/2021 02:43 PM
 https://www.airr.io/quote/5fece1b976e8f270623f24c3
 
-%%125306330start%%
+
 #### Extras:
 **Android**
-%%125306330end%%
+
 
 
 
@@ -106,10 +106,10 @@ Highlighted: 01/16/2021 02:25 PM
 Updated: 01/16/2021 02:25 PM
 https://www.airr.io/quote/5fece13476e8f2f5b73f24bd
 
-%%125306292start%%
+
 #### Extras:
 **Ken White**
-%%125306292end%%
+
 
 
 
@@ -122,10 +122,10 @@ Highlighted: 01/16/2021 02:28 PM
 Updated: 01/16/2021 02:28 PM
 https://www.airr.io/quote/5fece0f576e8f2540c3f24b6
 
-%%125306253start%%
+
 #### Extras:
 **WireGuard**
-%%125306253end%%
+
 
 
 
@@ -138,10 +138,10 @@ Highlighted: 01/28/2021 08:20 PM
 Updated: 01/28/2021 08:20 PM
 https://www.airr.io/quote/5fece00276e8f24cf13f24a0
 
-%%125303271start%%
+
 #### Extras:
 **Dan Guido****TrailofBits**
-%%125303271end%%
+
 
 
 

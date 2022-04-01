@@ -7,10 +7,10 @@ Updated: 01/15/2021 10:34 PM
 Highlights URL: https://readwise.io/bookreview/7188867
 SourceUrl: https://nesslabs.com/from-note-taking-to-note-making?ck_subscriber_id=1121208601&utm_source=convertkit&utm_medium=email&utm_campaign=Creating+Habits+%F0%9F%A7%A4%20-%205117179
 
-%%7188867topstart%%
+
 #### Extras:
 [Anne-Laure Le Cunff](/knowledge/Other Notes/Anne-Laure Le Cunff)
-%%7188867topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Comment: all too often the source material comes up with its own mnemonics. come
 Highlighted: 01/14/2021 10:50 AM
 Updated: 01/15/2021 10:34 PM
 
-%%132623640start%%
+
 #### Extras:
 
-%%132623640end%%
+
 
 
 
@@ -42,10 +42,10 @@ Comment: keep coming back to the notes over and over again. ^rw132623639comment
 Highlighted: 01/14/2021 10:49 AM
 Updated: 01/15/2021 10:34 PM
 
-%%132623639start%%
+
 #### Extras:
 
-%%132623639end%%
+
 
 
 
@@ -59,10 +59,10 @@ Comment: don't just stop when you finish the source article. connect the ideas i
 Highlighted: 01/14/2021 10:49 AM
 Updated: 01/15/2021 10:34 PM
 
-%%132623638start%%
+
 #### Extras:
 **Connecting Ideas**
-%%132623638end%%
+
 
 
 
@@ -76,10 +76,10 @@ Comment: come up with your own way of saying what the source said ^rw132623637co
 Highlighted: 01/14/2021 10:48 AM
 Updated: 01/15/2021 10:34 PM
 
-%%132623637start%%
+
 #### Extras:
 
-%%132623637end%%
+
 
 
 
@@ -93,10 +93,10 @@ Comment: coming up with your own way of saying something takes more time. doing 
 Highlighted: 01/14/2021 10:47 AM
 Updated: 01/15/2021 10:34 PM
 
-%%132623636start%%
+
 #### Extras:
 
-%%132623636end%%
+
 
 
 
@@ -110,10 +110,10 @@ Comment: note take vs note making. you are going to remember more if you take no
 Highlighted: 01/14/2021 10:46 AM
 Updated: 01/15/2021 10:34 PM
 
-%%132623635start%%
+
 #### Extras:
 **note making**
-%%132623635end%%
+
 
 
 
@@ -127,10 +127,10 @@ Comment: research has shown that some note taking techniques are no better than 
 Highlighted: 01/14/2021 10:45 AM
 Updated: 01/15/2021 10:34 PM
 
-%%132623634start%%
+
 #### Extras:
 
-%%132623634end%%
+
 
 
 
@@ -143,10 +143,10 @@ Updated: 01/15/2021 10:34 PM
 Highlighted: 01/14/2021 10:44 AM
 Updated: 01/15/2021 10:34 PM
 
-%%132623633start%%
+
 #### Extras:
 
-%%132623633end%%
+
 
 
 

@@ -7,10 +7,10 @@ Updated: 01/26/2021 09:50 PM
 Highlights URL: https://readwise.io/bookreview/7355345
 SourceUrl: https://brianlovin.com/overthought/reasons-you-arent-updating-your-personal-site?ref=sidebar
 
-%%7355345topstart%%
+
 #### Extras:
 **Brian Lovin**
-%%7355345topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://brianlovin.com/overthought/reasons-you-arent-updating-your-pe
 Highlighted: 01/26/2021 09:50 PM
 Updated: 01/26/2021 09:50 PM
 
-%%136781808start%%
+
 #### Extras:
 **Fathom**
-%%136781808end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 01/26/2021 09:50 PM
 Highlighted: 01/26/2021 09:49 PM
 Updated: 01/26/2021 09:49 PM
 
-%%136781801start%%
+
 #### Extras:
 **TailwindCSS**
-%%136781801end%%
+
 
 
 
@@ -57,10 +57,10 @@ Comment: you may think you have nothing special to say, but your normal is someo
 Highlighted: 01/26/2021 09:48 PM
 Updated: 01/26/2021 09:49 PM
 
-%%136781660start%%
+
 #### Extras:
 
-%%136781660end%%
+
 
 
 
@@ -74,10 +74,10 @@ Comment: ask a question on twitter and ideas will come out of it ^rw136781512com
 Highlighted: 01/26/2021 09:48 PM
 Updated: 01/26/2021 09:48 PM
 
-%%136781512start%%
+
 #### Extras:
 
-%%136781512end%%
+
 
 
 
@@ -91,10 +91,10 @@ Comment: find the interesting threads on twitter and other spots and add your ow
 Highlighted: 01/26/2021 09:46 PM
 Updated: 01/26/2021 09:48 PM
 
-%%136781454start%%
+
 #### Extras:
 
-%%136781454end%%
+
 
 
 
@@ -108,10 +108,10 @@ Comment: having the list of things to talk about along with some notes about tho
 Highlighted: 01/26/2021 09:45 PM
 Updated: 01/26/2021 09:47 PM
 
-%%136781452start%%
+
 #### Extras:
 
-%%136781452end%%
+
 
 
 
@@ -124,10 +124,10 @@ Updated: 01/26/2021 09:47 PM
 Highlighted: 01/26/2021 09:45 PM
 Updated: 01/26/2021 09:45 PM
 
-%%136781451start%%
+
 #### Extras:
 
-%%136781451end%%
+
 
 
 
@@ -140,10 +140,10 @@ Updated: 01/26/2021 09:45 PM
 Highlighted: 01/26/2021 09:45 PM
 Updated: 01/26/2021 09:45 PM
 
-%%136781450start%%
+
 #### Extras:
 
-%%136781450end%%
+
 
 
 

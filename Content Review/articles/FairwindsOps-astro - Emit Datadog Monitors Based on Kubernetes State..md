@@ -7,10 +7,10 @@ Updated: 02/02/2021 11:54 AM
 Highlights URL: https://readwise.io/bookreview/7504209
 SourceUrl: https://github.com/FairwindsOps/astro
 
-%%7504209topstart%%
+
 #### Extras:
 **datadog monitors****kubernetes**
-%%7504209topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://github.com/FairwindsOps/astro
 Highlighted: 02/02/2021 11:54 AM
 Updated: 02/02/2021 11:54 AM
 
-%%140438676start%%
+
 #### Extras:
 
-%%140438676end%%
+
 
 
 

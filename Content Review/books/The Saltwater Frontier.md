@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/51JLH2sW99L._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1214123
 
-%%1214123topstart%%
+
 #### Extras:
 **Andrew Lipman**
-%%1214123topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlights URL: https://readwise.io/bookreview/1214123
 Highlighted: 05/13/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507332start%%
+
 #### Extras:
 **The Mayflower** **Plymouth**
-%%35507332end%%
+
 
 
 
@@ -42,10 +42,10 @@ Comment: the loincloth ^rw35507331comment
 Highlighted: 05/13/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507331start%%
+
 #### Extras:
 **clootlap**  **loincloth**
-%%35507331end%%
+
 
 
 
@@ -58,10 +58,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/13/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507330start%%
+
 #### Extras:
 
-%%35507330end%%
+
 
 
 
@@ -75,10 +75,10 @@ Comment: women did the work but didnt hve a say in what happened ^rw35507329comm
 Highlighted: 05/13/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507329start%%
+
 #### Extras:
 
-%%35507329end%%
+
 
 
 
@@ -92,10 +92,10 @@ Comment: europens thought the indians were backwad for allowing women to work as
 Highlighted: 05/13/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507328start%%
+
 #### Extras:
 **Algonquian** 
-%%35507328end%%
+
 
 
 
@@ -108,10 +108,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/13/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507327start%%
+
 #### Extras:
 
-%%35507327end%%
+
 
 
 
@@ -124,10 +124,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/13/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507326start%%
+
 #### Extras:
 **three sisters**
-%%35507326end%%
+
 
 
 
@@ -140,10 +140,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/13/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507325start%%
+
 #### Extras:
 **Wampanoag** **King Philip's War**
-%%35507325end%%
+
 
 
 
@@ -157,10 +157,10 @@ Comment: it seems that the english and the dutch shared a belief with the americ
 Highlighted: 05/13/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507324start%%
+
 #### Extras:
 **New Netherland**
-%%35507324end%%
+
 
 
 
@@ -173,10 +173,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/13/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507323start%%
+
 #### Extras:
 
-%%35507323end%%
+
 
 
 
@@ -190,10 +190,10 @@ Comment: all grouos involved agreed that going to sea was just as dangerous as s
 Highlighted: 05/13/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507322start%%
+
 #### Extras:
 
-%%35507322end%%
+
 
 
 
@@ -206,10 +206,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/13/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507321start%%
+
 #### Extras:
 
-%%35507321end%%
+
 
 
 
@@ -222,10 +222,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/13/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507320start%%
+
 #### Extras:
 
-%%35507320end%%
+
 
 
 

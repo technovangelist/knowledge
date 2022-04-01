@@ -7,10 +7,10 @@ Updated: 12/26/2021 05:07 PM
 Highlights URL: https://readwise.io/bookreview/12459377
 SourceUrl: https://ryanholiday.net/the-very-best-books-i-read-in-2019/
 
-%%12459377topstart%%
+
 #### Extras:
 
-%%12459377topend%%
+
 
 
  
@@ -26,10 +26,10 @@ Highlighted: 12/26/2021 04:16 PM
 Updated: 12/26/2021 05:07 PM
 https://instapaper.com/read/1272071081/18341059
 
-%%262548353start%%
+
 #### Extras:
 
-%%262548353end%%
+
 
 
 
@@ -43,10 +43,10 @@ Highlighted: 12/26/2021 04:16 PM
 Updated: 12/26/2021 05:07 PM
 https://instapaper.com/read/1272071081/18341067
 
-%%262548354start%%
+
 #### Extras:
 
-%%262548354end%%
+
 
 
 
@@ -61,10 +61,10 @@ Highlighted: 12/26/2021 04:17 PM
 Updated: 12/26/2021 05:07 PM
 https://instapaper.com/read/1272071081/18341074
 
-%%262548355start%%
+
 #### Extras:
 
-%%262548355end%%
+
 
 
 

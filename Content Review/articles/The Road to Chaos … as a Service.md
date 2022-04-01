@@ -7,10 +7,10 @@ Updated: 12/29/2021 10:02 PM
 Highlights URL: https://readwise.io/bookreview/12521756
 SourceUrl: https://www.inoreader.com/article/3a9c6e7af2e4ab51-the-road-to-chaos-as-a-service
 
-%%12521756topstart%%
+
 #### Extras:
 
-%%12521756topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.inoreader.com/article/3a9c6e7af2e4ab51-the-road-to-chaos-
 Highlighted: 12/29/2021 10:02 PM
 Updated: 12/29/2021 10:02 PM
 
-%%264065440start%%
+
 #### Extras:
 
-%%264065440end%%
+
 
 
 

@@ -6,10 +6,10 @@ Title: How To Take Smart Notes
 Category: YouTube
 Published: 12/11/2020 06:57 AM
  ^ytBG1tfC7tSYwabout
-%%BG1tfC7tSYwtopstart%%
+
 #### Extras:
 **Mike Gastin****SmartNotes**
-%%BG1tfC7tSYwtopend%%
+
 
 -----
 ## Highlights:
@@ -21,10 +21,10 @@ Comment:
 >1. Writing is thinking
 >2. Value of an external system
 >3. Superiority of emergent approach ^ytBG1tfC7tSYw123c
-%%123start%%
+
 #### Extras:
 **writing to think**
-%%123end%%
+
 
 
 -----
@@ -32,13 +32,13 @@ Timecode: [2:51](https://www.youtube.com/watch?v=BG1tfC7tSYw&t=171) ^ytBG1tfC7tS
 
 Comment: 
 >Plenty of folks, myself included, will highlight a passage and think thats it. Theres even plenty of examples of that in this obsidian vault. but thats not going to make it stick. You have to process the thought. Use your own words. What resonates with you? Write it down. That is why writing is thinking, not the result of thinking. ^ytBG1tfC7tSYw171c
-%%171start%%
+
 
 ^8ee880
 
 #### Extras:
 
-%%171end%%
+
 
 
 -----
@@ -49,10 +49,10 @@ Comment:
 >1. Fleeting note
 >1. Literature note
 >1. Permanent note ^ytBG1tfC7tSYw374c
-%%374start%%
+
 #### Extras:
 
-%%374end%%
+
 
 
 -----
@@ -60,10 +60,10 @@ Timecode: [9:58](https://www.youtube.com/watch?v=BG1tfC7tSYw&t=598) ^ytBG1tfC7tS
 
 Comment: 
 >the emergent approach refers to the idea that you can consume lots of different types of content. Connections and interesting points bubble up and start connecting in interesting ways. and results emerge from the mess of notes ^ytBG1tfC7tSYw598c
-%%598start%%
+
 #### Extras:
 
-%%598end%%
+
 
 
 -----
@@ -71,10 +71,10 @@ Timecode: [10:48](https://www.youtube.com/watch?v=BG1tfC7tSYw&t=648) ^ytBG1tfC7t
 
 Comment: 
 >results for mike gastin: learning more. Taking longer for him to consume, but he is processing and learning more. he is able to make those connections ^ytBG1tfC7tSYw648c
-%%648start%%
+
 #### Extras:
 
-%%648end%%
+
 
 
 -----
@@ -82,10 +82,10 @@ Timecode: [11:09](https://www.youtube.com/watch?v=BG1tfC7tSYw&t=669) ^ytBG1tfC7t
 
 Comment: 
 >another result: Original thinking. more insight. more mashups of different authors and creators. ^ytBG1tfC7tSYw669c
-%%669start%%
+
 #### Extras:
 
-%%669end%%
+
 
 
 -----
@@ -93,10 +93,10 @@ Timecode: [11:52](https://www.youtube.com/watch?v=BG1tfC7tSYw&t=712) ^ytBG1tfC7t
 
 Comment: 
 >both of those result in better paying gigs. ^ytBG1tfC7tSYw712c
-%%712start%%
+
 #### Extras:
 
-%%712end%%
+
 
 
 ## Video Description on YouTube:

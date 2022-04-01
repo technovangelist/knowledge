@@ -6,10 +6,10 @@ Title: How I Write Permanent Notes in Obsidian - Effective Remote Work
 Category: YouTube
 Published: 07/22/2020 06:00 AM
  ^ytFivmWbDrOMabout
-%%FivmWbDrO-Mtopstart%%
+
 #### Extras:
 
-%%FivmWbDrO-Mtopend%%
+
 
 -----
 ## Highlights:
@@ -17,20 +17,20 @@ Published: 07/22/2020 06:00 AM
 Timecode: [1:01](https://www.youtube.com/watch?v=FivmWbDrO-M&t=61) ^ytFivmWbDrOM61t
 
 Comment: ==permanent note is a distillation of your thoughts based on your literature notes== ^ytFivmWbDrOM61c
-%%61start%%
+
 #### Extras:
 
-%%61end%%
+
 
 
 -----
 Timecode: [3:30](https://www.youtube.com/watch?v=FivmWbDrO-M&t=210) ^ytFivmWbDrOM210t
 
 Comment: ==permanent notes are atomic, fully focused on one idea== ^ytFivmWbDrOM210c
-%%210start%%
+
 #### Extras:
 
-%%210end%%
+
 
 
 ## Video Description on YouTube:

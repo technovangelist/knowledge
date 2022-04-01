@@ -7,10 +7,10 @@ Updated: 12/22/2020 10:16 PM
 Highlights URL: https://readwise.io/bookreview/6789505
 SourceUrl: https://hackernoon.com/work-better-hours-not-more-hours-33fe8a09b415
 
-%%6789505topstart%%
+
 #### Extras:
 **bcoop****interruption**
-%%6789505topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://hackernoon.com/work-better-hours-not-more-hours-33fe8a09b415
 Highlighted: 02/17/2017 04:14 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380874start%%
+
 #### Extras:
 
-%%122380874end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 02/17/2017 04:13 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380873start%%
+
 #### Extras:
 
-%%122380873end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 02/17/2017 04:13 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380872start%%
+
 #### Extras:
 
-%%122380872end%%
+
 
 
 
@@ -72,10 +72,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 02/17/2017 04:13 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380871start%%
+
 #### Extras:
 
-%%122380871end%%
+
 
 
 

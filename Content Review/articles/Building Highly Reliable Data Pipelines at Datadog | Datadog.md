@@ -7,10 +7,10 @@ Updated: 02/03/2021 10:07 AM
 Highlights URL: https://readwise.io/bookreview/7521294
 SourceUrl: https://www.datadoghq.com/blog/engineering/highly-reliable-data-pipelines/
 
-%%7521294topstart%%
+
 #### Extras:
 **datadog** **monitoring** **spark**
-%%7521294topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.datadoghq.com/blog/engineering/highly-reliable-data-pipel
 Highlighted: 02/03/2021 10:07 AM
 Updated: 02/03/2021 10:07 AM
 
-%%140911654start%%
+
 #### Extras:
 
-%%140911654end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 02/03/2021 10:07 AM
 Highlighted: 02/03/2021 10:07 AM
 Updated: 02/03/2021 10:07 AM
 
-%%140911652start%%
+
 #### Extras:
 
-%%140911652end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 02/03/2021 10:07 AM
 Highlighted: 02/03/2021 10:07 AM
 Updated: 02/03/2021 10:07 AM
 
-%%140911651start%%
+
 #### Extras:
 
-%%140911651end%%
+
 
 
 
@@ -72,10 +72,10 @@ Updated: 02/03/2021 10:07 AM
 Highlighted: 02/03/2021 10:06 AM
 Updated: 02/03/2021 10:06 AM
 
-%%140911649start%%
+
 #### Extras:
 
-%%140911649end%%
+
 
 
 
@@ -89,10 +89,10 @@ Comment: ![](https://imgix.datadoghq.com/img/blog/engineering/highly-reliable-da
 Highlighted: 02/03/2021 10:05 AM
 Updated: 02/03/2021 10:05 AM
 
-%%140911420start%%
+
 #### Extras:
 
-%%140911420end%%
+
 
 
 
@@ -106,10 +106,10 @@ Comment: ![](https://imgix.datadoghq.com/img/blog/engineering/highly-reliable-da
 Highlighted: 02/03/2021 10:02 AM
 Updated: 02/03/2021 10:02 AM
 
-%%140908280start%%
+
 #### Extras:
 
-%%140908280end%%
+
 
 
 
@@ -124,10 +124,10 @@ Comment: We tag our clusters so that we can see metrics cluster by cluster.
 Highlighted: 02/03/2021 09:32 AM
 Updated: 02/03/2021 10:03 AM
 
-%%140901322start%%
+
 #### Extras:
 
-%%140901322end%%
+
 
 
 
@@ -141,10 +141,10 @@ Comment: The time it takes to run the rollup job. By splitting it up into lots o
 Highlighted: 02/03/2021 09:30 AM
 Updated: 02/03/2021 09:31 AM
 
-%%140900108start%%
+
 #### Extras:
 
-%%140900108end%%
+
 
 
 
@@ -158,10 +158,10 @@ Comment: If you have clusters that disappear at any time, such as when hosted on
 Highlighted: 02/03/2021 09:29 AM
 Updated: 02/03/2021 09:29 AM
 
-%%140899459start%%
+
 #### Extras:
 
-%%140899459end%%
+
 
 
 
@@ -174,10 +174,10 @@ Updated: 02/03/2021 09:29 AM
 Highlighted: 02/03/2021 09:28 AM
 Updated: 02/03/2021 09:28 AM
 
-%%140899331start%%
+
 #### Extras:
 
-%%140899331end%%
+
 
 
 
@@ -191,10 +191,10 @@ Updated: 02/03/2021 09:28 AM
 Highlighted: 02/03/2021 08:21 AM
 Updated: 02/03/2021 08:21 AM
 
-%%140876878start%%
+
 #### Extras:
 
-%%140876878end%%
+
 
 
 

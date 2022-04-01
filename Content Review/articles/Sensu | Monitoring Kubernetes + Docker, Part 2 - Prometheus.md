@@ -7,11 +7,11 @@ Updated: 02/02/2021 10:40 AM
 Highlights URL: https://readwise.io/bookreview/7493113
 SourceUrl: https://sensu.io/blog/monitoring-kubernetes-docker-part-2-prometheus
 
-%%7493113topstart%%
+
 #### Extras:
 **kubernetes** **prometheus** **cncf**
 
-%%7493113topend%%
+
 
 
  
@@ -25,10 +25,10 @@ SourceUrl: https://sensu.io/blog/monitoring-kubernetes-docker-part-2-prometheus
 Highlighted: 02/01/2021 09:35 PM
 Updated: 02/02/2021 07:45 AM
 
-%%140170685start%%
+
 #### Extras:
 
-%%140170685end%%
+
 
 
 
@@ -41,10 +41,10 @@ Updated: 02/02/2021 07:45 AM
 Highlighted: 02/01/2021 09:35 PM
 Updated: 02/01/2021 09:35 PM
 
-%%140170683start%%
+
 #### Extras:
 
-%%140170683end%%
+
 
 
 
@@ -57,10 +57,10 @@ Updated: 02/01/2021 09:35 PM
 Highlighted: 02/01/2021 09:34 PM
 Updated: 02/02/2021 07:37 AM
 
-%%140170670start%%
+
 #### Extras:
 
-%%140170670end%%
+
 
 
 
@@ -74,10 +74,10 @@ Comment: and thats the big downside! ^rw140170660comment
 Highlighted: 02/01/2021 09:34 PM
 Updated: 02/02/2021 07:25 AM
 
-%%140170660start%%
+
 #### Extras:
 
-%%140170660end%%
+
 
 
 
@@ -90,10 +90,10 @@ Updated: 02/02/2021 07:25 AM
 Highlighted: 02/01/2021 09:34 PM
 Updated: 02/01/2021 09:34 PM
 
-%%140170451start%%
+
 #### Extras:
 
-%%140170451end%%
+
 
 
 
@@ -112,10 +112,10 @@ Comment: - main prometheus server
 Highlighted: 02/01/2021 09:30 PM
 Updated: 02/01/2021 09:31 PM
 
-%%140169214start%%
+
 #### Extras:
 
-%%140169214end%%
+
 
 
 
@@ -129,10 +129,10 @@ Comment: This is often listed as a strength, showing how hard it is to deal with
 Highlighted: 02/01/2021 09:26 PM
 Updated: 02/02/2021 10:40 AM
 
-%%140167816start%%
+
 #### Extras:
 
-%%140167816end%%
+
 
 
 
@@ -145,10 +145,10 @@ Updated: 02/02/2021 10:40 AM
 Highlighted: 02/01/2021 09:23 PM
 Updated: 02/01/2021 09:23 PM
 
-%%140167324start%%
+
 #### Extras:
 
-%%140167324end%%
+
 
 
 

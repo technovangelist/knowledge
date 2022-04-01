@@ -7,10 +7,10 @@ Updated: 12/26/2021 05:07 PM
 Highlights URL: https://readwise.io/bookreview/12459378
 SourceUrl: https://medium.com/techlog/whats-inside-etcd-a-deep-dive-into-the-kubernetes-world-84a677754c31
 
-%%12459378topstart%%
+
 #### Extras:
 
-%%12459378topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlighted: 12/26/2021 03:56 PM
 Updated: 12/26/2021 05:07 PM
 https://instapaper.com/read/1292296358/18340852
 
-%%262548356start%%
+
 #### Extras:
 
-%%262548356end%%
+
 
 
 
@@ -42,10 +42,10 @@ Highlighted: 12/26/2021 04:06 PM
 Updated: 12/26/2021 05:07 PM
 https://instapaper.com/read/1292296358/18340972
 
-%%262548357start%%
+
 #### Extras:
 
-%%262548357end%%
+
 
 
 
@@ -60,10 +60,10 @@ Highlighted: 12/26/2021 04:06 PM
 Updated: 12/26/2021 05:07 PM
 https://instapaper.com/read/1292296358/18340977
 
-%%262548358start%%
+
 #### Extras:
 
-%%262548358end%%
+
 
 
 
@@ -78,10 +78,10 @@ Highlighted: 12/26/2021 04:08 PM
 Updated: 12/26/2021 05:07 PM
 https://instapaper.com/read/1292296358/18340985
 
-%%262548359start%%
+
 #### Extras:
 
-%%262548359end%%
+
 
 
 

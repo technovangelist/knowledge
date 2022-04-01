@@ -7,10 +7,10 @@ Updated: 04/23/2021 09:34 AM
 Highlights URL: https://readwise.io/bookreview/8771353
 SourceUrl: https://www.30secondsofcode.org/
 
-%%8771353topstart%%
+
 #### Extras:
 #Js
-%%8771353topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://www.30secondsofcode.org/
 Highlighted: 04/23/2021 09:31 AM
 Updated: 04/23/2021 09:31 AM
 
-%%170775988start%%
+
 #### Extras:
 #For-in
-%%170775988end%%
+
 
 ------
 
@@ -36,10 +36,10 @@ Updated: 04/23/2021 09:31 AM
 Highlighted: 04/23/2021 09:32 AM
 Updated: 04/23/2021 09:32 AM
 
-%%170776213start%%
+
 #### Extras:
 #For-of
-%%170776213end%%
+
 
 ------
 
@@ -51,10 +51,10 @@ Comment: foreach gets access to both property and value, but only works with arr
 Highlighted: 04/23/2021 09:34 AM
 Updated: 04/23/2021 09:34 AM
 
-%%170776884start%%
+
 #### Extras:
 #Foreach 
-%%170776884end%%
+
 
 ------
 

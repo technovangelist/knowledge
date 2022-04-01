@@ -7,10 +7,10 @@ Updated: 02/10/2021 08:17 AM
 Highlights URL: https://readwise.io/bookreview/7655538
 SourceUrl: https://educationaltechnology.net/kirkpatrick-model-four-levels-learning-evaluation/
 
-%%7655538topstart%%
+
 #### Extras:
 [Donald Kirkpatrick - Wikipedia](/knowledge/Content Review/articles/Donald Kirkpatrick - Wikipedia)**Training Models**
-%%7655538topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://educationaltechnology.net/kirkpatrick-model-four-levels-learn
 Highlighted: 02/10/2021 08:17 AM
 Updated: 02/10/2021 08:17 AM
 
-%%143904402start%%
+
 #### Extras:
 
-%%143904402end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 02/10/2021 08:17 AM
 Highlighted: 02/10/2021 08:15 AM
 Updated: 02/10/2021 08:15 AM
 
-%%143904074start%%
+
 #### Extras:
 
-%%143904074end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 02/10/2021 08:15 AM
 Highlighted: 02/10/2021 08:15 AM
 Updated: 02/10/2021 08:15 AM
 
-%%143904056start%%
+
 #### Extras:
 
-%%143904056end%%
+
 
 
 
@@ -72,10 +72,10 @@ Updated: 02/10/2021 08:15 AM
 Highlighted: 02/10/2021 08:15 AM
 Updated: 02/10/2021 08:15 AM
 
-%%143904050start%%
+
 #### Extras:
 
-%%143904050end%%
+
 
 
 

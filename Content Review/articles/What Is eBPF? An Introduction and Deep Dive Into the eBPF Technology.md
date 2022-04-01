@@ -7,10 +7,10 @@ Updated: 01/26/2021 08:09 AM
 Highlights URL: https://readwise.io/bookreview/7347778
 SourceUrl: https://ebpf.io/what-is-ebpf
 
-%%7347778topstart%%
+
 #### Extras:
 [ebpf](/knowledge/Other Notes/ebpf) 
-%%7347778topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://ebpf.io/what-is-ebpf
 Highlighted: 01/26/2021 08:09 AM
 Updated: 01/26/2021 08:09 AM
 
-%%136570330start%%
+
 #### Extras:
 
-%%136570330end%%
+
 
 
 

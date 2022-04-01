@@ -7,10 +7,10 @@ Updated: 12/28/2021 09:38 PM
 Highlights URL: https://readwise.io/bookreview/12502616
 SourceUrl: https://youtu.be/V18ljTUkExQ
 
-%%12502616topstart%%
+
 #### Extras:
 
-%%12502616topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Comment: https:&#x2F;&#x2F;youtu.be&#x2F;V18ljTUkExQ?t=18 ^rw263631717comment
 Highlighted: 12/28/2021 09:38 PM
 Updated: 12/28/2021 09:38 PM
 
-%%263631717start%%
+
 #### Extras:
 
-%%263631717end%%
+
 
 
 
@@ -42,10 +42,10 @@ Comment: https:&#x2F;&#x2F;youtu.be&#x2F;V18ljTUkExQ?t=532 ^rw263631718comment
 Highlighted: 12/28/2021 09:38 PM
 Updated: 12/28/2021 09:38 PM
 
-%%263631718start%%
+
 #### Extras:
 
-%%263631718end%%
+
 
 
 
@@ -59,10 +59,10 @@ Comment: https:&#x2F;&#x2F;youtu.be&#x2F;V18ljTUkExQ?t=543 ^rw263631719comment
 Highlighted: 12/28/2021 09:38 PM
 Updated: 12/28/2021 09:38 PM
 
-%%263631719start%%
+
 #### Extras:
 
-%%263631719end%%
+
 
 
 
@@ -76,10 +76,10 @@ Comment: https:&#x2F;&#x2F;youtu.be&#x2F;V18ljTUkExQ?t=662 ^rw263631720comment
 Highlighted: 12/28/2021 09:38 PM
 Updated: 12/28/2021 09:38 PM
 
-%%263631720start%%
+
 #### Extras:
 
-%%263631720end%%
+
 
 
 
@@ -93,10 +93,10 @@ Comment: https:&#x2F;&#x2F;youtu.be&#x2F;V18ljTUkExQ?t=686 ^rw263631721comment
 Highlighted: 12/28/2021 09:38 PM
 Updated: 12/28/2021 09:38 PM
 
-%%263631721start%%
+
 #### Extras:
 
-%%263631721end%%
+
 
 
 
@@ -110,10 +110,10 @@ Comment: https:&#x2F;&#x2F;youtu.be&#x2F;V18ljTUkExQ?t=2175 ^rw263631722comment
 Highlighted: 12/28/2021 09:38 PM
 Updated: 12/28/2021 09:38 PM
 
-%%263631722start%%
+
 #### Extras:
 
-%%263631722end%%
+
 
 
 
@@ -136,10 +136,10 @@ Comment: https:&#x2F;&#x2F;youtu.be&#x2F;V18ljTUkExQ?t=2196 ^rw263631723comment
 Highlighted: 12/28/2021 09:38 PM
 Updated: 12/28/2021 09:38 PM
 
-%%263631723start%%
+
 #### Extras:
 
-%%263631723end%%
+
 
 
 
@@ -153,10 +153,10 @@ Comment: https:&#x2F;&#x2F;youtu.be&#x2F;V18ljTUkExQ?t=2215 ^rw263631724comment
 Highlighted: 12/28/2021 09:38 PM
 Updated: 12/28/2021 09:38 PM
 
-%%263631724start%%
+
 #### Extras:
 
-%%263631724end%%
+
 
 
 
@@ -182,10 +182,10 @@ Comment: https:&#x2F;&#x2F;youtu.be&#x2F;V18ljTUkExQ?t=2568 ^rw263631725comment
 Highlighted: 12/28/2021 09:38 PM
 Updated: 12/28/2021 09:38 PM
 
-%%263631725start%%
+
 #### Extras:
 
-%%263631725end%%
+
 
 
 
@@ -212,10 +212,10 @@ Comment: https:&#x2F;&#x2F;youtu.be&#x2F;V18ljTUkExQ?t=2804 ^rw263631726comment
 Highlighted: 12/28/2021 09:38 PM
 Updated: 12/28/2021 09:38 PM
 
-%%263631726start%%
+
 #### Extras:
 
-%%263631726end%%
+
 
 
 

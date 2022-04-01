@@ -7,10 +7,10 @@ Updated: 12/22/2020 10:16 PM
 Highlights URL: https://readwise.io/bookreview/6789507
 SourceUrl: https://www.datadoghq.com/blog/introducing-observability-through-monitoring/
 
-%%6789507topstart%%
+
 #### Extras:
 
-%%6789507topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Comment: don't stop making adjustments. keep listening to the key users who are 
 Highlighted: 01/23/2017 10:18 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380889start%%
+
 #### Extras:
 **datadog** #bestpractices **Datadog Best Practices**
-%%122380889end%%
+
 
 
 
@@ -42,10 +42,10 @@ Comment: Figure out what folks use today. then figure out who uses the tools, wh
 Highlighted: 01/23/2017 10:17 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380888start%%
+
 #### Extras:
 **datadog** #bestpractices **Datadog Best Practices**
-%%122380888end%%
+
 
 
 
@@ -58,10 +58,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 01/23/2017 10:14 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380887start%%
+
 #### Extras:
 **Datadog Best Practices**
-%%122380887end%%
+
 
 
 
@@ -74,10 +74,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 01/23/2017 10:13 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380886start%%
+
 #### Extras:
 **Observability**
-%%122380886end%%
+
 
 
 

@@ -7,10 +7,10 @@ Updated: 03/18/2020 09:02 AM
 Highlights URL: https://readwise.io/bookreview/1130735
 SourceUrl: http://www.tnmoc.org/news/news-releases/encrypt-decrypt-full-lorenz-story
 
-%%1130735topstart%%
+
 #### Extras:
 
-%%1130735topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: http://www.tnmoc.org/news/news-releases/encrypt-decrypt-full-lorenz-s
 Highlighted: 04/12/2016 05:17 AM
 Updated: 12/07/2019 07:12 PM
 
-%%33272601start%%
+
 #### Extras:
 [spruchtafel](/knowledge/Other Notes/spruchtafel)
-%%33272601end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 12/07/2019 07:12 PM
 Highlighted: 04/12/2016 05:16 AM
 Updated: 12/07/2019 07:12 PM
 
-%%33272600start%%
+
 #### Extras:
 
-%%33272600end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 12/07/2019 07:12 PM
 Highlighted: 04/12/2016 05:15 AM
 Updated: 12/07/2019 07:12 PM
 
-%%33272599start%%
+
 #### Extras:
 
-%%33272599end%%
+
 
 
 
@@ -72,10 +72,10 @@ Updated: 12/07/2019 07:12 PM
 Highlighted: 04/12/2016 05:14 AM
 Updated: 12/07/2019 07:12 PM
 
-%%33272598start%%
+
 #### Extras:
 
-%%33272598end%%
+
 
 
 
@@ -88,10 +88,10 @@ Updated: 12/07/2019 07:12 PM
 Highlighted: 04/12/2016 05:14 AM
 Updated: 12/07/2019 07:12 PM
 
-%%33272597start%%
+
 #### Extras:
 
-%%33272597end%%
+
 
 
 
@@ -104,10 +104,10 @@ Updated: 12/07/2019 07:12 PM
 Highlighted: 04/12/2016 05:14 AM
 Updated: 12/07/2019 07:12 PM
 
-%%33272596start%%
+
 #### Extras:
 
-%%33272596end%%
+
 
 
 

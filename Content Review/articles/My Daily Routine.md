@@ -7,10 +7,10 @@ Updated: 02/05/2021 11:12 PM
 Highlights URL: https://readwise.io/bookreview/7570144
 SourceUrl: https://notes.andymatuschak.org/z3x7AvJgYzmgEY4kcKdSY2aYxdqWYpTyPqRs8
 
-%%7570144topstart%%
+
 #### Extras:
 **Andy Matuschak**
-%%7570144topend%%
+
  
 -----
  ## Highlights:
@@ -23,10 +23,10 @@ Comment: This is before the second morning block ^rw141872878comment
 Highlighted: 02/05/2021 11:11 PM
 Updated: 02/05/2021 11:12 PM
 
-%%141872878start%%
+
 #### Extras:
 
-%%141872878end%%
+
 
 ------
 
@@ -63,10 +63,10 @@ Comment: This daily routine looks very interesting
 Highlighted: 02/05/2021 11:07 PM
 Updated: 02/05/2021 11:10 PM
 
-%%141871721start%%
+
 #### Extras:
 
-%%141871721end%%
+
 
 ------
 

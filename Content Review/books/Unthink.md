@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/41qiH77JBgL._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/6786722
 
-%%6786722topstart%%
+
 #### Extras:
 
-%%6786722topend%%
+
 
 
  
@@ -26,10 +26,10 @@ Comment: Game days allow ops to practice and come up with new solutions before i
 Highlighted: 12/31/2020 08:56 PM
 Updated: 01/31/2021 00:19 AM
 
-%%138922169start%%
+
 #### Extras:
 
-%%138922169end%%
+
 
 
 
@@ -43,10 +43,10 @@ Comment: Remain ignorant and open minded to be the most creative about any topic
 Highlighted: 12/31/2020 08:56 PM
 Updated: 01/31/2021 00:19 AM
 
-%%138922168start%%
+
 #### Extras:
 
-%%138922168end%%
+
 
 
 
@@ -59,10 +59,10 @@ Updated: 01/31/2021 00:19 AM
 Highlighted: 12/31/2020 08:56 PM
 Updated: 01/31/2021 00:19 AM
 
-%%138922167start%%
+
 #### Extras:
 
-%%138922167end%%
+
 
 
 
@@ -75,10 +75,10 @@ Updated: 01/31/2021 00:19 AM
 Highlighted: 12/31/2020 08:56 PM
 Updated: 01/31/2021 00:19 AM
 
-%%138922166start%%
+
 #### Extras:
 
-%%138922166end%%
+
 
 
 
@@ -92,10 +92,10 @@ Comment: Most of Einstein’s most important work happened in that first year wh
 Highlighted: 12/31/2020 08:56 PM
 Updated: 01/31/2021 00:19 AM
 
-%%138922165start%%
+
 #### Extras:
 **Albert Einstein**
-%%138922165end%%
+
 
 
 
@@ -108,10 +108,10 @@ Updated: 01/31/2021 00:19 AM
 Highlighted: 12/31/2020 08:56 PM
 Updated: 01/31/2021 00:19 AM
 
-%%138922164start%%
+
 #### Extras:
 **mystery**
-%%138922164end%%
+
 
 
 
@@ -125,10 +125,10 @@ Comment: Ask questions about the topic you are learning. Remain curious and you 
 Highlighted: 12/31/2020 08:56 PM
 Updated: 01/31/2021 00:19 AM
 
-%%138922163start%%
+
 #### Extras:
 
-%%138922163end%%
+
 
 
 
@@ -141,10 +141,10 @@ Updated: 01/31/2021 00:19 AM
 Highlighted: 12/21/2020 08:56 PM
 Updated: 12/22/2020 04:27 PM
 
-%%122287463start%%
+
 #### Extras:
 
-%%122287463end%%
+
 
 
 
@@ -158,10 +158,10 @@ Comment: Einstein’s early problems in school were according to Einstein why he
 Highlighted: 12/21/2020 08:56 PM
 Updated: 12/22/2020 04:27 PM
 
-%%122287462start%%
+
 #### Extras:
 
-%%122287462end%%
+
 
 
 
@@ -174,10 +174,10 @@ Updated: 12/22/2020 04:27 PM
 Highlighted: 12/21/2020 08:56 PM
 Updated: 12/22/2020 04:27 PM
 
-%%122287461start%%
+
 #### Extras:
 **Gandhi**
-%%122287461end%%
+
 
 
 
@@ -190,10 +190,10 @@ Updated: 12/22/2020 04:27 PM
 Highlighted: 12/21/2020 08:56 PM
 Updated: 12/22/2020 04:27 PM
 
-%%122287460start%%
+
 #### Extras:
 **Friedrich Nietzsche**
-%%122287460end%%
+
 
 
 
@@ -206,10 +206,10 @@ Updated: 12/22/2020 04:27 PM
 Highlighted: 12/21/2020 08:56 PM
 Updated: 12/22/2020 04:27 PM
 
-%%122287459start%%
+
 #### Extras:
 **Heraclitus**
-%%122287459end%%
+
 
 
 

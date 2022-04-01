@@ -7,10 +7,10 @@ Updated: 01/25/2021 10:05 PM
 Highlights URL: https://readwise.io/bookreview/7341239
 SourceUrl: https://www.openshift.com/blog/kubernetes-naming-things
 
-%%7341239topstart%%
+
 #### Extras:
 **kubernetes**
-%%7341239topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Comment: Some interesting examples of commands to find things that are run in k8
 Highlighted: 01/25/2021 10:04 PM
 Updated: 01/25/2021 10:05 PM
 
-%%136365751start%%
+
 #### Extras:
 
-%%136365751end%%
+
 
 
 
@@ -49,10 +49,10 @@ Comment: when you run something, it will give it a label of run=that something. 
 Highlighted: 01/25/2021 10:00 PM
 Updated: 01/25/2021 10:02 PM
 
-%%136365427start%%
+
 #### Extras:
 
-%%136365427end%%
+
 
 
 
@@ -65,10 +65,10 @@ Updated: 01/25/2021 10:02 PM
 Highlighted: 01/25/2021 09:58 PM
 Updated: 01/25/2021 09:58 PM
 
-%%136365198start%%
+
 #### Extras:
 
-%%136365198end%%
+
 
 
 

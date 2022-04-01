@@ -7,10 +7,10 @@ Updated: 02/05/2021 08:07 AM
 Highlights URL: https://readwise.io/bookreview/7558279
 SourceUrl: https://medium.com/@alepinola/a-nice-way-to-share-code-between-lambda-functions-76104fe29730
 
-%%7558279topstart%%
+
 #### Extras:
 **Alejandro Pinola**[AWS Lambda](/knowledge/Tools I Use/AWS Lambda)
-%%7558279topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Comment: Interesting ^rw141645636comment
 Highlighted: 02/05/2021 06:22 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645636start%%
+
 #### Extras:
 
-%%141645636end%%
+
 
 
 
@@ -42,10 +42,10 @@ Comment: How to do it with serverless framework? ^rw141645635comment
 Highlighted: 02/05/2021 06:19 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645635start%%
+
 #### Extras:
 **Cloudformation**
-%%141645635end%%
+
 
 
 
@@ -59,10 +59,10 @@ Comment: This is the big reason this idea is interesting ^rw141645634comment
 Highlighted: 02/05/2021 06:18 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645634start%%
+
 #### Extras:
 
-%%141645634end%%
+
 
 
 

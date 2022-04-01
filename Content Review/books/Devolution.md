@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://m.media-amazon.com/images/I/9154nKocauL._SY160.jpg)
 Highlights URL: https://readwise.io/bookreview/7444567
 
-%%7444567topstart%%
+
 #### Extras:
 
-%%7444567topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlights URL: https://readwise.io/bookreview/7444567
 Highlighted: 01/30/2021 08:56 PM
 Updated: 01/31/2021 00:19 AM
 
-%%138922160start%%
+
 #### Extras:
 
-%%138922160end%%
+
 
 
 

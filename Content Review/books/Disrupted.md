@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/51q2mafSTkL._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1214122
 
-%%1214122topstart%%
+
 #### Extras:
 
-%%1214122topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlights URL: https://readwise.io/bookreview/1214122
 Highlighted: 05/23/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507319start%%
+
 #### Extras:
 
-%%35507319end%%
+
 
 
 
@@ -41,10 +41,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/23/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507318start%%
+
 #### Extras:
 
-%%35507318end%%
+
 
 
 
@@ -57,10 +57,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/23/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507317start%%
+
 #### Extras:
 
-%%35507317end%%
+
 
 
 
@@ -73,10 +73,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/23/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507316start%%
+
 #### Extras:
 
-%%35507316end%%
+
 
 
 
@@ -89,10 +89,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/23/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507315start%%
+
 #### Extras:
 
-%%35507315end%%
+
 
 
 
@@ -105,10 +105,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/23/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507314start%%
+
 #### Extras:
 
-%%35507314end%%
+
 
 
 
@@ -121,10 +121,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/23/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507313start%%
+
 #### Extras:
 
-%%35507313end%%
+
 
 
 
@@ -138,10 +138,10 @@ Comment: regarding marc benioff ^rw35507312comment
 Highlighted: 05/23/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507312start%%
+
 #### Extras:
 
-%%35507312end%%
+
 
 
 
@@ -154,10 +154,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/23/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507311start%%
+
 #### Extras:
 
-%%35507311end%%
+
 
 
 
@@ -170,10 +170,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/23/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507310start%%
+
 #### Extras:
 
-%%35507310end%%
+
 
 
 
@@ -186,10 +186,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/23/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507309start%%
+
 #### Extras:
 
-%%35507309end%%
+
 
 
 
@@ -202,10 +202,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/23/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507308start%%
+
 #### Extras:
 
-%%35507308end%%
+
 
 
 
@@ -218,10 +218,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/23/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507307start%%
+
 #### Extras:
 
-%%35507307end%%
+
 
 
 
@@ -234,10 +234,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/23/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507306start%%
+
 #### Extras:
 
-%%35507306end%%
+
 
 
 
@@ -250,10 +250,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/23/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507305start%%
+
 #### Extras:
 
-%%35507305end%%
+
 
 
 
@@ -266,10 +266,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/23/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507304start%%
+
 #### Extras:
 
-%%35507304end%%
+
 
 
 
@@ -282,10 +282,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/23/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507303start%%
+
 #### Extras:
 
-%%35507303end%%
+
 
 
 
@@ -298,10 +298,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/23/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507302start%%
+
 #### Extras:
 
-%%35507302end%%
+
 
 
 
@@ -314,10 +314,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/23/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507301start%%
+
 #### Extras:
 
-%%35507301end%%
+
 
 
 
@@ -330,10 +330,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/23/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507300start%%
+
 #### Extras:
 
-%%35507300end%%
+
 
 
 
@@ -346,10 +346,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/23/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507299start%%
+
 #### Extras:
 
-%%35507299end%%
+
 
 
 
@@ -362,10 +362,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/23/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507298start%%
+
 #### Extras:
 
-%%35507298end%%
+
 
 
 
@@ -378,10 +378,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/23/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507297start%%
+
 #### Extras:
 
-%%35507297end%%
+
 
 
 
@@ -394,10 +394,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/23/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507296start%%
+
 #### Extras:
 
-%%35507296end%%
+
 
 
 
@@ -410,10 +410,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 05/23/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507295start%%
+
 #### Extras:
 
-%%35507295end%%
+
 
 
 

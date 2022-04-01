@@ -7,10 +7,10 @@ Updated: 12/29/2021 02:04 PM
 Highlights URL: https://readwise.io/bookreview/12515493
 SourceUrl: https://www.inoreader.com/article/3a9c6e7a87a53a71-interstitial-ritual-finding-focus-mindfulness-in-your-day
 
-%%12515493topstart%%
+
 #### Extras:
 
-%%12515493topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.inoreader.com/article/3a9c6e7a87a53a71-interstitial-ritua
 Highlighted: 12/29/2021 02:04 PM
 Updated: 12/29/2021 02:04 PM
 
-%%263919627start%%
+
 #### Extras:
 
-%%263919627end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 12/29/2021 02:04 PM
 Highlighted: 12/29/2021 02:04 PM
 Updated: 12/29/2021 02:04 PM
 
-%%263919637start%%
+
 #### Extras:
 
-%%263919637end%%
+
 
 
 

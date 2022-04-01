@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://books.google.com/books/content?id=fGW9BwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=public)
 Highlights URL: https://readwise.io/bookreview/1216056
 
-%%1216056topstart%%
+
 #### Extras:
 
-%%1216056topend%%
+
 
 
  
@@ -26,10 +26,10 @@ Much cleaner. There's no excuse for having gas-guzzlers on the road when we have
 Highlighted: 01/05/2020 04:18 PM
 Updated: 01/05/2020 04:18 PM
 
-%%35545502start%%
+
 #### Extras:
 
-%%35545502end%%
+
 
 
 

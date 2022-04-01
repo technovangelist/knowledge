@@ -7,12 +7,12 @@ Updated: 02/11/2021 12:02 PM
 Highlights URL: https://readwise.io/bookreview/7677230
 SourceUrl: https://nesslabs.com/the-diderot-effect?ck_subscriber_id=1121208601&utm_source=convertkit&utm_medium=email&utm_campaign=Maker+Mind%3A+Mindful+Moderation+%F0%9F%92%AB%20-%205288993
 
-%%7677230topstart%%
+
 #### Extras:
 The article talks about the Diderot effect, but then talks about buying things we don't need on their own. One has a trigger of a shiny thing, but the article talks about spending that doesn't have that trigger. 
 
 [Denis Diderot](/knowledge/Other Notes/Denis Diderot)**Diderot Effect****Managing Spending**[Anne-Laure Le Cunff](/knowledge/Other Notes/Anne-Laure Le Cunff)
-%%7677230topend%%
+
  
 -----
  ## Highlights:
@@ -24,10 +24,10 @@ The article talks about the Diderot effect, but then talks about buying things w
 Highlighted: 02/11/2021 12:02 PM
 Updated: 02/11/2021 12:02 PM
 
-%%144367967start%%
+
 #### Extras:
 
-%%144367967end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 02/11/2021 12:02 PM
 Highlighted: 02/11/2021 11:38 AM
 Updated: 02/11/2021 11:38 AM
 
-%%144361782start%%
+
 #### Extras:
 We are getting ready to buy a new home. We are already thinking about the couch that no longer fits or the art. Easy trap to fall into.
-%%144361782end%%
+
 
 ------
 

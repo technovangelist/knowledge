@@ -7,10 +7,10 @@ Updated: 12/26/2021 04:05 PM
 Highlights URL: https://readwise.io/bookreview/12458870
 SourceUrl: https://www.artofmanliness.com/articles/the-best-way-to-retain-what-you-read/
 
-%%12458870topstart%%
+
 #### Extras:
 
-%%12458870topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlighted: 12/26/2021 03:38 PM
 Updated: 12/26/2021 04:05 PM
 https://instapaper.com/read/1303073465/18340697
 
-%%262534292start%%
+
 #### Extras:
 
-%%262534292end%%
+
 
 
 
@@ -42,10 +42,10 @@ Highlighted: 12/26/2021 03:38 PM
 Updated: 12/26/2021 04:05 PM
 https://instapaper.com/read/1303073465/18340700
 
-%%262534293start%%
+
 #### Extras:
 
-%%262534293end%%
+
 
 
 
@@ -59,10 +59,10 @@ Highlighted: 12/26/2021 03:38 PM
 Updated: 12/26/2021 04:05 PM
 https://instapaper.com/read/1303073465/18340701
 
-%%262534294start%%
+
 #### Extras:
 
-%%262534294end%%
+
 
 
 
@@ -76,10 +76,10 @@ Highlighted: 12/26/2021 03:39 PM
 Updated: 12/26/2021 04:05 PM
 https://instapaper.com/read/1303073465/18340703
 
-%%262534295start%%
+
 #### Extras:
 
-%%262534295end%%
+
 
 
 
@@ -93,10 +93,10 @@ Highlighted: 12/26/2021 03:39 PM
 Updated: 12/26/2021 04:05 PM
 https://instapaper.com/read/1303073465/18340706
 
-%%262534296start%%
+
 #### Extras:
 
-%%262534296end%%
+
 
 
 
@@ -112,10 +112,10 @@ Highlighted: 12/26/2021 03:41 PM
 Updated: 12/26/2021 04:05 PM
 https://instapaper.com/read/1303073465/18340728
 
-%%262534297start%%
+
 #### Extras:
 
-%%262534297end%%
+
 
 
 

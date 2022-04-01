@@ -7,10 +7,10 @@ Updated: 02/10/2021 08:50 PM
 Highlights URL: https://readwise.io/bookreview/7662665
 SourceUrl: https://www.aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/
 
-%%7662665topstart%%
+
 #### Extras:
 
-%%7662665topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Comment: done is better than perfect ^rw144144234comment
 Highlighted: 02/10/2021 08:50 PM
 Updated: 02/10/2021 08:50 PM
 
-%%144144234start%%
+
 #### Extras:
 
-%%144144234end%%
+
 
 
 
@@ -42,10 +42,10 @@ Comment: Like a presentation, the beginning and end you need to get right. every
 Highlighted: 02/10/2021 03:25 PM
 Updated: 02/10/2021 03:26 PM
 
-%%144059494start%%
+
 #### Extras:
 
-%%144059494end%%
+
 
 
 
@@ -59,10 +59,10 @@ Comment: Introduce conflict when you can ^rw144059492comment
 Highlighted: 02/10/2021 03:24 PM
 Updated: 02/10/2021 03:24 PM
 
-%%144059492start%%
+
 #### Extras:
 
-%%144059492end%%
+
 
 
 
@@ -76,10 +76,10 @@ Comment: is this the same as killing your darlings? KISS ^rw144059489comment
 Highlighted: 02/10/2021 03:23 PM
 Updated: 02/10/2021 03:24 PM
 
-%%144059489start%%
+
 #### Extras:
 
-%%144059489end%%
+
 
 
 
@@ -93,10 +93,10 @@ Comment: the basic story structure ^rw144059480comment
 Highlighted: 02/10/2021 03:23 PM
 Updated: 02/10/2021 03:23 PM
 
-%%144059480start%%
+
 #### Extras:
 
-%%144059480end%%
+
 
 
 
@@ -109,10 +109,10 @@ Updated: 02/10/2021 03:23 PM
 Highlighted: 02/10/2021 03:22 PM
 Updated: 02/10/2021 03:22 PM
 
-%%144059246start%%
+
 #### Extras:
 
-%%144059246end%%
+
 
 
 
@@ -126,10 +126,10 @@ Comment: Write for your audience, same as with presentations ^rw144059240comment
 Highlighted: 02/10/2021 03:21 PM
 Updated: 02/10/2021 03:22 PM
 
-%%144059240start%%
+
 #### Extras:
 
-%%144059240end%%
+
 
 
 
@@ -142,10 +142,10 @@ Updated: 02/10/2021 03:22 PM
 Highlighted: 02/10/2021 03:21 PM
 Updated: 02/10/2021 03:21 PM
 
-%%144059235start%%
+
 #### Extras:
 
-%%144059235end%%
+
 
 
 

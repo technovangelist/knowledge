@@ -7,10 +7,10 @@ Updated: 02/04/2021 09:23 AM
 Highlights URL: https://readwise.io/bookreview/7542524
 SourceUrl: https://notes.andymatuschak.org/z2PJ51tCXuPFxnfFVUxxgwjvZ1geu4YnYm7hK
 
-%%7542524topstart%%
+
 #### Extras:
 **SmartNotes** **Andy Matuschak**
-%%7542524topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://notes.andymatuschak.org/z2PJ51tCXuPFxnfFVUxxgwjvZ1geu4YnYm7hK
 Highlighted: 02/04/2021 09:23 AM
 Updated: 02/04/2021 09:23 AM
 
-%%141333270start%%
+
 #### Extras:
 **atomicnotes** 
-%%141333270end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 02/04/2021 09:23 AM
 Highlighted: 02/04/2021 09:23 AM
 Updated: 02/04/2021 09:23 AM
 
-%%141333259start%%
+
 #### Extras:
 
-%%141333259end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 02/04/2021 09:23 AM
 Highlighted: 02/04/2021 09:23 AM
 Updated: 02/04/2021 09:23 AM
 
-%%141333257start%%
+
 #### Extras:
 
-%%141333257end%%
+
 
 
 
@@ -72,10 +72,10 @@ Updated: 02/04/2021 09:23 AM
 Highlighted: 02/04/2021 09:23 AM
 Updated: 02/04/2021 09:23 AM
 
-%%141333172start%%
+
 #### Extras:
 
-%%141333172end%%
+
 
 
 

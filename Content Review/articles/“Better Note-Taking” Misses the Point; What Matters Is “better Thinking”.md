@@ -7,11 +7,11 @@ Updated: 02/05/2021 03:40 PM
 Highlights URL: https://readwise.io/bookreview/7542149
 SourceUrl: https://notes.andymatuschak.org/z7kEFe6NfUSgtaDuUjST1oczKKzQQeQWk4Dbc
 
-%%7542149topstart%%
+
 #### Extras:
 ankideck: Knowledge Management
 
-%%7542149topend%%
+
  
 -----
  ## Highlights:
@@ -23,10 +23,10 @@ ankideck: Knowledge Management
 Highlighted: 02/05/2021 03:35 PM
 Updated: 02/05/2021 03:35 PM
 
-%%141747634start%%
+
 #### Extras:
 
-%%141747634end%%
+
 
 ------
 
@@ -38,7 +38,7 @@ Comment: yes ^rw141329009comment
 Highlighted: 02/04/2021 08:56 AM
 Updated: 02/05/2021 03:40 PM
 
-%%141329009start%%
+
 #### Extras:
 **SmartNotes** 
 
@@ -46,7 +46,7 @@ Whats the ultimate goal of reading according to Andy Matuschak? #flashcard
 Better Thinking (not just taking notes)
 <!--ID: 1612573113126-->
 
-%%141329009end%%
+
 
 
 ------

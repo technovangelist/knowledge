@@ -7,10 +7,10 @@ Updated: 02/09/2021 04:22 PM
 Highlights URL: https://readwise.io/bookreview/7643111
 SourceUrl: https://www.bakadesuyo.com/2021/01/parent/
 
-%%7643111topstart%%
+
 #### Extras:
 **Eric Barker****Neuroscience**
-%%7643111topend%%
+
  
 -----
  ## Highlights:
@@ -23,10 +23,10 @@ SourceUrl: https://www.bakadesuyo.com/2021/01/parent/
 Highlighted: 02/09/2021 04:22 PM
 Updated: 02/09/2021 04:22 PM
 
-%%143583445start%%
+
 #### Extras:
 
-%%143583445end%%
+
 
 ------
 
@@ -37,10 +37,10 @@ Updated: 02/09/2021 04:22 PM
 Highlighted: 02/09/2021 04:22 PM
 Updated: 02/09/2021 04:22 PM
 
-%%143583382start%%
+
 #### Extras:
 **hug**
-%%143583382end%%
+
 
 ------
 
@@ -51,10 +51,10 @@ Updated: 02/09/2021 04:22 PM
 Highlighted: 02/09/2021 04:22 PM
 Updated: 02/09/2021 04:22 PM
 
-%%143583322start%%
+
 #### Extras:
 
-%%143583322end%%
+
 
 ------
 
@@ -65,10 +65,10 @@ Updated: 02/09/2021 04:22 PM
 Highlighted: 02/09/2021 04:22 PM
 Updated: 02/09/2021 04:22 PM
 
-%%143583123start%%
+
 #### Extras:
 
-%%143583123end%%
+
 
 ------
 
@@ -79,10 +79,10 @@ Updated: 02/09/2021 04:22 PM
 Highlighted: 02/09/2021 04:21 PM
 Updated: 02/09/2021 04:21 PM
 
-%%143583106start%%
+
 #### Extras:
 
-%%143583106end%%
+
 
 ------
 
@@ -93,10 +93,10 @@ Updated: 02/09/2021 04:21 PM
 Highlighted: 02/09/2021 04:21 PM
 Updated: 02/09/2021 04:21 PM
 
-%%143583016start%%
+
 #### Extras:
 
-%%143583016end%%
+
 
 ------
 
@@ -107,10 +107,10 @@ Updated: 02/09/2021 04:21 PM
 Highlighted: 02/09/2021 04:21 PM
 Updated: 02/09/2021 04:21 PM
 
-%%143583015start%%
+
 #### Extras:
 
-%%143583015end%%
+
 
 ------
 
@@ -121,10 +121,10 @@ Updated: 02/09/2021 04:21 PM
 Highlighted: 02/09/2021 04:21 PM
 Updated: 02/09/2021 04:21 PM
 
-%%143583008start%%
+
 #### Extras:
 
-%%143583008end%%
+
 
 ------
 
@@ -135,10 +135,10 @@ Updated: 02/09/2021 04:21 PM
 Highlighted: 02/09/2021 04:21 PM
 Updated: 02/09/2021 04:21 PM
 
-%%143582994start%%
+
 #### Extras:
 
-%%143582994end%%
+
 
 ------
 
@@ -149,10 +149,10 @@ Updated: 02/09/2021 04:21 PM
 Highlighted: 02/09/2021 04:20 PM
 Updated: 02/09/2021 04:20 PM
 
-%%143582990start%%
+
 #### Extras:
 
-%%143582990end%%
+
 
 ------
 
@@ -163,10 +163,10 @@ Updated: 02/09/2021 04:20 PM
 Highlighted: 02/09/2021 04:19 PM
 Updated: 02/09/2021 04:19 PM
 
-%%143582665start%%
+
 #### Extras:
 
-%%143582665end%%
+
 
 ------
 
@@ -177,10 +177,10 @@ Updated: 02/09/2021 04:19 PM
 Highlighted: 02/09/2021 04:19 PM
 Updated: 02/09/2021 04:19 PM
 
-%%143582661start%%
+
 #### Extras:
 
-%%143582661end%%
+
 
 ------
 
@@ -191,10 +191,10 @@ Updated: 02/09/2021 04:19 PM
 Highlighted: 02/09/2021 04:18 PM
 Updated: 02/09/2021 04:18 PM
 
-%%143582389start%%
+
 #### Extras:
 
-%%143582389end%%
+
 
 ------
 
@@ -205,10 +205,10 @@ Updated: 02/09/2021 04:18 PM
 Highlighted: 02/09/2021 04:17 PM
 Updated: 02/09/2021 04:17 PM
 
-%%143582223start%%
+
 #### Extras:
 
-%%143582223end%%
+
 
 ------
 
@@ -220,10 +220,10 @@ Updated: 02/09/2021 04:17 PM
 Highlighted: 02/09/2021 04:17 PM
 Updated: 02/09/2021 04:17 PM
 
-%%143581782start%%
+
 #### Extras:
 
-%%143581782end%%
+
 
 ------
 
@@ -234,10 +234,10 @@ Updated: 02/09/2021 04:17 PM
 Highlighted: 02/09/2021 04:16 PM
 Updated: 02/09/2021 04:16 PM
 
-%%143581068start%%
+
 #### Extras:
 
-%%143581068end%%
+
 
 ------
 
@@ -249,10 +249,10 @@ Updated: 02/09/2021 04:16 PM
 Highlighted: 02/09/2021 04:15 PM
 Updated: 02/09/2021 04:15 PM
 
-%%143580514start%%
+
 #### Extras:
 
-%%143580514end%%
+
 
 ------
 
@@ -263,10 +263,10 @@ Updated: 02/09/2021 04:15 PM
 Highlighted: 02/09/2021 04:15 PM
 Updated: 02/09/2021 04:15 PM
 
-%%143580280start%%
+
 #### Extras:
 
-%%143580280end%%
+
 
 ------
 
@@ -277,10 +277,10 @@ Updated: 02/09/2021 04:15 PM
 Highlighted: 02/09/2021 04:14 PM
 Updated: 02/09/2021 04:14 PM
 
-%%143579937start%%
+
 #### Extras:
 
-%%143579937end%%
+
 
 ------
 
@@ -292,10 +292,10 @@ Comment: we will always eat dinner together, not just because it is better for t
 Highlighted: 02/09/2021 04:13 PM
 Updated: 02/09/2021 04:13 PM
 
-%%143578580start%%
+
 #### Extras:
 
-%%143578580end%%
+
 
 ------
 
@@ -306,10 +306,10 @@ Updated: 02/09/2021 04:13 PM
 Highlighted: 02/09/2021 04:13 PM
 Updated: 02/09/2021 04:13 PM
 
-%%143578433start%%
+
 #### Extras:
 
-%%143578433end%%
+
 
 ------
 
@@ -320,10 +320,10 @@ Updated: 02/09/2021 04:13 PM
 Highlighted: 02/09/2021 04:12 PM
 Updated: 02/09/2021 04:12 PM
 
-%%143578352start%%
+
 #### Extras:
 
-%%143578352end%%
+
 
 ------
 
@@ -335,10 +335,10 @@ Comment: teach them to think about how others feel is the last step of dealing w
 Highlighted: 02/09/2021 04:11 PM
 Updated: 02/09/2021 04:12 PM
 
-%%143578307start%%
+
 #### Extras:
 
-%%143578307end%%
+
 
 ------
 
@@ -349,10 +349,10 @@ Updated: 02/09/2021 04:12 PM
 Highlighted: 02/09/2021 04:11 PM
 Updated: 02/09/2021 04:11 PM
 
-%%143578285start%%
+
 #### Extras:
 
-%%143578285end%%
+
 
 ------
 
@@ -363,10 +363,10 @@ Updated: 02/09/2021 04:11 PM
 Highlighted: 02/09/2021 04:11 PM
 Updated: 02/09/2021 04:11 PM
 
-%%143578283start%%
+
 #### Extras:
 
-%%143578283end%%
+
 
 ------
 
@@ -377,10 +377,10 @@ Updated: 02/09/2021 04:11 PM
 Highlighted: 02/09/2021 04:11 PM
 Updated: 02/09/2021 04:11 PM
 
-%%143578241start%%
+
 #### Extras:
 
-%%143578241end%%
+
 
 ------
 
@@ -391,10 +391,10 @@ Updated: 02/09/2021 04:11 PM
 Highlighted: 02/09/2021 04:10 PM
 Updated: 02/09/2021 04:10 PM
 
-%%143578229start%%
+
 #### Extras:
 
-%%143578229end%%
+
 
 ------
 
@@ -405,10 +405,10 @@ Updated: 02/09/2021 04:10 PM
 Highlighted: 02/09/2021 04:10 PM
 Updated: 02/09/2021 04:10 PM
 
-%%143578215start%%
+
 #### Extras:
 
-%%143578215end%%
+
 
 ------
 
@@ -419,10 +419,10 @@ Updated: 02/09/2021 04:10 PM
 Highlighted: 02/09/2021 04:10 PM
 Updated: 02/09/2021 04:10 PM
 
-%%143578213start%%
+
 #### Extras:
 
-%%143578213end%%
+
 
 ------
 
@@ -434,10 +434,10 @@ Comment: when they start screaming, empathize and listen first ^rw143578211comme
 Highlighted: 02/09/2021 04:09 PM
 Updated: 02/09/2021 04:09 PM
 
-%%143578211start%%
+
 #### Extras:
 
-%%143578211end%%
+
 
 ------
 
@@ -448,10 +448,10 @@ Updated: 02/09/2021 04:09 PM
 Highlighted: 02/09/2021 04:08 PM
 Updated: 02/09/2021 04:08 PM
 
-%%143577864start%%
+
 #### Extras:
 
-%%143577864end%%
+
 
 ------
 
@@ -463,10 +463,10 @@ Comment: written mid covid ^rw143577265comment
 Highlighted: 02/09/2021 04:08 PM
 Updated: 02/09/2021 04:08 PM
 
-%%143577265start%%
+
 #### Extras:
 
-%%143577265end%%
+
 
 ------
 
@@ -477,10 +477,10 @@ Updated: 02/09/2021 04:08 PM
 Highlighted: 02/09/2021 04:07 PM
 Updated: 02/09/2021 04:07 PM
 
-%%143577249start%%
+
 #### Extras:
 
-%%143577249end%%
+
 
 ------
 
@@ -491,10 +491,10 @@ Updated: 02/09/2021 04:07 PM
 Highlighted: 02/09/2021 04:06 PM
 Updated: 02/09/2021 04:06 PM
 
-%%143577234start%%
+
 #### Extras:
 
-%%143577234end%%
+
 
 ------
 
@@ -505,10 +505,10 @@ Updated: 02/09/2021 04:06 PM
 Highlighted: 02/09/2021 04:06 PM
 Updated: 02/09/2021 04:06 PM
 
-%%143577219start%%
+
 #### Extras:
 
-%%143577219end%%
+
 
 ------
 
@@ -519,10 +519,10 @@ Updated: 02/09/2021 04:06 PM
 Highlighted: 02/09/2021 04:05 PM
 Updated: 02/09/2021 04:05 PM
 
-%%143577209start%%
+
 #### Extras:
 
-%%143577209end%%
+
 
 ------
 
@@ -534,10 +534,10 @@ Comment: like on the airplane, put your own oxygen on first then put the mask on
 Highlighted: 02/09/2021 04:04 PM
 Updated: 02/09/2021 04:05 PM
 
-%%143577124start%%
+
 #### Extras:
 
-%%143577124end%%
+
 
 ------
 
@@ -548,10 +548,10 @@ Updated: 02/09/2021 04:05 PM
 Highlighted: 02/09/2021 04:03 PM
 Updated: 02/09/2021 04:03 PM
 
-%%143577000start%%
+
 #### Extras:
 
-%%143577000end%%
+
 
 ------
 
@@ -562,10 +562,10 @@ Updated: 02/09/2021 04:03 PM
 Highlighted: 02/09/2021 04:03 PM
 Updated: 02/09/2021 04:03 PM
 
-%%143576982start%%
+
 #### Extras:
 
-%%143576982end%%
+
 
 ------
 

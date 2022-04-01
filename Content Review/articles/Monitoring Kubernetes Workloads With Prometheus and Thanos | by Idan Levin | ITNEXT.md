@@ -7,10 +7,10 @@ Updated: 03/03/2021 12:59 PM
 Highlights URL: https://readwise.io/bookreview/8079371
 SourceUrl: https://itnext.io/monitoring-kubernetes-workloads-with-prometheus-and-thanos-4ddb394b32c
 
-%%8079371topstart%%
+
 #### Extras:
 
-%%8079371topend%%
+
  
 -----
  ## Highlights:
@@ -25,10 +25,10 @@ Comment: 1. underlying vm
 Highlighted: 03/03/2021 12:56 PM
 Updated: 03/03/2021 12:57 PM
 
-%%153022492start%%
+
 #### Extras:
 
-%%153022492end%%
+
 
 ------
 
@@ -43,10 +43,10 @@ Comment: - Number of nodes
 Highlighted: 03/03/2021 12:57 PM
 Updated: 03/03/2021 12:58 PM
 
-%%153022644start%%
+
 #### Extras:
 
-%%153022644end%%
+
 
 ------
 
@@ -67,10 +67,10 @@ Comment: - Pods health — instances ready, status, restarts, age
 Highlighted: 03/03/2021 12:58 PM
 Updated: 03/03/2021 12:59 PM
 
-%%153022685start%%
+
 #### Extras:
 
-%%153022685end%%
+
 
 ------
 
@@ -84,10 +84,10 @@ Comment: - HTTP requests (Total number, Latency, Response Code, etc.)
 Highlighted: 03/03/2021 12:59 PM
 Updated: 03/03/2021 12:59 PM
 
-%%153022809start%%
+
 #### Extras:
 
-%%153022809end%%
+
 
 ------
 

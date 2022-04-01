@@ -7,10 +7,10 @@ Updated: 03/18/2020 09:02 AM
 Highlights URL: https://readwise.io/bookreview/1130732
 SourceUrl: http://www.businessinsider.com/etsy-chad-dickerson-blameless-post-mortem-2012-5
 
-%%1130732topstart%%
+
 #### Extras:
 **Etsy****Owen Thomas**
-%%1130732topend%%
+
 
 
  
@@ -27,10 +27,10 @@ Take your time. People used to blaming cultures may take time to come out of the
 Highlighted: 09/06/2016 07:47 PM
 Updated: 12/07/2019 07:12 PM
 
-%%33272591start%%
+
 #### Extras:
 
-%%33272591end%%
+
 
 
 
@@ -43,10 +43,10 @@ Updated: 12/07/2019 07:12 PM
 Highlighted: 09/06/2016 07:46 PM
 Updated: 12/07/2019 07:12 PM
 
-%%33272590start%%
+
 #### Extras:
 
-%%33272590end%%
+
 
 
 
@@ -59,10 +59,10 @@ Updated: 12/07/2019 07:12 PM
 Highlighted: 09/06/2016 07:46 PM
 Updated: 12/07/2019 07:12 PM
 
-%%33272589start%%
+
 #### Extras:
 
-%%33272589end%%
+
 
 
 
@@ -75,10 +75,10 @@ Updated: 12/07/2019 07:12 PM
 Highlighted: 09/06/2016 07:45 PM
 Updated: 12/07/2019 07:12 PM
 
-%%33272588start%%
+
 #### Extras:
 
-%%33272588end%%
+
 
 
 
@@ -91,10 +91,10 @@ Updated: 12/07/2019 07:12 PM
 Highlighted: 09/06/2016 07:45 PM
 Updated: 12/07/2019 07:12 PM
 
-%%33272587start%%
+
 #### Extras:
 
-%%33272587end%%
+
 
 
 
@@ -107,10 +107,10 @@ Updated: 12/07/2019 07:12 PM
 Highlighted: 09/06/2016 07:44 PM
 Updated: 12/07/2019 07:12 PM
 
-%%33272586start%%
+
 #### Extras:
 
-%%33272586end%%
+
 
 
 
@@ -123,10 +123,10 @@ Updated: 12/07/2019 07:12 PM
 Highlighted: 09/06/2016 07:43 PM
 Updated: 12/07/2019 07:12 PM
 
-%%33272585start%%
+
 #### Extras:
 
-%%33272585end%%
+
 
 
 

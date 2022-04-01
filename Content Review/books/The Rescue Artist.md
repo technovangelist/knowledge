@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/51MYxll1%2BFL._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1214120
 
-%%1214120topstart%%
+
 #### Extras:
 **Edward Dolnick**
-%%1214120topend%%
+
 
 
  
@@ -26,10 +26,10 @@ Comment: tulla was a lover of munch nd member of important copenhagen family. go
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507271start%%
+
 #### Extras:
 **Edward Munch**[Tulla Larsen](/knowledge/Other Notes/Tulla Larsen)**Copenhagen**
-%%35507271end%%
+
 
 
 
@@ -42,10 +42,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507270start%%
+
 #### Extras:
 #vocabulary
-%%35507270end%%
+
 
 
 
@@ -58,10 +58,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507269start%%
+
 #### Extras:
 #vocabulary 
-%%35507269end%%
+
 
 
 
@@ -74,10 +74,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507268start%%
+
 #### Extras:
 #vocabulary 
-%%35507268end%%
+
 
 
 
@@ -90,10 +90,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507267start%%
+
 #### Extras:
 **Louvre Museum**
-%%35507267end%%
+
 
 
 
@@ -106,10 +106,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507266start%%
+
 #### Extras:
 
-%%35507266end%%
+
 
 
 
@@ -122,10 +122,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507265start%%
+
 #### Extras:
 
-%%35507265end%%
+
 
 
 

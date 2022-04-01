@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/41q7gZyFigL._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1214098
 
-%%1214098topstart%%
+
 #### Extras:
 
-%%1214098topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlights URL: https://readwise.io/bookreview/1214098
 Highlighted: 11/06/2017 08:56 PM
 Updated: 01/05/2020 12:59 PM
 
-%%35507032start%%
+
 #### Extras:
 **Cognitive psychology**
-%%35507032end%%
+
 
 
 

@@ -9,10 +9,10 @@ CoverImageUrl:
 Highlights URL: https://readwise.io/bookreview/7560666
 SourceUrl: https://www.airr.io/episode/5fdb993f8ac3a84d50611608
 
-%%7560666topstart%%
+
 #### Extras:
 **Cal Newport**
-%%7560666topend%%
+
 
 
  
@@ -28,10 +28,10 @@ Highlighted: 02/05/2021 10:17 AM
 Updated: 02/05/2021 10:17 AM
 https://www.airr.io/quote/601d8bce4f97f61b25b26d65
 
-%%141679825start%%
+
 #### Extras:
 
-%%141679825end%%
+
 
 
 
@@ -46,10 +46,10 @@ Highlighted: 02/05/2021 10:17 AM
 Updated: 02/05/2021 10:17 AM
 https://www.airr.io/quote/601d8bce4f97f6a9b8b26d64
 
-%%141679824start%%
+
 #### Extras:
 
-%%141679824end%%
+
 
 
 

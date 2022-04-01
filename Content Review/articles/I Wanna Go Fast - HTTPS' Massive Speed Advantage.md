@@ -7,10 +7,10 @@ Updated: 03/18/2020 09:02 AM
 Highlights URL: https://readwise.io/bookreview/1130733
 SourceUrl: https://www.troyhunt.com/i-wanna-go-fast-https-massive-speed-advantage/
 
-%%1130733topstart%%
+
 #### Extras:
 **Troy Hunt****HTTPS**
-%%1130733topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.troyhunt.com/i-wanna-go-fast-https-massive-speed-advantag
 Highlighted: 08/29/2016 01:36 PM
 Updated: 12/07/2019 07:12 PM
 
-%%33272594start%%
+
 #### Extras:
 
-%%33272594end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 12/07/2019 07:12 PM
 Highlighted: 08/29/2016 01:33 PM
 Updated: 12/07/2019 07:12 PM
 
-%%33272593start%%
+
 #### Extras:
 
-%%33272593end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 12/07/2019 07:12 PM
 Highlighted: 08/29/2016 01:33 PM
 Updated: 12/07/2019 07:12 PM
 
-%%33272592start%%
+
 #### Extras:
 
-%%33272592end%%
+
 
 
 

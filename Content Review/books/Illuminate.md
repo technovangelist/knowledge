@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/5115HTe6C1L._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1552088
 
-%%1552088topstart%%
+
 #### Extras:
 
-%%1552088topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlights URL: https://readwise.io/bookreview/1552088
 Highlighted: 03/23/2020 09:56 PM
 Updated: 03/23/2020 11:59 PM
 
-%%43960676start%%
+
 #### Extras:
 
-%%43960676end%%
+
 
 
 
@@ -41,10 +41,10 @@ Updated: 03/23/2020 11:59 PM
 Highlighted: 03/23/2020 09:56 PM
 Updated: 03/23/2020 11:59 PM
 
-%%43960675start%%
+
 #### Extras:
 
-%%43960675end%%
+
 
 
 
@@ -57,10 +57,10 @@ Updated: 03/23/2020 11:59 PM
 Highlighted: 03/23/2020 09:56 PM
 Updated: 03/23/2020 11:59 PM
 
-%%43960674start%%
+
 #### Extras:
 
-%%43960674end%%
+
 
 
 
@@ -73,10 +73,10 @@ Updated: 03/23/2020 11:59 PM
 Highlighted: 03/23/2020 09:56 PM
 Updated: 03/23/2020 11:59 PM
 
-%%43960673start%%
+
 #### Extras:
 
-%%43960673end%%
+
 
 
 
@@ -89,10 +89,10 @@ Updated: 03/23/2020 11:59 PM
 Highlighted: 03/23/2020 09:56 PM
 Updated: 03/23/2020 11:59 PM
 
-%%43960672start%%
+
 #### Extras:
 
-%%43960672end%%
+
 
 
 
@@ -105,10 +105,10 @@ Updated: 03/23/2020 11:59 PM
 Highlighted: 03/23/2020 09:56 PM
 Updated: 03/23/2020 11:59 PM
 
-%%43960671start%%
+
 #### Extras:
 
-%%43960671end%%
+
 
 
 
@@ -121,10 +121,10 @@ Updated: 03/23/2020 11:59 PM
 Highlighted: 03/13/2020 09:56 PM
 Updated: 03/14/2020 06:01 AM
 
-%%43266771start%%
+
 #### Extras:
 
-%%43266771end%%
+
 
 
 

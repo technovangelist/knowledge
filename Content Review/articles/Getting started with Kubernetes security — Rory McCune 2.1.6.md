@@ -7,10 +7,10 @@ Updated: 12/27/2021 10:42 PM
 Highlights URL: https://readwise.io/bookreview/12486006
 SourceUrl: https://youtu.be/W2q91qvr4gc
 
-%%12486006topstart%%
+
 #### Extras:
 super interesting talk about quick wins on securing your **kubernetes** cluster. **rory mccune**  **security**
-%%12486006topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Comment: https:&#x2F;&#x2F;youtu.be&#x2F;W2q91qvr4gc?t=571 ^rw263173469comment
 Highlighted: 12/27/2021 10:42 PM
 Updated: 12/27/2021 10:42 PM
 
-%%263173469start%%
+
 #### Extras:
 
-%%263173469end%%
+
 
 
 
@@ -42,10 +42,10 @@ Comment: https:&#x2F;&#x2F;youtu.be&#x2F;W2q91qvr4gc?t=830 ^rw263173470comment
 Highlighted: 12/27/2021 10:42 PM
 Updated: 12/27/2021 10:42 PM
 
-%%263173470start%%
+
 #### Extras:
 
-%%263173470end%%
+
 
 
 
@@ -59,10 +59,10 @@ Comment: https:&#x2F;&#x2F;youtu.be&#x2F;W2q91qvr4gc?t=881 ^rw263173471comment
 Highlighted: 12/27/2021 10:42 PM
 Updated: 12/27/2021 10:42 PM
 
-%%263173471start%%
+
 #### Extras:
 
-%%263173471end%%
+
 
 
 
@@ -76,10 +76,10 @@ Comment: https:&#x2F;&#x2F;youtu.be&#x2F;W2q91qvr4gc?t=949 ^rw263173472comment
 Highlighted: 12/27/2021 10:42 PM
 Updated: 12/27/2021 10:42 PM
 
-%%263173472start%%
+
 #### Extras:
 
-%%263173472end%%
+
 
 
 
@@ -93,10 +93,10 @@ Comment: https:&#x2F;&#x2F;youtu.be&#x2F;W2q91qvr4gc?t=1044 ^rw263173473comment
 Highlighted: 12/27/2021 10:42 PM
 Updated: 12/27/2021 10:42 PM
 
-%%263173473start%%
+
 #### Extras:
 
-%%263173473end%%
+
 
 
 
@@ -110,10 +110,10 @@ Comment: https:&#x2F;&#x2F;youtu.be&#x2F;W2q91qvr4gc?t=1163 ^rw263173474comment
 Highlighted: 12/27/2021 10:42 PM
 Updated: 12/27/2021 10:42 PM
 
-%%263173474start%%
+
 #### Extras:
 
-%%263173474end%%
+
 
 
 
@@ -127,10 +127,10 @@ Comment: https:&#x2F;&#x2F;youtu.be&#x2F;W2q91qvr4gc?t=1184 ^rw263173475comment
 Highlighted: 12/27/2021 10:42 PM
 Updated: 12/27/2021 10:42 PM
 
-%%263173475start%%
+
 #### Extras:
 
-%%263173475end%%
+
 
 
 
@@ -144,10 +144,10 @@ Comment: https:&#x2F;&#x2F;youtu.be&#x2F;W2q91qvr4gc?t=1224 ^rw263173476comment
 Highlighted: 12/27/2021 10:42 PM
 Updated: 12/27/2021 10:42 PM
 
-%%263173476start%%
+
 #### Extras:
 
-%%263173476end%%
+
 
 
 
@@ -161,10 +161,10 @@ Comment: https:&#x2F;&#x2F;youtu.be&#x2F;W2q91qvr4gc?t=1288 ^rw263173477comment
 Highlighted: 12/27/2021 10:42 PM
 Updated: 12/27/2021 10:42 PM
 
-%%263173477start%%
+
 #### Extras:
 
-%%263173477end%%
+
 
 
 
@@ -178,10 +178,10 @@ Comment: https:&#x2F;&#x2F;youtu.be&#x2F;W2q91qvr4gc?t=1369 ^rw263173478comment
 Highlighted: 12/27/2021 10:42 PM
 Updated: 12/27/2021 10:42 PM
 
-%%263173478start%%
+
 #### Extras:
 
-%%263173478end%%
+
 
 
 
@@ -195,10 +195,10 @@ Comment: https:&#x2F;&#x2F;youtu.be&#x2F;W2q91qvr4gc?t=1434 ^rw263173479comment
 Highlighted: 12/27/2021 10:42 PM
 Updated: 12/27/2021 10:42 PM
 
-%%263173479start%%
+
 #### Extras:
 
-%%263173479end%%
+
 
 
 
@@ -212,10 +212,10 @@ Comment: https:&#x2F;&#x2F;youtu.be&#x2F;W2q91qvr4gc?t=1703 ^rw263173480comment
 Highlighted: 12/27/2021 10:42 PM
 Updated: 12/27/2021 10:42 PM
 
-%%263173480start%%
+
 #### Extras:
 
-%%263173480end%%
+
 
 
 
@@ -229,10 +229,10 @@ Comment: https:&#x2F;&#x2F;youtu.be&#x2F;W2q91qvr4gc?t=1745 ^rw263173481comment
 Highlighted: 12/27/2021 10:42 PM
 Updated: 12/27/2021 10:42 PM
 
-%%263173481start%%
+
 #### Extras:
 
-%%263173481end%%
+
 
 
 
@@ -246,10 +246,10 @@ Comment: https:&#x2F;&#x2F;youtu.be&#x2F;W2q91qvr4gc?t=1809 ^rw263173482comment
 Highlighted: 12/27/2021 10:42 PM
 Updated: 12/27/2021 10:42 PM
 
-%%263173482start%%
+
 #### Extras:
 
-%%263173482end%%
+
 
 
 

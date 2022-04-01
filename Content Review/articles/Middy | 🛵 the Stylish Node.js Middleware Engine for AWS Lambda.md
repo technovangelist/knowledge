@@ -7,10 +7,10 @@ Updated: 01/25/2021 09:53 PM
 Highlights URL: https://readwise.io/bookreview/7341138
 SourceUrl: https://middy.js.org/
 
-%%7341138topstart%%
+
 #### Extras:
 **javascript****middleware**[AWS Lambda](/knowledge/Tools I Use/AWS Lambda)
-%%7341138topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://middy.js.org/
 Highlighted: 01/25/2021 09:46 PM
 Updated: 01/25/2021 09:46 PM
 
-%%136362124start%%
+
 #### Extras:
 
-%%136362124end%%
+
 
 
 
@@ -41,10 +41,10 @@ Comment: Middy looks like a very interesting solution for Lambda. I have never r
 Highlighted: 01/25/2021 09:46 PM
 Updated: 01/25/2021 09:53 PM
 
-%%136362123start%%
+
 #### Extras:
 
-%%136362123end%%
+
 
 
 

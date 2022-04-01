@@ -7,10 +7,10 @@ Updated: 12/29/2021 12:08 PM
 Highlights URL: https://readwise.io/bookreview/12513957
 SourceUrl: https://www.datadoghq.com/blog/github-source-code-integration/
 
-%%12513957topstart%%
+
 #### Extras:
 
-%%12513957topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlighted: 12/29/2021 11:37 AM
 Updated: 12/29/2021 12:08 PM
 https://instapaper.com/read/1471491584/18365621
 
-%%263892638start%%
+
 #### Extras:
 
-%%263892638end%%
+
 
 
 

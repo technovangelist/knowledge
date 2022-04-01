@@ -7,10 +7,10 @@ Updated: 12/22/2020 10:16 PM
 Highlights URL: https://readwise.io/bookreview/6789497
 SourceUrl: https://praxis.substack.com/p/para-an-introduction
 
-%%6789497topstart%%
+
 #### Extras:
 **knowledge management****PARA****Tiago Forte**
-%%6789497topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://praxis.substack.com/p/para-an-introduction
 Highlighted: 08/22/2020 07:23 PM
 Updated: 12/22/2020 10:16 PM
 
-%%122380840start%%
+
 #### Extras:
 
-%%122380840end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 08/22/2020 07:22 PM
 Updated: 12/22/2020 10:16 PM
 
-%%122380839start%%
+
 #### Extras:
 
-%%122380839end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 08/22/2020 07:22 PM
 Updated: 12/22/2020 10:16 PM
 
-%%122380838start%%
+
 #### Extras:
 
-%%122380838end%%
+
 
 
 
@@ -72,10 +72,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 08/22/2020 07:22 PM
 Updated: 12/22/2020 10:16 PM
 
-%%122380837start%%
+
 #### Extras:
 
-%%122380837end%%
+
 
 
 
@@ -88,10 +88,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 08/22/2020 07:21 PM
 Updated: 12/22/2020 10:16 PM
 
-%%122380836start%%
+
 #### Extras:
 
-%%122380836end%%
+
 
 
 

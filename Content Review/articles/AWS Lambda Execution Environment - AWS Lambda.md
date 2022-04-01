@@ -7,10 +7,10 @@ Updated: 01/25/2021 10:20 PM
 Highlights URL: https://readwise.io/bookreview/7341329
 SourceUrl: https://docs.aws.amazon.com/lambda/latest/dg/runtimes-context.html#runtimes-lifecycle
 
-%%7341329topstart%%
+
 #### Extras:
 [AWS Lambda](/knowledge/Tools I Use/AWS Lambda)
-%%7341329topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://docs.aws.amazon.com/lambda/latest/dg/runtimes-context.html#ru
 Highlighted: 01/25/2021 10:20 PM
 Updated: 01/25/2021 10:20 PM
 
-%%136367530start%%
+
 #### Extras:
 **shutdown phase**
-%%136367530end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 01/25/2021 10:20 PM
 Highlighted: 01/25/2021 10:20 PM
 Updated: 01/25/2021 10:20 PM
 
-%%136367529start%%
+
 #### Extras:
 **invoke phase**
-%%136367529end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 01/25/2021 10:20 PM
 Highlighted: 01/25/2021 10:19 PM
 Updated: 01/25/2021 10:19 PM
 
-%%136367493start%%
+
 #### Extras:
 **init phase**
-%%136367493end%%
+
 
 
 
@@ -72,10 +72,10 @@ Updated: 01/25/2021 10:19 PM
 Highlighted: 01/25/2021 10:19 PM
 Updated: 01/25/2021 10:19 PM
 
-%%136367490start%%
+
 #### Extras:
 
-%%136367490end%%
+
 
 
 
@@ -88,10 +88,10 @@ Updated: 01/25/2021 10:19 PM
 Highlighted: 01/25/2021 10:18 PM
 Updated: 01/25/2021 10:18 PM
 
-%%136367464start%%
+
 #### Extras:
 
-%%136367464end%%
+
 
 
 

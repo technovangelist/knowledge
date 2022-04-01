@@ -7,10 +7,10 @@ Updated: 01/15/2021 10:34 PM
 Highlights URL: https://readwise.io/bookreview/7188870
 SourceUrl: https://www.datadoghq.com/blog/serverless-insights/
 
-%%7188870topstart%%
+
 #### Extras:
 
-%%7188870topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Comment: can easily go from the high level view of functions right down to the l
 Highlighted: 01/14/2021 10:59 AM
 Updated: 01/15/2021 10:34 PM
 
-%%132623651start%%
+
 #### Extras:
 **datadog** **awslambda** 
-%%132623651end%%
+
 
 
 
@@ -42,10 +42,10 @@ Comment: insights seem to be time based. this is fine for functions that always 
 Highlighted: 01/14/2021 10:57 AM
 Updated: 01/15/2021 10:34 PM
 
-%%132623650start%%
+
 #### Extras:
 
-%%132623650end%%
+
 
 
 
@@ -59,10 +59,10 @@ Comment: To monitor Lambda perf and metrics, you don't have access to the underl
 Highlighted: 01/14/2021 10:54 AM
 Updated: 01/15/2021 10:34 PM
 
-%%132623649start%%
+
 #### Extras:
 
-%%132623649end%%
+
 
 
 
@@ -76,10 +76,10 @@ Comment: author of the article ^rw132623648comment
 Highlighted: 01/14/2021 10:53 AM
 Updated: 01/15/2021 10:34 PM
 
-%%132623648start%%
+
 #### Extras:
 
-%%132623648end%%
+
 
 
 

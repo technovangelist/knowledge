@@ -7,10 +7,10 @@ Updated: 02/04/2021 12:04 PM
 Highlights URL: https://readwise.io/bookreview/7348325
 SourceUrl: http://www.brendangregg.com/blog/2019-01-01/learn-ebpf-tracing.html
 
-%%7348325topstart%%
+
 #### Extras:
 [ebpf](/knowledge/Other Notes/ebpf)**Brendan Gregg**
-%%7348325topend%%
+
 
 
  
@@ -38,10 +38,10 @@ Comment: since this is triggered on tcp session events and not every packet, its
 Highlighted: 01/26/2021 09:10 AM
 Updated: 01/26/2021 09:11 AM
 
-%%136582121start%%
+
 #### Extras:
 
-%%136582121end%%
+
 
 
 
@@ -55,10 +55,10 @@ Comment: rather than writing a program with direct knowledge of ebpf, you write 
 Highlighted: 01/26/2021 09:08 AM
 Updated: 01/26/2021 09:09 AM
 
-%%136581948start%%
+
 #### Extras:
 
-%%136581948end%%
+
 
 
 
@@ -72,10 +72,10 @@ Comment: with ebpf, you can write a program that runs in a vm in the kernel rath
 Highlighted: 01/26/2021 09:06 AM
 Updated: 02/04/2021 12:04 PM
 
-%%136581339start%%
+
 #### Extras:
 
-%%136581339end%%
+
 
 
 

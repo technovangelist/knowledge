@@ -7,10 +7,10 @@ Updated: 10/26/2020 05:12 AM
 Highlights URL: https://readwise.io/bookreview/6017245
 SourceUrl: https://jvns.ca/blog/answer-questions-well/
 
-%%6017245topstart%%
+
 #### Extras:
 **Julia Evans****questions**
-%%6017245topend%%
+
 
 
  
@@ -26,10 +26,10 @@ Highlighted: 10/25/2020 04:58 PM
 Updated: 10/25/2020 05:13 PM
 https://instapaper.com/read/1354757077/14391143
 
-%%104089528start%%
+
 #### Extras:
 
-%%104089528end%%
+
 
 
 
@@ -43,10 +43,10 @@ Highlighted: 10/25/2020 04:55 PM
 Updated: 10/25/2020 05:13 PM
 https://instapaper.com/read/1354757077/14391131
 
-%%104089527start%%
+
 #### Extras:
 
-%%104089527end%%
+
 
 
 
@@ -60,10 +60,10 @@ Highlighted: 10/25/2020 04:55 PM
 Updated: 10/25/2020 05:13 PM
 https://instapaper.com/read/1354757077/14391130
 
-%%104089526start%%
+
 #### Extras:
 
-%%104089526end%%
+
 
 
 
@@ -77,10 +77,10 @@ Highlighted: 10/25/2020 04:54 PM
 Updated: 10/25/2020 05:13 PM
 https://instapaper.com/read/1354757077/14391127
 
-%%104089525start%%
+
 #### Extras:
 
-%%104089525end%%
+
 
 
 
@@ -94,10 +94,10 @@ Highlighted: 10/25/2020 04:54 PM
 Updated: 10/25/2020 05:13 PM
 https://instapaper.com/read/1354757077/14391126
 
-%%104089524start%%
+
 #### Extras:
 
-%%104089524end%%
+
 
 
 
@@ -111,10 +111,10 @@ Highlighted: 10/25/2020 04:54 PM
 Updated: 10/25/2020 05:13 PM
 https://instapaper.com/read/1354757077/14391122
 
-%%104089523start%%
+
 #### Extras:
 
-%%104089523end%%
+
 
 
 

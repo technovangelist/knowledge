@@ -7,10 +7,10 @@ Updated: 05/25/2021 08:18 AM
 Highlights URL: https://readwise.io/bookreview/7487991
 SourceUrl: https://medium.com/jorgeacetozi/kubernetes-node-components-service-proxy-kubelet-and-cadvisor-dcc6928ef58c
 
-%%7487991topstart%%
+
 #### Extras:
 
-%%7487991topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://medium.com/jorgeacetozi/kubernetes-node-components-service-pr
 Highlighted: 02/01/2021 03:59 PM
 Updated: 02/01/2021 03:59 PM
 
-%%140045437start%%
+
 #### Extras:
 
-%%140045437end%%
+
 
 ------
 
@@ -36,10 +36,10 @@ Updated: 02/01/2021 03:59 PM
 Highlighted: 02/01/2021 04:01 PM
 Updated: 02/01/2021 04:01 PM
 
-%%140045978start%%
+
 #### Extras:
 **kubernetes** **serviceproxy** **serviceproxy**
-%%140045978end%%
+
 
 ------
 
@@ -50,10 +50,10 @@ Updated: 02/01/2021 04:01 PM
 Highlighted: 02/01/2021 09:13 PM
 Updated: 02/01/2021 09:13 PM
 
-%%140166144start%%
+
 #### Extras:
 **kubernetes** **kubelet** 
-%%140166144end%%
+
 
 ------
 
@@ -65,10 +65,10 @@ Comment: note this is a 2017 article ^rw140166161comment
 Highlighted: 02/01/2021 09:14 PM
 Updated: 02/01/2021 09:14 PM
 
-%%140166161start%%
+
 #### Extras:
 
-%%140166161end%%
+
 
 ------
 
@@ -80,10 +80,10 @@ Comment: note this is a 2017 article ^rw183454076comment
 Highlighted: 02/01/2021 09:14 PM
 Updated: 05/25/2021 08:18 AM
 
-%%183454076start%%
+
 #### Extras:
 
-%%183454076end%%
+
 
 
 

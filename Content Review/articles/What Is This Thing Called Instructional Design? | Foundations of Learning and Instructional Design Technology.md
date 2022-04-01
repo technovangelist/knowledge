@@ -7,10 +7,10 @@ Updated: 12/22/2020 10:16 PM
 Highlights URL: https://readwise.io/bookreview/6789503
 SourceUrl: https://lidtfoundations.pressbooks.com/chapter/what-is-instructional-design/
 
-%%6789503topstart%%
+
 #### Extras:
 **instructional design**
-%%6789503topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Comment: Reiser & Dempsey 2007 ^rw122380869comment
 Highlighted: 08/08/2019 06:37 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380869start%%
+
 #### Extras:
 
-%%122380869end%%
+
 
 
 

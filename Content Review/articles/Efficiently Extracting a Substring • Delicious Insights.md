@@ -7,10 +7,10 @@ Updated: 04/09/2021 04:21 PM
 Highlights URL: https://readwise.io/bookreview/8584505
 SourceUrl: https://delicious-insights.com/en/posts/js-string-slice/
 
-%%8584505topstart%%
+
 #### Extras:
 
-%%8584505topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://delicious-insights.com/en/posts/js-string-slice/
 Highlighted: 04/09/2021 04:16 PM
 Updated: 04/09/2021 04:16 PM
 
-%%165899315start%%
+
 #### Extras:
 
-%%165899315end%%
+
 
 ------
 
@@ -37,10 +37,10 @@ Comment: dangerous because its inconsistent ^rw165899317comment
 Highlighted: 04/09/2021 04:16 PM
 Updated: 04/09/2021 04:16 PM
 
-%%165899317start%%
+
 #### Extras:
 
-%%165899317end%%
+
 
 ------
 
@@ -51,10 +51,10 @@ Updated: 04/09/2021 04:16 PM
 Highlighted: 04/09/2021 04:17 PM
 Updated: 04/09/2021 04:17 PM
 
-%%165899378start%%
+
 #### Extras:
 
-%%165899378end%%
+
 
 ------
 
@@ -65,10 +65,10 @@ Updated: 04/09/2021 04:17 PM
 Highlighted: 04/09/2021 04:20 PM
 Updated: 04/09/2021 04:20 PM
 
-%%165899652start%%
+
 #### Extras:
 
-%%165899652end%%
+
 
 ------
 
@@ -79,10 +79,10 @@ Updated: 04/09/2021 04:20 PM
 Highlighted: 04/09/2021 04:21 PM
 Updated: 04/09/2021 04:21 PM
 
-%%165899726start%%
+
 #### Extras:
 
-%%165899726end%%
+
 
 
 

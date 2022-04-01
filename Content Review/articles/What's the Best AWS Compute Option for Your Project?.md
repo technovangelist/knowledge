@@ -6,10 +6,10 @@ Updated: 02/28/2020 08:16 PM
 Highlights URL: https://readwise.io/bookreview/1460679
 SourceUrl: https://cloudonaut.io/whats-the-best-aws-compute-option-for-your-project/
 
-%%1460679topstart%%
+
 #### Extras:
 [AWS](/knowledge/AWS)**Fargate****Docker**
-%%1460679topend%%
+
 
 
  
@@ -24,7 +24,7 @@ SourceUrl: https://cloudonaut.io/whats-the-best-aws-compute-option-for-your-proj
 Highlighted: 02/28/2020 03:09 PM
 Updated: 02/28/2020 04:34 PM
 
-%%41449002start%%
+
 #### Extras:
 
 You want to run your Docker containers without needing to install, configure, or patch a cluster. What AWS service should you use? #flashcard 
@@ -42,7 +42,7 @@ Per second billing. (as of 2021-02-05)
 <!--ID: 1612593721981-->
 
 
-%%41449002end%%
+
 
 
 
@@ -56,7 +56,7 @@ Per second billing. (as of 2021-02-05)
 Highlighted: 02/28/2020 03:09 PM
 Updated: 02/28/2020 04:34 PM
 
-%%41449001start%%
+
 #### Extras:
 **EC2**
 
@@ -65,7 +65,7 @@ Up to how many cores can you configure EC2 to use? #flashcard
 <!--ID: 1612593721992-->
 
 
-%%41449001end%%
+
 
 
 

@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/51XLPEBpwxL._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1546747
 
-%%1546747topstart%%
+
 #### Extras:
 **Gretchen Bakke**
-%%1546747topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlights URL: https://readwise.io/bookreview/1546747
 Highlighted: 03/24/2020 09:56 PM
 Updated: 03/25/2020 00:29 AM
 
-%%44024975start%%
+
 #### Extras:
 **Sierra Nevada**
-%%44024975end%%
+
 
 
 
@@ -41,10 +41,10 @@ Updated: 03/25/2020 00:29 AM
 Highlighted: 03/24/2020 09:56 PM
 Updated: 03/25/2020 00:29 AM
 
-%%44024974start%%
+
 #### Extras:
 **Thomas Edison**
-%%44024974end%%
+
 
 
 
@@ -57,10 +57,10 @@ Updated: 03/25/2020 00:29 AM
 Highlighted: 03/20/2020 09:56 PM
 Updated: 03/20/2020 09:31 PM
 
-%%43722915start%%
+
 #### Extras:
 **Wind Power**
-%%43722915end%%
+
 
 
 
@@ -73,10 +73,10 @@ Updated: 03/20/2020 09:31 PM
 Highlighted: 03/19/2020 09:56 PM
 Updated: 03/19/2020 08:31 PM
 
-%%43671554start%%
+
 #### Extras:
 
-%%43671554end%%
+
 
 
 
@@ -91,10 +91,10 @@ Comment: In washington
 Highlighted: 03/19/2020 09:56 PM
 Updated: 03/19/2020 08:31 PM
 
-%%43671553start%%
+
 #### Extras:
 
-%%43671553end%%
+
 
 
 
@@ -107,10 +107,10 @@ Updated: 03/19/2020 08:31 PM
 Highlighted: 03/19/2020 09:56 PM
 Updated: 03/19/2020 08:31 PM
 
-%%43671552start%%
+
 #### Extras:
 
-%%43671552end%%
+
 
 
 
@@ -123,10 +123,10 @@ Updated: 03/19/2020 08:31 PM
 Highlighted: 03/19/2020 09:56 PM
 Updated: 03/19/2020 08:31 PM
 
-%%43671551start%%
+
 #### Extras:
 
-%%43671551end%%
+
 
 
 
@@ -139,10 +139,10 @@ Updated: 03/19/2020 08:31 PM
 Highlighted: 03/19/2020 09:56 PM
 Updated: 03/19/2020 08:31 PM
 
-%%43671550start%%
+
 #### Extras:
 **Power Plant**
-%%43671550end%%
+
 
 
 
@@ -155,10 +155,10 @@ Updated: 03/19/2020 08:31 PM
 Highlighted: 03/18/2020 09:56 PM
 Updated: 03/18/2020 08:01 PM
 
-%%43621551start%%
+
 #### Extras:
 
-%%43621551end%%
+
 
 
 
@@ -171,10 +171,10 @@ Updated: 03/18/2020 08:01 PM
 Highlighted: 03/18/2020 09:56 PM
 Updated: 03/18/2020 08:01 PM
 
-%%43621550start%%
+
 #### Extras:
 
-%%43621550end%%
+
 
 
 
@@ -187,10 +187,10 @@ Updated: 03/18/2020 08:01 PM
 Highlighted: 03/18/2020 09:56 PM
 Updated: 03/18/2020 08:01 PM
 
-%%43621549start%%
+
 #### Extras:
 
-%%43621549end%%
+
 
 
 
@@ -203,10 +203,10 @@ Updated: 03/18/2020 08:01 PM
 Highlighted: 03/18/2020 09:56 PM
 Updated: 03/18/2020 08:01 PM
 
-%%43621548start%%
+
 #### Extras:
 
-%%43621548end%%
+
 
 
 
@@ -219,10 +219,10 @@ Updated: 03/18/2020 08:01 PM
 Highlighted: 03/18/2020 09:56 PM
 Updated: 03/18/2020 08:01 PM
 
-%%43621547start%%
+
 #### Extras:
 
-%%43621547end%%
+
 
 
 
@@ -235,10 +235,10 @@ Updated: 03/18/2020 08:01 PM
 Highlighted: 03/11/2020 09:56 PM
 Updated: 03/12/2020 04:31 PM
 
-%%43199245start%%
+
 #### Extras:
 
-%%43199245end%%
+
 
 
 
@@ -251,10 +251,10 @@ Updated: 03/12/2020 04:31 PM
 Highlighted: 03/11/2020 09:56 PM
 Updated: 03/12/2020 04:01 AM
 
-%%43180220start%%
+
 #### Extras:
 **Korea****Germany****Power outage**
-%%43180220end%%
+
 
 
 
@@ -267,10 +267,10 @@ Updated: 03/12/2020 04:01 AM
 Highlighted: 03/11/2020 09:56 PM
 Updated: 03/12/2020 04:01 AM
 
-%%43180219start%%
+
 #### Extras:
 
-%%43180219end%%
+
 
 
 
@@ -283,10 +283,10 @@ Updated: 03/12/2020 04:01 AM
 Highlighted: 03/11/2020 09:56 PM
 Updated: 03/12/2020 04:01 AM
 
-%%43180218start%%
+
 #### Extras:
 
-%%43180218end%%
+
 
 
 
@@ -299,10 +299,10 @@ Updated: 03/12/2020 04:01 AM
 Highlighted: 03/11/2020 09:56 PM
 Updated: 03/12/2020 04:01 AM
 
-%%43180217start%%
+
 #### Extras:
 
-%%43180217end%%
+
 
 
 
@@ -315,10 +315,10 @@ Updated: 03/12/2020 04:01 AM
 Highlighted: 03/11/2020 09:56 PM
 Updated: 03/12/2020 04:01 AM
 
-%%43180216start%%
+
 #### Extras:
 
-%%43180216end%%
+
 
 
 
@@ -331,10 +331,10 @@ Updated: 03/12/2020 04:01 AM
 Highlighted: 03/11/2020 09:56 PM
 Updated: 03/12/2020 04:01 AM
 
-%%43180215start%%
+
 #### Extras:
 
-%%43180215end%%
+
 
 
 

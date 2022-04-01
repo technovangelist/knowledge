@@ -6,10 +6,10 @@ Category: books
 Updated: 05/15/2020 01:24 AM
 Highlights URL: https://readwise.io/bookreview/1130736
 
-%%1130736topstart%%
+
 #### Extras:
 
-%%1130736topend%%
+
 
 
  
@@ -23,10 +23,10 @@ Highlights URL: https://readwise.io/bookreview/1130736
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:14 PM
 
-%%33272730start%%
+
 #### Extras:
 
-%%33272730end%%
+
 
 
 
@@ -40,10 +40,10 @@ Comment: .h2 ^rw33272729comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272729start%%
+
 #### Extras:
 
-%%33272729end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:14 PM
 
-%%33272728start%%
+
 #### Extras:
 
-%%33272728end%%
+
 
 
 
@@ -73,10 +73,10 @@ Comment: .h2 ^rw33272727comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272727start%%
+
 #### Extras:
 
-%%33272727end%%
+
 
 
 
@@ -89,10 +89,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:14 PM
 
-%%33272726start%%
+
 #### Extras:
 
-%%33272726end%%
+
 
 
 
@@ -106,10 +106,10 @@ Comment: .h2 ^rw33272725comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272725start%%
+
 #### Extras:
 
-%%33272725end%%
+
 
 
 
@@ -122,10 +122,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:14 PM
 
-%%33272724start%%
+
 #### Extras:
 
-%%33272724end%%
+
 
 
 
@@ -139,10 +139,10 @@ Comment: .h2 ^rw33272723comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272723start%%
+
 #### Extras:
 
-%%33272723end%%
+
 
 
 
@@ -155,10 +155,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:14 PM
 
-%%33272722start%%
+
 #### Extras:
 
-%%33272722end%%
+
 
 
 
@@ -172,10 +172,10 @@ Comment: .h2 ^rw33272721comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272721start%%
+
 #### Extras:
 
-%%33272721end%%
+
 
 
 
@@ -188,10 +188,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:14 PM
 
-%%33272720start%%
+
 #### Extras:
 
-%%33272720end%%
+
 
 
 
@@ -205,10 +205,10 @@ Comment: .h2 ^rw33272719comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272719start%%
+
 #### Extras:
 
-%%33272719end%%
+
 
 
 
@@ -221,10 +221,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:14 PM
 
-%%33272718start%%
+
 #### Extras:
 
-%%33272718end%%
+
 
 
 
@@ -238,10 +238,10 @@ Comment: .h2 ^rw33272717comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272717start%%
+
 #### Extras:
 
-%%33272717end%%
+
 
 
 
@@ -254,10 +254,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:14 PM
 
-%%33272716start%%
+
 #### Extras:
 
-%%33272716end%%
+
 
 
 
@@ -271,10 +271,10 @@ Comment: .h2 ^rw33272715comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272715start%%
+
 #### Extras:
 
-%%33272715end%%
+
 
 
 
@@ -287,10 +287,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272714start%%
+
 #### Extras:
 
-%%33272714end%%
+
 
 
 
@@ -304,10 +304,10 @@ Comment: .h2 ^rw33272713comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272713start%%
+
 #### Extras:
 
-%%33272713end%%
+
 
 
 
@@ -321,10 +321,10 @@ For example, with a book organized into parts, chapters, and sections, you would
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272712start%%
+
 #### Extras:
 
-%%33272712end%%
+
 
 
 
@@ -338,10 +338,10 @@ Comment: .h2 ^rw33272711comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272711start%%
+
 #### Extras:
 
-%%33272711end%%
+
 
 
 
@@ -354,10 +354,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272710start%%
+
 #### Extras:
 
-%%33272710end%%
+
 
 
 
@@ -371,10 +371,10 @@ Comment: .h2 ^rw33272709comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272709start%%
+
 #### Extras:
 
-%%33272709end%%
+
 
 
 
@@ -387,10 +387,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272708start%%
+
 #### Extras:
 
-%%33272708end%%
+
 
 
 
@@ -404,10 +404,10 @@ Comment: .h2 ^rw33272707comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272707start%%
+
 #### Extras:
 
-%%33272707end%%
+
 
 
 
@@ -420,10 +420,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272706start%%
+
 #### Extras:
 
-%%33272706end%%
+
 
 
 
@@ -437,10 +437,10 @@ Comment: .h2 ^rw33272705comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272705start%%
+
 #### Extras:
 
-%%33272705end%%
+
 
 
 
@@ -453,10 +453,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272704start%%
+
 #### Extras:
 
-%%33272704end%%
+
 
 
 
@@ -470,10 +470,10 @@ Comment: .h2 ^rw33272703comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272703start%%
+
 #### Extras:
 
-%%33272703end%%
+
 
 
 
@@ -486,10 +486,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272702start%%
+
 #### Extras:
 
-%%33272702end%%
+
 
 
 
@@ -503,10 +503,10 @@ Comment: .h2 ^rw33272701comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272701start%%
+
 #### Extras:
 
-%%33272701end%%
+
 
 
 
@@ -519,10 +519,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272700start%%
+
 #### Extras:
 
-%%33272700end%%
+
 
 
 
@@ -536,10 +536,10 @@ Comment: .h2 ^rw33272699comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272699start%%
+
 #### Extras:
 
-%%33272699end%%
+
 
 
 
@@ -553,10 +553,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272698start%%
+
 #### Extras:
 
-%%33272698end%%
+
 
 
 
@@ -570,10 +570,10 @@ Comment: .h2 ^rw33272697comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272697start%%
+
 #### Extras:
 
-%%33272697end%%
+
 
 
 
@@ -586,10 +586,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272696start%%
+
 #### Extras:
 
-%%33272696end%%
+
 
 
 
@@ -603,10 +603,10 @@ Comment: .h2 ^rw33272695comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272695start%%
+
 #### Extras:
 
-%%33272695end%%
+
 
 
 
@@ -621,10 +621,10 @@ This principle, of course, also extends to learning. ^rw33272694hl
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272694start%%
+
 #### Extras:
 
-%%33272694end%%
+
 
 
 
@@ -638,10 +638,10 @@ Comment: .h2 ^rw33272693comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272693start%%
+
 #### Extras:
 
-%%33272693end%%
+
 
 
 
@@ -654,10 +654,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272692start%%
+
 #### Extras:
 
-%%33272692end%%
+
 
 
 
@@ -671,10 +671,10 @@ Comment: .h2 ^rw33272691comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272691start%%
+
 #### Extras:
 
-%%33272691end%%
+
 
 
 
@@ -687,10 +687,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272690start%%
+
 #### Extras:
 
-%%33272690end%%
+
 
 
 
@@ -704,10 +704,10 @@ Comment: .h2 ^rw33272689comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272689start%%
+
 #### Extras:
 
-%%33272689end%%
+
 
 
 
@@ -720,10 +720,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272688start%%
+
 #### Extras:
 
-%%33272688end%%
+
 
 
 
@@ -737,10 +737,10 @@ Comment: .h2 ^rw33272687comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272687start%%
+
 #### Extras:
 
-%%33272687end%%
+
 
 
 
@@ -753,10 +753,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272686start%%
+
 #### Extras:
 
-%%33272686end%%
+
 
 
 
@@ -770,10 +770,10 @@ Comment: .h2 ^rw33272685comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272685start%%
+
 #### Extras:
 
-%%33272685end%%
+
 
 
 
@@ -787,10 +787,10 @@ Comment: .h1 ^rw33272684comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272684start%%
+
 #### Extras:
 
-%%33272684end%%
+
 
 
 
@@ -803,10 +803,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272683start%%
+
 #### Extras:
 
-%%33272683end%%
+
 
 
 
@@ -820,10 +820,10 @@ Comment: .h2 ^rw33272682comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272682start%%
+
 #### Extras:
 
-%%33272682end%%
+
 
 
 
@@ -836,10 +836,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272681start%%
+
 #### Extras:
 
-%%33272681end%%
+
 
 
 
@@ -853,10 +853,10 @@ Comment: .h2 ^rw33272680comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272680start%%
+
 #### Extras:
 
-%%33272680end%%
+
 
 
 
@@ -869,10 +869,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272679start%%
+
 #### Extras:
 
-%%33272679end%%
+
 
 
 
@@ -886,10 +886,10 @@ Comment: .h2 ^rw33272678comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272678start%%
+
 #### Extras:
 
-%%33272678end%%
+
 
 
 
@@ -902,10 +902,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272677start%%
+
 #### Extras:
 
-%%33272677end%%
+
 
 
 
@@ -919,10 +919,10 @@ Comment: .h2 ^rw33272676comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272676start%%
+
 #### Extras:
 
-%%33272676end%%
+
 
 
 
@@ -935,10 +935,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272675start%%
+
 #### Extras:
 
-%%33272675end%%
+
 
 
 
@@ -952,10 +952,10 @@ Comment: .h2 ^rw33272674comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272674start%%
+
 #### Extras:
 
-%%33272674end%%
+
 
 
 
@@ -968,10 +968,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272673start%%
+
 #### Extras:
 
-%%33272673end%%
+
 
 
 
@@ -985,10 +985,10 @@ Comment: .h2 ^rw33272672comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272672start%%
+
 #### Extras:
 
-%%33272672end%%
+
 
 
 
@@ -1001,10 +1001,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272671start%%
+
 #### Extras:
 
-%%33272671end%%
+
 
 
 
@@ -1018,10 +1018,10 @@ Comment: .h2 ^rw33272670comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272670start%%
+
 #### Extras:
 
-%%33272670end%%
+
 
 
 
@@ -1034,10 +1034,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272669start%%
+
 #### Extras:
 
-%%33272669end%%
+
 
 
 
@@ -1051,10 +1051,10 @@ Comment: .h2 ^rw33272668comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272668start%%
+
 #### Extras:
 
-%%33272668end%%
+
 
 
 
@@ -1067,10 +1067,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272667start%%
+
 #### Extras:
 
-%%33272667end%%
+
 
 
 
@@ -1084,10 +1084,10 @@ Comment: .h2 ^rw33272666comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272666start%%
+
 #### Extras:
 
-%%33272666end%%
+
 
 
 
@@ -1100,10 +1100,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272665start%%
+
 #### Extras:
 
-%%33272665end%%
+
 
 
 
@@ -1117,10 +1117,10 @@ Comment: .h2 ^rw33272664comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272664start%%
+
 #### Extras:
 
-%%33272664end%%
+
 
 
 
@@ -1133,10 +1133,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272663start%%
+
 #### Extras:
 
-%%33272663end%%
+
 
 
 
@@ -1150,10 +1150,10 @@ Comment: .h2 ^rw33272662comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272662start%%
+
 #### Extras:
 
-%%33272662end%%
+
 
 
 
@@ -1167,10 +1167,10 @@ Comment: .h1 ^rw33272661comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272661start%%
+
 #### Extras:
 
-%%33272661end%%
+
 
 
 
@@ -1183,10 +1183,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272660start%%
+
 #### Extras:
 
-%%33272660end%%
+
 
 
 
@@ -1200,10 +1200,10 @@ Comment: .h2 ^rw33272659comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272659start%%
+
 #### Extras:
 
-%%33272659end%%
+
 
 
 
@@ -1216,10 +1216,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272658start%%
+
 #### Extras:
 
-%%33272658end%%
+
 
 
 
@@ -1233,10 +1233,10 @@ Comment: .h2 ^rw33272657comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272657start%%
+
 #### Extras:
 
-%%33272657end%%
+
 
 
 
@@ -1249,10 +1249,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272656start%%
+
 #### Extras:
 
-%%33272656end%%
+
 
 
 
@@ -1266,10 +1266,10 @@ Comment: .h2 ^rw33272655comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272655start%%
+
 #### Extras:
 
-%%33272655end%%
+
 
 
 
@@ -1282,10 +1282,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272654start%%
+
 #### Extras:
 
-%%33272654end%%
+
 
 
 
@@ -1299,10 +1299,10 @@ Comment: .h2 ^rw33272653comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272653start%%
+
 #### Extras:
 
-%%33272653end%%
+
 
 
 
@@ -1315,10 +1315,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272652start%%
+
 #### Extras:
 
-%%33272652end%%
+
 
 
 
@@ -1332,10 +1332,10 @@ Comment: .h2 ^rw33272651comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272651start%%
+
 #### Extras:
 
-%%33272651end%%
+
 
 
 
@@ -1348,10 +1348,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272650start%%
+
 #### Extras:
 
-%%33272650end%%
+
 
 
 
@@ -1365,10 +1365,10 @@ Comment: .h2 ^rw33272649comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272649start%%
+
 #### Extras:
 
-%%33272649end%%
+
 
 
 
@@ -1381,10 +1381,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272648start%%
+
 #### Extras:
 
-%%33272648end%%
+
 
 
 
@@ -1398,10 +1398,10 @@ Comment: .h2 ^rw33272647comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272647start%%
+
 #### Extras:
 
-%%33272647end%%
+
 
 
 
@@ -1415,10 +1415,10 @@ Comment: .h1 ^rw33272646comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272646start%%
+
 #### Extras:
 
-%%33272646end%%
+
 
 
 
@@ -1431,10 +1431,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272645start%%
+
 #### Extras:
 
-%%33272645end%%
+
 
 
 
@@ -1448,10 +1448,10 @@ Comment: .h2 ^rw33272644comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272644start%%
+
 #### Extras:
 
-%%33272644end%%
+
 
 
 
@@ -1464,10 +1464,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272643start%%
+
 #### Extras:
 
-%%33272643end%%
+
 
 
 
@@ -1481,10 +1481,10 @@ Comment: .h2 ^rw33272642comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272642start%%
+
 #### Extras:
 
-%%33272642end%%
+
 
 
 
@@ -1497,10 +1497,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272641start%%
+
 #### Extras:
 
-%%33272641end%%
+
 
 
 
@@ -1514,10 +1514,10 @@ Comment: .h2 ^rw33272640comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272640start%%
+
 #### Extras:
 
-%%33272640end%%
+
 
 
 
@@ -1530,10 +1530,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272639start%%
+
 #### Extras:
 
-%%33272639end%%
+
 
 
 
@@ -1547,10 +1547,10 @@ Comment: .h2 ^rw33272638comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272638start%%
+
 #### Extras:
 
-%%33272638end%%
+
 
 
 
@@ -1563,10 +1563,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272637start%%
+
 #### Extras:
 
-%%33272637end%%
+
 
 
 
@@ -1580,10 +1580,10 @@ Comment: .h2 ^rw33272636comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272636start%%
+
 #### Extras:
 
-%%33272636end%%
+
 
 
 
@@ -1596,10 +1596,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272635start%%
+
 #### Extras:
 
-%%33272635end%%
+
 
 
 
@@ -1613,10 +1613,10 @@ Comment: .h2 ^rw33272634comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272634start%%
+
 #### Extras:
 
-%%33272634end%%
+
 
 
 
@@ -1629,10 +1629,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272633start%%
+
 #### Extras:
 
-%%33272633end%%
+
 
 
 
@@ -1646,10 +1646,10 @@ Comment: .h2 ^rw33272632comment
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272632start%%
+
 #### Extras:
 
-%%33272632end%%
+
 
 
 
@@ -1662,10 +1662,10 @@ Updated: 12/07/2019 07:13 PM
 Highlighted: 12/07/2019 07:13 PM
 Updated: 12/07/2019 07:13 PM
 
-%%33272631start%%
+
 #### Extras:
 
-%%33272631end%%
+
 
 
 

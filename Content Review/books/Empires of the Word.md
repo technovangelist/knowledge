@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/61bVTK%2B589L._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/8455982
 
-%%8455982topstart%%
+
 #### Extras:
 
-%%8455982topend%%
+
  
 -----
  ## Highlights:
@@ -23,10 +23,10 @@ Highlights URL: https://readwise.io/bookreview/8455982
 Highlighted: 03/31/2021 07:43 AM
 Updated: 03/31/2021 07:43 AM
 
-%%162681670start%%
+
 #### Extras:
 
-%%162681670end%%
+
 
 ------
 
@@ -38,10 +38,10 @@ Updated: 03/31/2021 07:43 AM
 Highlighted: 03/31/2021 07:38 AM
 Updated: 03/31/2021 07:38 AM
 
-%%162680336start%%
+
 #### Extras:
 
-%%162680336end%%
+
 
 ------
 
@@ -53,10 +53,10 @@ Comment: About Cortez and leader of Aztec ^rw162858700comment
 Highlighted: 03/31/2021 10:10 PM
 Updated: 03/31/2021 10:10 PM
 
-%%162858700start%%
+
 #### Extras:
 
-%%162858700end%%
+
 
 ------
 
@@ -68,10 +68,10 @@ Updated: 03/31/2021 10:10 PM
 Highlighted: 03/31/2021 10:13 PM
 Updated: 03/31/2021 10:13 PM
 
-%%162859209start%%
+
 #### Extras:
 
-%%162859209end%%
+
 
 ------
 
@@ -82,10 +82,10 @@ Updated: 03/31/2021 10:13 PM
 Highlighted: 03/31/2021 10:14 PM
 Updated: 03/31/2021 10:14 PM
 
-%%162859703start%%
+
 #### Extras:
 
-%%162859703end%%
+
 
 ------
 

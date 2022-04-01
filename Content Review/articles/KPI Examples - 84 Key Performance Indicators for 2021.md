@@ -7,10 +7,10 @@ Updated: 09/24/2021 01:23 PM
 Highlights URL: https://readwise.io/bookreview/11099226
 SourceUrl: https://www.cascade.app/blog/kpi-examples
 
-%%11099226topstart%%
+
 #### Extras:
 **talk prep** 
-%%11099226topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Comment: great collection of kpi&#39;s for different departments in a company ^r
 Highlighted: 09/24/2021 01:23 PM
 Updated: 09/24/2021 01:23 PM
 
-%%230733187start%%
+
 #### Extras:
 
-%%230733187end%%
+
 
 
 

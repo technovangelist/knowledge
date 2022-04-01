@@ -7,10 +7,10 @@ Updated: 12/24/2020 04:09 AM
 Highlights URL: https://readwise.io/bookreview/6789490
 SourceUrl: https://www.nasa.gov/centers/goddard/about/people/gottschalk-og.html
 
-%%6789490topstart%%
+
 #### Extras:
 **NASA****Gene Gottschalk**
-%%6789490topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.nasa.gov/centers/goddard/about/people/gottschalk-og.html
 Highlighted: 12/19/2020 11:22 PM
 Updated: 12/24/2020 04:09 AM
 
-%%122380810start%%
+
 #### Extras:
 
-%%122380810end%%
+
 
 
 

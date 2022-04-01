@@ -7,10 +7,10 @@ Updated: 03/18/2020 09:02 AM
 Highlights URL: https://readwise.io/bookreview/1130734
 SourceUrl: http://www.allthingsdistributed.com/2016/06/aws-lambda-serverless-reference-architectures.html
 
-%%1130734topstart%%
+
 #### Extras:
 **serverless**[AWS Lambda](/knowledge/Tools I Use/AWS Lambda)
-%%1130734topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: http://www.allthingsdistributed.com/2016/06/aws-lambda-serverless-ref
 Highlighted: 07/15/2016 07:00 PM
 Updated: 12/07/2019 07:12 PM
 
-%%33272595start%%
+
 #### Extras:
 
-%%33272595end%%
+
 
 
 

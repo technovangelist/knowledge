@@ -9,10 +9,10 @@ CoverImageUrl:
 Highlights URL: https://readwise.io/bookreview/6795677
 SourceUrl: https://www.airr.io/episode/5fe384389d9282b3c84203df
 
-%%6795677topstart%%
+
 #### Extras:
 **The Long Conversation**#podcastnotes
-%%6795677topend%%
+
 
 
  
@@ -26,10 +26,10 @@ Highlighted: 01/28/2021 08:24 PM
 Updated: 01/28/2021 08:24 PM
 https://www.airr.io/quote/5fe3a4db9d9282d32d420809
 
-%%122515651start%%
+
 #### Extras:
 
-%%122515651end%%
+
 
 
 

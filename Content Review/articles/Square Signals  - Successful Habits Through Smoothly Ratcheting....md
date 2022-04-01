@@ -7,10 +7,10 @@ Updated: 02/08/2021 09:16 PM
 Highlights URL: https://readwise.io/bookreview/7629719
 SourceUrl: https://blog.andymatuschak.org/post/169043084412/successful-habits-through-smoothly-ratcheting
 
-%%7629719topstart%%
+
 #### Extras:
 **Andy Matuschak****Habits**
-%%7629719topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Comment: three times every 7 days means today is the third time in the last 7 da
 Highlighted: 02/08/2021 09:15 PM
 Updated: 02/08/2021 09:16 PM
 
-%%143305389start%%
+
 #### Extras:
 
-%%143305389end%%
+
 
 
 
@@ -42,10 +42,10 @@ Comment: don't start with the ideal. Start with good. then ratchet up to amazing
 Highlighted: 02/08/2021 09:13 PM
 Updated: 02/08/2021 09:14 PM
 
-%%143303190start%%
+
 #### Extras:
 
-%%143303190end%%
+
 
 
 
@@ -59,10 +59,10 @@ Comment: as soon as you break the chain, hard to get back ^rw143303182comment
 Highlighted: 02/08/2021 09:13 PM
 Updated: 02/08/2021 09:13 PM
 
-%%143303182start%%
+
 #### Extras:
 
-%%143303182end%%
+
 
 
 
@@ -75,10 +75,10 @@ Updated: 02/08/2021 09:13 PM
 Highlighted: 02/08/2021 09:12 PM
 Updated: 02/08/2021 09:12 PM
 
-%%143303181start%%
+
 #### Extras:
 
-%%143303181end%%
+
 
 
 
@@ -91,10 +91,10 @@ Updated: 02/08/2021 09:12 PM
 Highlighted: 02/08/2021 09:12 PM
 Updated: 02/08/2021 09:12 PM
 
-%%143303169start%%
+
 #### Extras:
 
-%%143303169end%%
+
 
 
 

@@ -7,7 +7,7 @@ Updated: 02/18/2021 11:34 AM
 Highlights URL: https://readwise.io/bookreview/7821104
 SourceUrl: https://johnnydecimal.com/concepts/developing-your-own-system
 
-%%7821104topstart%%
+
 #### Extras:
 **johnnydecimal**
 
@@ -19,7 +19,7 @@ Start creating items and assigning Johnny.Decimal IDs.
 Track your numbers somewhere.
 <!--ID: 1614665312049-->
 
-%%7821104topend%%
+
 
 
 
@@ -40,11 +40,11 @@ It’s not much more complicated than that. ^rw147420872hl
 Highlighted: 02/18/2021 11:34 AM
 Updated: 02/18/2021 11:34 AM
 
-%%147420872start%%
+
 #### Extras:
 
 
-%%147420872end%%
+
 
 
 

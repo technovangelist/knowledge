@@ -7,10 +7,10 @@ Updated: 03/01/2021 07:36 PM
 Highlights URL: https://readwise.io/bookreview/8059282
 SourceUrl: https://aws.amazon.com/fargate/pricing/#Supported_Configurations
 
-%%8059282topstart%%
+
 #### Extras:
 
-%%8059282topend%%
+
  
 -----
  ## Highlights:
@@ -32,7 +32,7 @@ Memory Values
 Highlighted: 03/01/2021 07:30 PM
 Updated: 03/01/2021 07:30 PM
 
-%%152484737start%%
+
 #### Extras:
 ### Supported Configurations
 
@@ -48,7 +48,7 @@ Updated: 03/01/2021 07:30 PM
 
 
 
-%%152484737end%%
+
 
 ------
 
@@ -59,7 +59,7 @@ Updated: 03/01/2021 07:30 PM
 Highlighted: 03/01/2021 07:36 PM
 Updated: 03/01/2021 07:36 PM
 
-%%152485381start%%
+
 #### Extras:
 
 Is there a way to save money on Fargate? #flashcard 
@@ -68,7 +68,7 @@ the Savings Plans offer up to 50% saving in exchange for commitment for 1 to 3 y
 
 
 
-%%152485381end%%
+
 
 ------
 
@@ -81,7 +81,7 @@ Pricing is per second with a 1-minute minimum. Duration is calculated from the t
 Highlighted: 03/01/2021 07:36 PM
 Updated: 03/01/2021 07:36 PM
 
-%%152485383start%%
+
 #### Extras:
 
 When does the duration for Fargate billing start? #flashcard 
@@ -89,7 +89,7 @@ it starts when you start the download of your container image and stops when the
 <!--ID: 1614656366178-->
 
 
-%%152485383end%%
+
 
 ------
 

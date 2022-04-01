@@ -7,10 +7,10 @@ Updated: 02/02/2021 11:56 AM
 Highlights URL: https://readwise.io/bookreview/7504213
 SourceUrl: https://www.fairwinds.com/blog/demo-monitoring-kubernetes-workloads-astro
 
-%%7504213topstart%%
+
 #### Extras:
 **kubernetes****Astro****Fairwinds**
-%%7504213topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.fairwinds.com/blog/demo-monitoring-kubernetes-workloads-a
 Highlighted: 02/02/2021 11:56 AM
 Updated: 02/02/2021 11:56 AM
 
-%%140438800start%%
+
 #### Extras:
 
-%%140438800end%%
+
 
 
 

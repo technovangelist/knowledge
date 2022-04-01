@@ -7,10 +7,10 @@ Updated: 02/05/2021 03:46 PM
 Highlights URL: https://readwise.io/bookreview/1548108
 SourceUrl: https://pythonspeed.com/articles/dont-need-kubernetes/
 
-%%1548108topstart%%
+
 #### Extras:
 **Itamar Turner-Trauring**
-%%1548108topend%%
+
  
 -----
  ## Highlights:
@@ -23,10 +23,10 @@ Highlighted: 02/05/2021 03:46 PM
 Updated: 02/05/2021 03:46 PM
 https://instapaper.com/read/1284918897/15419661
 
-%%141751601start%%
+
 #### Extras:
 
-%%141751601end%%
+
 
 ------
 
@@ -38,10 +38,10 @@ Highlighted: 02/05/2021 03:44 PM
 Updated: 02/05/2021 03:46 PM
 https://instapaper.com/read/1284918897/15419655
 
-%%141751599start%%
+
 #### Extras:
 **kubernetes**
-%%141751599end%%
+
 
 ------
 
@@ -53,10 +53,10 @@ Highlighted: 02/05/2021 03:42 PM
 Updated: 02/05/2021 03:46 PM
 https://instapaper.com/read/1284918897/15419650
 
-%%141751240start%%
+
 #### Extras:
 this is a test
-%%141751240end%%
+
 
 ------
 
@@ -67,10 +67,10 @@ this is a test
 Highlighted: 03/12/2020 10:00 AM
 Updated: 02/05/2021 03:46 PM
 
-%%43203487start%%
+
 #### Extras:
 
-%%43203487end%%
+
 
 ------
 
@@ -81,10 +81,10 @@ Updated: 02/05/2021 03:46 PM
 Highlighted: 03/12/2020 09:59 AM
 Updated: 02/05/2021 03:46 PM
 
-%%43203486start%%
+
 #### Extras:
 **Docker**
-%%43203486end%%
+
 
 ------
 
@@ -95,10 +95,10 @@ Updated: 02/05/2021 03:46 PM
 Highlighted: 03/12/2020 09:58 AM
 Updated: 02/05/2021 03:46 PM
 
-%%43203485start%%
+
 #### Extras:
 
-%%43203485end%%
+
 
 ------
 
@@ -109,10 +109,10 @@ Updated: 02/05/2021 03:46 PM
 Highlighted: 03/12/2020 09:58 AM
 Updated: 02/05/2021 03:46 PM
 
-%%43203484start%%
+
 #### Extras:
 
-%%43203484end%%
+
 
 ------
 
@@ -123,10 +123,10 @@ Updated: 02/05/2021 03:46 PM
 Highlighted: 03/12/2020 09:58 AM
 Updated: 02/05/2021 03:46 PM
 
-%%43203483start%%
+
 #### Extras:
 
-%%43203483end%%
+
 
 ------
 
@@ -137,10 +137,10 @@ Updated: 02/05/2021 03:46 PM
 Highlighted: 03/12/2020 09:57 AM
 Updated: 02/05/2021 03:46 PM
 
-%%43203482start%%
+
 #### Extras:
 
-%%43203482end%%
+
 
 ------
 
@@ -151,10 +151,10 @@ Updated: 02/05/2021 03:46 PM
 Highlighted: 03/12/2020 09:57 AM
 Updated: 02/05/2021 03:46 PM
 
-%%43203481start%%
+
 #### Extras:
 
-%%43203481end%%
+
 
 ------
 
@@ -167,10 +167,10 @@ Updated: 02/05/2021 03:46 PM
 Highlighted: 03/12/2020 09:55 AM
 Updated: 02/05/2021 03:46 PM
 
-%%43203480start%%
+
 #### Extras:
 **EndpointSlice****selector****pod****endpoint**
-%%43203480end%%
+
 
 ------
 
@@ -181,10 +181,10 @@ Updated: 02/05/2021 03:46 PM
 Highlighted: 03/12/2020 09:55 AM
 Updated: 02/05/2021 03:46 PM
 
-%%43203479start%%
+
 #### Extras:
 
-%%43203479end%%
+
 
 ------
 
@@ -196,10 +196,10 @@ Updated: 02/05/2021 03:46 PM
 Highlighted: 03/12/2020 09:54 AM
 Updated: 02/05/2021 03:46 PM
 
-%%43203478start%%
+
 #### Extras:
 
-%%43203478end%%
+
 
 ------
 
@@ -211,10 +211,10 @@ Updated: 02/05/2021 03:46 PM
 Highlighted: 03/12/2020 09:54 AM
 Updated: 02/05/2021 03:46 PM
 
-%%43203477start%%
+
 #### Extras:
 **code review**
-%%43203477end%%
+
 
 ------
 
@@ -225,10 +225,10 @@ Updated: 02/05/2021 03:46 PM
 Highlighted: 03/12/2020 09:52 AM
 Updated: 02/05/2021 03:46 PM
 
-%%43203476start%%
+
 #### Extras:
 
-%%43203476end%%
+
 
 ------
 
@@ -239,10 +239,10 @@ Updated: 02/05/2021 03:46 PM
 Highlighted: 03/12/2020 09:52 AM
 Updated: 02/05/2021 03:46 PM
 
-%%43203475start%%
+
 #### Extras:
 
-%%43203475end%%
+
 
 ------
 

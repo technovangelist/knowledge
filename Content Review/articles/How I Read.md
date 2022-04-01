@@ -7,10 +7,10 @@ Updated: 03/18/2020 08:59 AM
 Highlights URL: https://readwise.io/bookreview/1518115
 SourceUrl: https://sirupsen.com/read/
 
-%%1518115topstart%%
+
 #### Extras:
 **Simon Hørup Eskildsen****reading**
-%%1518115topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Comment: Just because its old doesnt make it good ^rw43203474comment
 Highlighted: 03/12/2020 11:02 AM
 Updated: 03/12/2020 05:34 PM
 
-%%43203474start%%
+
 #### Extras:
 
-%%43203474end%%
+
 
 
 
@@ -42,10 +42,10 @@ Comment: is this greenfield content? correct term? ^rw43203473comment
 Highlighted: 03/12/2020 10:59 AM
 Updated: 03/12/2020 05:34 PM
 
-%%43203473start%%
+
 #### Extras:
 
-%%43203473end%%
+
 
 
 
@@ -58,10 +58,10 @@ Updated: 03/12/2020 05:34 PM
 Highlighted: 03/06/2020 11:13 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579386start%%
+
 #### Extras:
 **Dan Doyon****Kindle**
-%%42579386end%%
+
 
 
 
@@ -74,10 +74,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 11:13 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579385start%%
+
 #### Extras:
 
-%%42579385end%%
+
 
 
 
@@ -90,10 +90,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 11:13 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579384start%%
+
 #### Extras:
 
-%%42579384end%%
+
 
 
 
@@ -106,10 +106,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 11:11 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579383start%%
+
 #### Extras:
 **Syntopical reading**
-%%42579383end%%
+
 
 
 
@@ -122,10 +122,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 11:10 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579382start%%
+
 #### Extras:
 
-%%42579382end%%
+
 
 
 
@@ -138,10 +138,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 11:09 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579381start%%
+
 #### Extras:
 **airtable****Instapaper****goodreads**
-%%42579381end%%
+
 
 
 
@@ -155,10 +155,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 11:09 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579380start%%
+
 #### Extras:
 **Charlie Munger**
-%%42579380end%%
+
 
 
 

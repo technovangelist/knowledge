@@ -7,10 +7,10 @@ Updated: 09/23/2021 06:13 PM
 Highlights URL: https://readwise.io/bookreview/11086841
 SourceUrl: https://www.logicmonitor.com/blog/unified-observability-a-business-centric-view
 
-%%11086841topstart%%
+
 #### Extras:
 
-%%11086841topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.logicmonitor.com/blog/unified-observability-a-business-ce
 Highlighted: 09/23/2021 06:12 PM
 Updated: 09/23/2021 06:12 PM
 
-%%230453320start%%
+
 #### Extras:
 
-%%230453320end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 09/23/2021 06:12 PM
 Highlighted: 09/23/2021 06:12 PM
 Updated: 09/23/2021 06:12 PM
 
-%%230453326start%%
+
 #### Extras:
 
-%%230453326end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 09/23/2021 06:12 PM
 Highlighted: 09/23/2021 06:13 PM
 Updated: 09/23/2021 06:13 PM
 
-%%230453366start%%
+
 #### Extras:
 
-%%230453366end%%
+
 
 
 

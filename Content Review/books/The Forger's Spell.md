@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/51HiH1YANYL._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1214121
 
-%%1214121topstart%%
+
 #### Extras:
 
-%%1214121topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlights URL: https://readwise.io/bookreview/1214121
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507294start%%
+
 #### Extras:
 
-%%35507294end%%
+
 
 
 
@@ -41,10 +41,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507293start%%
+
 #### Extras:
 
-%%35507293end%%
+
 
 
 
@@ -58,10 +58,10 @@ Comment: ontact j paul re the audio clip  ^rw35507292comment
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507292start%%
+
 #### Extras:
 
-%%35507292end%%
+
 
 
 
@@ -74,10 +74,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507291start%%
+
 #### Extras:
 
-%%35507291end%%
+
 
 
 
@@ -90,10 +90,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507290start%%
+
 #### Extras:
 
-%%35507290end%%
+
 
 
 
@@ -106,10 +106,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507289start%%
+
 #### Extras:
 
-%%35507289end%%
+
 
 
 
@@ -122,10 +122,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507288start%%
+
 #### Extras:
 
-%%35507288end%%
+
 
 
 
@@ -138,10 +138,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507287start%%
+
 #### Extras:
 
-%%35507287end%%
+
 
 
 
@@ -155,10 +155,10 @@ Comment: regarding a potential murder accusation  ^rw35507286comment
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507286start%%
+
 #### Extras:
 
-%%35507286end%%
+
 
 
 
@@ -171,10 +171,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507285start%%
+
 #### Extras:
 
-%%35507285end%%
+
 
 
 
@@ -187,10 +187,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507284start%%
+
 #### Extras:
 
-%%35507284end%%
+
 
 
 
@@ -203,10 +203,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507283start%%
+
 #### Extras:
 
-%%35507283end%%
+
 
 
 
@@ -219,10 +219,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507282start%%
+
 #### Extras:
 
-%%35507282end%%
+
 
 
 
@@ -235,10 +235,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507281start%%
+
 #### Extras:
 
-%%35507281end%%
+
 
 
 
@@ -251,10 +251,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507280start%%
+
 #### Extras:
 
-%%35507280end%%
+
 
 
 
@@ -267,10 +267,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507279start%%
+
 #### Extras:
 
-%%35507279end%%
+
 
 
 
@@ -284,10 +284,10 @@ Comment: regardinvg the spanish in holland ^rw35507278comment
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507278start%%
+
 #### Extras:
 
-%%35507278end%%
+
 
 
 
@@ -300,10 +300,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507277start%%
+
 #### Extras:
 
-%%35507277end%%
+
 
 
 
@@ -316,10 +316,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507276start%%
+
 #### Extras:
 
-%%35507276end%%
+
 
 
 
@@ -332,10 +332,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507275start%%
+
 #### Extras:
 
-%%35507275end%%
+
 
 
 
@@ -348,10 +348,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507274start%%
+
 #### Extras:
 
-%%35507274end%%
+
 
 
 
@@ -364,10 +364,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507273start%%
+
 #### Extras:
 
-%%35507273end%%
+
 
 
 
@@ -380,10 +380,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 06/12/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507272start%%
+
 #### Extras:
 
-%%35507272end%%
+
 
 
 

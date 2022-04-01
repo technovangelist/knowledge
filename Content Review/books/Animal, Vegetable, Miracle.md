@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/51T5Uzk0TuL._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1214118
 
-%%1214118topstart%%
+
 #### Extras:
 **Barbara Kingsolver**
-%%1214118topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlights URL: https://readwise.io/bookreview/1214118
 Highlighted: 07/05/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507260start%%
+
 #### Extras:
 **Charity****International Aid**
-%%35507260end%%
+
 
 
 
@@ -41,10 +41,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 07/05/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507259start%%
+
 #### Extras:
 
-%%35507259end%%
+
 
 
 
@@ -57,10 +57,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 07/05/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507258start%%
+
 #### Extras:
 
-%%35507258end%%
+
 
 
 
@@ -73,10 +73,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 07/05/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507257start%%
+
 #### Extras:
 
-%%35507257end%%
+
 
 
 
@@ -89,10 +89,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 07/05/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507256start%%
+
 #### Extras:
 
-%%35507256end%%
+
 
 
 
@@ -105,10 +105,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 07/05/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507255start%%
+
 #### Extras:
 
-%%35507255end%%
+
 
 
 

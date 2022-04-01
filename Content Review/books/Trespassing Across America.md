@@ -8,12 +8,12 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/511XVcpVEFL._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/7382509
 
-%%7382509topstart%%
+
 #### Extras:
 **Ken Ilgunas** **pipeline** **Pipeline XL** **Transcanada**
 
 An amazing story of a walk from the beginning to the end of the proposed Pipeline XL. Although it started as a book to understand why anyone would want the pipeline, it quickly became a story about the generosity of the people living in proximity to the pipeline. Lots of stories about the people and the land and their relationship to each other. 
-%%7382509topend%%
+
  
 -----
  ## Highlights:
@@ -25,10 +25,10 @@ An amazing story of a walk from the beginning to the end of the proposed Pipelin
 Highlighted: 02/21/2021 03:58 PM
 Updated: 02/21/2021 03:58 PM
 
-%%148734682start%%
+
 #### Extras:
 The final paragraph of the book. He started with a need to understand the pipeline, and finished knowing about the goodness of the people who live alongside it. 
-%%148734682end%%
+
 
 
 
@@ -41,7 +41,7 @@ The final paragraph of the book. He started with a need to understand the pipeli
 Highlighted: 02/21/2021 03:54 PM
 Updated: 02/21/2021 03:54 PM
 
-%%148734406start%%
+
 #### Extras:
 What is the purpose of a pipeline? to deliver something to the other side that is needed. But this pipeline doesn't deliver a lot to the people on the other side, only to the company that exports it. And even if they did deliver all of the contents, its stuff they don't really need...oil. **water** **climate change** 
 
@@ -50,7 +50,7 @@ A pipeline is built to send a resource from {a place that has a lot of it to a p
 <!--ID: 1614665311828-->
 
 
-%%148734406end%%
+
 
 
 
@@ -63,10 +63,10 @@ A pipeline is built to send a resource from {a place that has a lot of it to a p
 Highlighted: 02/21/2021 03:53 PM
 Updated: 02/21/2021 03:53 PM
 
-%%148734387start%%
+
 #### Extras:
 Time is measured by the growth of children. but for a hiker, he sees glaciers shaping the land. he sees the history measured in millennia.  **time** **measuring time** 
-%%148734387end%%
+
 
 
 
@@ -80,10 +80,10 @@ Time is measured by the growth of children. but for a hiker, he sees glaciers sh
 Highlighted: 02/21/2021 03:45 PM
 Updated: 02/21/2021 03:45 PM
 
-%%148732186start%%
+
 #### Extras:
 The future is not yet set in stone. We have a lot of expectations, but it might not be too late to solve it. But thats not an excuse to give up since it may all be all right. We need to keep working on making it better **negative feedback**  **Kerry Emanuel**  **What We Know About Climate Change**  [Books to read](/knowledge/Content Review/books/Books to read)
-%%148732186end%%
+
 
 
 
@@ -96,11 +96,11 @@ The future is not yet set in stone. We have a lot of expectations, but it might 
 Highlighted: 02/21/2021 03:39 PM
 Updated: 02/21/2021 03:39 PM
 
-%%148729998start%%
+
 #### Extras:
 All of the climate deniers he saw were selectively skeptical. Only skeptical of folks who knew what they were talking about. Not one person had anything to say about global warming based on any real facts.
 
-%%148729998end%%
+
 
 
 
@@ -118,10 +118,10 @@ All of the climate deniers he saw were selectively skeptical. Only skeptical of 
 Highlighted: 02/21/2021 03:37 PM
 Updated: 02/21/2021 03:37 PM
 
-%%148729762start%%
+
 #### Extras:
 Sure, the pipeline creates some jobs, but not a lot, and very few of any quality. Why would someone work a job that isn't fun. That doesn't let you do what you want. And if someone is going to settle for job like that, why pick the job that is going to destroy the landscape for your children. **jobs** **Fort McMurray**
-%%148729762end%%
+
 
 
 
@@ -156,10 +156,10 @@ Sure, the pipeline creates some jobs, but not a lot, and very few of any quality
 Highlighted: 02/21/2021 03:28 PM
 Updated: 02/21/2021 03:28 PM
 
-%%148727061start%%
+
 #### Extras:
 "I didn't get the sense that Pastor James was preaching to me out of a sense of compassion or that he truly cared about the fate of my Soul. Rather, converting me was only a sort of game for him to play" 
-%%148727061end%%
+
 
 
 
@@ -173,10 +173,10 @@ Updated: 02/21/2021 03:28 PM
 Highlighted: 02/21/2021 03:16 PM
 Updated: 02/21/2021 03:16 PM
 
-%%148723601start%%
+
 #### Extras:
 **jobs****first world country**  **Cushing** Cushing is the center of the oil business and even more poor than a lot of places on the way.
-%%148723601end%%
+
 
 
 
@@ -189,10 +189,10 @@ Updated: 02/21/2021 03:16 PM
 Highlighted: 02/21/2021 03:15 PM
 Updated: 02/21/2021 03:15 PM
 
-%%148723594start%%
+
 #### Extras:
 Too many folks believe that if a scientist is pushing climate change, they must be democrat or liberal, rather than just stating the truth. ugh.
-%%148723594end%%
+
 
 
 
@@ -206,10 +206,10 @@ Too many folks believe that if a scientist is pushing climate change, they must 
 Highlighted: 02/21/2021 03:11 PM
 Updated: 02/21/2021 03:11 PM
 
-%%148721416start%%
+
 #### Extras:
 Since we are already going to hell, turning up the thermostat isn't going to change anything. We are already screwed. Too many doomsday christian cults that believe the end is nigh due to a wacko's reading of the bible. This is just a larger cult **cult** **christianity** **responsibility** **apocalypse**
-%%148721416end%%
+
 
 
 
@@ -222,10 +222,10 @@ Since we are already going to hell, turning up the thermostat isn't going to cha
 Highlighted: 02/21/2021 03:08 PM
 Updated: 02/21/2021 03:08 PM
 
-%%148720810start%%
+
 #### Extras:
 **James Hansen**  **tar sands** **E.O.Wilson**
-%%148720810end%%
+
 
 
 
@@ -239,10 +239,10 @@ Updated: 02/21/2021 03:08 PM
 Highlighted: 02/21/2021 03:08 PM
 Updated: 02/21/2021 03:08 PM
 
-%%148720807start%%
+
 #### Extras:
 **Reinhold Niebuhr** [Serenity Prayer](/knowledge/Other Notes/Serenity Prayer)
-%%148720807end%%
+
 
 
 
@@ -255,10 +255,10 @@ Updated: 02/21/2021 03:08 PM
 Highlighted: 02/20/2021 09:33 PM
 Updated: 02/20/2021 09:33 PM
 
-%%148382009start%%
+
 #### Extras:
 **camel** The camel is originally from North America?
-%%148382009end%%
+
 
 ------
 
@@ -272,10 +272,10 @@ Comment: Incredible ^rw148375094comment
 Highlighted: 02/20/2021 09:29 PM
 Updated: 02/20/2021 09:29 PM
 
-%%148375094start%%
+
 #### Extras:
 **Ogallala Aquifer** Incredible that we waste so much money subsidizing an industry that can never make a profit since the land is so unfertile in the middle of the country. 
-%%148375094end%%
+
 
 ------
 
@@ -286,10 +286,10 @@ Updated: 02/20/2021 09:29 PM
 Highlighted: 02/19/2021 09:59 PM
 Updated: 02/19/2021 09:59 PM
 
-%%147982816start%%
+
 #### Extras:
 A long walk is the most impermanent method of travel. There is no ability to take souvenirs along the way. You only have your memories. **walking**
-%%147982816end%%
+
 
 ------
 
@@ -301,10 +301,10 @@ A long walk is the most impermanent method of travel. There is no ability to tak
 Highlighted: 02/19/2021 09:58 PM
 Updated: 02/19/2021 09:58 PM
 
-%%147982739start%%
+
 #### Extras:
 
-%%147982739end%%
+
 
 ------
 
@@ -317,10 +317,10 @@ Updated: 02/19/2021 09:58 PM
 Highlighted: 02/19/2021 09:56 PM
 Updated: 02/19/2021 09:56 PM
 
-%%147982672start%%
+
 #### Extras:
 Some states were more aware of climate change than others. 
-%%147982672end%%
+
 
 ------
 
@@ -332,10 +332,10 @@ Some states were more aware of climate change than others.
 Highlighted: 02/18/2021 11:22 PM
 Updated: 02/18/2021 11:22 PM
 
-%%147614165start%%
+
 #### Extras:
 When you're not sure how many cows are chasing you, don't stop to count
-%%147614165end%%
+
 
 ------
 
@@ -347,10 +347,10 @@ Comment: Similar idea to writing is thinking ^rw147613621comment
 Highlighted: 02/18/2021 11:15 PM
 Updated: 02/18/2021 11:15 PM
 
-%%147613621start%%
+
 #### Extras:
 **writing to think**
-%%147613621end%%
+
 
 ------
 
@@ -361,10 +361,10 @@ Updated: 02/18/2021 11:15 PM
 Highlighted: 02/16/2021 09:59 PM
 Updated: 02/16/2021 09:59 PM
 
-%%146740773start%%
+
 #### Extras:
 
-%%146740773end%%
+
 
 ------
 
@@ -375,10 +375,10 @@ Updated: 02/16/2021 09:59 PM
 Highlighted: 02/05/2021 11:36 PM
 Updated: 02/05/2021 11:36 PM
 
-%%141878888start%%
+
 #### Extras:
 
-%%141878888end%%
+
 
 ------
 
@@ -389,10 +389,10 @@ Updated: 02/05/2021 11:36 PM
 Highlighted: 02/05/2021 11:34 PM
 Updated: 02/05/2021 11:34 PM
 
-%%141878644start%%
+
 #### Extras:
 **Candace Savage****Mount Everest**
-%%141878644end%%
+
 
 ------
 
@@ -403,10 +403,10 @@ Updated: 02/05/2021 11:34 PM
 Highlighted: 02/05/2021 11:32 PM
 Updated: 02/05/2021 11:32 PM
 
-%%141878089start%%
+
 #### Extras:
 **Brachiosaurus****Cretaceous****Quetzalcoatlus****Tyrannosaurus rex**
-%%141878089end%%
+
 
 ------
 
@@ -418,10 +418,10 @@ Updated: 02/05/2021 11:32 PM
 Highlighted: 02/05/2021 11:30 PM
 Updated: 02/05/2021 11:30 PM
 
-%%141877894start%%
+
 #### Extras:
 
-%%141877894end%%
+
 
 ------
 
@@ -432,10 +432,10 @@ Updated: 02/05/2021 11:30 PM
 Highlighted: 01/28/2021 11:04 PM
 Updated: 01/28/2021 11:04 PM
 
-%%137493837start%%
+
 #### Extras:
 **Wyoming****West Virginia**
-%%137493837end%%
+
 
 ------
 
@@ -446,10 +446,10 @@ Updated: 01/28/2021 11:04 PM
 Highlighted: 01/28/2021 10:55 PM
 Updated: 01/28/2021 10:55 PM
 
-%%137491295start%%
+
 #### Extras:
 
-%%137491295end%%
+
 
 ------
 
@@ -460,10 +460,10 @@ Updated: 01/28/2021 10:55 PM
 Highlighted: 01/28/2021 10:49 PM
 Updated: 01/28/2021 10:49 PM
 
-%%137491169start%%
+
 #### Extras:
 
-%%137491169end%%
+
 
 ------
 
@@ -475,10 +475,10 @@ Updated: 01/28/2021 10:49 PM
 Highlighted: 01/28/2021 10:45 PM
 Updated: 01/28/2021 10:45 PM
 
-%%137491035start%%
+
 #### Extras:
 **Hitchhiking**
-%%137491035end%%
+
 
 ------
 
@@ -490,10 +490,10 @@ Comment: Ch 1  - Ken Ilgunas gets to Deadhorse Camp for a two week turn many mon
 Highlighted: 01/28/2021 02:59 PM
 Updated: 01/28/2021 02:59 PM
 
-%%137387563start%%
+
 #### Extras:
 **Keystone XL****pipeline**
-%%137387563end%%
+
 
 ------
 
@@ -504,10 +504,10 @@ Updated: 01/28/2021 02:59 PM
 Highlighted: 01/28/2021 02:56 PM
 Updated: 01/28/2021 02:56 PM
 
-%%137387363start%%
+
 #### Extras:
 
-%%137387363end%%
+
 
 ------
 
@@ -518,10 +518,10 @@ Updated: 01/28/2021 02:56 PM
 Highlighted: 01/28/2021 02:53 PM
 Updated: 01/28/2021 02:53 PM
 
-%%137387313start%%
+
 #### Extras:
 
-%%137387313end%%
+
 
 ------
 
@@ -532,10 +532,10 @@ Updated: 01/28/2021 02:53 PM
 Highlighted: 01/28/2021 02:51 PM
 Updated: 01/28/2021 02:51 PM
 
-%%137387095start%%
+
 #### Extras:
 **Black Narcissus****Himalayas**
-%%137387095end%%
+
 
 ------
 
@@ -547,10 +547,10 @@ Comment: They had tourists??? Who would stay there ^rw137385458comment
 Highlighted: 01/28/2021 02:38 PM
 Updated: 01/28/2021 02:38 PM
 
-%%137385458start%%
+
 #### Extras:
 
-%%137385458end%%
+
 
 ------
 
@@ -562,10 +562,10 @@ Comment: 3/4 of the folks working at Deadhorse Camp were English majors  the cam
 Highlighted: 01/28/2021 02:31 PM
 Updated: 01/28/2021 02:31 PM
 
-%%137384448start%%
+
 #### Extras:
 **Scream Movie**
-%%137384448end%%
+
 
 ------
 
@@ -577,10 +577,10 @@ Updated: 01/28/2021 02:31 PM
 Highlighted: 01/28/2021 02:22 PM
 Updated: 01/28/2021 02:22 PM
 
-%%137383735start%%
+
 #### Extras:
 **Antonio Machado**
-%%137383735end%%
+
 
 ------
 

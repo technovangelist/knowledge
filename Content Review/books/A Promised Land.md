@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://m.media-amazon.com/images/I/91+NBrXG-PL._SY160.jpg)
 Highlights URL: https://readwise.io/bookreview/7240206
 
-%%7240206topstart%%
+
 #### Extras:
 
-%%7240206topend%%
+
 
 
  
@@ -28,10 +28,10 @@ Highlights URL: https://readwise.io/bookreview/7240206
 Highlighted: 01/20/2021 11:24 PM
 Updated: 01/20/2021 11:24 PM
 
-%%134480636start%%
+
 #### Extras:
 
-%%134480636end%%
+
 
 
 
@@ -45,10 +45,10 @@ Comment: How different Obama thinks vs trump  a small gaff like this worried Oba
 Highlighted: 01/18/2021 10:47 PM
 Updated: 01/18/2021 10:47 PM
 
-%%133806841start%%
+
 #### Extras:
 
-%%133806841end%%
+
 
 
 

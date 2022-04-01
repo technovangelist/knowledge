@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/41esAy%2B6SQL._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1214104
 
-%%1214104topstart%%
+
 #### Extras:
 **Leonard Mlodinow**
-%%1214104topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlights URL: https://readwise.io/bookreview/1214104
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507090start%%
+
 #### Extras:
 **math**
-%%35507090end%%
+
 
 
 

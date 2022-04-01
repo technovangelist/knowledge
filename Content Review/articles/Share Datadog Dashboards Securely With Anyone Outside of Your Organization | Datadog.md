@@ -7,10 +7,10 @@ Updated: 02/03/2021 04:16 PM
 Highlights URL: https://readwise.io/bookreview/7527087
 SourceUrl: https://www.datadoghq.com/blog/dashboard-sharing/
 
-%%7527087topstart%%
+
 #### Extras:
 **Miranda Kaplin**
-%%7527087topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.datadoghq.com/blog/dashboard-sharing/
 Highlighted: 02/03/2021 04:16 PM
 Updated: 02/03/2021 04:16 PM
 
-%%141017382start%%
+
 #### Extras:
 
-%%141017382end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 02/03/2021 04:16 PM
 Highlighted: 02/03/2021 04:16 PM
 Updated: 02/03/2021 04:16 PM
 
-%%141017337start%%
+
 #### Extras:
 
-%%141017337end%%
+
 
 
 

@@ -9,10 +9,10 @@ CoverImageUrl:
 Highlights URL: https://readwise.io/bookreview/7174971
 SourceUrl: https://www.airr.io/episode/5fe325fc796094aed8f4c5a5
 
-%%7174971topstart%%
+
 #### Extras:
 **devops****Jeffrey Smith**
-%%7174971topend%%
+
 
 
  
@@ -26,10 +26,10 @@ Highlighted: 01/28/2021 08:22 PM
 Updated: 01/28/2021 08:22 PM
 https://www.airr.io/quote/600131cdf34dae794b30d7c0
 
-%%132294981start%%
+
 #### Extras:
 **audit****policy**
-%%132294981end%%
+
 
 
 

@@ -7,10 +7,10 @@ Updated: 02/11/2021 03:51 PM
 Highlights URL: https://readwise.io/bookreview/7679835
 SourceUrl: https://docs.sqreen.com/
 
-%%7679835topstart%%
+
 #### Extras:
 **sqreen**
-%%7679835topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://docs.sqreen.com/
 Highlighted: 02/11/2021 03:51 PM
 Updated: 02/11/2021 03:51 PM
 
-%%144435437start%%
+
 #### Extras:
 
-%%144435437end%%
+
 
 
 

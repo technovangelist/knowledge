@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/51e4UGvnWoL._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1214109
 
-%%1214109topstart%%
+
 #### Extras:
 
-%%1214109topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlights URL: https://readwise.io/bookreview/1214109
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507160start%%
+
 #### Extras:
 
-%%35507160end%%
+
 
 
 
@@ -42,10 +42,10 @@ Comment: ghosts in the machine ^rw35507159comment
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507159start%%
+
 #### Extras:
 
-%%35507159end%%
+
 
 
 
@@ -58,10 +58,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507158start%%
+
 #### Extras:
 
-%%35507158end%%
+
 
 
 
@@ -74,10 +74,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507157start%%
+
 #### Extras:
 
-%%35507157end%%
+
 
 
 
@@ -90,10 +90,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507156start%%
+
 #### Extras:
 
-%%35507156end%%
+
 
 
 
@@ -106,10 +106,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507155start%%
+
 #### Extras:
 
-%%35507155end%%
+
 
 
 
@@ -122,10 +122,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507154start%%
+
 #### Extras:
 
-%%35507154end%%
+
 
 
 
@@ -138,10 +138,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507153start%%
+
 #### Extras:
 
-%%35507153end%%
+
 
 
 
@@ -154,10 +154,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507152start%%
+
 #### Extras:
 
-%%35507152end%%
+
 
 
 
@@ -170,10 +170,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507151start%%
+
 #### Extras:
 
-%%35507151end%%
+
 
 
 
@@ -186,10 +186,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507150start%%
+
 #### Extras:
 
-%%35507150end%%
+
 
 
 
@@ -202,10 +202,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507149start%%
+
 #### Extras:
 
-%%35507149end%%
+
 
 
 

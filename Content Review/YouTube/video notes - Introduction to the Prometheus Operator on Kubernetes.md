@@ -6,10 +6,10 @@ Title: Introduction to the Prometheus Operator on Kubernetes
 Category: YouTube
 Published: 12/25/2019 02:41 AM
  ^ytLQpmeb7idt8about
-%%LQpmeb7idt8topstart%%
+
 #### Extras:
 **kubernetes****prometheus****That DevOps Guy**
-%%LQpmeb7idt8topend%%
+
 
 -----
 ## Highlights:
@@ -18,10 +18,10 @@ Timecode: [0:34](https://www.youtube.com/watch?v=LQpmeb7idt8&t=34) ^ytLQpmeb7idt
 
 Comment: 
 >this is the first video about monitoring workloads on kubernetes ^ytLQpmeb7idt834c
-%%34start%%
+
 #### Extras:
 
-%%34end%%
+
 
 
 

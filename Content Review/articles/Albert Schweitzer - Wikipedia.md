@@ -7,10 +7,10 @@ Updated: 02/08/2021 10:20 PM
 Highlights URL: https://readwise.io/bookreview/7630221
 SourceUrl: https://en.wikipedia.org/wiki/Albert_Schweitzer
 
-%%7630221topstart%%
+
 #### Extras:
 
-%%7630221topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://en.wikipedia.org/wiki/Albert_Schweitzer
 Highlighted: 02/08/2021 10:20 PM
 Updated: 02/08/2021 10:20 PM
 
-%%143311619start%%
+
 #### Extras:
 
-%%143311619end%%
+
 
 
 
@@ -38,10 +38,10 @@ Updated: 02/08/2021 10:20 PM
 Highlighted: 02/08/2021 10:20 PM
 Updated: 02/08/2021 10:20 PM
 
-%%143311539start%%
+
 #### Extras:
 
-%%143311539end%%
+
 
 ------
 
@@ -52,10 +52,10 @@ Updated: 02/08/2021 10:20 PM
 Highlighted: 02/08/2021 10:20 PM
 Updated: 02/08/2021 10:20 PM
 
-%%143311538start%%
+
 #### Extras:
 
-%%143311538end%%
+
 
 ------
 
@@ -69,10 +69,10 @@ Alsation refers to Alsace ^rw143311186comment
 Highlighted: 02/08/2021 10:19 PM
 Updated: 02/08/2021 10:20 PM
 
-%%143311186start%%
+
 #### Extras:
 
-%%143311186end%%
+
 
 ------
 

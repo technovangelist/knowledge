@@ -7,10 +7,10 @@ Updated: 03/03/2021 03:36 PM
 Highlights URL: https://readwise.io/bookreview/8080564
 SourceUrl: https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/
 
-%%8080564topstart%%
+
 #### Extras:
 **kubernetes**
-%%8080564topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://kubernetes.io/docs/concepts/overview/working-with-objects/nam
 Highlighted: 03/03/2021 03:34 PM
 Updated: 03/03/2021 03:34 PM
 
-%%153045482start%%
+
 #### Extras:
 
-%%153045482end%%
+
 
 ------
 
@@ -36,10 +36,10 @@ Updated: 03/03/2021 03:34 PM
 Highlighted: 03/03/2021 03:34 PM
 Updated: 03/03/2021 03:34 PM
 
-%%153045618start%%
+
 #### Extras:
 
-%%153045618end%%
+
 
 ------
 
@@ -50,10 +50,10 @@ Updated: 03/03/2021 03:34 PM
 Highlighted: 03/03/2021 03:34 PM
 Updated: 03/03/2021 03:34 PM
 
-%%153045942start%%
+
 #### Extras:
 
-%%153045942end%%
+
 
 ------
 
@@ -64,10 +64,10 @@ Updated: 03/03/2021 03:34 PM
 Highlighted: 03/03/2021 03:35 PM
 Updated: 03/03/2021 03:35 PM
 
-%%153046070start%%
+
 #### Extras:
 
-%%153046070end%%
+
 
 ------
 
@@ -78,10 +78,10 @@ Updated: 03/03/2021 03:35 PM
 Highlighted: 03/03/2021 03:35 PM
 Updated: 03/03/2021 03:35 PM
 
-%%153046117start%%
+
 #### Extras:
 
-%%153046117end%%
+
 
 ------
 
@@ -92,10 +92,10 @@ Updated: 03/03/2021 03:35 PM
 Highlighted: 03/03/2021 03:36 PM
 Updated: 03/03/2021 03:36 PM
 
-%%153046119start%%
+
 #### Extras:
 
-%%153046119end%%
+
 
 ------
 
@@ -110,10 +110,10 @@ kubectl api-resources --namespaced=false ^rw153046122hl
 Highlighted: 03/03/2021 03:36 PM
 Updated: 03/03/2021 03:36 PM
 
-%%153046122start%%
+
 #### Extras:
 
-%%153046122end%%
+
 
 ------
 

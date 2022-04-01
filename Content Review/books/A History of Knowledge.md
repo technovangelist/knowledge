@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://books.google.com/books/content?id=Tzmou_a0CCMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=public)
 Highlights URL: https://readwise.io/bookreview/6786731
 
-%%6786731topstart%%
+
 #### Extras:
 **Charles Lincoln Van Doren**
-%%6786731topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlights URL: https://readwise.io/bookreview/6786731
 Highlighted: 12/22/2020 04:30 PM
 Updated: 12/22/2020 04:30 PM
 
-%%122287516start%%
+
 #### Extras:
 [Tycho Brahe](/knowledge/Other Notes/Tycho Brahe) **Johannes Kepler**
-%%122287516end%%
+
 
 
 

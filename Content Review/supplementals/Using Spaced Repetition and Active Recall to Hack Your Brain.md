@@ -7,10 +7,10 @@ CoverImageUrl:
 ![|200](/rw-tips-cover.png)
 Highlights URL: https://readwise.io/bookreview/1547884
 
-%%1547884topstart%%
+
 #### Extras:
 
-%%1547884topend%%
+
 
 
  
@@ -26,10 +26,10 @@ Highlights URL: https://readwise.io/bookreview/1547884
 Highlighted: 03/12/2020 01:54 PM
 Updated: 03/12/2020 01:54 PM
 
-%%43197706start%%
+
 #### Extras:
 
-%%43197706end%%
+
 
 
 
@@ -42,10 +42,10 @@ Updated: 03/12/2020 01:54 PM
 Highlighted: 03/12/2020 01:54 PM
 Updated: 03/12/2020 01:54 PM
 
-%%43197705start%%
+
 #### Extras:
 
-%%43197705end%%
+
 
 
 
@@ -59,10 +59,10 @@ Updated: 03/12/2020 01:54 PM
 Highlighted: 03/12/2020 01:54 PM
 Updated: 03/12/2020 01:54 PM
 
-%%43197704start%%
+
 #### Extras:
 
-%%43197704end%%
+
 
 
 
@@ -77,10 +77,10 @@ Updated: 03/12/2020 01:54 PM
 Highlighted: 03/12/2020 01:54 PM
 Updated: 03/12/2020 01:54 PM
 
-%%43197703start%%
+
 #### Extras:
 
-%%43197703end%%
+
 
 
 
@@ -93,10 +93,10 @@ Updated: 03/12/2020 01:54 PM
 Highlighted: 03/12/2020 01:54 PM
 Updated: 03/12/2020 01:54 PM
 
-%%43197702start%%
+
 #### Extras:
 
-%%43197702end%%
+
 
 
 
@@ -110,10 +110,10 @@ Updated: 03/12/2020 01:54 PM
 Highlighted: 03/12/2020 01:54 PM
 Updated: 03/12/2020 01:54 PM
 
-%%43197701start%%
+
 #### Extras:
 
-%%43197701end%%
+
 
 
 
@@ -127,10 +127,10 @@ Updated: 03/12/2020 01:54 PM
 Highlighted: 03/12/2020 01:54 PM
 Updated: 03/12/2020 01:54 PM
 
-%%43197700start%%
+
 #### Extras:
 
-%%43197700end%%
+
 
 
 
@@ -144,10 +144,10 @@ Updated: 03/12/2020 01:54 PM
 Highlighted: 03/12/2020 01:54 PM
 Updated: 03/12/2020 01:54 PM
 
-%%43197699start%%
+
 #### Extras:
 
-%%43197699end%%
+
 
 
 
@@ -161,10 +161,10 @@ Updated: 03/12/2020 01:54 PM
 Highlighted: 03/12/2020 01:54 PM
 Updated: 03/12/2020 01:54 PM
 
-%%43197698start%%
+
 #### Extras:
 
-%%43197698end%%
+
 
 
 

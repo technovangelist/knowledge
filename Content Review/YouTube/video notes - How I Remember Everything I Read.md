@@ -6,10 +6,10 @@ Title: How I Remember Everything I Read
 Category: YouTube
 Published: 10/08/2020 08:44 AM
  ^ytAjoxkxMI5gabout
-%%AjoxkxM_I5gtopstart%%
+
 #### Extras:
 #Reading
-%%AjoxkxM_I5gtopend%%
+
 
 -----
 ## Highlights:
@@ -17,60 +17,60 @@ Published: 10/08/2020 08:44 AM
 Timecode: [0:41](https://www.youtube.com/watch?v=AjoxkxM_I5g&t=41) ^ytAjoxkxMI5g41t
 
 Comment: ==There are 7 levels along the path of trying to remember what we read== ^ytAjoxkxMI5g41c
-%%41start%%
+
 #### Extras:
 
-%%41end%%
+
 
 
 -----
 Timecode: [0:50](https://www.youtube.com/watch?v=AjoxkxM_I5g&t=50) ^ytAjoxkxMI5g50t
 
 Comment: ==First level. just reading, but not really engaging or taking notes== ^ytAjoxkxMI5g50c
-%%50start%%
+
 #### Extras:
 
-%%50end%%
+
 
 
 -----
 Timecode: [4:52](https://www.youtube.com/watch?v=AjoxkxM_I5g&t=292) ^ytAjoxkxMI5g292t
 
 Comment: ==level 5 (the first four were kinda useless)== ^ytAjoxkxMI5g292c
-%%292start%%
+
 #### Extras:
 
-%%292end%%
+
 
 
 -----
 Timecode: [5:23](https://www.youtube.com/watch?v=AjoxkxM_I5g&t=323) ^ytAjoxkxMI5g323t
 
 Comment: ==level 5 in detail - Come up with a summary of the book in 3 sentences, Impressions which includes How I discovered it and who should read it, and then How the book changed me, and my top 3 quotes== ^ytAjoxkxMI5g323c
-%%323start%%
+
 #### Extras:
 
-%%323end%%
+
 
 
 -----
 Timecode: [8:23](https://www.youtube.com/watch?v=AjoxkxM_I5g&t=503) ^ytAjoxkxMI5g503t
 
 Comment: ==level 6 includes a deeper summary. look at each chapter and include a summary.== ^ytAjoxkxMI5g503c
-%%503start%%
+
 #### Extras:
 
-%%503end%%
+
 
 
 -----
 Timecode: [12:18](https://www.youtube.com/watch?v=AjoxkxM_I5g&t=738) ^ytAjoxkxMI5g738t
 
 Comment: ==level 7 means taking the source notes and creating permanent or evergreen notes. these are atomic and cover a specific topic. pull in lots of references from different places. Make the connections in what you read. notes that are about topics you find interesting. organized into a "slip box"== ^ytAjoxkxMI5g738c
-%%738start%%
+
 #### Extras:
 
-%%738end%%
+
 
 
 ## Video Description on YouTube:

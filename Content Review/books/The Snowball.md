@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/51f-0RjOF5L._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1545807
 
-%%1545807topstart%%
+
 #### Extras:
 
-%%1545807topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlights URL: https://readwise.io/bookreview/1545807
 Highlighted: 03/13/2020 09:56 PM
 Updated: 03/14/2020 09:55 PM
 
-%%43366136start%%
+
 #### Extras:
 
-%%43366136end%%
+
 
 
 
@@ -41,10 +41,10 @@ Updated: 03/14/2020 09:55 PM
 Highlighted: 03/13/2020 09:56 PM
 Updated: 03/14/2020 09:55 PM
 
-%%43366135start%%
+
 #### Extras:
 
-%%43366135end%%
+
 
 
 
@@ -57,10 +57,10 @@ Updated: 03/14/2020 09:55 PM
 Highlighted: 03/12/2020 09:56 PM
 Updated: 03/13/2020 05:01 AM
 
-%%43221028start%%
+
 #### Extras:
 
-%%43221028end%%
+
 
 
 
@@ -74,10 +74,10 @@ Comment: To Sun Valley  ^rw43221027comment
 Highlighted: 03/12/2020 09:56 PM
 Updated: 03/13/2020 05:01 AM
 
-%%43221027start%%
+
 #### Extras:
 
-%%43221027end%%
+
 
 
 
@@ -90,10 +90,10 @@ Updated: 03/13/2020 05:01 AM
 Highlighted: 03/10/2020 09:56 PM
 Updated: 03/11/2020 03:31 PM
 
-%%43152664start%%
+
 #### Extras:
 
-%%43152664end%%
+
 
 
 
@@ -106,10 +106,10 @@ Updated: 03/11/2020 03:31 PM
 Highlighted: 03/10/2020 09:56 PM
 Updated: 03/11/2020 03:31 PM
 
-%%43152663start%%
+
 #### Extras:
 
-%%43152663end%%
+
 
 
 

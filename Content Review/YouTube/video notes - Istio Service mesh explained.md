@@ -6,10 +6,10 @@ Title: Istio Service mesh explained
 Category: YouTube
 Published: 11/08/2020 01:01 AM
  ^ytKUHzxTCe5Ucabout
-%%KUHzxTCe5Uctopstart%%
+
 #### Extras:
 **That DevOps Guy** **istio**
-%%KUHzxTCe5Uctopend%%
+
 
 -----
 ## Highlights:
@@ -18,10 +18,10 @@ Timecode: [0:56](https://www.youtube.com/watch?v=KUHzxTCe5Uc&t=56) ^ytKUHzxTCe5U
 
 Comment: 
 >service mesh helps solve the problems around service to service communications ^ytKUHzxTCe5Uc56c
-%%56start%%
+
 #### Extras:
 **service mesh**
-%%56end%%
+
 
 
 -----
@@ -29,10 +29,10 @@ Timecode: [2:38](https://www.youtube.com/watch?v=KUHzxTCe5Uc&t=158) ^ytKUHzxTCe5
 
 Comment: 
 >review https://github.com/marcel-dempers/docker-development-youtube-series for more ^ytKUHzxTCe5Uc158c
-%%158start%%
+
 #### Extras:
 
-%%158end%%
+
 
 
 -----
@@ -40,10 +40,10 @@ Timecode: [17:48](https://www.youtube.com/watch?v=KUHzxTCe5Uc&t=1068) ^ytKUHzxTC
 
 Comment: 
 >looking at the grafana dashboards for istio based on the sample apps ^ytKUHzxTCe5Uc1068c
-%%1068start%%
+
 #### Extras:
 **grafana**
-%%1068end%%
+
 
 
 -----
@@ -51,10 +51,10 @@ Timecode: [22:05](https://www.youtube.com/watch?v=KUHzxTCe5Uc&t=1325) ^ytKUHzxTC
 
 Comment: 
 >interesting graph view in Kiali ^ytKUHzxTCe5Uc1325c
-%%1325start%%
+
 #### Extras:
 **kiali**
-%%1325end%%
+
 
 
 -----
@@ -62,10 +62,10 @@ Timecode: [31:53](https://www.youtube.com/watch?v=KUHzxTCe5Uc&t=1913) ^ytKUHzxTC
 
 Comment: 
 >This was a super cool video. Need to watch again as I follow along ^ytKUHzxTCe5Uc1913c
-%%1913start%%
+
 #### Extras:
 
-%%1913end%%
+
 
 
 -----
@@ -73,10 +73,10 @@ Timecode: [0:56](https://www.youtube.com/watch?v=KUHzxTCe5Uc&t=56) ^ytKUHzxTCe5U
 
 Comment: 
 >service mesh helps solve the problems around service to service communications ^ytKUHzxTCe5Uc56c
-%%56start%%
+
 #### Extras:
 
-%%56end%%
+
 
 
 -----
@@ -84,10 +84,10 @@ Timecode: [2:38](https://www.youtube.com/watch?v=KUHzxTCe5Uc&t=158) ^ytKUHzxTCe5
 
 Comment: 
 >review https://github.com/marcel-dempers/docker-development-youtube-series for more ^ytKUHzxTCe5Uc158c
-%%158start%%
+
 #### Extras:
 
-%%158end%%
+
 
 
 -----
@@ -95,10 +95,10 @@ Timecode: [17:48](https://www.youtube.com/watch?v=KUHzxTCe5Uc&t=1068) ^ytKUHzxTC
 
 Comment: 
 >looking at the grafana dashboards for istio based on the sample apps ^ytKUHzxTCe5Uc1068c
-%%1068start%%
+
 #### Extras:
 
-%%1068end%%
+
 
 
 -----
@@ -106,10 +106,10 @@ Timecode: [22:05](https://www.youtube.com/watch?v=KUHzxTCe5Uc&t=1325) ^ytKUHzxTC
 
 Comment: 
 >interesting graph view in Kiali ^ytKUHzxTCe5Uc1325c
-%%1325start%%
+
 #### Extras:
 
-%%1325end%%
+
 
 
 -----
@@ -117,10 +117,10 @@ Timecode: [31:53](https://www.youtube.com/watch?v=KUHzxTCe5Uc&t=1913) ^ytKUHzxTC
 
 Comment: 
 >This was a super cool video. Need to watch again as I follow along ^ytKUHzxTCe5Uc1913c
-%%1913start%%
+
 #### Extras:
 
-%%1913end%%
+
 
 
 -----
@@ -128,10 +128,10 @@ Timecode: [0:56](https://www.youtube.com/watch?v=KUHzxTCe5Uc&t=56) ^ytKUHzxTCe5U
 
 Comment: 
 >service mesh helps solve the problems around service to service communications ^ytKUHzxTCe5Uc56c
-%%56start%%
+
 #### Extras:
 
-%%56end%%
+
 
 
 -----
@@ -139,10 +139,10 @@ Timecode: [2:38](https://www.youtube.com/watch?v=KUHzxTCe5Uc&t=158) ^ytKUHzxTCe5
 
 Comment: 
 >review https://github.com/marcel-dempers/docker-development-youtube-series for more ^ytKUHzxTCe5Uc158c
-%%158start%%
+
 #### Extras:
 
-%%158end%%
+
 
 
 -----
@@ -150,10 +150,10 @@ Timecode: [17:48](https://www.youtube.com/watch?v=KUHzxTCe5Uc&t=1068) ^ytKUHzxTC
 
 Comment: 
 >looking at the grafana dashboards for istio based on the sample apps ^ytKUHzxTCe5Uc1068c
-%%1068start%%
+
 #### Extras:
 
-%%1068end%%
+
 
 
 -----
@@ -161,10 +161,10 @@ Timecode: [22:05](https://www.youtube.com/watch?v=KUHzxTCe5Uc&t=1325) ^ytKUHzxTC
 
 Comment: 
 >interesting graph view in Kiali ^ytKUHzxTCe5Uc1325c
-%%1325start%%
+
 #### Extras:
 
-%%1325end%%
+
 
 
 -----
@@ -172,10 +172,10 @@ Timecode: [31:53](https://www.youtube.com/watch?v=KUHzxTCe5Uc&t=1913) ^ytKUHzxTC
 
 Comment: 
 >This was a super cool video. Need to watch again as I follow along ^ytKUHzxTCe5Uc1913c
-%%1913start%%
+
 #### Extras:
 
-%%1913end%%
+
 
 
 ## Video Description on YouTube:

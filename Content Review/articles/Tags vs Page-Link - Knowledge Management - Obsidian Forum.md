@@ -7,10 +7,10 @@ Updated: 02/08/2021 10:49 AM
 Highlights URL: https://readwise.io/bookreview/7620917
 SourceUrl: https://forum.obsidian.md/t/tags-vs-page-link/193/2
 
-%%7620917topstart%%
+
 #### Extras:
 
-%%7620917topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://forum.obsidian.md/t/tags-vs-page-link/193/2
 Highlighted: 02/08/2021 10:49 AM
 Updated: 02/08/2021 10:49 AM
 
-%%143085429start%%
+
 #### Extras:
 
-%%143085429end%%
+
 
 
 

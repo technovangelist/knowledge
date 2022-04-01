@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/51mH-RkapBL._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1214102
 
-%%1214102topstart%%
+
 #### Extras:
 **Rachel Kushner**
-%%1214102topend%%
+
 
 
  
@@ -26,10 +26,10 @@ Comment: reminds me of churchills comment about lack of green in the desert ^rw3
 Highlighted: 02/09/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507066start%%
+
 #### Extras:
 **Winston Churchill**
-%%35507066end%%
+
 
 
 
@@ -42,10 +42,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 02/09/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507065start%%
+
 #### Extras:
 **greyhound**
-%%35507065end%%
+
 
 
 
@@ -58,10 +58,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 02/09/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507064start%%
+
 #### Extras:
 **walking**
-%%35507064end%%
+
 
 
 
@@ -74,10 +74,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 02/09/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507063start%%
+
 #### Extras:
 
-%%35507063end%%
+
 
 
 
@@ -90,10 +90,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 02/09/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507062start%%
+
 #### Extras:
 
-%%35507062end%%
+
 
 
 

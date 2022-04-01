@@ -7,10 +7,10 @@ Updated: 12/22/2020 10:16 PM
 Highlights URL: https://readwise.io/bookreview/6789494
 SourceUrl: https://medium.com/launch-school/what-in-the-world-is-this-be803a85ed47
 
-%%6789494topstart%%
+
 #### Extras:
 **the this keyword in js****this**
-%%6789494topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://medium.com/launch-school/what-in-the-world-is-this-be803a85ed
 Highlighted: 10/13/2020 12:07 PM
 Updated: 12/22/2020 10:16 PM
 
-%%122380830start%%
+
 #### Extras:
 
-%%122380830end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 10/13/2020 11:56 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380829start%%
+
 #### Extras:
 
-%%122380829end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 10/13/2020 11:56 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380828start%%
+
 #### Extras:
 
-%%122380828end%%
+
 
 
 
@@ -72,10 +72,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 10/13/2020 11:52 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380827start%%
+
 #### Extras:
 
-%%122380827end%%
+
 
 
 
@@ -88,10 +88,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 10/13/2020 11:50 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380826start%%
+
 #### Extras:
 
-%%122380826end%%
+
 
 
 
@@ -104,10 +104,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 10/13/2020 11:49 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380825start%%
+
 #### Extras:
 
-%%122380825end%%
+
 
 
 
@@ -120,10 +120,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 10/13/2020 11:49 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380824start%%
+
 #### Extras:
 
-%%122380824end%%
+
 
 
 

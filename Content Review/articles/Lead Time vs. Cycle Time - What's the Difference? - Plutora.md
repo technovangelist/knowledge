@@ -7,10 +7,10 @@ Updated: 09/23/2021 09:12 PM
 Highlights URL: https://readwise.io/bookreview/11088867
 SourceUrl: https://www.plutora.com/blog/lead-time-vs-cycle-time-whats-the-difference
 
-%%11088867topstart%%
+
 #### Extras:
 
-%%11088867topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://www.plutora.com/blog/lead-time-vs-cycle-time-whats-the-differ
 Highlighted: 09/23/2021 09:09 PM
 Updated: 09/23/2021 09:09 PM
 
-%%230488445start%%
+
 #### Extras:
 
-%%230488445end%%
+
 
 ------
 
@@ -36,10 +36,10 @@ Updated: 09/23/2021 09:09 PM
 Highlighted: 09/23/2021 09:12 PM
 Updated: 09/23/2021 09:12 PM
 
-%%230489309start%%
+
 #### Extras:
 
-%%230489309end%%
+
 
 
 
@@ -52,10 +52,10 @@ Updated: 09/23/2021 09:12 PM
 Highlighted: 09/23/2021 09:10 PM
 Updated: 09/23/2021 09:10 PM
 
-%%230488454start%%
+
 #### Extras:
 
-%%230488454end%%
+
 
 ------
 

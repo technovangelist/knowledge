@@ -7,10 +7,10 @@ Updated: 12/30/2021 07:48 AM
 Highlights URL: https://readwise.io/bookreview/12527875
 SourceUrl: https://www.inoreader.com/article/3a9c6e7afd4334a9-5-automations-every-developer-should-be-running
 
-%%12527875topstart%%
+
 #### Extras:
 
-%%12527875topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.inoreader.com/article/3a9c6e7afd4334a9-5-automations-ever
 Highlighted: 12/30/2021 07:45 AM
 Updated: 12/30/2021 07:45 AM
 
-%%264210351start%%
+
 #### Extras:
 
-%%264210351end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 12/30/2021 07:45 AM
 Highlighted: 12/30/2021 07:47 AM
 Updated: 12/30/2021 07:47 AM
 
-%%264214177start%%
+
 #### Extras:
 
-%%264214177end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 12/30/2021 07:47 AM
 Highlighted: 12/30/2021 07:48 AM
 Updated: 12/30/2021 07:48 AM
 
-%%264214624start%%
+
 #### Extras:
 
-%%264214624end%%
+
 
 
 

@@ -7,10 +7,10 @@ Updated: 02/03/2021 08:28 AM
 Highlights URL: https://readwise.io/bookreview/7521432
 SourceUrl: https://www.datadoghq.com/blog/engineering/improving-trust-with-datadog-log-management/
 
-%%7521432topstart%%
+
 #### Extras:
 **Jules Denardou****logs aggregation**
-%%7521432topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.datadoghq.com/blog/engineering/improving-trust-with-datad
 Highlighted: 02/03/2021 08:28 AM
 Updated: 02/03/2021 08:28 AM
 
-%%140879833start%%
+
 #### Extras:
 
-%%140879833end%%
+
 
 
 

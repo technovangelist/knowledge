@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/41nKm0hu8zL._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1363905
 
-%%1363905topstart%%
+
 #### Extras:
 
-%%1363905topend%%
+
 
 
  
@@ -27,10 +27,10 @@ Comment: Mystery boxes ^rw39178317comment
 Highlighted: 02/01/2020 07:15 AM
 Updated: 02/01/2020 07:15 AM
 
-%%39178317start%%
+
 #### Extras:
 
-%%39178317end%%
+
 
 
 
@@ -44,10 +44,10 @@ Comment: Interesting study about processing stories  talk about things above hor
 Highlighted: 02/01/2020 05:52 AM
 Updated: 02/01/2020 05:52 AM
 
-%%39164617start%%
+
 #### Extras:
 
-%%39164617end%%
+
 
 
 
@@ -61,10 +61,10 @@ Comment: Leo Tolstoy quote about art ^rw39164614comment
 Highlighted: 02/01/2020 05:48 AM
 Updated: 02/01/2020 05:48 AM
 
-%%39164614start%%
+
 #### Extras:
 
-%%39164614end%%
+
 
 
 
@@ -78,10 +78,10 @@ Comment: Interesting how we visualize as we read  order matters to help create a
 Highlighted: 02/01/2020 05:46 AM
 Updated: 02/01/2020 05:46 AM
 
-%%39164613start%%
+
 #### Extras:
 
-%%39164613end%%
+
 
 
 

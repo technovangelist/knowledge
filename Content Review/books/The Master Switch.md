@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/41BG9V0TXZL._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1214099
 
-%%1214099topstart%%
+
 #### Extras:
 
-%%1214099topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlights URL: https://readwise.io/bookreview/1214099
 Highlighted: 09/29/2017 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507058start%%
+
 #### Extras:
 **Herbert Hoover**
-%%35507058end%%
+
 
 
 
@@ -41,10 +41,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/29/2017 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507057start%%
+
 #### Extras:
 
-%%35507057end%%
+
 
 
 
@@ -57,10 +57,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/29/2017 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507056start%%
+
 #### Extras:
 **Carl Laemmle****Union Square**
-%%35507056end%%
+
 
 
 
@@ -73,10 +73,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/29/2017 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507055start%%
+
 #### Extras:
 **Wilhelm Fuchs****William Fox**
-%%35507055end%%
+
 
 
 
@@ -89,10 +89,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/29/2017 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507054start%%
+
 #### Extras:
 **Upton Sinclair** **Warner Brothers**
-%%35507054end%%
+
 
 
 
@@ -105,10 +105,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/29/2017 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507053start%%
+
 #### Extras:
 **Alexander Bell**
-%%35507053end%%
+
 
 
 
@@ -121,10 +121,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/29/2017 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507052start%%
+
 #### Extras:
 **nickelodeons**
-%%35507052end%%
+
 
 
 
@@ -137,10 +137,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/29/2017 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507051start%%
+
 #### Extras:
 **Western Union**
-%%35507051end%%
+
 
 
 
@@ -153,10 +153,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/29/2017 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507050start%%
+
 #### Extras:
 **William Orton**
-%%35507050end%%
+
 
 
 
@@ -170,10 +170,10 @@ Comment: bells first advertisement ^rw35507049comment
 Highlighted: 09/29/2017 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507049start%%
+
 #### Extras:
 
-%%35507049end%%
+
 
 
 
@@ -186,7 +186,7 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/29/2017 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507048start%%
+
 #### Extras:
 **Kronos**
 
@@ -196,7 +196,7 @@ In antiquity, Kronos, the second ruler of the universe according to Greek mythol
 
 
 
-%%35507048end%%
+
 
 
 
@@ -209,10 +209,10 @@ In antiquity, Kronos, the second ruler of the universe according to Greek mythol
 Highlighted: 09/29/2017 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507047start%%
+
 #### Extras:
 
-%%35507047end%%
+
 
 
 
@@ -225,10 +225,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/29/2017 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507046start%%
+
 #### Extras:
 
-%%35507046end%%
+
 
 
 
@@ -241,10 +241,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/29/2017 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507045start%%
+
 #### Extras:
 **New York Times**
-%%35507045end%%
+
 
 
 
@@ -257,10 +257,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/29/2017 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507044start%%
+
 #### Extras:
 **Associated Press**
-%%35507044end%%
+
 
 
 
@@ -273,10 +273,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/29/2017 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507043start%%
+
 #### Extras:
 
-%%35507043end%%
+
 
 
 
@@ -289,10 +289,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/29/2017 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507042start%%
+
 #### Extras:
 
-%%35507042end%%
+
 
 
 
@@ -305,10 +305,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/29/2017 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507041start%%
+
 #### Extras:
 
-%%35507041end%%
+
 
 
 
@@ -321,12 +321,12 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/29/2017 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507040start%%
+
 #### Extras:
 **Daniel Drawbaugh**
 
 
-%%35507040end%%
+
 
 
 
@@ -339,10 +339,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/29/2017 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507039start%%
+
 #### Extras:
 
-%%35507039end%%
+
 
 
 
@@ -355,10 +355,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/29/2017 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507038start%%
+
 #### Extras:
 
-%%35507038end%%
+
 
 
 
@@ -371,10 +371,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/29/2017 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507037start%%
+
 #### Extras:
 **Galileo**
-%%35507037end%%
+
 
 
 
@@ -387,10 +387,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/29/2017 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507036start%%
+
 #### Extras:
 **Leibnitz****Isaac Newton**
-%%35507036end%%
+
 
 
 
@@ -403,10 +403,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/29/2017 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507035start%%
+
 #### Extras:
 **Charles Darwin****Origin of Species**
-%%35507035end%%
+
 
 
 
@@ -419,10 +419,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/29/2017 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507034start%%
+
 #### Extras:
 **Philip Reis****Supreme Court**
-%%35507034end%%
+
 
 
 
@@ -435,10 +435,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/29/2017 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507033start%%
+
 #### Extras:
 **Elisha Gray**
-%%35507033end%%
+
 
 
 

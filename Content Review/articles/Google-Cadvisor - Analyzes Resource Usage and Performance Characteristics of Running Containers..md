@@ -7,10 +7,10 @@ Updated: 02/01/2021 01:29 PM
 Highlights URL: https://readwise.io/bookreview/7485524
 SourceUrl: https://github.com/google/cadvisor
 
-%%7485524topstart%%
+
 #### Extras:
 
-%%7485524topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Comment: about cadvisor ^rw139965322comment
 Highlighted: 02/01/2021 01:26 PM
 Updated: 02/01/2021 01:29 PM
 
-%%139965322start%%
+
 #### Extras:
 **kubernetes** **cadvisor** 
-%%139965322end%%
+
 
 
 

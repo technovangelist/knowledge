@@ -7,10 +7,10 @@ Updated: 02/04/2021 09:10 AM
 Highlights URL: https://readwise.io/bookreview/7542416
 SourceUrl: https://notes.andymatuschak.org/z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF
 
-%%7542416topstart%%
+
 #### Extras:
 **Andy Matuschak****Evergreen Notes**
-%%7542416topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://notes.andymatuschak.org/z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF
 Highlighted: 02/04/2021 09:10 AM
 Updated: 02/04/2021 09:10 AM
 
-%%141331660start%%
+
 #### Extras:
 
-%%141331660end%%
+
 
 
 
@@ -41,10 +41,10 @@ Comment: so kubernetes concepts aren't evergreen, but schedulers are...maybe ^rw
 Highlighted: 02/04/2021 09:09 AM
 Updated: 02/04/2021 09:10 AM
 
-%%141331580start%%
+
 #### Extras:
 
-%%141331580end%%
+
 
 
 

@@ -7,10 +7,10 @@ Updated: 09/23/2021 06:16 PM
 Highlights URL: https://readwise.io/bookreview/11086857
 SourceUrl: https://itbrief.com.au/story/demystifying-m-e-l-t-the-key-data-for-business-observability
 
-%%11086857topstart%%
+
 #### Extras:
 
-%%11086857topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://itbrief.com.au/story/demystifying-m-e-l-t-the-key-data-for-bu
 Highlighted: 09/23/2021 06:14 PM
 Updated: 09/23/2021 06:14 PM
 
-%%230453399start%%
+
 #### Extras:
 
-%%230453399end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 09/23/2021 06:14 PM
 Highlighted: 09/23/2021 06:14 PM
 Updated: 09/23/2021 06:14 PM
 
-%%230453402start%%
+
 #### Extras:
 
-%%230453402end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 09/23/2021 06:14 PM
 Highlighted: 09/23/2021 06:15 PM
 Updated: 09/23/2021 06:15 PM
 
-%%230453414start%%
+
 #### Extras:
 
-%%230453414end%%
+
 
 
 
@@ -72,10 +72,10 @@ Updated: 09/23/2021 06:15 PM
 Highlighted: 09/23/2021 06:15 PM
 Updated: 09/23/2021 06:15 PM
 
-%%230453427start%%
+
 #### Extras:
 
-%%230453427end%%
+
 
 
 
@@ -88,10 +88,10 @@ Updated: 09/23/2021 06:15 PM
 Highlighted: 09/23/2021 06:15 PM
 Updated: 09/23/2021 06:15 PM
 
-%%230453429start%%
+
 #### Extras:
 
-%%230453429end%%
+
 
 
 
@@ -104,10 +104,10 @@ Updated: 09/23/2021 06:15 PM
 Highlighted: 09/23/2021 06:16 PM
 Updated: 09/23/2021 06:16 PM
 
-%%230453433start%%
+
 #### Extras:
 
-%%230453433end%%
+
 
 
 
@@ -120,10 +120,10 @@ Updated: 09/23/2021 06:16 PM
 Highlighted: 09/23/2021 06:16 PM
 Updated: 09/23/2021 06:16 PM
 
-%%230453446start%%
+
 #### Extras:
 
-%%230453446end%%
+
 
 
 

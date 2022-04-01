@@ -7,10 +7,10 @@ Updated: 12/26/2021 10:10 AM
 Highlights URL: https://readwise.io/bookreview/12453914
 SourceUrl: https://superorganizers.substack.com/p/the-life-changing-magic-of-tidying
 
-%%12453914topstart%%
+
 #### Extras:
 
-%%12453914topend%%
+
 
 
  
@@ -26,10 +26,10 @@ Highlighted: 12/26/2021 09:33 AM
 Updated: 12/26/2021 10:10 AM
 https://instapaper.com/read/1283546948/18338393
 
-%%262419428start%%
+
 #### Extras:
 
-%%262419428end%%
+
 
 
 
@@ -44,10 +44,10 @@ Highlighted: 12/26/2021 09:34 AM
 Updated: 12/26/2021 10:10 AM
 https://instapaper.com/read/1283546948/18338400
 
-%%262419429start%%
+
 #### Extras:
 
-%%262419429end%%
+
 
 
 

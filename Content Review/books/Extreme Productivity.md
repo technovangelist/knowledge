@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/41MUwS2Ui9L._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1214103
 
-%%1214103topstart%%
+
 #### Extras:
 **Robert C. Pozen**
-%%1214103topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlights URL: https://readwise.io/bookreview/1214103
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507089start%%
+
 #### Extras:
 **writing**
-%%35507089end%%
+
 
 
 
@@ -41,10 +41,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507088start%%
+
 #### Extras:
 
-%%35507088end%%
+
 
 
 
@@ -57,10 +57,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507087start%%
+
 #### Extras:
 
-%%35507087end%%
+
 
 
 
@@ -73,10 +73,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507086start%%
+
 #### Extras:
 
-%%35507086end%%
+
 
 
 
@@ -89,10 +89,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507085start%%
+
 #### Extras:
 
-%%35507085end%%
+
 
 
 
@@ -105,10 +105,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507084start%%
+
 #### Extras:
 
-%%35507084end%%
+
 
 
 
@@ -121,10 +121,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507083start%%
+
 #### Extras:
 
-%%35507083end%%
+
 
 
 
@@ -137,10 +137,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507082start%%
+
 #### Extras:
 
-%%35507082end%%
+
 
 
 
@@ -153,10 +153,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507081start%%
+
 #### Extras:
 
-%%35507081end%%
+
 
 
 
@@ -169,10 +169,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507080start%%
+
 #### Extras:
 
-%%35507080end%%
+
 
 
 
@@ -185,10 +185,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507079start%%
+
 #### Extras:
 
-%%35507079end%%
+
 
 
 
@@ -201,10 +201,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507078start%%
+
 #### Extras:
 
-%%35507078end%%
+
 
 
 
@@ -217,10 +217,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507077start%%
+
 #### Extras:
 
-%%35507077end%%
+
 
 
 
@@ -233,10 +233,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507076start%%
+
 #### Extras:
 
-%%35507076end%%
+
 
 
 
@@ -249,10 +249,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507075start%%
+
 #### Extras:
 
-%%35507075end%%
+
 
 
 
@@ -265,10 +265,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507074start%%
+
 #### Extras:
 
-%%35507074end%%
+
 
 
 
@@ -281,10 +281,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507073start%%
+
 #### Extras:
 
-%%35507073end%%
+
 
 
 
@@ -297,10 +297,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507072start%%
+
 #### Extras:
 
-%%35507072end%%
+
 
 
 
@@ -313,10 +313,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507071start%%
+
 #### Extras:
 
-%%35507071end%%
+
 
 
 
@@ -329,10 +329,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507070start%%
+
 #### Extras:
 
-%%35507070end%%
+
 
 
 
@@ -345,10 +345,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507069start%%
+
 #### Extras:
 
-%%35507069end%%
+
 
 
 
@@ -361,10 +361,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507068start%%
+
 #### Extras:
 
-%%35507068end%%
+
 
 
 
@@ -378,10 +378,10 @@ Comment: He held all these roles, but saw nothing special about it. he wrote an 
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507067start%%
+
 #### Extras:
 
-%%35507067end%%
+
 
 
 

@@ -7,10 +7,10 @@ Updated: 09/23/2021 06:27 PM
 Highlights URL: https://readwise.io/bookreview/11086951
 SourceUrl: https://itbrief.com.au/story/new-relic-three-core-elements-of-business-observability
 
-%%11086951topstart%%
+
 #### Extras:
 
-%%11086951topend%%
+
 
 
  
@@ -25,10 +25,10 @@ SourceUrl: https://itbrief.com.au/story/new-relic-three-core-elements-of-busines
 Highlighted: 09/23/2021 06:25 PM
 Updated: 09/23/2021 06:25 PM
 
-%%230454883start%%
+
 #### Extras:
 
-%%230454883end%%
+
 
 
 
@@ -42,10 +42,10 @@ Updated: 09/23/2021 06:25 PM
 Highlighted: 09/23/2021 06:26 PM
 Updated: 09/23/2021 06:26 PM
 
-%%230454886start%%
+
 #### Extras:
 
-%%230454886end%%
+
 
 
 
@@ -59,10 +59,10 @@ Updated: 09/23/2021 06:26 PM
 Highlighted: 09/23/2021 06:26 PM
 Updated: 09/23/2021 06:26 PM
 
-%%230454887start%%
+
 #### Extras:
 
-%%230454887end%%
+
 
 
 
@@ -75,10 +75,10 @@ Updated: 09/23/2021 06:26 PM
 Highlighted: 09/23/2021 06:27 PM
 Updated: 09/23/2021 06:27 PM
 
-%%230454890start%%
+
 #### Extras:
 
-%%230454890end%%
+
 
 
 

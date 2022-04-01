@@ -7,10 +7,10 @@ Updated: 03/03/2021 03:41 PM
 Highlights URL: https://readwise.io/bookreview/8080604
 SourceUrl: https://kubernetes.io/docs/concepts/overview/working-with-objects/annotations/
 
-%%8080604topstart%%
+
 #### Extras:
 **kubernetes**
-%%8080604topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://kubernetes.io/docs/concepts/overview/working-with-objects/ann
 Highlighted: 03/03/2021 03:41 PM
 Updated: 03/03/2021 03:41 PM
 
-%%153046554start%%
+
 #### Extras:
 
-%%153046554end%%
+
 
 ------
 

@@ -7,10 +7,10 @@ Updated: 01/28/2021 02:01 PM
 Highlights URL: https://readwise.io/bookreview/7382182
 SourceUrl: https://www.saleshacker.com/product-demo/
 
-%%7382182topstart%%
+
 #### Extras:
 **Andrew Mewborn**
-%%7382182topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Comment: I will always trust someone I know more than someone I do not know. A s
 Highlighted: 01/28/2021 02:01 PM
 Updated: 01/28/2021 02:01 PM
 
-%%137363317start%%
+
 #### Extras:
 **trust**
-%%137363317end%%
+
 
 
 
@@ -42,10 +42,10 @@ Comment: The story makes everything easier to remember. Give me a list of featur
 Highlighted: 01/28/2021 01:53 PM
 Updated: 01/28/2021 01:54 PM
 
-%%137354150start%%
+
 #### Extras:
 
-%%137354150end%%
+
 
 
 

@@ -7,10 +7,10 @@ Updated: 09/23/2021 06:32 PM
 Highlights URL: https://readwise.io/bookreview/11086960
 SourceUrl: https://betterprogramming.pub/microservice-observability-metrics-bd9be270bc62
 
-%%11086960topstart%%
+
 #### Extras:
 
-%%11086960topend%%
+
 
 
  
@@ -33,10 +33,10 @@ Comment: - Availability: State of your system measured from the perspective of c
 Highlighted: 09/23/2021 06:28 PM
 Updated: 09/23/2021 06:29 PM
 
-%%230455012start%%
+
 #### Extras:
 
-%%230455012end%%
+
 
 
 
@@ -55,10 +55,10 @@ Latency: Response time of the system, usually measured in the 95th or 99th perce
 Highlighted: 09/23/2021 06:28 PM
 Updated: 09/23/2021 06:28 PM
 
-%%230455024start%%
+
 #### Extras:
 
-%%230455024end%%
+
 
 
 
@@ -78,10 +78,10 @@ Comment: - Availability: State of your system measured from the perspective of c
 Highlighted: 09/23/2021 06:29 PM
 Updated: 09/23/2021 06:29 PM
 
-%%230455065start%%
+
 #### Extras:
 
-%%230455065end%%
+
 
 
 
@@ -94,10 +94,10 @@ Updated: 09/23/2021 06:29 PM
 Highlighted: 09/23/2021 06:29 PM
 Updated: 09/23/2021 06:29 PM
 
-%%230455131start%%
+
 #### Extras:
 
-%%230455131end%%
+
 
 
 
@@ -114,10 +114,10 @@ Comment: - CPU&#x2F;memory utilization: Usage of the system’s core resources.
 Highlighted: 09/23/2021 06:30 PM
 Updated: 09/23/2021 06:30 PM
 
-%%230455157start%%
+
 #### Extras:
 
-%%230455157end%%
+
 
 
 
@@ -131,10 +131,10 @@ Comment: disappointing that they think these are business metrics ^rw230455366co
 Highlighted: 09/23/2021 06:31 PM
 Updated: 09/23/2021 06:32 PM
 
-%%230455366start%%
+
 #### Extras:
 
-%%230455366end%%
+
 
 
 

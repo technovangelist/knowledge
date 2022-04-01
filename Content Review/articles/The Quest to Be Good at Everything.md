@@ -7,10 +7,10 @@ Updated: 03/18/2020 09:00 AM
 Highlights URL: https://readwise.io/bookreview/1518108
 SourceUrl: https://superorganizers.substack.com/p/the-quest-to-be-good-at-everything
 
-%%1518108topstart%%
+
 #### Extras:
 **Dan Shipper**
-%%1518108topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://superorganizers.substack.com/p/the-quest-to-be-good-at-everyt
 Highlighted: 03/06/2020 10:30 AM
 Updated: 03/06/2020 04:34 PM
 
-%%42579335start%%
+
 #### Extras:
 **Trello**
-%%42579335end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 03/06/2020 04:34 PM
 Highlighted: 03/06/2020 10:10 AM
 Updated: 03/06/2020 04:34 PM
 
-%%42579334start%%
+
 #### Extras:
 
-%%42579334end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 03/06/2020 04:34 PM
 Highlighted: 03/06/2020 10:08 AM
 Updated: 03/06/2020 04:34 PM
 
-%%42579333start%%
+
 #### Extras:
 
-%%42579333end%%
+
 
 
 
@@ -73,10 +73,10 @@ Comment: investing is about more than just money ^rw42579332comment
 Highlighted: 03/06/2020 10:08 AM
 Updated: 03/06/2020 04:34 PM
 
-%%42579332start%%
+
 #### Extras:
 
-%%42579332end%%
+
 
 
 
@@ -89,10 +89,10 @@ Updated: 03/06/2020 04:34 PM
 Highlighted: 03/06/2020 10:07 AM
 Updated: 03/06/2020 04:34 PM
 
-%%42579331start%%
+
 #### Extras:
 
-%%42579331end%%
+
 
 
 
@@ -105,10 +105,10 @@ Updated: 03/06/2020 04:34 PM
 Highlighted: 03/06/2020 10:07 AM
 Updated: 03/06/2020 04:34 PM
 
-%%42579330start%%
+
 #### Extras:
 
-%%42579330end%%
+
 
 
 
@@ -121,10 +121,10 @@ Updated: 03/06/2020 04:34 PM
 Highlighted: 03/06/2020 10:06 AM
 Updated: 03/06/2020 04:34 PM
 
-%%42579329start%%
+
 #### Extras:
 
-%%42579329end%%
+
 
 
 
@@ -145,10 +145,10 @@ Updated: 03/06/2020 04:34 PM
 Highlighted: 03/06/2020 10:05 AM
 Updated: 03/06/2020 04:34 PM
 
-%%42579324start%%
+
 #### Extras:
 
-%%42579324end%%
+
 
 
 

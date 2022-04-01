@@ -7,10 +7,10 @@ Updated: 12/22/2020 10:16 PM
 Highlights URL: https://readwise.io/bookreview/6789491
 SourceUrl: https://blog.dbi-services.com/aurora-serverless-v2-ram/
 
-%%6789491topstart%%
+
 #### Extras:
 
-%%6789491topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Comment: acu = Aurora Capacity Unit ^rw122380813comment
 Highlighted: 12/18/2020 11:31 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380813start%%
+
 #### Extras:
 **AWS Aurora****acu**
-%%122380813end%%
+
 
 
 
@@ -41,10 +41,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 12/18/2020 11:30 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380812start%%
+
 #### Extras:
 
-%%122380812end%%
+
 
 
 
@@ -57,10 +57,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 12/18/2020 11:28 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380811start%%
+
 #### Extras:
 **RDS**
-%%122380811end%%
+
 
 
 

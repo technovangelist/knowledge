@@ -7,10 +7,10 @@ Updated: 03/03/2021 03:39 PM
 Highlights URL: https://readwise.io/bookreview/8080591
 SourceUrl: https://kubernetes.io/docs/concepts/overview/working-with-objects/labels/
 
-%%8080591topstart%%
+
 #### Extras:
 **kubernetes**
-%%8080591topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://kubernetes.io/docs/concepts/overview/working-with-objects/lab
 Highlighted: 03/03/2021 03:37 PM
 Updated: 03/03/2021 03:37 PM
 
-%%153046149start%%
+
 #### Extras:
 
-%%153046149end%%
+
 
 ------
 
@@ -36,10 +36,10 @@ Updated: 03/03/2021 03:37 PM
 Highlighted: 03/03/2021 03:38 PM
 Updated: 03/03/2021 03:38 PM
 
-%%153046161start%%
+
 #### Extras:
 
-%%153046161end%%
+
 
 ------
 
@@ -50,10 +50,10 @@ Updated: 03/03/2021 03:38 PM
 Highlighted: 03/03/2021 03:38 PM
 Updated: 03/03/2021 03:38 PM
 
-%%153046172start%%
+
 #### Extras:
 
-%%153046172end%%
+
 
 ------
 
@@ -64,10 +64,10 @@ Updated: 03/03/2021 03:38 PM
 Highlighted: 03/03/2021 03:39 PM
 Updated: 03/03/2021 03:39 PM
 
-%%153046219start%%
+
 #### Extras:
 
-%%153046219end%%
+
 
 ------
 
@@ -78,10 +78,10 @@ Updated: 03/03/2021 03:39 PM
 Highlighted: 03/03/2021 03:39 PM
 Updated: 03/03/2021 03:39 PM
 
-%%153046351start%%
+
 #### Extras:
 
-%%153046351end%%
+
 
 ------
 

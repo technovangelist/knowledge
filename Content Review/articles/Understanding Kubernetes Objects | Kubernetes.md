@@ -7,10 +7,10 @@ Updated: 03/02/2021 06:43 PM
 Highlights URL: https://readwise.io/bookreview/8071240
 SourceUrl: https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/
 
-%%8071240topstart%%
+
 #### Extras:
 
-%%8071240topend%%
+
  
 -----
  ## Highlights:
@@ -25,10 +25,10 @@ is the status determined on request or updated every interval and then on reques
 Highlighted: 03/02/2021 06:39 PM
 Updated: 03/02/2021 06:41 PM
 
-%%152790050start%%
+
 #### Extras:
 
-%%152790050end%%
+
 
 ------
 
@@ -39,10 +39,10 @@ Updated: 03/02/2021 06:41 PM
 Highlighted: 03/02/2021 06:42 PM
 Updated: 03/02/2021 06:42 PM
 
-%%152790153start%%
+
 #### Extras:
 
-%%152790153end%%
+
 
 ------
 
@@ -53,10 +53,10 @@ Updated: 03/02/2021 06:42 PM
 Highlighted: 03/02/2021 06:42 PM
 Updated: 03/02/2021 06:42 PM
 
-%%152790193start%%
+
 #### Extras:
 
-%%152790193end%%
+
 
 ------
 
@@ -73,10 +73,10 @@ spec - What state you desire for the object ^rw152790264hl
 Highlighted: 03/02/2021 06:43 PM
 Updated: 03/02/2021 06:43 PM
 
-%%152790264start%%
+
 #### Extras:
 
-%%152790264end%%
+
 
 ------
 

@@ -7,10 +7,10 @@ Updated: 05/25/2021 08:18 AM
 Highlights URL: https://readwise.io/bookreview/7677574
 SourceUrl: https://www.technologyreview.com/2021/02/11/1018010/uk-exposure-notification-contact-tracing-app-succes/?truid=&utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_term=&utm_content=02-11-2021&mc_cid=c00db5d2fa&mc_eid=95dc26f29d
 
-%%7677574topstart%%
+
 #### Extras:
 **Covid 19****contact tracing****UK****NHS****Biden****Lindsay Muscato**
-%%7677574topend%%
+
  
 -----
  ## Highlights:
@@ -23,10 +23,10 @@ Comment: The contact tracing app used in the UK may have prevented about 600k ca
 Highlighted: 02/11/2021 12:35 PM
 Updated: 02/11/2021 12:35 PM
 
-%%144371446start%%
+
 #### Extras:
 
-%%144371446end%%
+
 
 ------
 
@@ -38,10 +38,10 @@ Comment: The contact tracing app used in the UK may have prevented about 600k ca
 Highlighted: 02/11/2021 12:35 PM
 Updated: 05/25/2021 08:18 AM
 
-%%183454077start%%
+
 #### Extras:
 
-%%183454077end%%
+
 
 
 

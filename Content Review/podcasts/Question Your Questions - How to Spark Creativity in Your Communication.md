@@ -9,10 +9,10 @@ CoverImageUrl:
 Highlights URL: https://readwise.io/bookreview/7484917
 SourceUrl: https://www.airr.io/episode/5f6d669c3d291657bbc774ce
 
-%%7484917topstart%%
+
 #### Extras:
 **creativity**
-%%7484917topend%%
+
 
 
  
@@ -27,10 +27,10 @@ Highlighted: 02/02/2021 05:55 PM
 Updated: 02/02/2021 05:55 PM
 https://www.airr.io/quote/601a0285dd660022990c528c
 
-%%140596836start%%
+
 #### Extras:
 
-%%140596836end%%
+
 
 
 
@@ -44,14 +44,14 @@ Highlighted: 02/01/2021 01:00 PM
 Updated: 02/01/2021 01:00 PM
 https://www.airr.io/quote/60186bdedd66005e1e0c2dcf
 
-%%139950976start%%
+
 #### Extras:
 "Every Problem is and Opportunity. The Bigger the Problem, the Bigger the Opportunity"
 
 "Entrepreneurs Do Much More Than Imaginable"
 
 **Entrepreneurs** can see the opportunities that others miss.
-%%139950976end%%
+
 
 
 
@@ -65,14 +65,14 @@ Highlighted: 02/01/2021 01:00 PM
 Updated: 02/01/2021 01:00 PM
 https://www.airr.io/quote/60186bd1dd6600096b0c2dc4
 
-%%139950942start%%
+
 #### Extras:
 **mindset**
 All you have is your reputation. 
 
 The world is opportunity rich
 
-%%139950942end%%
+
 
 
 
@@ -86,10 +86,10 @@ Highlighted: 02/01/2021 12:59 PM
 Updated: 02/01/2021 12:59 PM
 https://www.airr.io/quote/60186bbedd660006da0c2dc1
 
-%%139950770start%%
+
 #### Extras:
 
-%%139950770end%%
+
 
 
 
@@ -103,10 +103,10 @@ Highlighted: 02/01/2021 12:59 PM
 Updated: 02/01/2021 12:59 PM
 https://www.airr.io/quote/60186bacdd660059830c2dc0
 
-%%139950703start%%
+
 #### Extras:
 
-%%139950703end%%
+
 
 
 
@@ -120,10 +120,10 @@ Highlighted: 02/01/2021 12:57 PM
 Updated: 02/01/2021 12:57 PM
 https://www.airr.io/quote/60186b41dd660045d30c2dba
 
-%%139950593start%%
+
 #### Extras:
 
-%%139950593end%%
+
 
 
 
@@ -137,10 +137,10 @@ Highlighted: 02/01/2021 12:57 PM
 Updated: 02/01/2021 12:57 PM
 https://www.airr.io/quote/60186b37dd660007270c2db5
 
-%%139950591start%%
+
 #### Extras:
 
-%%139950591end%%
+
 
 
 
@@ -154,10 +154,10 @@ Highlighted: 02/01/2021 12:56 PM
 Updated: 02/01/2021 12:56 PM
 https://www.airr.io/quote/60186aeddd660055390c2db2
 
-%%139949942start%%
+
 #### Extras:
 
-%%139949942end%%
+
 
 
 
@@ -171,10 +171,10 @@ Highlighted: 02/01/2021 12:53 PM
 Updated: 02/01/2021 12:53 PM
 https://www.airr.io/quote/60186a46dd66002ff10c2dab
 
-%%139949542start%%
+
 #### Extras:
 
-%%139949542end%%
+
 
 
 
@@ -188,10 +188,10 @@ Highlighted: 02/01/2021 12:51 PM
 Updated: 02/01/2021 12:51 PM
 https://www.airr.io/quote/601869ecdd6600f4730c2d8d
 
-%%139949161start%%
+
 #### Extras:
 
-%%139949161end%%
+
 
 
 
@@ -205,10 +205,10 @@ Highlighted: 02/01/2021 12:51 PM
 Updated: 02/01/2021 12:51 PM
 https://www.airr.io/quote/601869d8dd6600abc30c2d8c
 
-%%139949107start%%
+
 #### Extras:
 
-%%139949107end%%
+
 
 
 
@@ -222,10 +222,10 @@ Highlighted: 02/01/2021 12:51 PM
 Updated: 02/01/2021 12:51 PM
 https://www.airr.io/quote/601869b5dd660042680c2d8a
 
-%%139949105start%%
+
 #### Extras:
 
-%%139949105end%%
+
 
 
 
@@ -239,10 +239,10 @@ Highlighted: 02/01/2021 12:50 PM
 Updated: 02/01/2021 12:50 PM
 https://www.airr.io/quote/601869a4dd66003dd20c2d89
 
-%%139948964start%%
+
 #### Extras:
 
-%%139948964end%%
+
 
 
 
@@ -256,10 +256,10 @@ Highlighted: 02/01/2021 12:50 PM
 Updated: 02/01/2021 12:50 PM
 https://www.airr.io/quote/60186993dd66005dab0c2d84
 
-%%139948951start%%
+
 #### Extras:
 
-%%139948951end%%
+
 
 
 

@@ -7,10 +7,10 @@ Updated: 04/20/2021 08:28 PM
 Highlights URL: https://readwise.io/bookreview/8734966
 SourceUrl: https://www.datadoghq.com/blog/amazon-cloudwatch-metric-streams-datadog/
 
-%%8734966topstart%%
+
 #### Extras:
 
-%%8734966topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.datadoghq.com/blog/amazon-cloudwatch-metric-streams-datad
 Highlighted: 04/20/2021 06:50 PM
 Updated: 04/20/2021 08:28 PM
 
-%%169745102start%%
+
 #### Extras:
 
-%%169745102end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 04/20/2021 08:28 PM
 Highlighted: 04/20/2021 06:50 PM
 Updated: 04/20/2021 08:28 PM
 
-%%169745103start%%
+
 #### Extras:
 
-%%169745103end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 04/20/2021 08:28 PM
 Highlighted: 04/20/2021 06:51 PM
 Updated: 04/20/2021 08:28 PM
 
-%%169745104start%%
+
 #### Extras:
 
-%%169745104end%%
+
 
 
 
@@ -72,10 +72,10 @@ Updated: 04/20/2021 08:28 PM
 Highlighted: 04/20/2021 06:51 PM
 Updated: 04/20/2021 08:28 PM
 
-%%169745105start%%
+
 #### Extras:
 
-%%169745105end%%
+
 
 
 

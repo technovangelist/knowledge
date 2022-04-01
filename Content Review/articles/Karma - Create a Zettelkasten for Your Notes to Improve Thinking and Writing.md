@@ -6,10 +6,10 @@ Updated: 03/18/2020 09:00 AM
 Highlights URL: https://readwise.io/bookreview/1518113
 SourceUrl: https://www.karma.fm/p/YqtCq72/create-a-zettelkasten-for-your-notes-to-improve-thinking-and
 
-%%1518113topstart%%
+
 #### Extras:
 **Zettlekasten**
-%%1518113topend%%
+
 
 
  
@@ -23,10 +23,10 @@ SourceUrl: https://www.karma.fm/p/YqtCq72/create-a-zettelkasten-for-your-notes-t
 Highlighted: 03/06/2020 08:38 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579375start%%
+
 #### Extras:
 **NiklasLuhmann****Vladimir Nabokov****Arno Schmidt****Jean Paul**
-%%42579375end%%
+
 
 
 

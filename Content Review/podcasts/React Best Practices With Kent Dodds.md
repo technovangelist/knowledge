@@ -9,10 +9,10 @@ CoverImageUrl:
 Highlights URL: https://readwise.io/bookreview/7194034
 SourceUrl: https://www.airr.io/episode/5fe3171e8ac3a87661613958
 
-%%7194034topstart%%
+
 #### Extras:
 **Kent Dodds****ReactJS**
-%%7194034topend%%
+
 
 
  
@@ -26,11 +26,11 @@ Highlighted: 01/19/2021 10:40 PM
 Updated: 01/19/2021 10:40 PM
 https://www.airr.io/quote/600470e8f34dae72e1311ceb
 
-%%133135967start%%
+
 #### Extras:
 a test should represent the actual user of the product and not just the developer of the test
 **tdd** **testing**
-%%133135967end%%
+
 
 
 
@@ -43,10 +43,10 @@ Highlighted: 01/28/2021 08:23 PM
 Updated: 01/28/2021 08:23 PM
 https://www.airr.io/quote/600470e8f34daefd70311ced
 
-%%133135966start%%
+
 #### Extras:
 
-%%133135966end%%
+
 
 
 
@@ -59,10 +59,10 @@ Highlighted: 01/19/2021 10:38 PM
 Updated: 01/19/2021 10:38 PM
 https://www.airr.io/quote/60031fe8f34dae2c76310016
 
-%%132759270start%%
+
 #### Extras:
 
-%%132759270end%%
+
 
 
 
@@ -75,10 +75,10 @@ Highlighted: 01/19/2021 10:36 PM
 Updated: 01/19/2021 10:36 PM
 https://www.airr.io/quote/60031ef4f34daece3b310009
 
-%%132759055start%%
+
 #### Extras:
 
-%%132759055end%%
+
 
 
 
@@ -91,10 +91,10 @@ Highlighted: 01/19/2021 10:32 PM
 Updated: 01/19/2021 10:32 PM
 https://www.airr.io/quote/60031c0ef34dae159c30ffd8
 
-%%132757882start%%
+
 #### Extras:
 **Facebook**
-%%132757882end%%
+
 
 
 

@@ -7,10 +7,10 @@ Updated: 02/05/2021 10:40 PM
 Highlights URL: https://readwise.io/bookreview/7569986
 SourceUrl: https://www.tnmoc.org/our-story
 
-%%7569986topstart%%
+
 #### Extras:
 **The National Museum of Computing (TNMOC) at Bletchley Park****Colossus**
-%%7569986topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.tnmoc.org/our-story
 Highlighted: 02/05/2021 10:40 PM
 Updated: 02/05/2021 10:40 PM
 
-%%141868474start%%
+
 #### Extras:
 
-%%141868474end%%
+
 
 
 

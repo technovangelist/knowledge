@@ -7,10 +7,10 @@ Updated: 03/03/2021 01:03 PM
 Highlights URL: https://readwise.io/bookreview/8079405
 SourceUrl: https://github.com/cortexproject/cortex
 
-%%8079405topstart%%
+
 #### Extras:
 
-%%8079405topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://github.com/cortexproject/cortex
 Highlighted: 03/03/2021 01:03 PM
 Updated: 03/03/2021 01:03 PM
 
-%%153023195start%%
+
 #### Extras:
 
-%%153023195end%%
+
 
 ------
 

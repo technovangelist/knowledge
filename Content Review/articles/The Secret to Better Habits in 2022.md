@@ -7,10 +7,10 @@ Updated: 12/29/2021 06:31 PM
 Highlights URL: https://readwise.io/bookreview/12519311
 SourceUrl: https://www.inoreader.com/article/3a9c6e7af458b238-the-secret-to-better-habits-in-2022
 
-%%12519311topstart%%
+
 #### Extras:
 
-%%12519311topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.inoreader.com/article/3a9c6e7af458b238-the-secret-to-bett
 Highlighted: 12/29/2021 06:22 PM
 Updated: 12/29/2021 06:22 PM
 
-%%263992737start%%
+
 #### Extras:
 
-%%263992737end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 12/29/2021 06:22 PM
 Highlighted: 12/29/2021 06:23 PM
 Updated: 12/29/2021 06:23 PM
 
-%%263992740start%%
+
 #### Extras:
 ![george washington mickles muckles](/knowledge/Content Review/articles/george washington mickles muckles)
-%%263992740end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 12/29/2021 06:23 PM
 Highlighted: 12/29/2021 06:23 PM
 Updated: 12/29/2021 06:23 PM
 
-%%263992784start%%
+
 #### Extras:
 ![read a page a day](/knowledge/Content Review/articles/read a page a day)
-%%263992784end%%
+
 
 
 
@@ -72,10 +72,10 @@ Updated: 12/29/2021 06:23 PM
 Highlighted: 12/29/2021 06:24 PM
 Updated: 12/29/2021 06:24 PM
 
-%%263992899start%%
+
 #### Extras:
 
-%%263992899end%%
+
 
 
 
@@ -88,10 +88,10 @@ Updated: 12/29/2021 06:24 PM
 Highlighted: 12/29/2021 06:26 PM
 Updated: 12/29/2021 06:26 PM
 
-%%263993133start%%
+
 #### Extras:
 
-%%263993133end%%
+
 
 
 
@@ -104,10 +104,10 @@ Updated: 12/29/2021 06:26 PM
 Highlighted: 12/29/2021 06:27 PM
 Updated: 12/29/2021 06:27 PM
 
-%%263993271start%%
+
 #### Extras:
 
-%%263993271end%%
+
 
 
 
@@ -120,10 +120,10 @@ Updated: 12/29/2021 06:27 PM
 Highlighted: 12/29/2021 06:28 PM
 Updated: 12/29/2021 06:28 PM
 
-%%263993412start%%
+
 #### Extras:
 
-%%263993412end%%
+
 
 
 
@@ -136,10 +136,10 @@ Updated: 12/29/2021 06:28 PM
 Highlighted: 12/29/2021 06:29 PM
 Updated: 12/29/2021 06:29 PM
 
-%%263993538start%%
+
 #### Extras:
 ![learn stupid](/knowledge/Content Review/articles/learn stupid)
-%%263993538end%%
+
 
 
 
@@ -152,10 +152,10 @@ Updated: 12/29/2021 06:29 PM
 Highlighted: 12/29/2021 06:30 PM
 Updated: 12/29/2021 06:30 PM
 
-%%263994039start%%
+
 #### Extras:
 
-%%263994039end%%
+
 
 
 
@@ -168,10 +168,10 @@ Updated: 12/29/2021 06:30 PM
 Highlighted: 12/29/2021 06:31 PM
 Updated: 12/29/2021 06:31 PM
 
-%%263994042start%%
+
 #### Extras:
 
-%%263994042end%%
+
 
 
 

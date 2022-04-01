@@ -7,10 +7,10 @@ Updated: 01/25/2021 10:23 PM
 Highlights URL: https://readwise.io/bookreview/7188865
 SourceUrl: https://machnicki.medium.com/my-journey-with-aws-serverless-7db5d91ecfc4
 
-%%7188865topstart%%
+
 #### Extras:
 [AWS Lambda](/knowledge/Tools I Use/AWS Lambda)**Miron Machnicki**
-%%7188865topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://machnicki.medium.com/my-journey-with-aws-serverless-7db5d91ec
 Highlighted: 01/25/2021 10:23 PM
 Updated: 01/25/2021 10:23 PM
 
-%%136367585start%%
+
 #### Extras:
 **Terraform****SAM**
-%%136367585end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 01/25/2021 10:23 PM
 Highlighted: 01/25/2021 10:23 PM
 Updated: 01/25/2021 10:23 PM
 
-%%136367575start%%
+
 #### Extras:
 
-%%136367575end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 01/25/2021 10:23 PM
 Highlighted: 01/25/2021 10:22 PM
 Updated: 01/25/2021 10:22 PM
 
-%%136367565start%%
+
 #### Extras:
 
-%%136367565end%%
+
 
 
 
@@ -72,10 +72,10 @@ Updated: 01/25/2021 10:22 PM
 Highlighted: 01/25/2021 10:22 PM
 Updated: 01/25/2021 10:22 PM
 
-%%136367558start%%
+
 #### Extras:
 **dynamodb**
-%%136367558end%%
+
 
 
 
@@ -88,10 +88,10 @@ Updated: 01/25/2021 10:22 PM
 Highlighted: 01/25/2021 10:14 PM
 Updated: 01/25/2021 10:14 PM
 
-%%136366925start%%
+
 #### Extras:
 
-%%136366925end%%
+
 
 
 
@@ -104,10 +104,10 @@ Updated: 01/25/2021 10:14 PM
 Highlighted: 01/25/2021 09:39 PM
 Updated: 01/25/2021 09:39 PM
 
-%%136361313start%%
+
 #### Extras:
 
-%%136361313end%%
+
 
 
 
@@ -122,10 +122,10 @@ DynamoDB is fast, because you access data directly from partition (you always ne
 Highlighted: 01/07/2021 03:58 PM
 Updated: 01/15/2021 10:34 PM
 
-%%132623629start%%
+
 #### Extras:
 
-%%132623629end%%
+
 
 
 
@@ -138,10 +138,10 @@ Updated: 01/15/2021 10:34 PM
 Highlighted: 01/07/2021 03:54 PM
 Updated: 01/15/2021 10:34 PM
 
-%%132623628start%%
+
 #### Extras:
 **SQS****SNS**
-%%132623628end%%
+
 
 
 
@@ -154,10 +154,10 @@ Updated: 01/15/2021 10:34 PM
 Highlighted: 01/07/2021 03:51 PM
 Updated: 01/15/2021 10:34 PM
 
-%%132623627start%%
+
 #### Extras:
 **API Gateway****Elastic Load Balancer**
-%%132623627end%%
+
 
 
 
@@ -173,10 +173,10 @@ Ahh, I was thinking it meant execution, but think it means how it gets launched 
 Highlighted: 01/07/2021 03:51 PM
 Updated: 01/15/2021 10:34 PM
 
-%%132623626start%%
+
 #### Extras:
 
-%%132623626end%%
+
 
 
 
@@ -190,10 +190,10 @@ Comment: Am I splitting up the lambdas in the right spots? ^rw132623625comment
 Highlighted: 01/07/2021 03:50 PM
 Updated: 01/15/2021 10:34 PM
 
-%%132623625start%%
+
 #### Extras:
 
-%%132623625end%%
+
 
 
 
@@ -207,10 +207,10 @@ Comment: hmm, I don't know if i know if this will benefit me. Should I always ha
 Highlighted: 01/07/2021 03:49 PM
 Updated: 01/15/2021 10:34 PM
 
-%%132623624start%%
+
 #### Extras:
 
-%%132623624end%%
+
 
 
 

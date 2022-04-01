@@ -7,10 +7,10 @@ Updated: 02/02/2021 11:20 AM
 Highlights URL: https://readwise.io/bookreview/7503437
 SourceUrl: https://www.sitepoint.com/rollup-javascript-bundler-introduction/
 
-%%7503437topstart%%
+
 #### Extras:
 **rollup** **jstooling**
-%%7503437topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.sitepoint.com/rollup-javascript-bundler-introduction/
 Highlighted: 02/02/2021 11:20 AM
 Updated: 02/02/2021 11:20 AM
 
-%%140411958start%%
+
 #### Extras:
 
-%%140411958end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 02/02/2021 11:20 AM
 Highlighted: 02/02/2021 11:20 AM
 Updated: 02/02/2021 11:20 AM
 
-%%140411957start%%
+
 #### Extras:
 
-%%140411957end%%
+
 
 
 
@@ -57,10 +57,10 @@ Comment: never been able to understand webpack config and parcel is magic ^rw140
 Highlighted: 02/02/2021 11:16 AM
 Updated: 02/02/2021 11:16 AM
 
-%%140410212start%%
+
 #### Extras:
 
-%%140410212end%%
+
 
 
 
@@ -79,10 +79,10 @@ Comment: benefits of rollup ^rw140409522comment
 Highlighted: 02/02/2021 11:15 AM
 Updated: 02/02/2021 11:15 AM
 
-%%140409522start%%
+
 #### Extras:
 
-%%140409522end%%
+
 
 
 
@@ -95,10 +95,10 @@ Updated: 02/02/2021 11:15 AM
 Highlighted: 02/02/2021 11:14 AM
 Updated: 02/02/2021 11:14 AM
 
-%%140409372start%%
+
 #### Extras:
 
-%%140409372end%%
+
 
 
 

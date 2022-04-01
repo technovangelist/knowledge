@@ -7,10 +7,10 @@ Updated: 02/08/2021 08:25 AM
 Highlights URL: https://readwise.io/bookreview/7542190
 SourceUrl: https://notes.andymatuschak.org/zg3fYweZpbHeBTpcYke5mF4ZfrJutYcQEtFo
 
-%%7542190topstart%%
+
 #### Extras:
 **Andy Matuschak**
-%%7542190topend%%
+
  
 -----
  ## Highlights:
@@ -24,10 +24,10 @@ Process clusters of those passages and thoughts into lasting notes:How to proces
 Highlighted: 02/08/2021 08:25 AM
 Updated: 02/08/2021 08:25 AM
 
-%%143055410start%%
+
 #### Extras:
 
-%%143055410end%%
+
 
 
 
@@ -47,10 +47,10 @@ Comment: Writing about writing is easy. taking the notes about technical topics 
 Highlighted: 02/04/2021 09:00 AM
 Updated: 02/04/2021 09:06 AM
 
-%%141329686start%%
+
 #### Extras:
 
-%%141329686end%%
+
 
 ------
 

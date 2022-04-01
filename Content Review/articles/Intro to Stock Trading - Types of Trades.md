@@ -7,10 +7,10 @@ Updated: 02/15/2021 09:40 PM
 Highlights URL: https://readwise.io/bookreview/7761267
 SourceUrl: https://www.thebalance.com/stock-trading-for-beginners-357633
 
-%%7761267topstart%%
+
 #### Extras:
 
-%%7761267topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://www.thebalance.com/stock-trading-for-beginners-357633
 Highlighted: 02/15/2021 09:02 AM
 Updated: 02/15/2021 09:40 PM
 
-%%146298771start%%
+
 #### Extras:
 
-%%146298771end%%
+
 
 ------
 
@@ -38,10 +38,10 @@ Updated: 02/15/2021 09:40 PM
 Highlighted: 02/15/2021 09:01 AM
 Updated: 02/15/2021 09:40 PM
 
-%%146298770start%%
+
 #### Extras:
 
-%%146298770end%%
+
 
 ------
 
@@ -52,10 +52,10 @@ Updated: 02/15/2021 09:40 PM
 Highlighted: 02/15/2021 09:00 AM
 Updated: 02/15/2021 09:40 PM
 
-%%146298769start%%
+
 #### Extras:
 
-%%146298769end%%
+
 
 ------
 
@@ -66,10 +66,10 @@ Updated: 02/15/2021 09:40 PM
 Highlighted: 02/15/2021 08:59 AM
 Updated: 02/15/2021 09:40 PM
 
-%%146298768start%%
+
 #### Extras:
 
-%%146298768end%%
+
 
 ------
 
@@ -80,10 +80,10 @@ Updated: 02/15/2021 09:40 PM
 Highlighted: 02/15/2021 08:59 AM
 Updated: 02/15/2021 09:40 PM
 
-%%146298767start%%
+
 #### Extras:
 
-%%146298767end%%
+
 
 ------
 
@@ -94,10 +94,10 @@ Updated: 02/15/2021 09:40 PM
 Highlighted: 02/15/2021 08:59 AM
 Updated: 02/15/2021 09:40 PM
 
-%%146298766start%%
+
 #### Extras:
 
-%%146298766end%%
+
 
 ------
 
@@ -108,10 +108,10 @@ Updated: 02/15/2021 09:40 PM
 Highlighted: 02/15/2021 08:58 AM
 Updated: 02/15/2021 09:40 PM
 
-%%146298765start%%
+
 #### Extras:
 
-%%146298765end%%
+
 
 ------
 
@@ -122,10 +122,10 @@ Updated: 02/15/2021 09:40 PM
 Highlighted: 02/15/2021 08:57 AM
 Updated: 02/15/2021 09:40 PM
 
-%%146298764start%%
+
 #### Extras:
 
-%%146298764end%%
+
 
 ------
 
@@ -136,10 +136,10 @@ Updated: 02/15/2021 09:40 PM
 Highlighted: 02/15/2021 08:57 AM
 Updated: 02/15/2021 09:40 PM
 
-%%146298763start%%
+
 #### Extras:
 
-%%146298763end%%
+
 
 ------
 

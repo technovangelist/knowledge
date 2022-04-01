@@ -6,10 +6,10 @@ Title: AWS Summit 2019 - Anaheim: Introduction to AWS App Mesh (MAD301)
 Category: YouTube
 Published: 04/16/2019 03:37 PM
  ^yt1UDRGlmbiZAabout
-%%1UDRGlmbiZAtopstart%%
+
 #### Extras:
 [AWS](/knowledge/AWS) **App Mesh** **Envoy Proxy**
-%%1UDRGlmbiZAtopend%%
+
 
 -----
 ## Highlights:
@@ -19,10 +19,10 @@ Timecode: [1:04](https://www.youtube.com/watch?v=1UDRGlmbiZA&t=64) ^yt1UDRGlmbiZ
 Comment: 
 >What is app mesh? application level communication across aws. allows app engineer to build an app that communicates to components across different aws services without having to know about how to setup a vpc or other networking services. it should just work
 >its a service mesh using envoy ^yt1UDRGlmbiZA64c
-%%64start%%
+
 #### Extras:
 **VPC**
-%%64end%%
+
 
 
 -----
@@ -30,10 +30,10 @@ Timecode: [3:45](https://www.youtube.com/watch?v=1UDRGlmbiZA&t=225) ^yt1UDRGlmbi
 
 Comment: 
 >app mesh works across compute services. ecs, fargate, eks, ec2, k8s on ec2, but as of april 2019 not lambda.. just checked again in March 2021 and no changes to services suppported by app mesh ^yt1UDRGlmbiZA225c
-%%225start%%
+
 #### Extras:
 **Elastic Container Service** **Fargate** **eks** **kubernetes**
-%%225end%%
+
 
 
 -----
@@ -46,10 +46,10 @@ Comment:
 >How to shift traffic between deployments
 >How to decouple service teams
 >How to minimize impact to application code ^yt1UDRGlmbiZA1347c
-%%1347start%%
+
 #### Extras:
 
-%%1347end%%
+
 
 
 ## Video Description on YouTube:

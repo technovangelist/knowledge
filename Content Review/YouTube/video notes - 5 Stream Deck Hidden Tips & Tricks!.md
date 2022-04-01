@@ -6,10 +6,10 @@ Title: 5 Stream Deck Hidden Tips & Tricks!
 Category: YouTube
 Published: 10/26/2020 04:53 AM
  ^yt4hOzXidbMLwabout
-%%4hOzXidbMLwtopstart%%
+
 #### Extras:
 
-%%4hOzXidbMLwtopend%%
+
 
 -----
 ## Highlights:
@@ -17,40 +17,40 @@ Published: 10/26/2020 04:53 AM
 Timecode: [2:06](https://www.youtube.com/watch?v=4hOzXidbMLw&t=126) ^yt4hOzXidbMLw126t
 
 Comment: ==stream deck supports F1-F24== ^yt4hOzXidbMLw126c
-%%126start%%
+
 #### Extras:
 
-%%126end%%
+
 
 
 -----
 Timecode: [5:23](https://www.youtube.com/watch?v=4hOzXidbMLw&t=323) ^yt4hOzXidbMLw323t
 
 Comment: ==100 ms delay between all actions in multi action== ^yt4hOzXidbMLw323c
-%%323start%%
+
 #### Extras:
 
-%%323end%%
+
 
 
 -----
 Timecode: [6:16](https://www.youtube.com/watch?v=4hOzXidbMLw&t=376) ^yt4hOzXidbMLw376t
 
 Comment: ==shows how to eliminate delay between actions on windows. maybe worth looking in to how to do it on mac== ^yt4hOzXidbMLw376c
-%%376start%%
+
 #### Extras:
 
-%%376end%%
+
 
 
 -----
 Timecode: [7:42](https://www.youtube.com/watch?v=4hOzXidbMLw&t=462) ^yt4hOzXidbMLw462t
 
 Comment: ==twitch tools lets you easily do giveaways== ^yt4hOzXidbMLw462c
-%%462start%%
+
 #### Extras:
 
-%%462end%%
+
 
 
 ## Video Description on YouTube:

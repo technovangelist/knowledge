@@ -7,10 +7,10 @@ Updated: 02/10/2021 08:31 PM
 Highlights URL: https://readwise.io/bookreview/7665903
 SourceUrl: https://www.launchd.info/
 
-%%7665903topstart%%
+
 #### Extras:
 
-%%7665903topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Comment: The difference between launch agent and launch daemon ^rw144132360comme
 Highlighted: 02/10/2021 08:30 PM
 Updated: 02/10/2021 08:31 PM
 
-%%144132360start%%
+
 #### Extras:
 
-%%144132360end%%
+
 
 
 

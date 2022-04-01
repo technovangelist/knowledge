@@ -7,11 +7,11 @@ Updated: 02/08/2021 09:09 PM
 Highlights URL: https://readwise.io/bookreview/7629695
 SourceUrl: https://notes.andymatuschak.org/z244xx3kMf1v8UnkZKUwQBAwBsHLpUgN4YhsG
 
-%%7629695topstart%%
+
 #### Extras:
 #booknotes
 **Andy Matuschak**
-%%7629695topend%%
+
 
 
  
@@ -25,10 +25,10 @@ SourceUrl: https://notes.andymatuschak.org/z244xx3kMf1v8UnkZKUwQBAwBsHLpUgN4YhsG
 Highlighted: 02/08/2021 09:09 PM
 Updated: 02/08/2021 09:09 PM
 
-%%143302665start%%
+
 #### Extras:
 **Y Combinator**
-%%143302665end%%
+
 
 
 
@@ -42,10 +42,10 @@ Comment: start a startup, or join Y Combinator. Y Combinator is much more effect
 Highlighted: 02/08/2021 09:08 PM
 Updated: 02/08/2021 09:09 PM
 
-%%143301747start%%
+
 #### Extras:
 
-%%143301747end%%
+
 
 
 

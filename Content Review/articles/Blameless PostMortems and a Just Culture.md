@@ -7,10 +7,10 @@ Updated: 03/18/2020 09:02 AM
 Highlights URL: https://readwise.io/bookreview/1130731
 SourceUrl: https://codeascraft.com/2012/05/22/blameless-postmortems/
 
-%%1130731topstart%%
+
 #### Extras:
 
-%%1130731topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://codeascraft.com/2012/05/22/blameless-postmortems/
 Highlighted: 09/06/2016 07:58 PM
 Updated: 12/07/2019 07:11 PM
 
-%%33272584start%%
+
 #### Extras:
 **Failure**
-%%33272584end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 12/07/2019 07:11 PM
 Highlighted: 09/06/2016 07:58 PM
 Updated: 12/07/2019 07:11 PM
 
-%%33272583start%%
+
 #### Extras:
 
-%%33272583end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 12/07/2019 07:11 PM
 Highlighted: 09/06/2016 07:57 PM
 Updated: 12/07/2019 07:11 PM
 
-%%33272582start%%
+
 #### Extras:
 
-%%33272582end%%
+
 
 
 
@@ -72,10 +72,10 @@ Updated: 12/07/2019 07:11 PM
 Highlighted: 09/06/2016 07:57 PM
 Updated: 12/07/2019 07:11 PM
 
-%%33272581start%%
+
 #### Extras:
 
-%%33272581end%%
+
 
 
 
@@ -88,10 +88,10 @@ Updated: 12/07/2019 07:11 PM
 Highlighted: 09/06/2016 07:56 PM
 Updated: 12/07/2019 07:11 PM
 
-%%33272580start%%
+
 #### Extras:
 
-%%33272580end%%
+
 
 
 
@@ -109,10 +109,10 @@ Accidents happen because the person believes that
 Highlighted: 09/06/2016 07:55 PM
 Updated: 12/07/2019 07:11 PM
 
-%%33272579start%%
+
 #### Extras:
 **Erik Hollnagel**
-%%33272579end%%
+
 
 
 
@@ -125,10 +125,10 @@ Updated: 12/07/2019 07:11 PM
 Highlighted: 09/06/2016 07:54 PM
 Updated: 12/07/2019 07:11 PM
 
-%%33272578start%%
+
 #### Extras:
 **Failure**
-%%33272578end%%
+
 
 
 
@@ -141,10 +141,10 @@ Updated: 12/07/2019 07:11 PM
 Highlighted: 09/06/2016 07:54 PM
 Updated: 12/07/2019 07:11 PM
 
-%%33272577start%%
+
 #### Extras:
 
-%%33272577end%%
+
 
 
 
@@ -157,10 +157,10 @@ Updated: 12/07/2019 07:11 PM
 Highlighted: 09/06/2016 07:53 PM
 Updated: 12/07/2019 07:11 PM
 
-%%33272576start%%
+
 #### Extras:
 
-%%33272576end%%
+
 
 
 
@@ -173,10 +173,10 @@ Updated: 12/07/2019 07:11 PM
 Highlighted: 09/06/2016 07:53 PM
 Updated: 12/07/2019 07:11 PM
 
-%%33272575start%%
+
 #### Extras:
 
-%%33272575end%%
+
 
 
 
@@ -194,10 +194,10 @@ and their understanding of timeline of events as they occurred. ^rw33272574hl
 Highlighted: 09/06/2016 07:52 PM
 Updated: 12/07/2019 07:11 PM
 
-%%33272574start%%
+
 #### Extras:
 
-%%33272574end%%
+
 
 
 
@@ -210,10 +210,10 @@ Updated: 12/07/2019 07:11 PM
 Highlighted: 09/06/2016 07:52 PM
 Updated: 12/07/2019 07:11 PM
 
-%%33272573start%%
+
 #### Extras:
 
-%%33272573end%%
+
 
 
 
@@ -227,10 +227,10 @@ Comment: the 'just culture' which is the precursor to the blameless postmortem ^
 Highlighted: 09/06/2016 07:52 PM
 Updated: 12/07/2019 07:11 PM
 
-%%33272572start%%
+
 #### Extras:
 
-%%33272572end%%
+
 
 
 
@@ -243,10 +243,10 @@ Updated: 12/07/2019 07:11 PM
 Highlighted: 09/06/2016 07:51 PM
 Updated: 12/07/2019 07:11 PM
 
-%%33272571start%%
+
 #### Extras:
 **Etsy**
-%%33272571end%%
+
 
 
 
@@ -260,10 +260,10 @@ Comment: regarding the name, blame, and shame tradition ^rw33272570comment
 Highlighted: 09/06/2016 07:50 PM
 Updated: 12/07/2019 07:11 PM
 
-%%33272570start%%
+
 #### Extras:
 **Sidney Decker****Bad Apple Theory**
-%%33272570end%%
+
 
 
 

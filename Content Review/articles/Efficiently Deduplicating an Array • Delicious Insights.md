@@ -7,11 +7,11 @@ Updated: 04/09/2021 04:13 PM
 Highlights URL: https://readwise.io/bookreview/8584405
 SourceUrl: https://delicious-insights.com/en/posts/js-array-deduplication/
 
-%%8584405topstart%%
+
 #### Extras:
 Notes on using Set - **working with Sets in Javascript**
 
-%%8584405topend%%
+
  
 -----
  ## Highlights:
@@ -23,10 +23,10 @@ Notes on using Set - **working with Sets in Javascript**
 Highlighted: 04/09/2021 03:46 PM
 Updated: 04/09/2021 03:46 PM
 
-%%165893394start%%
+
 #### Extras:
 
-%%165893394end%%
+
 
 ------
 
@@ -37,10 +37,10 @@ Updated: 04/09/2021 03:46 PM
 Highlighted: 04/09/2021 03:47 PM
 Updated: 04/09/2021 03:47 PM
 
-%%165893546start%%
+
 #### Extras:
 
-%%165893546end%%
+
 
 ------
 
@@ -52,10 +52,10 @@ Comment: if you want to dedupe an array of a million items before Set, you are l
 Highlighted: 04/09/2021 04:13 PM
 Updated: 04/09/2021 04:13 PM
 
-%%165899264start%%
+
 #### Extras:
 
-%%165899264end%%
+
 
 ------
 

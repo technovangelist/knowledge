@@ -7,10 +7,10 @@ Updated: 12/22/2020 10:16 PM
 Highlights URL: https://readwise.io/bookreview/6789493
 SourceUrl: http://interconnected.org/home/2020/09/10/streak
 
-%%6789493topstart%%
+
 #### Extras:
 **blogging****Matt Webb**
-%%6789493topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: http://interconnected.org/home/2020/09/10/streak
 Highlighted: 10/18/2020 08:55 PM
 Updated: 12/22/2020 10:16 PM
 
-%%122380823start%%
+
 #### Extras:
 **writing**
-%%122380823end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 10/18/2020 08:55 PM
 Updated: 12/22/2020 10:16 PM
 
-%%122380822start%%
+
 #### Extras:
 
-%%122380822end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 10/18/2020 08:55 PM
 Updated: 12/22/2020 10:16 PM
 
-%%122380821start%%
+
 #### Extras:
 
-%%122380821end%%
+
 
 
 
@@ -72,10 +72,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 10/18/2020 08:55 PM
 Updated: 12/22/2020 10:16 PM
 
-%%122380820start%%
+
 #### Extras:
 
-%%122380820end%%
+
 
 
 
@@ -88,10 +88,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 10/18/2020 08:55 PM
 Updated: 12/22/2020 10:16 PM
 
-%%122380819start%%
+
 #### Extras:
 
-%%122380819end%%
+
 
 
 
@@ -104,10 +104,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 10/18/2020 08:54 PM
 Updated: 12/22/2020 10:16 PM
 
-%%122380818start%%
+
 #### Extras:
 
-%%122380818end%%
+
 
 
 
@@ -120,10 +120,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 10/18/2020 08:54 PM
 Updated: 12/22/2020 10:16 PM
 
-%%122380817start%%
+
 #### Extras:
 
-%%122380817end%%
+
 
 
 
@@ -136,10 +136,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 10/18/2020 08:54 PM
 Updated: 12/22/2020 10:16 PM
 
-%%122380816start%%
+
 #### Extras:
 
-%%122380816end%%
+
 
 
 
@@ -152,10 +152,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 10/18/2020 08:54 PM
 Updated: 12/22/2020 10:16 PM
 
-%%122380815start%%
+
 #### Extras:
 
-%%122380815end%%
+
 
 
 

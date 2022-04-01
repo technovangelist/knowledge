@@ -7,10 +7,10 @@ Updated: 03/03/2021 02:13 PM
 Highlights URL: https://readwise.io/bookreview/8079860
 SourceUrl: https://aws.amazon.com/cloud-map/features/
 
-%%8079860topstart%%
+
 #### Extras:
 
-%%8079860topend%%
+
  
 -----
  ## Highlights:
@@ -23,10 +23,10 @@ Comment: service discovery, even of lambda ^rw153031249comment
 Highlighted: 03/03/2021 02:13 PM
 Updated: 03/03/2021 02:13 PM
 
-%%153031249start%%
+
 #### Extras:
 
-%%153031249end%%
+
 
 ------
 

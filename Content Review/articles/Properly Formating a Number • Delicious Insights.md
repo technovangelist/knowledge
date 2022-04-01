@@ -7,10 +7,10 @@ Updated: 04/09/2021 04:32 PM
 Highlights URL: https://readwise.io/bookreview/8584582
 SourceUrl: https://delicious-insights.com/en/posts/js-number-formatting/
 
-%%8584582topstart%%
+
 #### Extras:
 
-%%8584582topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://delicious-insights.com/en/posts/js-number-formatting/
 Highlighted: 04/09/2021 04:29 PM
 Updated: 04/09/2021 04:29 PM
 
-%%165900125start%%
+
 #### Extras:
 
-%%165900125end%%
+
 
 ------
 
@@ -36,10 +36,10 @@ Updated: 04/09/2021 04:29 PM
 Highlighted: 04/09/2021 04:29 PM
 Updated: 04/09/2021 04:29 PM
 
-%%165900126start%%
+
 #### Extras:
 
-%%165900126end%%
+
 
 ------
 
@@ -50,10 +50,10 @@ Updated: 04/09/2021 04:29 PM
 Highlighted: 04/09/2021 04:31 PM
 Updated: 04/09/2021 04:31 PM
 
-%%165900191start%%
+
 #### Extras:
 
-%%165900191end%%
+
 
 ------
 
@@ -65,10 +65,10 @@ Comment: Interesting. You can put a radix in tostring to create a string in bina
 Highlighted: 04/09/2021 04:31 PM
 Updated: 04/09/2021 04:32 PM
 
-%%165900192start%%
+
 #### Extras:
 
-%%165900192end%%
+
 
 ------
 

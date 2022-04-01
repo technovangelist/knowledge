@@ -6,10 +6,10 @@ Updated: 04/03/2020 05:57 PM
 Highlights URL: https://readwise.io/bookreview/1577859
 SourceUrl: https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/
 
-%%1577859topstart%%
+
 #### Extras:
 **etcd****kubernetes**
-%%1577859topend%%
+
 
 
  
@@ -23,10 +23,10 @@ SourceUrl: https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade
 Highlighted: 03/23/2020 11:55 AM
 Updated: 03/23/2020 05:14 PM
 
-%%43947504start%%
+
 #### Extras:
 
-%%43947504end%%
+
 
 
 
@@ -39,10 +39,10 @@ Updated: 03/23/2020 05:14 PM
 Highlighted: 03/23/2020 11:54 AM
 Updated: 03/23/2020 05:14 PM
 
-%%43947503start%%
+
 #### Extras:
 
-%%43947503end%%
+
 
 
 
@@ -55,10 +55,10 @@ Updated: 03/23/2020 05:14 PM
 Highlighted: 03/23/2020 11:51 AM
 Updated: 03/23/2020 05:14 PM
 
-%%43947502start%%
+
 #### Extras:
 
-%%43947502end%%
+
 
 
 
@@ -71,10 +71,10 @@ Updated: 03/23/2020 05:14 PM
 Highlighted: 03/23/2020 11:47 AM
 Updated: 03/23/2020 05:14 PM
 
-%%43947501start%%
+
 #### Extras:
 
-%%43947501end%%
+
 
 
 
@@ -87,10 +87,10 @@ Updated: 03/23/2020 05:14 PM
 Highlighted: 03/23/2020 11:47 AM
 Updated: 03/23/2020 05:14 PM
 
-%%43947500start%%
+
 #### Extras:
 
-%%43947500end%%
+
 
 
 
@@ -103,10 +103,10 @@ Updated: 03/23/2020 05:14 PM
 Highlighted: 03/23/2020 11:45 AM
 Updated: 03/23/2020 05:14 PM
 
-%%43947499start%%
+
 #### Extras:
 
-%%43947499end%%
+
 
 
 
@@ -119,10 +119,10 @@ Updated: 03/23/2020 05:14 PM
 Highlighted: 03/23/2020 11:44 AM
 Updated: 03/23/2020 05:14 PM
 
-%%43947498start%%
+
 #### Extras:
 
-%%43947498end%%
+
 
 
 
@@ -139,10 +139,10 @@ Run etcd as a cluster of odd members
 Highlighted: 03/23/2020 11:43 AM
 Updated: 03/23/2020 05:14 PM
 
-%%43947497start%%
+
 #### Extras:
 
-%%43947497end%%
+
 
 
 

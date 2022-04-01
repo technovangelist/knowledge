@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/51FUJIL2ZcL._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1214101
 
-%%1214101topstart%%
+
 #### Extras:
 
-%%1214101topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlights URL: https://readwise.io/bookreview/1214101
 Highlighted: 03/24/2017 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507061start%%
+
 #### Extras:
 
-%%35507061end%%
+
 
 
 

@@ -7,10 +7,10 @@ Updated: 02/04/2021 09:22 AM
 Highlights URL: https://readwise.io/bookreview/7542432
 SourceUrl: https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC
 
-%%7542432topstart%%
+
 #### Extras:
 **Evergreen Notes****Andy Matuschak**
-%%7542432topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC
 Highlighted: 02/04/2021 09:22 AM
 Updated: 02/04/2021 09:22 AM
 
-%%141332845start%%
+
 #### Extras:
 
-%%141332845end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 02/04/2021 09:22 AM
 Highlighted: 02/04/2021 09:11 AM
 Updated: 02/04/2021 09:11 AM
 
-%%141331837start%%
+
 #### Extras:
 
-%%141331837end%%
+
 
 
 

@@ -7,10 +7,10 @@ Updated: 02/03/2021 04:04 PM
 Highlights URL: https://readwise.io/bookreview/7526915
 SourceUrl: https://www.datadoghq.com/blog/end-to-end-application-monitoring/
 
-%%7526915topstart%%
+
 #### Extras:
 
-%%7526915topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Comment: ![](https://imgix.datadoghq.com/img/blog/end-to-end-application-monitor
 Highlighted: 02/03/2021 04:04 PM
 Updated: 02/03/2021 04:04 PM
 
-%%141015378start%%
+
 #### Extras:
 
-%%141015378end%%
+
 
 
 
@@ -42,10 +42,10 @@ Comment: ![](https://imgix.datadoghq.com/img/blog/end-to-end-application-monitor
 Highlighted: 02/03/2021 04:03 PM
 Updated: 02/03/2021 04:03 PM
 
-%%141015282start%%
+
 #### Extras:
 **rum**
-%%141015282end%%
+
 
 
 
@@ -59,10 +59,10 @@ Comment: neat uses of tags ^rw141015221comment
 Highlighted: 02/03/2021 04:02 PM
 Updated: 02/03/2021 04:02 PM
 
-%%141015221start%%
+
 #### Extras:
 
-%%141015221end%%
+
 
 
 

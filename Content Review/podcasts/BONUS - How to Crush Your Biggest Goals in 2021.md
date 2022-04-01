@@ -9,10 +9,10 @@ CoverImageUrl:
 Highlights URL: https://readwise.io/bookreview/7383231
 SourceUrl: https://www.airr.io/episode/5fef8b9bad8e76e121e6cc91
 
-%%7383231topstart%%
+
 #### Extras:
 
-%%7383231topend%%
+
  
 -----
  ## Highlights:
@@ -26,10 +26,10 @@ Highlighted: 01/28/2021 04:24 PM
 Updated: 07/14/2021 09:10 AM
 https://www.airr.io/quote/601355b5c9f3ab884ef3c9e5
 
-%%137397351start%%
+
 #### Extras:
 
-%%137397351end%%
+
 
 ------
 
@@ -42,10 +42,10 @@ Highlighted: 01/28/2021 04:36 PM
 Updated: 07/14/2021 09:10 AM
 https://www.airr.io/quote/6013588fc9f3ab8087f3c9fb
 
-%%137398173start%%
+
 #### Extras:
 
-%%137398173end%%
+
 
 ------
 
@@ -58,10 +58,10 @@ Highlighted: 01/28/2021 04:42 PM
 Updated: 07/14/2021 09:10 AM
 https://www.airr.io/quote/601359eac9f3abc5a5f3ca17
 
-%%137400720start%%
+
 #### Extras:
 
-%%137400720end%%
+
 
 ------
 
@@ -74,10 +74,10 @@ Highlighted: 01/28/2021 04:43 PM
 Updated: 07/14/2021 09:10 AM
 https://www.airr.io/quote/60135a14c9f3abffe7f3ca18
 
-%%137400728start%%
+
 #### Extras:
 
-%%137400728end%%
+
 
 ------
 
@@ -92,10 +92,10 @@ Highlighted: 01/28/2021 04:47 PM
 Updated: 07/14/2021 09:10 AM
 https://www.airr.io/quote/60135b18c9f3ab31acf3ca2e
 
-%%137403947start%%
+
 #### Extras:
 
-%%137403947end%%
+
 
 ------
 

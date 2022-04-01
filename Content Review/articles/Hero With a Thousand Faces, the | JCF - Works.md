@@ -7,10 +7,10 @@ Updated: 01/28/2021 04:44 PM
 Highlights URL: https://readwise.io/bookreview/7383361
 SourceUrl: https://www.jcf.org/works/titles/the-hero-with-a-thousand-faces/
 
-%%7383361topstart%%
+
 #### Extras:
 **Joseph Campbell**
-%%7383361topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.jcf.org/works/titles/the-hero-with-a-thousand-faces/
 Highlighted: 01/28/2021 04:44 PM
 Updated: 01/28/2021 04:44 PM
 
-%%137400838start%%
+
 #### Extras:
 
-%%137400838end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 01/28/2021 04:44 PM
 Highlighted: 01/28/2021 04:44 PM
 Updated: 01/28/2021 04:44 PM
 
-%%137400829start%%
+
 #### Extras:
 
-%%137400829end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 01/28/2021 04:44 PM
 Highlighted: 01/28/2021 04:43 PM
 Updated: 01/28/2021 04:43 PM
 
-%%137400757start%%
+
 #### Extras:
 
-%%137400757end%%
+
 
 
 

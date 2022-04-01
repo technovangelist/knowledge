@@ -7,10 +7,10 @@ Updated: 02/08/2021 10:15 PM
 Highlights URL: https://readwise.io/bookreview/7630181
 SourceUrl: https://www.theregister.com/2016/04/07/lorenz_cipher_machine_tnmoc_bletchley/
 
-%%7630181topstart%%
+
 #### Extras:
 **Lorenz Machine**
-%%7630181topend%%
+
  
 -----
  ## Highlights:
@@ -23,10 +23,10 @@ Comment: I guess they were mostly intentionally destroyed ^rw143310986comment
 Highlighted: 02/08/2021 10:14 PM
 Updated: 02/08/2021 10:15 PM
 
-%%143310986start%%
+
 #### Extras:
 
-%%143310986end%%
+
 
 ------
 
@@ -38,10 +38,10 @@ Comment: **Tommy Flowers** **Colossus** ^rw143310976comment
 Highlighted: 02/08/2021 10:14 PM
 Updated: 02/08/2021 10:14 PM
 
-%%143310976start%%
+
 #### Extras:
 
-%%143310976end%%
+
 
 ------
 
@@ -52,10 +52,10 @@ Updated: 02/08/2021 10:14 PM
 Highlighted: 02/08/2021 10:14 PM
 Updated: 02/08/2021 10:14 PM
 
-%%143310972start%%
+
 #### Extras:
 **Lorenz Cipher**
-%%143310972end%%
+
 
 ------
 
@@ -67,10 +67,10 @@ Comment: When travel starts again, I want to see this museum ^rw143310941comment
 Highlighted: 02/08/2021 10:13 PM
 Updated: 02/08/2021 10:13 PM
 
-%%143310941start%%
+
 #### Extras:
 **The National Museum of Computing (TNMOC) at Bletchley Park**
-%%143310941end%%
+
 
 ------
 
@@ -82,10 +82,10 @@ Comment: [spruchtafel](/knowledge/Other Notes/spruchtafel) ^rw143310828comment
 Highlighted: 02/08/2021 10:11 PM
 Updated: 02/08/2021 10:12 PM
 
-%%143310828start%%
+
 #### Extras:
 
-%%143310828end%%
+
 
 ------
 

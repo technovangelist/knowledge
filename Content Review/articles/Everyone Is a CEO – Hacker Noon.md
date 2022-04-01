@@ -7,10 +7,10 @@ Updated: 12/22/2020 10:16 PM
 Highlights URL: https://readwise.io/bookreview/6789504
 SourceUrl: https://hackernoon.com/everyone-is-a-ceo-971d0d2e3a89
 
-%%6789504topstart%%
+
 #### Extras:
 **bcoop**
-%%6789504topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://hackernoon.com/everyone-is-a-ceo-971d0d2e3a89
 Highlighted: 02/17/2017 04:22 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380870start%%
+
 #### Extras:
 
-%%122380870end%%
+
 
 
 

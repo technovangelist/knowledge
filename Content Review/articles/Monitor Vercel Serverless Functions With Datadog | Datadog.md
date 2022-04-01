@@ -7,10 +7,10 @@ Updated: 07/06/2021 06:08 PM
 Highlights URL: https://readwise.io/bookreview/9870425
 SourceUrl: https://www.datadoghq.com/blog/monitor-vercel-serverless-functions-with-datadog/
 
-%%9870425topstart%%
+
 #### Extras:
 [Datadog](/knowledge/LIP/Datadog) **serverless**
-%%9870425topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.datadoghq.com/blog/monitor-vercel-serverless-functions-wi
 Highlighted: 07/06/2021 06:08 PM
 Updated: 07/06/2021 06:08 PM
 
-%%198894087start%%
+
 #### Extras:
 
-%%198894087end%%
+
 
 
 

@@ -7,10 +7,10 @@ Updated: 03/02/2021 06:38 PM
 Highlights URL: https://readwise.io/bookreview/8071229
 SourceUrl: https://kubernetes.io/docs/concepts/overview/components/
 
-%%8071229topstart%%
+
 #### Extras:
 
-%%8071229topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://kubernetes.io/docs/concepts/overview/components/
 Highlighted: 03/02/2021 06:35 PM
 Updated: 03/02/2021 06:35 PM
 
-%%152789784start%%
+
 #### Extras:
 
-%%152789784end%%
+
 
 ------
 
@@ -36,10 +36,10 @@ Updated: 03/02/2021 06:35 PM
 Highlighted: 03/02/2021 06:35 PM
 Updated: 03/02/2021 06:35 PM
 
-%%152789929start%%
+
 #### Extras:
 
-%%152789929end%%
+
 
 ------
 
@@ -52,10 +52,10 @@ Control plane component that watches for newly created Pods with no assigned nod
 Highlighted: 03/02/2021 06:36 PM
 Updated: 03/02/2021 06:36 PM
 
-%%152789933start%%
+
 #### Extras:
 
-%%152789933end%%
+
 
 ------
 
@@ -70,10 +70,10 @@ Comment: the deployment controller is an example controller ^rw152789938comment
 Highlighted: 03/02/2021 06:36 PM
 Updated: 03/02/2021 06:36 PM
 
-%%152789938start%%
+
 #### Extras:
 
-%%152789938end%%
+
 
 ------
 
@@ -86,10 +86,10 @@ A Kubernetes control plane component that embeds cloud-specific control logic. T
 Highlighted: 03/02/2021 06:36 PM
 Updated: 03/02/2021 06:36 PM
 
-%%152789943start%%
+
 #### Extras:
 
-%%152789943end%%
+
 
 ------
 
@@ -102,10 +102,10 @@ An agent that runs on each node in the cluster. It makes sure that containers ar
 Highlighted: 03/02/2021 06:37 PM
 Updated: 03/02/2021 06:37 PM
 
-%%152789956start%%
+
 #### Extras:
 
-%%152789956end%%
+
 
 ------
 
@@ -116,10 +116,10 @@ Updated: 03/02/2021 06:37 PM
 Highlighted: 03/02/2021 06:37 PM
 Updated: 03/02/2021 06:37 PM
 
-%%152789982start%%
+
 #### Extras:
 
-%%152789982end%%
+
 
 ------
 
@@ -130,10 +130,10 @@ Updated: 03/02/2021 06:37 PM
 Highlighted: 03/02/2021 06:37 PM
 Updated: 03/02/2021 06:37 PM
 
-%%152789983start%%
+
 #### Extras:
 
-%%152789983end%%
+
 
 ------
 
@@ -147,10 +147,10 @@ While the other addons are not strictly required, all Kubernetes clusters should
 Highlighted: 03/02/2021 06:38 PM
 Updated: 03/02/2021 06:38 PM
 
-%%152790005start%%
+
 #### Extras:
 
-%%152790005end%%
+
 
 ------
 
@@ -163,10 +163,10 @@ A cluster-level logging mechanism is responsible for saving container logs to a 
 Highlighted: 03/02/2021 06:38 PM
 Updated: 03/02/2021 06:38 PM
 
-%%152790013start%%
+
 #### Extras:
 
-%%152790013end%%
+
 
 ------
 

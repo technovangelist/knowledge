@@ -7,10 +7,10 @@ Updated: 09/23/2021 09:07 PM
 Highlights URL: https://readwise.io/bookreview/11088855
 SourceUrl: https://www.plutora.com/blog/observability-vs-monitoring-a-breakdown-for-managers
 
-%%11088855topstart%%
+
 #### Extras:
 
-%%11088855topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://www.plutora.com/blog/observability-vs-monitoring-a-breakdown-
 Highlighted: 09/23/2021 09:05 PM
 Updated: 09/23/2021 09:05 PM
 
-%%230488164start%%
+
 #### Extras:
 
-%%230488164end%%
+
 
 ------
 
@@ -36,10 +36,10 @@ Updated: 09/23/2021 09:05 PM
 Highlighted: 09/23/2021 09:06 PM
 Updated: 09/23/2021 09:06 PM
 
-%%230488183start%%
+
 #### Extras:
 
-%%230488183end%%
+
 
 ------
 
@@ -50,10 +50,10 @@ Updated: 09/23/2021 09:06 PM
 Highlighted: 09/23/2021 09:07 PM
 Updated: 09/23/2021 09:07 PM
 
-%%230488383start%%
+
 #### Extras:
 
-%%230488383end%%
+
 
 ------
 
@@ -64,10 +64,10 @@ Updated: 09/23/2021 09:07 PM
 Highlighted: 09/23/2021 09:07 PM
 Updated: 09/23/2021 09:07 PM
 
-%%230488392start%%
+
 #### Extras:
 
-%%230488392end%%
+
 
 
 

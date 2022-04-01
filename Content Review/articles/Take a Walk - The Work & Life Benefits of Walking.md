@@ -6,10 +6,10 @@ Updated: 03/01/2020 06:34 AM
 Highlights URL: https://readwise.io/bookreview/1466323
 SourceUrl: https://ryanholiday.net/benefits-of-walking/
 
-%%1466323topstart%%
+
 #### Extras:
 **walking**
-%%1466323topend%%
+
 
 
  
@@ -23,7 +23,7 @@ SourceUrl: https://ryanholiday.net/benefits-of-walking/
 Highlighted: 02/28/2020 06:15 PM
 Updated: 03/01/2020 06:34 AM
 
-%%41529128start%%
+
 #### Extras:
 **Charles Darwin****Amos Tversky****Daniel Kahneman**
 
@@ -32,7 +32,7 @@ Daniel Kahneman, talking about his colleague Amos Tversky
 <!--ID: 1612593722002-->
 
 
-%%41529128end%%
+
 
 
 
@@ -45,10 +45,10 @@ Daniel Kahneman, talking about his colleague Amos Tversky
 Highlighted: 02/28/2020 06:14 PM
 Updated: 03/01/2020 06:34 AM
 
-%%41529127start%%
+
 #### Extras:
 **Ernest Hemingway**
-%%41529127end%%
+
 
 
 
@@ -61,7 +61,7 @@ Updated: 03/01/2020 06:34 AM
 Highlighted: 02/28/2020 06:14 PM
 Updated: 03/01/2020 06:34 AM
 
-%%41529126start%%
+
 #### Extras:
 **Nikola Tesla**
 
@@ -70,7 +70,7 @@ Walking through a city park in Budapest in 1882
 <!--ID: 1612593722011-->
 
 
-%%41529126end%%
+
 
 
 
@@ -83,7 +83,7 @@ Walking through a city park in Budapest in 1882
 Highlighted: 02/28/2020 05:05 PM
 Updated: 03/01/2020 06:34 AM
 
-%%41529125start%%
+
 #### Extras:
 **Kierkegaard**
 
@@ -93,7 +93,7 @@ Kierkegaard
 <!--ID: 1612593722020-->
 
 
-%%41529125end%%
+
 
 
 
@@ -106,10 +106,10 @@ Kierkegaard
 Highlighted: 02/28/2020 05:02 PM
 Updated: 03/01/2020 06:34 AM
 
-%%41529124start%%
+
 #### Extras:
 
-%%41529124end%%
+
 
 
 

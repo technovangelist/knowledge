@@ -7,10 +7,10 @@ Updated: 02/12/2021 09:58 AM
 Highlights URL: https://readwise.io/bookreview/7693226
 SourceUrl: https://www.macsparky.com/blog/2021/1/apple-silicon-in-2021
 
-%%7693226topstart%%
+
 #### Extras:
 
-%%7693226topend%%
+
  
 -----
  ## Highlights:
@@ -23,10 +23,10 @@ Comment: another useless feature that solved a problem that never existed that d
 Highlighted: 02/12/2021 09:57 AM
 Updated: 02/12/2021 09:58 AM
 
-%%144777631start%%
+
 #### Extras:
 
-%%144777631end%%
+
 
 ------
 
@@ -38,10 +38,10 @@ Comment: I hope not. This is easily one of the most useful features of the Mac. 
 Highlighted: 02/12/2021 09:56 AM
 Updated: 02/12/2021 09:57 AM
 
-%%144777449start%%
+
 #### Extras:
 
-%%144777449end%%
+
 
 ------
 

@@ -7,10 +7,10 @@ Updated: 02/04/2021 09:36 AM
 Highlights URL: https://readwise.io/bookreview/7542680
 SourceUrl: https://www.datadoghq.com/blog/key-kubernetes-audit-logs-for-monitoring-cluster-security/
 
-%%7542680topstart%%
+
 #### Extras:
 in case you haven’t seen any great examples showing the use of the security signals feature of datadog, this article ([https://www.datadoghq.com/blog/key-kubernetes-audit-logs-for-monitoring-cluster-security/](https://www.datadoghq.com/blog/key-kubernetes-audit-logs-for-monitoring-cluster-security/)) does a great job of going through it. Explains the issues that can come up in k8s, why you should pay attention, how datadog points you to the issue. too many articles on the web just show what to do, but I really like how this one really covers the ‘why’.
-%%7542680topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Comment: ![](https://imgix.datadoghq.com/img/blog/key-kubernetes-audit-logs-for-
 Highlighted: 02/04/2021 09:36 AM
 Updated: 02/04/2021 09:36 AM
 
-%%141337182start%%
+
 #### Extras:
 
-%%141337182end%%
+
 
 
 
@@ -41,10 +41,10 @@ Updated: 02/04/2021 09:36 AM
 Highlighted: 02/04/2021 09:34 AM
 Updated: 02/04/2021 09:34 AM
 
-%%141335434start%%
+
 #### Extras:
 
-%%141335434end%%
+
 
 
 
@@ -57,10 +57,10 @@ Updated: 02/04/2021 09:34 AM
 Highlighted: 02/04/2021 09:34 AM
 Updated: 02/04/2021 09:34 AM
 
-%%141335425start%%
+
 #### Extras:
 
-%%141335425end%%
+
 
 
 
@@ -73,10 +73,10 @@ Updated: 02/04/2021 09:34 AM
 Highlighted: 02/04/2021 09:34 AM
 Updated: 02/04/2021 09:34 AM
 
-%%141335408start%%
+
 #### Extras:
 
-%%141335408end%%
+
 
 
 
@@ -89,14 +89,14 @@ Updated: 02/04/2021 09:34 AM
 Highlighted: 02/04/2021 09:33 AM
 Updated: 02/04/2021 09:33 AM
 
-%%141335355start%%
+
 #### Extras:
 
 What kind of container is particularly valuable to attackers since it provides unfettered access to other malicious activity, such as access escalation? #flashcard 
 Privileged Containers
 <!--ID: 1612592376132-->
 
-%%141335355end%%
+
 
 
 
@@ -110,12 +110,12 @@ Privileged Containers
 Highlighted: 02/04/2021 09:33 AM
 Updated: 02/04/2021 09:33 AM
 
-%%141335352start%%
+
 #### Extras:
 
 
 
-%%141335352end%%
+
 
 
 
@@ -128,10 +128,10 @@ Updated: 02/04/2021 09:33 AM
 Highlighted: 02/04/2021 09:33 AM
 Updated: 02/04/2021 09:33 AM
 
-%%141335348start%%
+
 #### Extras:
 
-%%141335348end%%
+
 
 
 
@@ -144,10 +144,10 @@ Updated: 02/04/2021 09:33 AM
 Highlighted: 02/04/2021 09:32 AM
 Updated: 02/04/2021 09:32 AM
 
-%%141335299start%%
+
 #### Extras:
 
-%%141335299end%%
+
 
 
 
@@ -161,10 +161,10 @@ Comment: and k8s allows anonymous requests to the api server by default. whoa ^r
 Highlighted: 02/04/2021 09:31 AM
 Updated: 02/04/2021 09:31 AM
 
-%%141335107start%%
+
 #### Extras:
 
-%%141335107end%%
+
 
 
 
@@ -177,10 +177,10 @@ Updated: 02/04/2021 09:31 AM
 Highlighted: 02/04/2021 09:29 AM
 Updated: 02/04/2021 09:29 AM
 
-%%141334849start%%
+
 #### Extras:
 
-%%141334849end%%
+
 
 
 
@@ -193,10 +193,10 @@ Updated: 02/04/2021 09:29 AM
 Highlighted: 02/04/2021 09:28 AM
 Updated: 02/04/2021 09:28 AM
 
-%%141334846start%%
+
 #### Extras:
 
-%%141334846end%%
+
 
 
 
@@ -210,10 +210,10 @@ Comment: ![](https://imgix.datadoghq.com/img/blog/key-kubernetes-audit-logs-for-
 Highlighted: 02/04/2021 09:27 AM
 Updated: 02/04/2021 09:28 AM
 
-%%141334675start%%
+
 #### Extras:
 
-%%141334675end%%
+
 
 
 
@@ -226,10 +226,10 @@ Updated: 02/04/2021 09:28 AM
 Highlighted: 02/04/2021 09:27 AM
 Updated: 02/04/2021 09:27 AM
 
-%%141334670start%%
+
 #### Extras:
 
-%%141334670end%%
+
 
 
 
@@ -242,10 +242,10 @@ Updated: 02/04/2021 09:27 AM
 Highlighted: 02/04/2021 09:26 AM
 Updated: 02/04/2021 09:26 AM
 
-%%141334580start%%
+
 #### Extras:
 
-%%141334580end%%
+
 
 
 

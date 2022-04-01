@@ -7,10 +7,10 @@ Updated: 05/25/2021 08:18 AM
 Highlights URL: https://readwise.io/bookreview/7502983
 SourceUrl: https://drawings.jvns.ca/permissions/
 
-%%7502983topstart%%
+
 #### Extras:
 **comics****unix permissions**
-%%7502983topend%%
+
  
 -----
  ## Highlights:
@@ -23,10 +23,10 @@ Comment: Cool comic on unix perms ^rw140405795comment
 Highlighted: 02/02/2021 10:59 AM
 Updated: 02/02/2021 10:59 AM
 
-%%140405795start%%
+
 #### Extras:
 
-%%140405795end%%
+
 
 ------
 
@@ -38,10 +38,10 @@ Comment: Cool comic on unix perms ^rw183454073comment
 Highlighted: 02/02/2021 10:59 AM
 Updated: 05/25/2021 08:18 AM
 
-%%183454073start%%
+
 #### Extras:
 
-%%183454073end%%
+
 
 
 

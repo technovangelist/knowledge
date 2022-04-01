@@ -7,10 +7,10 @@ Updated: 03/02/2021 06:33 PM
 Highlights URL: https://readwise.io/bookreview/8071204
 SourceUrl: https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/
 
-%%8071204topstart%%
+
 #### Extras:
 
-%%8071204topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/
 Highlighted: 03/02/2021 06:32 PM
 Updated: 03/02/2021 06:32 PM
 
-%%152789545start%%
+
 #### Extras:
 
-%%152789545end%%
+
 
 ------
 
@@ -36,10 +36,10 @@ Updated: 03/02/2021 06:32 PM
 Highlighted: 03/02/2021 06:33 PM
 Updated: 03/02/2021 06:33 PM
 
-%%152789735start%%
+
 #### Extras:
 
-%%152789735end%%
+
 
 ------
 
@@ -50,10 +50,10 @@ Updated: 03/02/2021 06:33 PM
 Highlighted: 03/02/2021 06:33 PM
 Updated: 03/02/2021 06:33 PM
 
-%%152789756start%%
+
 #### Extras:
 
-%%152789756end%%
+
 
 ------
 

@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/51c%2BlYoSnbL._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1214126
 
-%%1214126topstart%%
+
 #### Extras:
 
-%%1214126topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlights URL: https://readwise.io/bookreview/1214126
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507389start%%
+
 #### Extras:
 
-%%35507389end%%
+
 
 
 
@@ -41,10 +41,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507388start%%
+
 #### Extras:
 
-%%35507388end%%
+
 
 
 
@@ -57,10 +57,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507387start%%
+
 #### Extras:
 
-%%35507387end%%
+
 
 
 
@@ -74,10 +74,10 @@ Comment: tom west went and saw a vax.he took it apart and back together . and he
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507386start%%
+
 #### Extras:
 
-%%35507386end%%
+
 
 
 
@@ -91,10 +91,10 @@ Comment: tom west needed to see a vax for himsel ^rw35507385comment
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507385start%%
+
 #### Extras:
 
-%%35507385end%%
+
 
 
 
@@ -108,10 +108,10 @@ Comment: readingbabout a nrw tech is one thing but seeing is mostimportant. expe
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507384start%%
+
 #### Extras:
 
-%%35507384end%%
+
 
 
 
@@ -125,10 +125,10 @@ Comment: something tom west wouldbsayy about the data general eagle competing wi
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507383start%%
+
 #### Extras:
 
-%%35507383end%%
+
 
 
 
@@ -142,10 +142,10 @@ Comment: re databgeneral and coming up with an alternative to decs vax ^rw355073
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507382start%%
+
 #### Extras:
 
-%%35507382end%%
+
 
 
 
@@ -159,10 +159,10 @@ Comment: taking about tom west at data general ^rw35507381comment
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507381start%%
+
 #### Extras:
 
-%%35507381end%%
+
 
 
 
@@ -175,10 +175,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507380start%%
+
 #### Extras:
 
-%%35507380end%%
+
 
 
 
@@ -191,10 +191,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507379start%%
+
 #### Extras:
 
-%%35507379end%%
+
 
 
 
@@ -207,10 +207,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507378start%%
+
 #### Extras:
 
-%%35507378end%%
+
 
 
 
@@ -223,10 +223,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507377start%%
+
 #### Extras:
 
-%%35507377end%%
+
 
 
 
@@ -239,10 +239,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507376start%%
+
 #### Extras:
 
-%%35507376end%%
+
 
 
 
@@ -256,10 +256,10 @@ Comment: amazing ad that data general never actually published ^rw35507375commen
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507375start%%
+
 #### Extras:
 
-%%35507375end%%
+
 
 
 
@@ -272,10 +272,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507374start%%
+
 #### Extras:
 
-%%35507374end%%
+
 
 
 
@@ -289,10 +289,10 @@ Comment: Bout selling off  mill srocks each ^rw35507373comment
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507373start%%
+
 #### Extras:
 
-%%35507373end%%
+
 
 
 
@@ -306,10 +306,10 @@ Comment: appafentlybsome find this a conflictbof interest? ^rw35507372comment
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507372start%%
+
 #### Extras:
 
-%%35507372end%%
+
 
 
 
@@ -323,10 +323,10 @@ Comment: about the founders of dg ^rw35507371comment
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507371start%%
+
 #### Extras:
 
-%%35507371end%%
+
 
 
 
@@ -339,10 +339,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507370start%%
+
 #### Extras:
 
-%%35507370end%%
+
 
 
 
@@ -356,10 +356,10 @@ Comment: dg strted with 800k in vc money in 1960 ^rw35507369comment
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507369start%%
+
 #### Extras:
 
-%%35507369end%%
+
 
 
 
@@ -373,10 +373,10 @@ Comment: de castro nd others lecft dec with abdesign and strted data generl  dec
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507368start%%
+
 #### Extras:
 
-%%35507368end%%
+
 
 
 
@@ -390,10 +390,10 @@ Comment: this whole para talks aboutbthe way industries cme togetheer merged and
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507367start%%
+
 #### Extras:
 
-%%35507367end%%
+
 
 
 
@@ -406,10 +406,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507366start%%
+
 #### Extras:
 
-%%35507366end%%
+
 
 
 
@@ -422,10 +422,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507365start%%
+
 #### Extras:
 
-%%35507365end%%
+
 
 
 
@@ -439,10 +439,10 @@ Comment: transistors werebso much better than the alternatives of the time ^rw35
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507364start%%
+
 #### Extras:
 
-%%35507364end%%
+
 
 
 
@@ -455,10 +455,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507363start%%
+
 #### Extras:
 
-%%35507363end%%
+
 
 
 
@@ -471,10 +471,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507362start%%
+
 #### Extras:
 
-%%35507362end%%
+
 
 
 
@@ -488,10 +488,10 @@ Comment: the minicomputer was somdething ibm wasnt interestsdin controlling. tha
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507361start%%
+
 #### Extras:
 
-%%35507361end%%
+
 
 
 
@@ -504,10 +504,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507360start%%
+
 #### Extras:
 
-%%35507360end%%
+
 
 
 
@@ -520,10 +520,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507359start%%
+
 #### Extras:
 
-%%35507359end%%
+
 
 
 
@@ -536,10 +536,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507358start%%
+
 #### Extras:
 
-%%35507358end%%
+
 
 
 
@@ -553,10 +553,10 @@ Comment: ibm waz the first obvious leader in computing. bring a suited sles forr
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507357start%%
+
 #### Extras:
 
-%%35507357end%%
+
 
 
 
@@ -569,10 +569,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507356start%%
+
 #### Extras:
 
-%%35507356end%%
+
 
 
 
@@ -585,10 +585,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507355start%%
+
 #### Extras:
 
-%%35507355end%%
+
 
 
 
@@ -601,10 +601,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507354start%%
+
 #### Extras:
 
-%%35507354end%%
+
 
 
 
@@ -618,10 +618,10 @@ Comment: dg kept computer in plastic case in lobby  . thdd first they sold. and 
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507353start%%
+
 #### Extras:
 
-%%35507353end%%
+
 
 
 
@@ -635,10 +635,10 @@ Comment: morde evuividence of th chepness of te place  bu sdcurity tight. ask if
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507352start%%
+
 #### Extras:
 
-%%35507352end%%
+
 
 
 
@@ -652,10 +652,10 @@ Comment: westborough was the hq for data general and the bldg was built on the s
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507351start%%
+
 #### Extras:
 
-%%35507351end%%
+
 
 
 
@@ -669,10 +669,10 @@ Comment: who was tom west  . who stays awake for four days on his vacation manni
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507350start%%
+
 #### Extras:
 
-%%35507350end%%
+
 
 
 
@@ -685,10 +685,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507349start%%
+
 #### Extras:
 
-%%35507349end%%
+
 
 
 

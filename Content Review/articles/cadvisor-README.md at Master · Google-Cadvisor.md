@@ -7,10 +7,10 @@ Updated: 02/01/2021 01:28 PM
 Highlights URL: https://readwise.io/bookreview/7485585
 SourceUrl: https://github.com/google/cadvisor/blob/master/docs/storage/README.md
 
-%%7485585topstart%%
+
 #### Extras:
 **cadvisor**
-%%7485585topend%%
+
 
 
  
@@ -35,10 +35,10 @@ stdout - write stats to standard output. ^rw139966038hl
 Highlighted: 02/01/2021 01:28 PM
 Updated: 02/01/2021 01:28 PM
 
-%%139966038start%%
+
 #### Extras:
 
-%%139966038end%%
+
 
 
 

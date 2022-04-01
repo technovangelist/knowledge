@@ -7,10 +7,10 @@ Updated: 02/08/2021 10:46 AM
 Highlights URL: https://readwise.io/bookreview/7620892
 SourceUrl: https://forum.obsidian.md/t/tags-vs-links/11024
 
-%%7620892topstart%%
+
 #### Extras:
 I wrote a note about a specific person
-%%7620892topend%%
+
  
 -----
  ## Highlights:
@@ -23,10 +23,10 @@ Comment: I think this is a good way to go going forward ^rw143084668comment
 Highlighted: 02/08/2021 10:45 AM
 Updated: 02/08/2021 10:46 AM
 
-%%143084668start%%
+
 #### Extras:
 
-%%143084668end%%
+
 
 ------
 
@@ -37,10 +37,10 @@ Updated: 02/08/2021 10:46 AM
 Highlighted: 02/08/2021 10:45 AM
 Updated: 02/08/2021 10:45 AM
 
-%%143084489start%%
+
 #### Extras:
 
-%%143084489end%%
+
 
 ------
 
@@ -51,10 +51,10 @@ Updated: 02/08/2021 10:45 AM
 Highlighted: 02/08/2021 10:45 AM
 Updated: 02/08/2021 10:45 AM
 
-%%143084488start%%
+
 #### Extras:
 
-%%143084488end%%
+
 
 ------
 

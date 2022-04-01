@@ -7,10 +7,10 @@ Updated: 03/03/2021 01:07 PM
 Highlights URL: https://readwise.io/bookreview/7380792
 SourceUrl: https://logz.io/blog/kubernetes-monitoring/
 
-%%7380792topstart%%
+
 #### Extras:
 **kubernetes**
-%%7380792topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://logz.io/blog/kubernetes-monitoring/
 Highlighted: 01/28/2021 12:12 PM
 Updated: 01/28/2021 12:12 PM
 
-%%137329605start%%
+
 #### Extras:
 
-%%137329605end%%
+
 
 ------
 
@@ -37,10 +37,10 @@ Comment: Use K8S DaemonSets and using Heapster ^rw137331447comment
 Highlighted: 01/28/2021 12:33 PM
 Updated: 01/28/2021 12:34 PM
 
-%%137331447start%%
+
 #### Extras:
 **Heapster**
-%%137331447end%%
+
 
 ------
 
@@ -51,10 +51,10 @@ Updated: 01/28/2021 12:34 PM
 Highlighted: 03/03/2021 01:06 PM
 Updated: 03/03/2021 01:07 PM
 
-%%153023944start%%
+
 #### Extras:
 
-%%153023944end%%
+
 
 ------
 

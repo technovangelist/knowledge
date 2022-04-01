@@ -7,10 +7,10 @@ Updated: 12/29/2021 10:08 PM
 Highlights URL: https://readwise.io/bookreview/12521839
 SourceUrl: https://www.inoreader.com/article/3a9c6e7af2028654-knative-applies-to-join-kubernetes-community-at-cncf
 
-%%12521839topstart%%
+
 #### Extras:
 
-%%12521839topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.inoreader.com/article/3a9c6e7af2028654-knative-applies-to
 Highlighted: 12/29/2021 10:07 PM
 Updated: 12/29/2021 10:07 PM
 
-%%264066791start%%
+
 #### Extras:
 
-%%264066791end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 12/29/2021 10:07 PM
 Highlighted: 12/29/2021 10:08 PM
 Updated: 12/29/2021 10:08 PM
 
-%%264066816start%%
+
 #### Extras:
 
-%%264066816end%%
+
 
 
 

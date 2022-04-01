@@ -7,10 +7,10 @@ Updated: 09/23/2021 08:24 PM
 Highlights URL: https://readwise.io/bookreview/11088371
 SourceUrl: https://newrelic.com/resources/ebooks/3-phased-approach-to-observability
 
-%%11088371topstart%%
+
 #### Extras:
 
-%%11088371topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://newrelic.com/resources/ebooks/3-phased-approach-to-observabil
 Highlighted: 09/23/2021 08:16 PM
 Updated: 09/23/2021 08:16 PM
 
-%%230478233start%%
+
 #### Extras:
 
-%%230478233end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 09/23/2021 08:16 PM
 Highlighted: 09/23/2021 08:16 PM
 Updated: 09/23/2021 08:16 PM
 
-%%230478224start%%
+
 #### Extras:
 
-%%230478224end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 09/23/2021 08:16 PM
 Highlighted: 09/23/2021 08:20 PM
 Updated: 09/23/2021 08:20 PM
 
-%%230478362start%%
+
 #### Extras:
 
-%%230478362end%%
+
 
 
 
@@ -72,10 +72,10 @@ Updated: 09/23/2021 08:20 PM
 Highlighted: 09/23/2021 08:20 PM
 Updated: 09/23/2021 08:20 PM
 
-%%230478380start%%
+
 #### Extras:
 
-%%230478380end%%
+
 
 
 
@@ -88,10 +88,10 @@ Updated: 09/23/2021 08:20 PM
 Highlighted: 09/23/2021 08:24 PM
 Updated: 09/23/2021 08:24 PM
 
-%%230478541start%%
+
 #### Extras:
 
-%%230478541end%%
+
 
 
 
@@ -104,10 +104,10 @@ Updated: 09/23/2021 08:24 PM
 Highlighted: 09/23/2021 08:24 PM
 Updated: 09/23/2021 08:24 PM
 
-%%230478684start%%
+
 #### Extras:
 
-%%230478684end%%
+
 
 
 

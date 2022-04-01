@@ -9,10 +9,10 @@ CoverImageUrl:
 Highlights URL: https://readwise.io/bookreview/7510103
 SourceUrl: https://www.airr.io/episode/5fef709a1b09304772350a4e
 
-%%7510103topstart%%
+
 #### Extras:
 
-%%7510103topend%%
+
 
 
  
@@ -30,10 +30,10 @@ Highlighted: 02/02/2021 06:00 PM
 Updated: 02/02/2021 06:00 PM
 https://www.airr.io/quote/601a03badd66003c8b0c52c0
 
-%%140597996start%%
+
 #### Extras:
 
-%%140597996end%%
+
 
 
 

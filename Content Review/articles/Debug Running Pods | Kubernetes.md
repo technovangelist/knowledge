@@ -7,10 +7,10 @@ Updated: 03/03/2021 04:13 PM
 Highlights URL: https://readwise.io/bookreview/8081556
 SourceUrl: https://kubernetes.io/docs/tasks/debug-application-cluster/debug-running-pod/
 
-%%8081556topstart%%
+
 #### Extras:
 **kubernetes** **troubleshooting** **debug**
-%%8081556topend%%
+
  
 -----
  ## Highlights:
@@ -23,13 +23,13 @@ SourceUrl: https://kubernetes.io/docs/tasks/debug-application-cluster/debug-runn
 Highlighted: 03/03/2021 04:03 PM
 Updated: 03/03/2021 04:03 PM
 
-%%153056096start%%
+
 #### Extras:
 
 
 
 
-%%153056096end%%
+
 
 ------
 
@@ -41,13 +41,13 @@ Comment: this looks like a very cool feature ^rw153056150comment
 Highlighted: 03/03/2021 04:04 PM
 Updated: 03/03/2021 04:06 PM
 
-%%153056150start%%
+
 #### Extras:
 
 
 
 
-%%153056150end%%
+
 
 ------
 
@@ -65,12 +65,12 @@ Comment: that is super cool. you can make a copy of an existing pod changing the
 Highlighted: 03/03/2021 04:12 PM
 Updated: 03/03/2021 04:13 PM
 
-%%153057016start%%
+
 #### Extras:
 
 
 
-%%153057016end%%
+
 
 ------
 

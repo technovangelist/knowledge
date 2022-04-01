@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/61S6X-pSzuL._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1214124
 
-%%1214124topstart%%
+
 #### Extras:
 
-%%1214124topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlights URL: https://readwise.io/bookreview/1214124
 Highlighted: 04/30/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507347start%%
+
 #### Extras:
 
-%%35507347end%%
+
 
 
 
@@ -41,10 +41,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/30/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507346start%%
+
 #### Extras:
 
-%%35507346end%%
+
 
 
 
@@ -57,10 +57,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/30/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507345start%%
+
 #### Extras:
 
-%%35507345end%%
+
 
 
 
@@ -73,10 +73,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/30/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507344start%%
+
 #### Extras:
 
-%%35507344end%%
+
 
 
 
@@ -89,10 +89,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/30/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507343start%%
+
 #### Extras:
 
-%%35507343end%%
+
 
 
 
@@ -105,10 +105,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/30/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507342start%%
+
 #### Extras:
 
-%%35507342end%%
+
 
 
 
@@ -122,10 +122,10 @@ Comment: regarxding agreement that led to britsbrunnng iraq ^rw35507341comment
 Highlighted: 04/30/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507341start%%
+
 #### Extras:
 
-%%35507341end%%
+
 
 
 
@@ -138,10 +138,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/30/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507340start%%
+
 #### Extras:
 
-%%35507340end%%
+
 
 
 
@@ -154,10 +154,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/30/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507339start%%
+
 #### Extras:
 
-%%35507339end%%
+
 
 
 
@@ -170,10 +170,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/30/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507338start%%
+
 #### Extras:
 
-%%35507338end%%
+
 
 
 
@@ -187,10 +187,10 @@ Comment: i hadnt realize the brits long tderm involvement in iraq aftedr wwi waz
 Highlighted: 04/30/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507337start%%
+
 #### Extras:
 
-%%35507337end%%
+
 
 
 
@@ -203,10 +203,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 04/30/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507336start%%
+
 #### Extras:
 
-%%35507336end%%
+
 
 
 
@@ -220,10 +220,10 @@ Comment: the brits took iraq to be ablebto train them to the ways of diplomacy. 
 Highlighted: 04/30/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507335start%%
+
 #### Extras:
 
-%%35507335end%%
+
 
 
 
@@ -237,10 +237,10 @@ Comment: iraq had oil reserves that were well known but gettin it out of tthe gr
 Highlighted: 04/30/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507334start%%
+
 #### Extras:
 
-%%35507334end%%
+
 
 
 
@@ -254,10 +254,10 @@ Comment: france get 25% of oil. is that the deal that was still in place before 
 Highlighted: 04/30/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507333start%%
+
 #### Extras:
 
-%%35507333end%%
+
 
 
 

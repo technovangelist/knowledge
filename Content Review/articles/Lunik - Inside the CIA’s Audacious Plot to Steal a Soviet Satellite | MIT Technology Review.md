@@ -7,10 +7,10 @@ Updated: 01/28/2021 08:53 PM
 Highlights URL: https://readwise.io/bookreview/7386038
 SourceUrl: https://www.technologyreview.com/2021/01/28/1016867/lunik-cia-heist-steal-russian-satellite-space-us-ussr/
 
-%%7386038topstart%%
+
 #### Extras:
 **Lunik****CIA**
-%%7386038topend%%
+
 
 
  
@@ -25,10 +25,10 @@ SourceUrl: https://www.technologyreview.com/2021/01/28/1016867/lunik-cia-heist-s
 Highlighted: 01/28/2021 08:53 PM
 Updated: 01/28/2021 08:53 PM
 
-%%137481473start%%
+
 #### Extras:
 **Operation Lightfire**
-%%137481473end%%
+
 
 
 
@@ -42,10 +42,10 @@ Comment: Although the race to the moon was the outward reason for their interest
 Highlighted: 01/28/2021 08:49 PM
 Updated: 01/28/2021 08:52 PM
 
-%%137478516start%%
+
 #### Extras:
 
-%%137478516end%%
+
 
 
 
@@ -59,10 +59,10 @@ Comment: Zambernardi and Dean thought about intercepting the Lunik while it was 
 Highlighted: 01/28/2021 08:44 PM
 Updated: 01/28/2021 08:45 PM
 
-%%137477761start%%
+
 #### Extras:
 
-%%137477761end%%
+
 
 
 
@@ -75,10 +75,10 @@ Updated: 01/28/2021 08:45 PM
 Highlighted: 01/28/2021 08:43 PM
 Updated: 01/28/2021 08:43 PM
 
-%%137477272start%%
+
 #### Extras:
 **Jaime Maussan**
-%%137477272end%%
+
 
 
 
@@ -92,10 +92,10 @@ Comment: an expert in womanizing?? ^rw137476733comment
 Highlighted: 01/28/2021 08:41 PM
 Updated: 01/28/2021 08:41 PM
 
-%%137476733start%%
+
 #### Extras:
 **Robert Zambernardi**
-%%137476733end%%
+
 
 
 
@@ -110,10 +110,10 @@ Comment: Silvetti essentially got permission from the president's chief of staff
 Highlighted: 01/28/2021 08:39 PM
 Updated: 01/28/2021 08:40 PM
 
-%%137476225start%%
+
 #### Extras:
 **José Gómez Huerta**
-%%137476225end%%
+
 
 
 
@@ -127,10 +127,10 @@ Comment: Interesting that the CIA would run the operation. I would think they wo
 Highlighted: 01/28/2021 08:38 PM
 Updated: 01/28/2021 08:38 PM
 
-%%137471996start%%
+
 #### Extras:
 
-%%137471996end%%
+
 
 
 
@@ -144,10 +144,10 @@ Comment: The Americans couldn't build a satellite, but if they could steal it fr
 Highlighted: 01/28/2021 08:36 PM
 Updated: 01/28/2021 08:37 PM
 
-%%137469753start%%
+
 #### Extras:
 
-%%137469753end%%
+
 
 
 
@@ -161,10 +161,10 @@ Comment: The effort to launch America's own satellite cost 110 million dollars (
 Highlighted: 01/28/2021 08:34 PM
 Updated: 01/28/2021 08:35 PM
 
-%%137468135start%%
+
 #### Extras:
 
-%%137468135end%%
+
 
 
 
@@ -178,10 +178,10 @@ Comment: Lunik was a mistake on the part of American newspapers who thought Luna
 Highlighted: 01/28/2021 08:33 PM
 Updated: 01/28/2021 08:34 PM
 
-%%137467026start%%
+
 #### Extras:
 
-%%137467026end%%
+
 
 
 
@@ -195,10 +195,10 @@ Comment: Makes me think of the Sting song, do the russians love their children t
 Highlighted: 01/28/2021 08:32 PM
 Updated: 01/28/2021 08:33 PM
 
-%%137466437start%%
+
 #### Extras:
 
-%%137466437end%%
+
 
 
 
@@ -212,10 +212,10 @@ Comment: Where did I see a story about some engineers hearing that signal then c
 Highlighted: 01/28/2021 08:30 PM
 Updated: 01/28/2021 08:32 PM
 
-%%137464511start%%
+
 #### Extras:
 **Steven Johnson**
-%%137464511end%%
+
 
 
 
@@ -228,10 +228,10 @@ Updated: 01/28/2021 08:32 PM
 Highlighted: 01/28/2021 08:29 PM
 Updated: 01/28/2021 08:29 PM
 
-%%137464304start%%
+
 #### Extras:
 
-%%137464304end%%
+
 
 
 
@@ -244,10 +244,10 @@ Updated: 01/28/2021 08:29 PM
 Highlighted: 01/28/2021 08:28 PM
 Updated: 01/28/2021 08:28 PM
 
-%%137463971start%%
+
 #### Extras:
 **Baikonur Cosmodrome**
-%%137463971end%%
+
 
 
 
@@ -260,10 +260,10 @@ Updated: 01/28/2021 08:28 PM
 Highlighted: 01/28/2021 08:27 PM
 Updated: 01/28/2021 08:27 PM
 
-%%137462521start%%
+
 #### Extras:
 **López Mateos**
-%%137462521end%%
+
 
 
 
@@ -276,10 +276,10 @@ Updated: 01/28/2021 08:27 PM
 Highlighted: 01/28/2021 08:08 PM
 Updated: 01/28/2021 08:08 PM
 
-%%137449554start%%
+
 #### Extras:
 
-%%137449554end%%
+
 
 
 
@@ -292,10 +292,10 @@ Updated: 01/28/2021 08:08 PM
 Highlighted: 01/28/2021 08:08 PM
 Updated: 01/28/2021 08:08 PM
 
-%%137449412start%%
+
 #### Extras:
 **Winston Scott**
-%%137449412end%%
+
 
 
 

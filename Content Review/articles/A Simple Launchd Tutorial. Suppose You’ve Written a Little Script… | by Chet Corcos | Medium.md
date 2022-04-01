@@ -7,10 +7,10 @@ Updated: 02/11/2021 10:21 AM
 Highlights URL: https://readwise.io/bookreview/7675963
 SourceUrl: https://medium.com/@chetcorcos/a-simple-launchd-tutorial-9fecfcf2dbb3
 
-%%7675963topstart%%
+
 #### Extras:
 **launchd****launchctl****launchagent****Chet Corcos**
-%%7675963topend%%
+
  
 -----
  ## Highlights:
@@ -23,7 +23,7 @@ Comment: Includes a good example of a simple plist file ^rw144339259comment
 Highlighted: 02/11/2021 10:21 AM
 Updated: 02/11/2021 10:21 AM
 
-%%144339259start%%
+
 #### Extras:
 Writing to a log file means console.log and then setting the standard output and error paths
 
@@ -59,7 +59,7 @@ Writing to a log file means console.log and then setting the standard output and
 
 ```
 
-%%144339259end%%
+
 
 ------
 

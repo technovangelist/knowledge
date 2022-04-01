@@ -7,10 +7,10 @@ Updated: 02/02/2021 11:08 AM
 Highlights URL: https://readwise.io/bookreview/7503352
 SourceUrl: https://aparker.io/posts/deserted-island-tv/
 
-%%7503352topstart%%
+
 #### Extras:
 **Austin Parker****evangelism****devops**
-%%7503352topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://aparker.io/posts/deserted-island-tv/
 Highlighted: 02/02/2021 11:08 AM
 Updated: 02/02/2021 11:08 AM
 
-%%140408806start%%
+
 #### Extras:
 
-%%140408806end%%
+
 
 
 
@@ -41,10 +41,10 @@ Comment: if there is a metric for the role, something is wrong ^rw140408488comme
 Highlighted: 02/02/2021 11:06 AM
 Updated: 02/02/2021 11:07 AM
 
-%%140408488start%%
+
 #### Extras:
 
-%%140408488end%%
+
 
 
 
@@ -57,10 +57,10 @@ Updated: 02/02/2021 11:07 AM
 Highlighted: 02/02/2021 11:06 AM
 Updated: 02/02/2021 11:06 AM
 
-%%140408404start%%
+
 #### Extras:
 
-%%140408404end%%
+
 
 
 
@@ -74,10 +74,10 @@ Comment: Grrr, hate the term dev advocate ^rw140407888comment
 Highlighted: 02/02/2021 11:06 AM
 Updated: 02/02/2021 11:06 AM
 
-%%140407888start%%
+
 #### Extras:
 
-%%140407888end%%
+
 
 
 

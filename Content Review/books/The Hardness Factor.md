@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/51ohRYKLOoL._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1214113
 
-%%1214113topstart%%
+
 #### Extras:
 
-%%1214113topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlights URL: https://readwise.io/bookreview/1214113
 Highlighted: 08/28/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507238start%%
+
 #### Extras:
 
-%%35507238end%%
+
 
 
 

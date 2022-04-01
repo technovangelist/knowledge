@@ -7,10 +7,10 @@ Updated: 05/25/2021 08:18 AM
 Highlights URL: https://readwise.io/bookreview/7503485
 SourceUrl: https://github.com/rollup/awesome
 
-%%7503485topstart%%
+
 #### Extras:
 **rollup**
-%%7503485topend%%
+
  
 -----
  ## Highlights:
@@ -23,10 +23,10 @@ Comment: great collection of rollup plugins ^rw140412052comment
 Highlighted: 02/02/2021 11:22 AM
 Updated: 02/02/2021 11:22 AM
 
-%%140412052start%%
+
 #### Extras:
 
-%%140412052end%%
+
 
 ------
 
@@ -38,10 +38,10 @@ Comment: great collection of rollup plugins ^rw183454075comment
 Highlighted: 02/02/2021 11:22 AM
 Updated: 05/25/2021 08:18 AM
 
-%%183454075start%%
+
 #### Extras:
 
-%%183454075end%%
+
 
 
 

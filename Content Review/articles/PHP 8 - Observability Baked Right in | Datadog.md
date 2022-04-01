@@ -7,10 +7,10 @@ Updated: 02/03/2021 08:07 AM
 Highlights URL: https://readwise.io/bookreview/7520626
 SourceUrl: https://www.datadoghq.com/blog/engineering/php-8-observability-baked-right-in/
 
-%%7520626topstart%%
+
 #### Extras:
 **php****Observability****wordpress**
-%%7520626topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.datadoghq.com/blog/engineering/php-8-observability-baked-
 Highlighted: 02/03/2021 08:07 AM
 Updated: 02/03/2021 08:07 AM
 
-%%140868411start%%
+
 #### Extras:
 
-%%140868411end%%
+
 
 
 

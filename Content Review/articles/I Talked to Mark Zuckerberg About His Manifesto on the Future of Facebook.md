@@ -7,10 +7,10 @@ Updated: 12/22/2020 10:16 PM
 Highlights URL: https://readwise.io/bookreview/6789506
 SourceUrl: http://www.recode.net/2017/2/16/14637928/facebook-mark-zuckerberg-manifesto-kara-swisher
 
-%%6789506topstart%%
+
 #### Extras:
 **Facebook****Mark Zuckerberg**
-%%6789506topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: http://www.recode.net/2017/2/16/14637928/facebook-mark-zuckerberg-man
 Highlighted: 02/17/2017 04:00 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380885start%%
+
 #### Extras:
 
-%%122380885end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 02/17/2017 03:59 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380884start%%
+
 #### Extras:
 
-%%122380884end%%
+
 
 
 
@@ -57,10 +57,10 @@ Comment: how many get their news from reading only the headlines in the links, a
 Highlighted: 02/17/2017 03:57 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380883start%%
+
 #### Extras:
 
-%%122380883end%%
+
 
 
 
@@ -73,10 +73,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 02/17/2017 03:56 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380882start%%
+
 #### Extras:
 
-%%122380882end%%
+
 
 
 
@@ -89,10 +89,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 02/17/2017 03:55 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380881start%%
+
 #### Extras:
 
-%%122380881end%%
+
 
 
 
@@ -106,10 +106,10 @@ Comment: ppl stick to what they know and get deeper knowledge of what they know.
 Highlighted: 02/17/2017 03:55 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380880start%%
+
 #### Extras:
 
-%%122380880end%%
+
 
 
 
@@ -122,10 +122,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 02/17/2017 03:54 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380879start%%
+
 #### Extras:
 
-%%122380879end%%
+
 
 
 
@@ -138,10 +138,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 02/17/2017 03:54 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380878start%%
+
 #### Extras:
 
-%%122380878end%%
+
 
 
 
@@ -154,10 +154,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 02/17/2017 03:53 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380877start%%
+
 #### Extras:
 
-%%122380877end%%
+
 
 
 
@@ -170,10 +170,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 02/17/2017 03:53 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380876start%%
+
 #### Extras:
 
-%%122380876end%%
+
 
 
 
@@ -187,10 +187,10 @@ Comment: i wonder if ppl will read into this that sociai is just facebook. I thi
 Highlighted: 02/17/2017 03:51 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380875start%%
+
 #### Extras:
 
-%%122380875end%%
+
 
 
 

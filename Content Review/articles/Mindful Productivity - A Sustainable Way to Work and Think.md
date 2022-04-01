@@ -7,10 +7,10 @@ Updated: 12/22/2020 10:16 PM
 Highlights URL: https://readwise.io/bookreview/6789495
 SourceUrl: https://nesslabs.com/mindful-productivity-2
 
-%%6789495topstart%%
+
 #### Extras:
 [Anne-Laure Le Cunff](/knowledge/Other Notes/Anne-Laure Le Cunff)**World Health Organization**
-%%6789495topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://nesslabs.com/mindful-productivity-2
 Highlighted: 09/21/2020 11:44 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380833start%%
+
 #### Extras:
 
-%%122380833end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 09/21/2020 11:45 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380832start%%
+
 #### Extras:
 
-%%122380832end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 09/21/2020 11:44 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380831start%%
+
 #### Extras:
 **Albert Camus**
-%%122380831end%%
+
 
 
 

@@ -5,10 +5,10 @@ Category: articles
 Updated: 12/22/2020 10:16 PM
 Highlights URL: https://readwise.io/bookreview/6789498
 
-%%6789498topstart%%
+
 #### Extras:
 **Habits**
-%%6789498topend%%
+
 
 
  
@@ -22,10 +22,10 @@ Highlights URL: https://readwise.io/bookreview/6789498
 Highlighted: 08/20/2020 06:28 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380847start%%
+
 #### Extras:
 
-%%122380847end%%
+
 
 
 
@@ -38,10 +38,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 08/20/2020 06:27 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380846start%%
+
 #### Extras:
 
-%%122380846end%%
+
 
 
 
@@ -54,10 +54,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 08/20/2020 06:26 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380845start%%
+
 #### Extras:
 **JOMO**
-%%122380845end%%
+
 
 
 
@@ -70,10 +70,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 08/20/2020 06:26 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380844start%%
+
 #### Extras:
 
-%%122380844end%%
+
 
 
 
@@ -86,10 +86,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 08/20/2020 06:24 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380843start%%
+
 #### Extras:
 **compound interest**
-%%122380843end%%
+
 
 
 
@@ -102,10 +102,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 08/20/2020 06:24 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380842start%%
+
 #### Extras:
 
-%%122380842end%%
+
 
 
 
@@ -118,10 +118,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 08/20/2020 06:22 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380841start%%
+
 #### Extras:
 
-%%122380841end%%
+
 
 
 

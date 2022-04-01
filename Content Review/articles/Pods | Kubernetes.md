@@ -7,10 +7,10 @@ Updated: 03/02/2021 04:19 PM
 Highlights URL: https://readwise.io/bookreview/8070354
 SourceUrl: https://kubernetes.io/docs/concepts/workloads/pods/
 
-%%8070354topstart%%
+
 #### Extras:
 #kubernetes #pods
-%%8070354topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://kubernetes.io/docs/concepts/workloads/pods/
 Highlighted: 03/02/2021 04:19 PM
 Updated: 03/02/2021 04:19 PM
 
-%%152773751start%%
+
 #### Extras:
 
-%%152773751end%%
+
 
 ------
 

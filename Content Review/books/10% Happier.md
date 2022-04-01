@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/41Wh70h2LBL._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1214128
 
-%%1214128topstart%%
+
 #### Extras:
 **Dan Harris****Meditation**
-%%1214128topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlights URL: https://readwise.io/bookreview/1214128
 Highlighted: 03/25/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507427start%%
+
 #### Extras:
 
-%%35507427end%%
+
 
 
 
@@ -41,10 +41,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/25/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507426start%%
+
 #### Extras:
 
-%%35507426end%%
+
 
 
 
@@ -57,10 +57,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/25/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507425start%%
+
 #### Extras:
 
-%%35507425end%%
+
 
 
 
@@ -73,10 +73,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/25/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507424start%%
+
 #### Extras:
 
-%%35507424end%%
+
 
 
 
@@ -89,10 +89,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/25/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507423start%%
+
 #### Extras:
 
-%%35507423end%%
+
 
 
 
@@ -105,10 +105,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/25/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507422start%%
+
 #### Extras:
 
-%%35507422end%%
+
 
 
 
@@ -121,10 +121,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/25/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507421start%%
+
 #### Extras:
 
-%%35507421end%%
+
 
 
 
@@ -137,10 +137,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/25/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507420start%%
+
 #### Extras:
 
-%%35507420end%%
+
 
 
 
@@ -153,10 +153,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/25/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507419start%%
+
 #### Extras:
 
-%%35507419end%%
+
 
 
 
@@ -169,10 +169,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/25/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507418start%%
+
 #### Extras:
 
-%%35507418end%%
+
 
 
 
@@ -185,10 +185,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/25/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507417start%%
+
 #### Extras:
 
-%%35507417end%%
+
 
 
 
@@ -201,10 +201,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/25/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507416start%%
+
 #### Extras:
 
-%%35507416end%%
+
 
 
 
@@ -217,10 +217,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/25/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507415start%%
+
 #### Extras:
 
-%%35507415end%%
+
 
 
 
@@ -233,10 +233,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/25/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507414start%%
+
 #### Extras:
 
-%%35507414end%%
+
 
 
 
@@ -249,10 +249,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/25/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507413start%%
+
 #### Extras:
 
-%%35507413end%%
+
 
 
 
@@ -265,10 +265,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/25/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507412start%%
+
 #### Extras:
 
-%%35507412end%%
+
 
 
 
@@ -281,10 +281,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/25/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507411start%%
+
 #### Extras:
 
-%%35507411end%%
+
 
 
 
@@ -297,10 +297,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/25/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507410start%%
+
 #### Extras:
 
-%%35507410end%%
+
 
 
 
@@ -313,10 +313,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/25/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507409start%%
+
 #### Extras:
 
-%%35507409end%%
+
 
 
 
@@ -329,10 +329,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/25/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507408start%%
+
 #### Extras:
 
-%%35507408end%%
+
 
 
 
@@ -345,10 +345,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 03/25/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507407start%%
+
 #### Extras:
 
-%%35507407end%%
+
 
 
 

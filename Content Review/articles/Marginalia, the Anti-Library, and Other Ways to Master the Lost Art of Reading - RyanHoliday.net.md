@@ -7,10 +7,10 @@ Updated: 01/15/2021 10:34 PM
 Highlights URL: https://readwise.io/bookreview/7188869
 SourceUrl: https://ryanholiday.net/marginalia-the-anti-library-and-other-ways-to-master-the-lost-art-of-reading/
 
-%%7188869topstart%%
+
 #### Extras:
 **Ryan Holiday**
-%%7188869topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Comment: its ok to not like a book. don't waste any more time on it. but when yo
 Highlighted: 01/05/2021 10:22 AM
 Updated: 01/15/2021 10:34 PM
 
-%%132623647start%%
+
 #### Extras:
 
-%%132623647end%%
+
 
 
 
@@ -43,10 +43,10 @@ take notes. find the quotes you like and use a system to store it. write down wh
 Highlighted: 01/05/2021 10:20 AM
 Updated: 01/15/2021 10:34 PM
 
-%%132623646start%%
+
 #### Extras:
 **Taking Notes**
-%%132623646end%%
+
 
 
 
@@ -61,10 +61,10 @@ always keep reading. keep buying books to ensure you build a library of your own
 Highlighted: 01/05/2021 10:18 AM
 Updated: 01/15/2021 10:34 PM
 
-%%132623645start%%
+
 #### Extras:
 
-%%132623645end%%
+
 
 
 
@@ -78,10 +78,10 @@ Comment: Reading is important. Make sure you buy books you want to learn from. S
 Highlighted: 01/05/2021 10:16 AM
 Updated: 01/15/2021 10:34 PM
 
-%%132623644start%%
+
 #### Extras:
 
-%%132623644end%%
+
 
 
 
@@ -95,10 +95,10 @@ Comment: Warren Buffet ^rw132623643comment
 Highlighted: 01/05/2021 10:12 AM
 Updated: 01/15/2021 10:34 PM
 
-%%132623643start%%
+
 #### Extras:
 
-%%132623643end%%
+
 
 
 

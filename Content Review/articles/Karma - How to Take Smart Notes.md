@@ -6,10 +6,10 @@ Updated: 03/18/2020 09:01 AM
 Highlights URL: https://readwise.io/bookreview/1518116
 SourceUrl: https://www.karma.fm/p/nqjxHAZ/how-to-take-smart-notes
 
-%%1518116topstart%%
+
 #### Extras:
 **SmartNotes**
-%%1518116topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.karma.fm/p/nqjxHAZ/how-to-take-smart-notes
 Highlighted: 03/06/2020 08:39 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579388start%%
+
 #### Extras:
 
-%%42579388end%%
+
 
 
 
@@ -43,10 +43,10 @@ What made this system so successful was that it had no hierarchy (like a mindmap
 Highlighted: 03/06/2020 08:39 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579387start%%
+
 #### Extras:
 
-%%42579387end%%
+
 
 
 

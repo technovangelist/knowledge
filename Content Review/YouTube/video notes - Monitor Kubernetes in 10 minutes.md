@@ -6,10 +6,10 @@ Title: Monitor Kubernetes in 10 minutes
 Category: YouTube
 Published: 07/26/2020 01:49 AM
  ^ytabq6FBn0foabout
-%%abq-6FBn0fotopstart%%
+
 #### Extras:
 **kubernetes****That DevOps Guy**
-%%abq-6FBn0fotopend%%
+
 
 -----
 ## Highlights:
@@ -17,240 +17,240 @@ Published: 07/26/2020 01:49 AM
 Timecode: [1:48](https://www.youtube.com/watch?v=abq-6FBn0fo&t=108) ^ytabq6FBn0fo108t
 
 Comment: ==Use Kind - Kubernetes in Docker. Super easy way to start with k8s. Sounds like the new kid on the minikube block== ^ytabq6FBn0fo108c
-%%108start%%
+
 #### Extras:
 **Kind**
-%%108end%%
+
 
 
 -----
 Timecode: [1:59](https://www.youtube.com/watch?v=abq-6FBn0fo&t=119) ^ytabq6FBn0fo119t
 
 Comment: ==run KIND to a specific version of k8s by specifying it in the cli== ^ytabq6FBn0fo119c
-%%119start%%
+
 #### Extras:
 
-%%119end%%
+
 
 
 -----
 Timecode: [2:20](https://www.youtube.com/watch?v=abq-6FBn0fo&t=140) ^ytabq6FBn0fo140t
 
 Comment: ==create the monitoring namespace== ^ytabq6FBn0fo140c
-%%140start%%
+
 #### Extras:
 
-%%140end%%
+
 
 
 -----
 Timecode: [2:30](https://www.youtube.com/watch?v=abq-6FBn0fo&t=150) ^ytabq6FBn0fo150t
 
 Comment: ==create the prometheus operator== ^ytabq6FBn0fo150c
-%%150start%%
+
 #### Extras:
 **prometheus**
-%%150end%%
+
 
 
 -----
 Timecode: [2:59](https://www.youtube.com/watch?v=abq-6FBn0fo&t=179) ^ytabq6FBn0fo179t
 
 Comment: ==the prometheus operator creates the service monitors== ^ytabq6FBn0fo179c
-%%179start%%
+
 #### Extras:
 
-%%179end%%
+
 
 
 -----
 Timecode: [4:01](https://www.youtube.com/watch?v=abq-6FBn0fo&t=241) ^ytabq6FBn0fo241t
 
 Comment: ==node exporter surfaces all the linux metrics== ^ytabq6FBn0fo241c
-%%241start%%
+
 #### Extras:
 
-%%241end%%
+
 
 
 -----
 Timecode: [4:36](https://www.youtube.com/watch?v=abq-6FBn0fo&t=276) ^ytabq6FBn0fo276t
 
 Comment: ==kube-state-metrics surfaces the metrics about pods, nodes, and all the other k8s things== ^ytabq6FBn0fo276c
-%%276start%%
+
 #### Extras:
 **kube-state-metrics**
-%%276end%%
+
 
 
 -----
 Timecode: [5:35](https://www.youtube.com/watch?v=abq-6FBn0fo&t=335) ^ytabq6FBn0fo335t
 
 Comment: ==alert manager routes alerts to whatever service takes them and batches/aggregates alerts together== ^ytabq6FBn0fo335c
-%%335start%%
+
 #### Extras:
 
-%%335end%%
+
 
 
 -----
 Timecode: [1:48](https://www.youtube.com/watch?v=abq-6FBn0fo&t=108) ^ytabq6FBn0fo108t
 
 Comment: ==Use Kind - Kubernetes in Docker. Super easy way to start with k8s. Sounds like the new kid on the minikube block== ^ytabq6FBn0fo108c
-%%108start%%
+
 #### Extras:
 
-%%108end%%
+
 
 
 -----
 Timecode: [1:59](https://www.youtube.com/watch?v=abq-6FBn0fo&t=119) ^ytabq6FBn0fo119t
 
 Comment: ==run KIND to a specific version of k8s by specifying it in the cli== ^ytabq6FBn0fo119c
-%%119start%%
+
 #### Extras:
 
-%%119end%%
+
 
 
 -----
 Timecode: [2:20](https://www.youtube.com/watch?v=abq-6FBn0fo&t=140) ^ytabq6FBn0fo140t
 
 Comment: ==create the monitoring namespace== ^ytabq6FBn0fo140c
-%%140start%%
+
 #### Extras:
 
-%%140end%%
+
 
 
 -----
 Timecode: [2:30](https://www.youtube.com/watch?v=abq-6FBn0fo&t=150) ^ytabq6FBn0fo150t
 
 Comment: ==create the prometheus operator== ^ytabq6FBn0fo150c
-%%150start%%
+
 #### Extras:
 
-%%150end%%
+
 
 
 -----
 Timecode: [2:59](https://www.youtube.com/watch?v=abq-6FBn0fo&t=179) ^ytabq6FBn0fo179t
 
 Comment: ==the prometheus operator creates the service monitors== ^ytabq6FBn0fo179c
-%%179start%%
+
 #### Extras:
 
-%%179end%%
+
 
 
 -----
 Timecode: [4:01](https://www.youtube.com/watch?v=abq-6FBn0fo&t=241) ^ytabq6FBn0fo241t
 
 Comment: ==node exporter surfaces all the linux metrics== ^ytabq6FBn0fo241c
-%%241start%%
+
 #### Extras:
 
-%%241end%%
+
 
 
 -----
 Timecode: [4:36](https://www.youtube.com/watch?v=abq-6FBn0fo&t=276) ^ytabq6FBn0fo276t
 
 Comment: ==kube-state-metrics surfaces the metrics about pods, nodes, and all the other k8s things== ^ytabq6FBn0fo276c
-%%276start%%
+
 #### Extras:
 
-%%276end%%
+
 
 
 -----
 Timecode: [5:35](https://www.youtube.com/watch?v=abq-6FBn0fo&t=335) ^ytabq6FBn0fo335t
 
 Comment: ==alert manager routes alerts to whatever service takes them and batches/aggregates alerts together== ^ytabq6FBn0fo335c
-%%335start%%
+
 #### Extras:
 
-%%335end%%
+
 
 
 -----
 Timecode: [1:48](https://www.youtube.com/watch?v=abq-6FBn0fo&t=108) ^ytabq6FBn0fo108t
 
 Comment: ==Use Kind - Kubernetes in Docker. Super easy way to start with k8s. Sounds like the new kid on the minikube block== ^ytabq6FBn0fo108c
-%%108start%%
+
 #### Extras:
 
-%%108end%%
+
 
 
 -----
 Timecode: [1:59](https://www.youtube.com/watch?v=abq-6FBn0fo&t=119) ^ytabq6FBn0fo119t
 
 Comment: ==run KIND to a specific version of k8s by specifying it in the cli== ^ytabq6FBn0fo119c
-%%119start%%
+
 #### Extras:
 
-%%119end%%
+
 
 
 -----
 Timecode: [2:20](https://www.youtube.com/watch?v=abq-6FBn0fo&t=140) ^ytabq6FBn0fo140t
 
 Comment: ==create the monitoring namespace== ^ytabq6FBn0fo140c
-%%140start%%
+
 #### Extras:
 
-%%140end%%
+
 
 
 -----
 Timecode: [2:30](https://www.youtube.com/watch?v=abq-6FBn0fo&t=150) ^ytabq6FBn0fo150t
 
 Comment: ==create the prometheus operator== ^ytabq6FBn0fo150c
-%%150start%%
+
 #### Extras:
 
-%%150end%%
+
 
 
 -----
 Timecode: [2:59](https://www.youtube.com/watch?v=abq-6FBn0fo&t=179) ^ytabq6FBn0fo179t
 
 Comment: ==the prometheus operator creates the service monitors== ^ytabq6FBn0fo179c
-%%179start%%
+
 #### Extras:
 
-%%179end%%
+
 
 
 -----
 Timecode: [4:01](https://www.youtube.com/watch?v=abq-6FBn0fo&t=241) ^ytabq6FBn0fo241t
 
 Comment: ==node exporter surfaces all the linux metrics== ^ytabq6FBn0fo241c
-%%241start%%
+
 #### Extras:
 
-%%241end%%
+
 
 
 -----
 Timecode: [4:36](https://www.youtube.com/watch?v=abq-6FBn0fo&t=276) ^ytabq6FBn0fo276t
 
 Comment: ==kube-state-metrics surfaces the metrics about pods, nodes, and all the other k8s things== ^ytabq6FBn0fo276c
-%%276start%%
+
 #### Extras:
 
-%%276end%%
+
 
 
 -----
 Timecode: [5:35](https://www.youtube.com/watch?v=abq-6FBn0fo&t=335) ^ytabq6FBn0fo335t
 
 Comment: ==alert manager routes alerts to whatever service takes them and batches/aggregates alerts together== ^ytabq6FBn0fo335c
-%%335start%%
+
 #### Extras:
 
-%%335end%%
+
 
 
 ## Video Description on YouTube:

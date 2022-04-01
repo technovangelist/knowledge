@@ -7,10 +7,10 @@ Updated: 02/11/2021 02:05 PM
 Highlights URL: https://readwise.io/bookreview/7678515
 SourceUrl: https://www.datadoghq.com/about/latest-news/press-releases/datadog-signs-definitive-agreement-to-acquire-sqreen/
 
-%%7678515topstart%%
+
 #### Extras:
 **sqreen****Pierre Betouin**
-%%7678515topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://www.datadoghq.com/about/latest-news/press-releases/datadog-si
 Highlighted: 02/11/2021 02:05 PM
 Updated: 02/11/2021 02:05 PM
 
-%%144391410start%%
+
 #### Extras:
 
-%%144391410end%%
+
 
 ------
 
@@ -36,10 +36,10 @@ Updated: 02/11/2021 02:05 PM
 Highlighted: 02/11/2021 02:04 PM
 Updated: 02/11/2021 02:04 PM
 
-%%144391409start%%
+
 #### Extras:
 
-%%144391409end%%
+
 
 ------
 
@@ -50,10 +50,10 @@ Updated: 02/11/2021 02:04 PM
 Highlighted: 02/11/2021 02:04 PM
 Updated: 02/11/2021 02:04 PM
 
-%%144391407start%%
+
 #### Extras:
 **application layer****application security**
-%%144391407end%%
+
 
 ------
 
@@ -64,10 +64,10 @@ Updated: 02/11/2021 02:04 PM
 Highlighted: 02/11/2021 02:00 PM
 Updated: 02/11/2021 02:00 PM
 
-%%144390590start%%
+
 #### Extras:
 
-%%144390590end%%
+
 
 ------
 

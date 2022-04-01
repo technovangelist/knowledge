@@ -7,10 +7,10 @@ Updated: 12/30/2021 06:43 AM
 Highlights URL: https://readwise.io/bookreview/12527002
 SourceUrl: https://www.inoreader.com/article/3a9c6e7af1be55b5-video-how-to-write-in-react-by-starting-with-dependency-injection
 
-%%12527002topstart%%
+
 #### Extras:
 
-%%12527002topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.inoreader.com/article/3a9c6e7af1be55b5-video-how-to-write
 Highlighted: 12/30/2021 06:43 AM
 Updated: 12/30/2021 06:43 AM
 
-%%264186122start%%
+
 #### Extras:
 
-%%264186122end%%
+
 
 
 

@@ -7,10 +7,10 @@ Updated: 09/23/2021 06:20 PM
 Highlights URL: https://readwise.io/bookreview/11086874
 SourceUrl: https://itbrief.com.au/story/business-observability-vs-application-monitoring-what-s-the-difference
 
-%%11086874topstart%%
+
 #### Extras:
 
-%%11086874topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://itbrief.com.au/story/business-observability-vs-application-mo
 Highlighted: 09/23/2021 06:18 PM
 Updated: 09/23/2021 06:18 PM
 
-%%230453527start%%
+
 #### Extras:
 
-%%230453527end%%
+
 
 
 
@@ -42,10 +42,10 @@ Comment: folks like to say they are different, but good monitoring is exactly ab
 Highlighted: 09/23/2021 06:19 PM
 Updated: 09/23/2021 06:20 PM
 
-%%230453733start%%
+
 #### Extras:
 
-%%230453733end%%
+
 
 
 

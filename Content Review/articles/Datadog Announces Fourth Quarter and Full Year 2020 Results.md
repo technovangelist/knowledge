@@ -7,10 +7,10 @@ Updated: 02/11/2021 01:50 PM
 Highlights URL: https://readwise.io/bookreview/7678446
 SourceUrl: https://finance.yahoo.com/news/datadog-announces-fourth-quarter-full-211000583.html
 
-%%7678446topstart%%
+
 #### Extras:
 **mendix****Timber Technologies****sqreen****earnings**
-%%7678446topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://finance.yahoo.com/news/datadog-announces-fourth-quarter-full-
 Highlighted: 02/11/2021 01:50 PM
 Updated: 02/11/2021 01:50 PM
 
-%%144389876start%%
+
 #### Extras:
 
-%%144389876end%%
+
 
 
 
@@ -38,10 +38,10 @@ Updated: 02/11/2021 01:50 PM
 Highlighted: 02/11/2021 01:50 PM
 Updated: 02/11/2021 01:50 PM
 
-%%144389873start%%
+
 #### Extras:
 
-%%144389873end%%
+
 
 
 
@@ -54,10 +54,10 @@ Updated: 02/11/2021 01:50 PM
 Highlighted: 02/11/2021 01:50 PM
 Updated: 02/11/2021 01:50 PM
 
-%%144389870start%%
+
 #### Extras:
 
-%%144389870end%%
+
 
 ------
 
@@ -68,10 +68,10 @@ Updated: 02/11/2021 01:50 PM
 Highlighted: 02/11/2021 01:50 PM
 Updated: 02/11/2021 01:50 PM
 
-%%144389869start%%
+
 #### Extras:
 
-%%144389869end%%
+
 
 ------
 
@@ -82,10 +82,10 @@ Updated: 02/11/2021 01:50 PM
 Highlighted: 02/11/2021 01:50 PM
 Updated: 02/11/2021 01:50 PM
 
-%%144389868start%%
+
 #### Extras:
 
-%%144389868end%%
+
 
 ------
 
@@ -96,10 +96,10 @@ Updated: 02/11/2021 01:50 PM
 Highlighted: 02/11/2021 01:49 PM
 Updated: 02/11/2021 01:50 PM
 
-%%144389860start%%
+
 #### Extras:
 
-%%144389860end%%
+
 
 ------
 
@@ -110,10 +110,10 @@ Updated: 02/11/2021 01:50 PM
 Highlighted: 02/11/2021 01:49 PM
 Updated: 02/11/2021 01:49 PM
 
-%%144389805start%%
+
 #### Extras:
 
-%%144389805end%%
+
 
 ------
 
@@ -124,10 +124,10 @@ Updated: 02/11/2021 01:49 PM
 Highlighted: 02/11/2021 01:49 PM
 Updated: 02/11/2021 01:49 PM
 
-%%144389736start%%
+
 #### Extras:
 
-%%144389736end%%
+
 
 ------
 
@@ -138,10 +138,10 @@ Updated: 02/11/2021 01:49 PM
 Highlighted: 02/11/2021 01:49 PM
 Updated: 02/11/2021 01:49 PM
 
-%%144389734start%%
+
 #### Extras:
 
-%%144389734end%%
+
 
 ------
 
@@ -152,10 +152,10 @@ Updated: 02/11/2021 01:49 PM
 Highlighted: 02/11/2021 01:49 PM
 Updated: 02/11/2021 01:49 PM
 
-%%144389731start%%
+
 #### Extras:
 
-%%144389731end%%
+
 
 ------
 
@@ -166,10 +166,10 @@ Updated: 02/11/2021 01:49 PM
 Highlighted: 02/11/2021 01:49 PM
 Updated: 02/11/2021 01:49 PM
 
-%%144389723start%%
+
 #### Extras:
 
-%%144389723end%%
+
 
 ------
 
@@ -180,10 +180,10 @@ Updated: 02/11/2021 01:49 PM
 Highlighted: 02/11/2021 01:49 PM
 Updated: 02/11/2021 01:49 PM
 
-%%144389722start%%
+
 #### Extras:
 
-%%144389722end%%
+
 
 ------
 
@@ -194,10 +194,10 @@ Updated: 02/11/2021 01:49 PM
 Highlighted: 02/11/2021 01:49 PM
 Updated: 02/11/2021 01:49 PM
 
-%%144389710start%%
+
 #### Extras:
 
-%%144389710end%%
+
 
 ------
 
@@ -208,10 +208,10 @@ Updated: 02/11/2021 01:49 PM
 Highlighted: 02/11/2021 01:49 PM
 Updated: 02/11/2021 01:49 PM
 
-%%144389708start%%
+
 #### Extras:
 
-%%144389708end%%
+
 
 ------
 

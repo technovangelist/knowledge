@@ -7,10 +7,10 @@ Updated: 02/08/2021 03:21 PM
 Highlights URL: https://readwise.io/bookreview/7624688
 SourceUrl: https://goalscape.com/en/blog/be-top-21/
 
-%%7624688topstart%%
+
 #### Extras:
 #funquotes **vision**
-%%7624688topend%%
+
 
 
  
@@ -25,10 +25,10 @@ SourceUrl: https://goalscape.com/en/blog/be-top-21/
 Highlighted: 02/08/2021 03:21 PM
 Updated: 02/08/2021 03:21 PM
 
-%%143193132start%%
+
 #### Extras:
 
-%%143193132end%%
+
 
 
 

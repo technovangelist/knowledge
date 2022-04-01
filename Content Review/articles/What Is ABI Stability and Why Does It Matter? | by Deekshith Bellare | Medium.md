@@ -7,10 +7,10 @@ Updated: 02/04/2021 10:52 AM
 Highlights URL: https://readwise.io/bookreview/7543797
 SourceUrl: https://medium.com/@deekshithbellare/what-is-abi-stability-and-why-does-it-matter-48c918554be1
 
-%%7543797topstart%%
+
 #### Extras:
 **ABI Stability**
-%%7543797topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://medium.com/@deekshithbellare/what-is-abi-stability-and-why-do
 Highlighted: 02/04/2021 10:52 AM
 Updated: 02/04/2021 10:52 AM
 
-%%141361794start%%
+
 #### Extras:
 
-%%141361794end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 02/04/2021 10:52 AM
 Highlighted: 02/04/2021 10:52 AM
 Updated: 02/04/2021 10:52 AM
 
-%%141361767start%%
+
 #### Extras:
 
-%%141361767end%%
+
 
 
 

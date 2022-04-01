@@ -7,10 +7,10 @@ Updated: 03/18/2020 09:02 AM
 Highlights URL: https://readwise.io/bookreview/1130728
 SourceUrl: https://www.facebook.com/notes/kent-beck/fresh-work-80155/1186004658099063/
 
-%%1130728topstart%%
+
 #### Extras:
 
-%%1130728topend%%
+
 
 
  
@@ -27,10 +27,10 @@ SourceUrl: https://www.facebook.com/notes/kent-beck/fresh-work-80155/11860046580
 Highlighted: 11/04/2016 07:38 PM
 Updated: 12/07/2019 07:11 PM
 
-%%33272556start%%
+
 #### Extras:
 **Sheryl Sandberg**
-%%33272556end%%
+
 
 
 

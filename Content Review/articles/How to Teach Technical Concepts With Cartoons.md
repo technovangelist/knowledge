@@ -7,10 +7,10 @@ Updated: 02/02/2021 10:58 AM
 Highlights URL: https://readwise.io/bookreview/7502637
 SourceUrl: https://jvns.ca/teach-tech-with-cartoons/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav
 
-%%7502637topstart%%
+
 #### Extras:
 #comics 
-%%7502637topend%%
+
 
 
  
@@ -33,10 +33,10 @@ Don’t draw more than one page. ^rw140405696hl
 Highlighted: 02/02/2021 10:58 AM
 Updated: 02/02/2021 10:58 AM
 
-%%140405696start%%
+
 #### Extras:
 
-%%140405696end%%
+
 
 
 
@@ -51,10 +51,10 @@ I started out by drawing things on paper with a pen / Sharpie and just taking pi
 Highlighted: 02/02/2021 10:57 AM
 Updated: 02/02/2021 10:57 AM
 
-%%140405653start%%
+
 #### Extras:
 
-%%140405653end%%
+
 
 
 
@@ -68,10 +68,10 @@ Comment: Very cool examples of lists. Need to come back here for review ^rw14040
 Highlighted: 02/02/2021 10:56 AM
 Updated: 02/02/2021 10:57 AM
 
-%%140405428start%%
+
 #### Extras:
 
-%%140405428end%%
+
 
 
 
@@ -84,10 +84,10 @@ Updated: 02/02/2021 10:57 AM
 Highlighted: 02/02/2021 10:56 AM
 Updated: 02/02/2021 10:56 AM
 
-%%140405341start%%
+
 #### Extras:
 
-%%140405341end%%
+
 
 
 
@@ -101,10 +101,10 @@ Comment: When you get to a logo, don't just paste it in. Trace over it to make i
 Highlighted: 02/02/2021 10:54 AM
 Updated: 02/02/2021 10:55 AM
 
-%%140404931start%%
+
 #### Extras:
 
-%%140404931end%%
+
 
 
 
@@ -127,10 +127,10 @@ Comment: list of networking tools: ![](https://jvns.ca/images/illustrations/list
 Highlighted: 02/02/2021 10:51 AM
 Updated: 02/02/2021 10:52 AM
 
-%%140404498start%%
+
 #### Extras:
 
-%%140404498end%%
+
 
 
 
@@ -143,10 +143,10 @@ Updated: 02/02/2021 10:52 AM
 Highlighted: 02/02/2021 10:47 AM
 Updated: 02/02/2021 10:47 AM
 
-%%140403358start%%
+
 #### Extras:
 ![](https://jvns.ca/images/illustrations/personify1.png)
-%%140403358end%%
+
 
 
 
@@ -162,10 +162,10 @@ staging relevant scenarios (“what’s a good example to use to show how a mute
 Highlighted: 02/02/2021 10:46 AM
 Updated: 02/02/2021 10:46 AM
 
-%%140403351start%%
+
 #### Extras:
 
-%%140403351end%%
+
 
 
 
@@ -178,10 +178,10 @@ Updated: 02/02/2021 10:46 AM
 Highlighted: 02/02/2021 10:44 AM
 Updated: 02/02/2021 10:44 AM
 
-%%140403082start%%
+
 #### Extras:
 
-%%140403082end%%
+
 
 
 

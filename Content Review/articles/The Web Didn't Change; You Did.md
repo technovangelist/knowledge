@@ -7,10 +7,10 @@ Updated: 02/11/2021 01:02 PM
 Highlights URL: https://readwise.io/bookreview/7677784
 SourceUrl: https://remysharp.com/2021/02/11/the-web-didnt-change-you-did
 
-%%7677784topstart%%
+
 #### Extras:
 **jquery****webdev****ReactJS****AngularJS****javascript****Remy Sharp**
-%%7677784topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://remysharp.com/2021/02/11/the-web-didnt-change-you-did
 Highlighted: 02/11/2021 01:02 PM
 Updated: 02/11/2021 01:02 PM
 
-%%144375035start%%
+
 #### Extras:
 
-%%144375035end%%
+
 
 ------
 
@@ -36,10 +36,10 @@ Updated: 02/11/2021 01:02 PM
 Highlighted: 02/11/2021 01:01 PM
 Updated: 02/11/2021 01:01 PM
 
-%%144375034start%%
+
 #### Extras:
 
-%%144375034end%%
+
 
 ------
 
@@ -51,10 +51,10 @@ Updated: 02/11/2021 01:01 PM
 Highlighted: 02/11/2021 01:01 PM
 Updated: 02/11/2021 01:01 PM
 
-%%144374818start%%
+
 #### Extras:
 
-%%144374818end%%
+
 
 ------
 
@@ -65,10 +65,10 @@ Updated: 02/11/2021 01:01 PM
 Highlighted: 02/11/2021 01:01 PM
 Updated: 02/11/2021 01:01 PM
 
-%%144374563start%%
+
 #### Extras:
 
-%%144374563end%%
+
 
 ------
 
@@ -79,10 +79,10 @@ Updated: 02/11/2021 01:01 PM
 Highlighted: 02/11/2021 01:01 PM
 Updated: 02/11/2021 01:01 PM
 
-%%144374551start%%
+
 #### Extras:
 
-%%144374551end%%
+
 
 ------
 

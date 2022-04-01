@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/5112ATYq2EL._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/7444568
 
-%%7444568topstart%%
+
 #### Extras:
 **Doug Lemov****teaching**
-%%7444568topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlights URL: https://readwise.io/bookreview/7444568
 Highlighted: 01/31/2021 08:56 PM
 Updated: 02/01/2021 08:08 AM
 
-%%139811856start%%
+
 #### Extras:
 
-%%139811856end%%
+
 
 
 
@@ -41,10 +41,10 @@ Updated: 02/01/2021 08:08 AM
 Highlighted: 01/31/2021 08:56 PM
 Updated: 02/01/2021 08:08 AM
 
-%%139811855start%%
+
 #### Extras:
 **Targeted Questions**
-%%139811855end%%
+
 
 
 
@@ -57,10 +57,10 @@ Updated: 02/01/2021 08:08 AM
 Highlighted: 01/31/2021 08:56 PM
 Updated: 02/01/2021 08:08 AM
 
-%%139811854start%%
+
 #### Extras:
 
-%%139811854end%%
+
 
 
 
@@ -73,10 +73,10 @@ Updated: 02/01/2021 08:08 AM
 Highlighted: 01/31/2021 08:56 PM
 Updated: 02/01/2021 08:08 AM
 
-%%139811853start%%
+
 #### Extras:
 
-%%139811853end%%
+
 
 
 
@@ -89,10 +89,10 @@ Updated: 02/01/2021 08:08 AM
 Highlighted: 01/31/2021 08:56 PM
 Updated: 02/01/2021 08:08 AM
 
-%%139811852start%%
+
 #### Extras:
 
-%%139811852end%%
+
 
 
 
@@ -105,10 +105,10 @@ Updated: 02/01/2021 08:08 AM
 Highlighted: 01/31/2021 08:56 PM
 Updated: 02/01/2021 08:08 AM
 
-%%139811851start%%
+
 #### Extras:
 
-%%139811851end%%
+
 
 
 
@@ -121,10 +121,10 @@ Updated: 02/01/2021 08:08 AM
 Highlighted: 01/31/2021 08:56 PM
 Updated: 02/01/2021 08:08 AM
 
-%%139811850start%%
+
 #### Extras:
 
-%%139811850end%%
+
 
 
 
@@ -137,10 +137,10 @@ Updated: 02/01/2021 08:08 AM
 Highlighted: 01/17/2021 08:56 PM
 Updated: 01/31/2021 00:19 AM
 
-%%138922162start%%
+
 #### Extras:
 
-%%138922162end%%
+
 
 
 
@@ -153,10 +153,10 @@ Updated: 01/31/2021 00:19 AM
 Highlighted: 01/17/2021 08:56 PM
 Updated: 01/31/2021 00:19 AM
 
-%%138922161start%%
+
 #### Extras:
 
-%%138922161end%%
+
 
 
 

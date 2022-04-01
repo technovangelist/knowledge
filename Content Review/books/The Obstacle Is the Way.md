@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/51R9k3G0%2BZL._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1214110
 
-%%1214110topstart%%
+
 #### Extras:
 **Ryan Holiday**
-%%1214110topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlights URL: https://readwise.io/bookreview/1214110
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507230start%%
+
 #### Extras:
 **Four Hour Workweek** **Tim Ferris**
-%%35507230end%%
+
 
 
 
@@ -42,10 +42,10 @@ Comment: to read ^rw35507229comment
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507229start%%
+
 #### Extras:
 **Epictetus**
-%%35507229end%%
+
 
 
 
@@ -58,11 +58,11 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507228start%%
+
 #### Extras:
 **Seneca** **Marcus Aurelius****Stoicism**
 
-%%35507228end%%
+
 
 
 
@@ -76,10 +76,10 @@ Comment: to read ^rw35507227comment
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507227start%%
+
 #### Extras:
 **Marcus Aurelius**
-%%35507227end%%
+
 
 
 
@@ -92,10 +92,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507226start%%
+
 #### Extras:
 **path**[The Obstacle Is the Way](/knowledge/Content Review/books/The Obstacle Is the Way)
-%%35507226end%%
+
 
 
 
@@ -108,10 +108,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507225start%%
+
 #### Extras:
 
-%%35507225end%%
+
 
 
 
@@ -124,10 +124,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507224start%%
+
 #### Extras:
 
-%%35507224end%%
+
 
 
 
@@ -140,10 +140,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507223start%%
+
 #### Extras:
 
-%%35507223end%%
+
 
 
 
@@ -156,10 +156,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507222start%%
+
 #### Extras:
 **Rockefeller**
-%%35507222end%%
+
 
 
 
@@ -172,10 +172,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507221start%%
+
 #### Extras:
 
-%%35507221end%%
+
 
 
 
@@ -188,10 +188,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507220start%%
+
 #### Extras:
 
-%%35507220end%%
+
 
 
 
@@ -204,10 +204,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507219start%%
+
 #### Extras:
 
-%%35507219end%%
+
 
 
 
@@ -220,10 +220,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507218start%%
+
 #### Extras:
 
-%%35507218end%%
+
 
 
 
@@ -236,10 +236,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507217start%%
+
 #### Extras:
 
-%%35507217end%%
+
 
 
 
@@ -252,10 +252,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507216start%%
+
 #### Extras:
 **Thomas Edison**
-%%35507216end%%
+
 
 
 
@@ -268,10 +268,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507215start%%
+
 #### Extras:
 
-%%35507215end%%
+
 
 
 
@@ -284,10 +284,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507214start%%
+
 #### Extras:
 **Proverbs**
-%%35507214end%%
+
 
 
 
@@ -300,10 +300,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507213start%%
+
 #### Extras:
 **James Garfield**
-%%35507213end%%
+
 
 
 
@@ -316,10 +316,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507212start%%
+
 #### Extras:
 **Heraclitus**
-%%35507212end%%
+
 
 
 
@@ -332,10 +332,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507211start%%
+
 #### Extras:
 **Failure**
-%%35507211end%%
+
 
 
 
@@ -348,10 +348,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507210start%%
+
 #### Extras:
 
-%%35507210end%%
+
 
 
 
@@ -364,10 +364,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507209start%%
+
 #### Extras:
 
-%%35507209end%%
+
 
 
 
@@ -380,10 +380,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507208start%%
+
 #### Extras:
 
-%%35507208end%%
+
 
 
 
@@ -396,10 +396,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507207start%%
+
 #### Extras:
 
-%%35507207end%%
+
 
 
 
@@ -412,10 +412,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507206start%%
+
 #### Extras:
 
-%%35507206end%%
+
 
 
 
@@ -428,10 +428,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507205start%%
+
 #### Extras:
 
-%%35507205end%%
+
 
 
 
@@ -444,10 +444,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507204start%%
+
 #### Extras:
 
-%%35507204end%%
+
 
 
 
@@ -461,10 +461,10 @@ Comment: seemsnto tie in perfectly with post mortems ^rw35507203comment
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507203start%%
+
 #### Extras:
 **Wendell Phillips**
-%%35507203end%%
+
 
 
 
@@ -477,10 +477,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507202start%%
+
 #### Extras:
 **Epictetus**
-%%35507202end%%
+
 
 
 
@@ -494,10 +494,10 @@ Comment: edison wasnt the only one sworking non the idea but was the onlynto try
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507201start%%
+
 #### Extras:
 **Nikola Tesla**
-%%35507201end%%
+
 
 
 
@@ -511,10 +511,10 @@ Comment: the first offer amelia aerhart got to fly ^rw35507200comment
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507200start%%
+
 #### Extras:
 
-%%35507200end%%
+
 
 
 
@@ -527,10 +527,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507199start%%
+
 #### Extras:
 
-%%35507199end%%
+
 
 
 
@@ -543,10 +543,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507198start%%
+
 #### Extras:
 
-%%35507198end%%
+
 
 
 
@@ -559,10 +559,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507197start%%
+
 #### Extras:
 
-%%35507197end%%
+
 
 
 
@@ -575,10 +575,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507196start%%
+
 #### Extras:
 **F.Scott Fitzgerald**
-%%35507196end%%
+
 
 
 
@@ -591,10 +591,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507195start%%
+
 #### Extras:
 
-%%35507195end%%
+
 
 
 
@@ -607,10 +607,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507194start%%
+
 #### Extras:
 **Chuck Palahniuk**
-%%35507194end%%
+
 
 
 
@@ -623,10 +623,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507193start%%
+
 #### Extras:
 [Serenity Prayer](/knowledge/Other Notes/Serenity Prayer)
-%%35507193end%%
+
 
 
 
@@ -639,10 +639,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507192start%%
+
 #### Extras:
 **Epictetus**
-%%35507192end%%
+
 
 
 
@@ -655,10 +655,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507191start%%
+
 #### Extras:
 **Richard Branson**
-%%35507191end%%
+
 
 
 
@@ -671,10 +671,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507190start%%
+
 #### Extras:
 
-%%35507190end%%
+
 
 
 
@@ -687,10 +687,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507189start%%
+
 #### Extras:
 
-%%35507189end%%
+
 
 
 
@@ -703,10 +703,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507188start%%
+
 #### Extras:
 
-%%35507188end%%
+
 
 
 
@@ -719,10 +719,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507187start%%
+
 #### Extras:
 **Pericles****Peloponnesian War**
-%%35507187end%%
+
 
 
 
@@ -735,10 +735,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507186start%%
+
 #### Extras:
 
-%%35507186end%%
+
 
 
 
@@ -751,10 +751,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507185start%%
+
 #### Extras:
 
-%%35507185end%%
+
 
 
 
@@ -768,10 +768,10 @@ Comment: questioning the impulse to run takes strength which must be built up ^r
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507184start%%
+
 #### Extras:
 **Miyamoto Musashi**
-%%35507184end%%
+
 
 
 
@@ -784,10 +784,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507183start%%
+
 #### Extras:
 
-%%35507183end%%
+
 
 
 
@@ -801,10 +801,10 @@ Comment: marcus aurelius again ^rw35507182comment
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507182start%%
+
 #### Extras:
 
-%%35507182end%%
+
 
 
 
@@ -817,10 +817,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507181start%%
+
 #### Extras:
 **Gavin de Becker**
-%%35507181end%%
+
 
 
 
@@ -833,10 +833,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507180start%%
+
 #### Extras:
 **John Glenn**
-%%35507180end%%
+
 
 
 
@@ -849,10 +849,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507179start%%
+
 #### Extras:
 **Space Race**
-%%35507179end%%
+
 
 
 
@@ -865,10 +865,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507178start%%
+
 #### Extras:
 **Ulysses S.Grant**
-%%35507178end%%
+
 
 
 
@@ -881,10 +881,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507177start%%
+
 #### Extras:
 
-%%35507177end%%
+
 
 
 
@@ -897,10 +897,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507176start%%
+
 #### Extras:
 
-%%35507176end%%
+
 
 
 
@@ -913,10 +913,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507175start%%
+
 #### Extras:
 
-%%35507175end%%
+
 
 
 
@@ -929,10 +929,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507174start%%
+
 #### Extras:
 
-%%35507174end%%
+
 
 
 
@@ -945,10 +945,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507173start%%
+
 #### Extras:
 
-%%35507173end%%
+
 
 
 
@@ -961,10 +961,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507172start%%
+
 #### Extras:
 
-%%35507172end%%
+
 
 
 
@@ -977,10 +977,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507171start%%
+
 #### Extras:
 
-%%35507171end%%
+
 
 
 
@@ -993,10 +993,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507170start%%
+
 #### Extras:
 **Warren Buffet**
-%%35507170end%%
+
 
 
 
@@ -1010,10 +1010,10 @@ Comment: regarding financial crash in 1857 ^rw35507169comment
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507169start%%
+
 #### Extras:
 
-%%35507169end%%
+
 
 
 
@@ -1026,10 +1026,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507168start%%
+
 #### Extras:
 
-%%35507168end%%
+
 
 
 
@@ -1042,10 +1042,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507167start%%
+
 #### Extras:
 
-%%35507167end%%
+
 
 
 
@@ -1059,10 +1059,10 @@ Comment: the impedement is what makes us great ^rw35507166comment
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507166start%%
+
 #### Extras:
 
-%%35507166end%%
+
 
 
 
@@ -1075,10 +1075,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507165start%%
+
 #### Extras:
 
-%%35507165end%%
+
 
 
 
@@ -1092,10 +1092,10 @@ Comment: marcus aurelius had so muchb in his way and succeeded  ^rw35507164comme
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507164start%%
+
 #### Extras:
 
-%%35507164end%%
+
 
 
 
@@ -1109,10 +1109,10 @@ Comment: the last word of what marcus aurelkius wrote ^rw35507163comment
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507163start%%
+
 #### Extras:
 
-%%35507163end%%
+
 
 
 
@@ -1125,10 +1125,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507162start%%
+
 #### Extras:
 
-%%35507162end%%
+
 
 
 
@@ -1142,10 +1142,10 @@ Comment: marcus aurelius in 170 ^rw35507161comment
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507161start%%
+
 #### Extras:
 
-%%35507161end%%
+
 
 
 

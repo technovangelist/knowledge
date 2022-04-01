@@ -7,10 +7,10 @@ Updated: 03/03/2021 03:50 PM
 Highlights URL: https://readwise.io/bookreview/8080635
 SourceUrl: https://cloud.gov/
 
-%%8080635topstart%%
+
 #### Extras:
 **cloud.gov** 
-%%8080635topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://cloud.gov/
 Highlighted: 03/03/2021 03:50 PM
 Updated: 03/03/2021 03:50 PM
 
-%%153047334start%%
+
 #### Extras:
 
-%%153047334end%%
+
 
 ------
 

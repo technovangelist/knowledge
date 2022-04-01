@@ -7,10 +7,10 @@ Updated: 12/26/2021 10:10 AM
 Highlights URL: https://readwise.io/bookreview/1548110
 SourceUrl: https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html
 
-%%1548110topstart%%
+
 #### Extras:
 **Docker****multi-stage builds**
-%%1548110topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-i
 Highlighted: 03/12/2020 11:06 AM
 Updated: 12/26/2021 10:10 AM
 
-%%43203497start%%
+
 #### Extras:
 
-%%43203497end%%
+
 
 ------
 
@@ -43,10 +43,10 @@ Highlighted: 12/26/2021 09:24 AM
 Updated: 12/26/2021 10:10 AM
 https://instapaper.com/read/1283413103/18338357
 
-%%262419430start%%
+
 #### Extras:
 
-%%262419430end%%
+
 
 
 
@@ -63,10 +63,10 @@ Highlighted: 12/26/2021 09:25 AM
 Updated: 12/26/2021 10:10 AM
 https://instapaper.com/read/1283413103/18338364
 
-%%262419431start%%
+
 #### Extras:
 
-%%262419431end%%
+
 
 
 
@@ -80,10 +80,10 @@ Highlighted: 12/26/2021 09:26 AM
 Updated: 12/26/2021 10:10 AM
 https://instapaper.com/read/1283413103/18338366
 
-%%262419432start%%
+
 #### Extras:
 
-%%262419432end%%
+
 
 
 
@@ -97,10 +97,10 @@ Highlighted: 12/26/2021 09:32 AM
 Updated: 12/26/2021 10:10 AM
 https://instapaper.com/read/1283413103/18338380
 
-%%262419433start%%
+
 #### Extras:
 
-%%262419433end%%
+
 
 
 

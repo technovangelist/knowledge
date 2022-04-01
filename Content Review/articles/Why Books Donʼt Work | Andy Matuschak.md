@@ -7,10 +7,10 @@ Updated: 02/08/2021 10:01 PM
 Highlights URL: https://readwise.io/bookreview/7629817
 SourceUrl: https://andymatuschak.org/books/
 
-%%7629817topstart%%
+
 #### Extras:
 **Getting more from your reading****Active Listening**
-%%7629817topend%%
+
  
 -----
  ## Highlights:
@@ -23,10 +23,10 @@ Comment: don't make a better book, but a better medium to get knowledge across ^
 Highlighted: 02/08/2021 10:00 PM
 Updated: 02/08/2021 10:01 PM
 
-%%143309799start%%
+
 #### Extras:
 
-%%143309799end%%
+
 
 
 
@@ -40,10 +40,10 @@ Comment: **metacognition** ^rw143307959comment
 Highlighted: 02/08/2021 09:32 PM
 Updated: 02/08/2021 09:32 PM
 
-%%143307959start%%
+
 #### Extras:
 
-%%143307959end%%
+
 
 ------
 
@@ -54,10 +54,10 @@ Updated: 02/08/2021 09:32 PM
 Highlighted: 02/08/2021 09:32 PM
 Updated: 02/08/2021 09:32 PM
 
-%%143307955start%%
+
 #### Extras:
 An interesting set of **questions** to keep in mind as you read or listen to a lecture. 
-%%143307955end%%
+
 
 ------
 
@@ -69,10 +69,10 @@ Comment: folks who get the most out of reading are constantly summarizing, synth
 Highlighted: 02/08/2021 09:31 PM
 Updated: 02/08/2021 09:32 PM
 
-%%143307921start%%
+
 #### Extras:
 
-%%143307921end%%
+
 
 ------
 
@@ -83,10 +83,10 @@ Updated: 02/08/2021 09:32 PM
 Highlighted: 02/08/2021 09:27 PM
 Updated: 02/08/2021 09:27 PM
 
-%%143306625start%%
+
 #### Extras:
 
-%%143306625end%%
+
 
 ------
 
@@ -97,10 +97,10 @@ Updated: 02/08/2021 09:27 PM
 Highlighted: 02/08/2021 09:27 PM
 Updated: 02/08/2021 09:27 PM
 
-%%143306610start%%
+
 #### Extras:
 
-%%143306610end%%
+
 
 ------
 
@@ -111,10 +111,10 @@ Updated: 02/08/2021 09:27 PM
 Highlighted: 02/08/2021 09:26 PM
 Updated: 02/08/2021 09:26 PM
 
-%%143306072start%%
+
 #### Extras:
 
-%%143306072end%%
+
 
 ------
 
@@ -126,10 +126,10 @@ Comment: You need to work with the knowledge to really absorb it ^rw143305916com
 Highlighted: 02/08/2021 09:24 PM
 Updated: 02/08/2021 09:25 PM
 
-%%143305916start%%
+
 #### Extras:
 
-%%143305916end%%
+
 
 ------
 
@@ -140,10 +140,10 @@ Updated: 02/08/2021 09:25 PM
 Highlighted: 02/08/2021 09:24 PM
 Updated: 02/08/2021 09:24 PM
 
-%%143305915start%%
+
 #### Extras:
 
-%%143305915end%%
+
 
 ------
 
@@ -155,10 +155,10 @@ Comment: transmissionism is not real ^rw143305865comment
 Highlighted: 02/08/2021 09:24 PM
 Updated: 02/08/2021 09:24 PM
 
-%%143305865start%%
+
 #### Extras:
 
-%%143305865end%%
+
 
 ------
 
@@ -170,10 +170,10 @@ Comment: lecture attendees and book readers rarely absorb the knowledge ^rw14330
 Highlighted: 02/08/2021 09:22 PM
 Updated: 02/08/2021 09:22 PM
 
-%%143305832start%%
+
 #### Extras:
 
-%%143305832end%%
+
 
 ------
 
@@ -184,10 +184,10 @@ Updated: 02/08/2021 09:22 PM
 Highlighted: 02/08/2021 09:21 PM
 Updated: 02/08/2021 09:21 PM
 
-%%143305749start%%
+
 #### Extras:
 
-%%143305749end%%
+
 
 ------
 
@@ -198,10 +198,10 @@ Updated: 02/08/2021 09:21 PM
 Highlighted: 02/08/2021 09:21 PM
 Updated: 02/08/2021 09:21 PM
 
-%%143305741start%%
+
 #### Extras:
 
-%%143305741end%%
+
 
 ------
 
@@ -213,10 +213,10 @@ Comment: From Cosmos by Carl Sagan ^rw143305542comment
 Highlighted: 02/08/2021 09:19 PM
 Updated: 02/08/2021 09:19 PM
 
-%%143305542start%%
+
 #### Extras:
 
-%%143305542end%%
+
 
 ------
 
@@ -227,10 +227,10 @@ Updated: 02/08/2021 09:19 PM
 Highlighted: 02/08/2021 09:19 PM
 Updated: 02/08/2021 09:19 PM
 
-%%143305519start%%
+
 #### Extras:
 
-%%143305519end%%
+
 
 ------
 
@@ -241,10 +241,10 @@ Updated: 02/08/2021 09:19 PM
 Highlighted: 02/08/2021 09:17 PM
 Updated: 02/08/2021 09:17 PM
 
-%%143305508start%%
+
 #### Extras:
 
-%%143305508end%%
+
 
 ------
 
@@ -255,10 +255,10 @@ Updated: 02/08/2021 09:17 PM
 Highlighted: 02/08/2021 09:17 PM
 Updated: 02/08/2021 09:17 PM
 
-%%143305487start%%
+
 #### Extras:
 
-%%143305487end%%
+
 
 ------
 

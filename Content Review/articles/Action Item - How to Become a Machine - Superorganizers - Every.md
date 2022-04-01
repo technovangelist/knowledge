@@ -7,10 +7,10 @@ Updated: 04/18/2021 02:03 PM
 Highlights URL: https://readwise.io/bookreview/8698193
 SourceUrl: https://every.to/superorganizers/action-item-how-to-become-a-machine-29308398-9e14-4e2f-800d-2709d209ace4
 
-%%8698193topstart%%
+
 #### Extras:
 
-%%8698193topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://every.to/superorganizers/action-item-how-to-become-a-machine-
 Highlighted: 04/18/2021 01:59 PM
 Updated: 04/18/2021 01:59 PM
 
-%%168774345start%%
+
 #### Extras:
 
-%%168774345end%%
+
 
 ------
 
@@ -36,10 +36,10 @@ Updated: 04/18/2021 01:59 PM
 Highlighted: 04/18/2021 02:00 PM
 Updated: 04/18/2021 02:00 PM
 
-%%168774383start%%
+
 #### Extras:
 
-%%168774383end%%
+
 
 ------
 
@@ -51,10 +51,10 @@ Comment: keep your productivity systems simple ^rw168775488comment
 Highlighted: 04/18/2021 02:02 PM
 Updated: 04/18/2021 02:03 PM
 
-%%168775488start%%
+
 #### Extras:
 
-%%168775488end%%
+
 
 ------
 
@@ -65,10 +65,10 @@ Updated: 04/18/2021 02:03 PM
 Highlighted: 04/18/2021 02:03 PM
 Updated: 04/18/2021 02:03 PM
 
-%%168775558start%%
+
 #### Extras:
 
-%%168775558end%%
+
 
 
 

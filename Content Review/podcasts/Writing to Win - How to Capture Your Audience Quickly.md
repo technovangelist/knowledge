@@ -9,10 +9,10 @@ CoverImageUrl:
 Highlights URL: https://readwise.io/bookreview/7598763
 SourceUrl: https://www.airr.io/episode/5ff8bbfed2d1bbd3929e4feb
 
-%%7598763topstart%%
+
 #### Extras:
 
-%%7598763topend%%
+
 
 
  
@@ -30,10 +30,10 @@ Highlighted: 02/07/2021 09:00 AM
 Updated: 02/07/2021 09:00 AM
 https://www.airr.io/quote/60201ca4eed6321f54a812f6
 
-%%142548475start%%
+
 #### Extras:
 
-%%142548475end%%
+
 
 
 
@@ -47,10 +47,10 @@ Highlighted: 02/07/2021 08:59 AM
 Updated: 02/07/2021 08:59 AM
 https://www.airr.io/quote/60201c814f97f6cd88b28dba
 
-%%142548169start%%
+
 #### Extras:
 
-%%142548169end%%
+
 
 
 
@@ -66,10 +66,10 @@ Highlighted: 02/07/2021 08:59 AM
 Updated: 02/07/2021 08:59 AM
 https://www.airr.io/quote/60201c684f97f6a245b28db9
 
-%%142548151start%%
+
 #### Extras:
 
-%%142548151end%%
+
 
 
 
@@ -85,10 +85,10 @@ Highlighted: 02/07/2021 08:59 AM
 Updated: 02/07/2021 08:59 AM
 https://www.airr.io/quote/60201c54eed6325ed2a812f5
 
-%%142548106start%%
+
 #### Extras:
 
-%%142548106end%%
+
 
 
 
@@ -105,10 +105,10 @@ Highlighted: 02/07/2021 08:58 AM
 Updated: 02/07/2021 08:58 AM
 https://www.airr.io/quote/60201c44eed6325090a812f4
 
-%%142548103start%%
+
 #### Extras:
 
-%%142548103end%%
+
 
 
 
@@ -122,10 +122,10 @@ Highlighted: 02/07/2021 08:57 AM
 Updated: 02/07/2021 08:57 AM
 https://www.airr.io/quote/60201c114f97f678b1b28db8
 
-%%142548080start%%
+
 #### Extras:
 
-%%142548080end%%
+
 
 
 
@@ -139,10 +139,10 @@ Highlighted: 02/07/2021 08:57 AM
 Updated: 02/07/2021 08:57 AM
 https://www.airr.io/quote/60201c01eed6322343a812f3
 
-%%142548001start%%
+
 #### Extras:
 
-%%142548001end%%
+
 
 
 
@@ -156,10 +156,10 @@ Highlighted: 02/07/2021 08:57 AM
 Updated: 02/07/2021 08:57 AM
 https://www.airr.io/quote/60201bf04f97f6c0dbb28db7
 
-%%142547961start%%
+
 #### Extras:
 
-%%142547961end%%
+
 
 
 
@@ -176,10 +176,10 @@ Highlighted: 02/07/2021 08:56 AM
 Updated: 02/07/2021 08:56 AM
 https://www.airr.io/quote/60201bbeeed632ee09a812f2
 
-%%142547933start%%
+
 #### Extras:
 
-%%142547933end%%
+
 
 
 
@@ -197,10 +197,10 @@ Highlighted: 02/07/2021 08:56 AM
 Updated: 02/07/2021 08:56 AM
 https://www.airr.io/quote/60201bb44f97f68fc6b28db6
 
-%%142547931start%%
+
 #### Extras:
 
-%%142547931end%%
+
 
 
 
@@ -217,10 +217,10 @@ Highlighted: 02/07/2021 08:55 AM
 Updated: 02/07/2021 08:55 AM
 https://www.airr.io/quote/60201b9d4f97f65983b28db5
 
-%%142547702start%%
+
 #### Extras:
 
-%%142547702end%%
+
 
 
 
@@ -234,10 +234,10 @@ Highlighted: 02/07/2021 08:55 AM
 Updated: 02/07/2021 08:55 AM
 https://www.airr.io/quote/60201b884f97f68eb5b28db3
 
-%%142547659start%%
+
 #### Extras:
 
-%%142547659end%%
+
 
 
 
@@ -253,10 +253,10 @@ Highlighted: 02/07/2021 08:55 AM
 Updated: 02/07/2021 08:55 AM
 https://www.airr.io/quote/60201b754f97f6834bb28db2
 
-%%142547322start%%
+
 #### Extras:
 
-%%142547322end%%
+
 
 
 
@@ -270,10 +270,10 @@ Highlighted: 02/07/2021 08:55 AM
 Updated: 02/07/2021 08:55 AM
 https://www.airr.io/quote/60201b674f97f6049eb28db1
 
-%%142547287start%%
+
 #### Extras:
 
-%%142547287end%%
+
 
 
 
@@ -287,10 +287,10 @@ Highlighted: 02/07/2021 08:54 AM
 Updated: 02/07/2021 08:54 AM
 https://www.airr.io/quote/60201b45eed632fd27a812e4
 
-%%142547224start%%
+
 #### Extras:
 
-%%142547224end%%
+
 
 
 
@@ -305,10 +305,10 @@ Highlighted: 02/07/2021 08:51 AM
 Updated: 02/07/2021 08:51 AM
 https://www.airr.io/quote/60201aafeed6324fbaa812ce
 
-%%142547068start%%
+
 #### Extras:
 
-%%142547068end%%
+
 
 
 
@@ -322,10 +322,10 @@ Highlighted: 02/07/2021 08:51 AM
 Updated: 02/07/2021 08:51 AM
 https://www.airr.io/quote/60201a8beed632d0b1a812c9
 
-%%142546882start%%
+
 #### Extras:
 
-%%142546882end%%
+
 
 
 
@@ -339,10 +339,10 @@ Highlighted: 02/07/2021 08:50 AM
 Updated: 02/07/2021 08:50 AM
 https://www.airr.io/quote/60201a5b4f97f651e1b28d8d
 
-%%142546558start%%
+
 #### Extras:
 
-%%142546558end%%
+
 
 
 
@@ -357,10 +357,10 @@ Highlighted: 02/07/2021 08:50 AM
 Updated: 02/07/2021 08:50 AM
 https://www.airr.io/quote/60201a42eed632149da812bb
 
-%%142546545start%%
+
 #### Extras:
 
-%%142546545end%%
+
 
 
 
@@ -374,10 +374,10 @@ Highlighted: 02/07/2021 08:49 AM
 Updated: 02/07/2021 08:49 AM
 https://www.airr.io/quote/60201a12eed632518da812b3
 
-%%142546204start%%
+
 #### Extras:
 
-%%142546204end%%
+
 
 
 
@@ -395,10 +395,10 @@ Highlighted: 02/07/2021 08:48 AM
 Updated: 02/07/2021 08:48 AM
 https://www.airr.io/quote/602019d3eed6328b52a81288
 
-%%142546003start%%
+
 #### Extras:
 
-%%142546003end%%
+
 
 
 
@@ -412,10 +412,10 @@ Highlighted: 02/07/2021 08:47 AM
 Updated: 02/07/2021 08:47 AM
 https://www.airr.io/quote/602019b54f97f64bd0b28d4f
 
-%%142545948start%%
+
 #### Extras:
 
-%%142545948end%%
+
 
 
 

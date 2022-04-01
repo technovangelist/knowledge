@@ -7,10 +7,10 @@ Updated: 01/18/2021 03:39 PM
 Highlights URL: https://readwise.io/bookreview/7235246
 SourceUrl: https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started
 
-%%7235246topstart%%
+
 #### Extras:
 **svelte**
-%%7235246topend%%
+
 
 
  
@@ -31,10 +31,10 @@ Reactivity is fired just by assigning a new value to a top level variable. ^rw13
 Highlighted: 01/18/2021 03:39 PM
 Updated: 01/18/2021 03:39 PM
 
-%%133692309start%%
+
 #### Extras:
 
-%%133692309end%%
+
 
 
 

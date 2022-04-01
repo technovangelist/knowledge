@@ -7,10 +7,10 @@ Updated: 12/31/2021 12:12 PM
 Highlights URL: https://readwise.io/bookreview/12548970
 SourceUrl: https://www.inoreader.com/article/3a9c6e7aebd9cbcc-things-i-learnt-in-2021
 
-%%12548970topstart%%
+
 #### Extras:
 
-%%12548970topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.inoreader.com/article/3a9c6e7aebd9cbcc-things-i-learnt-in
 Highlighted: 12/31/2021 12:04 PM
 Updated: 12/31/2021 12:04 PM
 
-%%264677165start%%
+
 #### Extras:
 
-%%264677165end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 12/31/2021 12:04 PM
 Highlighted: 12/31/2021 12:05 PM
 Updated: 12/31/2021 12:05 PM
 
-%%264677183start%%
+
 #### Extras:
 
-%%264677183end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 12/31/2021 12:05 PM
 Highlighted: 12/31/2021 12:05 PM
 Updated: 12/31/2021 12:05 PM
 
-%%264677187start%%
+
 #### Extras:
 
-%%264677187end%%
+
 
 
 
@@ -72,10 +72,10 @@ Updated: 12/31/2021 12:05 PM
 Highlighted: 12/31/2021 12:05 PM
 Updated: 12/31/2021 12:05 PM
 
-%%264677476start%%
+
 #### Extras:
 
-%%264677476end%%
+
 
 
 
@@ -88,10 +88,10 @@ Updated: 12/31/2021 12:05 PM
 Highlighted: 12/31/2021 12:12 PM
 Updated: 12/31/2021 12:12 PM
 
-%%264678746start%%
+
 #### Extras:
 
-%%264678746end%%
+
 
 
 
@@ -104,10 +104,10 @@ Updated: 12/31/2021 12:12 PM
 Highlighted: 12/31/2021 12:12 PM
 Updated: 12/31/2021 12:12 PM
 
-%%264678777start%%
+
 #### Extras:
 
-%%264678777end%%
+
 
 
 
@@ -120,10 +120,10 @@ Updated: 12/31/2021 12:12 PM
 Highlighted: 12/31/2021 12:12 PM
 Updated: 12/31/2021 12:12 PM
 
-%%264678779start%%
+
 #### Extras:
 
-%%264678779end%%
+
 
 
 

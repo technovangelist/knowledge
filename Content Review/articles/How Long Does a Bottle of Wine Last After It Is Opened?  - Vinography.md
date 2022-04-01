@@ -7,10 +7,10 @@ Updated: 02/02/2021 10:24 AM
 Highlights URL: https://readwise.io/bookreview/7501657
 SourceUrl: https://www.vinography.com/2020/12/how-long-does-a-bottle-of-wine-last-after-it-is-opened?utm_source=hackernewsletter&utm_medium=email&utm_term=learn
 
-%%7501657topstart%%
+
 #### Extras:
 **wine**
-%%7501657topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.vinography.com/2020/12/how-long-does-a-bottle-of-wine-las
 Highlighted: 02/02/2021 10:24 AM
 Updated: 02/02/2021 10:24 AM
 
-%%140395029start%%
+
 #### Extras:
 **vacuvin**
-%%140395029end%%
+
 
 
 
@@ -40,7 +40,7 @@ Updated: 02/02/2021 10:24 AM
 Highlighted: 02/02/2021 10:23 AM
 Updated: 02/02/2021 10:23 AM
 
-%%140394778start%%
+
 #### Extras:
 **cork**
 
@@ -56,7 +56,7 @@ if you just put a cork back in the bottle how long will a red wine last in the f
 <!--ID: 1614665312037-->
 
 
-%%140394778end%%
+
 
 
 

@@ -7,10 +7,10 @@ Updated: 02/04/2021 02:50 PM
 Highlights URL: https://readwise.io/bookreview/7546851
 SourceUrl: https://www.aboutamazon.com/news/company-news/email-from-jeff-bezos-to-employees?utm_source=newsletter&utm_medium=email&utm_content=offbynone&utm_campaign=Off-by-none%3A%20Issue%20%23127
 
-%%7546851topstart%%
+
 #### Extras:
 **Amazon****Jeff Bezos**
-%%7546851topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.aboutamazon.com/news/company-news/email-from-jeff-bezos-t
 Highlighted: 02/04/2021 02:50 PM
 Updated: 02/04/2021 02:50 PM
 
-%%141420472start%%
+
 #### Extras:
 **quotes**
-%%141420472end%%
+
 
 
 

@@ -7,10 +7,10 @@ Updated: 09/23/2021 09:17 PM
 Highlights URL: https://readwise.io/bookreview/11088983
 SourceUrl: https://www.plutora.com/blog/kpi-examples-12-important-ones-across-the-entire-org-chart
 
-%%11088983topstart%%
+
 #### Extras:
 
-%%11088983topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://www.plutora.com/blog/kpi-examples-12-important-ones-across-th
 Highlighted: 09/23/2021 09:13 PM
 Updated: 09/23/2021 09:13 PM
 
-%%230489618start%%
+
 #### Extras:
 
-%%230489618end%%
+
 
 ------
 
@@ -36,10 +36,10 @@ Updated: 09/23/2021 09:13 PM
 Highlighted: 09/23/2021 09:14 PM
 Updated: 09/23/2021 09:14 PM
 
-%%230489620start%%
+
 #### Extras:
 
-%%230489620end%%
+
 
 ------
 
@@ -51,10 +51,10 @@ Comment: retention rate, number of products used ^rw230489772comment
 Highlighted: 09/23/2021 09:14 PM
 Updated: 09/23/2021 09:15 PM
 
-%%230489772start%%
+
 #### Extras:
 
-%%230489772end%%
+
 
 ------
 
@@ -65,10 +65,10 @@ Updated: 09/23/2021 09:15 PM
 Highlighted: 09/23/2021 09:14 PM
 Updated: 09/23/2021 09:14 PM
 
-%%230489770start%%
+
 #### Extras:
 
-%%230489770end%%
+
 
 ------
 
@@ -80,10 +80,10 @@ Comment: marketing kpi ^rw230489908comment
 Highlighted: 09/23/2021 09:16 PM
 Updated: 09/23/2021 09:17 PM
 
-%%230489908start%%
+
 #### Extras:
 
-%%230489908end%%
+
 
 ------
 
@@ -97,10 +97,10 @@ Comment: marketing kpi, also traffic to docs, api docs. ^rw230490040comment
 Highlighted: 09/23/2021 09:17 PM
 Updated: 09/23/2021 09:17 PM
 
-%%230490040start%%
+
 #### Extras:
 
-%%230490040end%%
+
 
 ------
 
@@ -111,10 +111,10 @@ Updated: 09/23/2021 09:17 PM
 Highlighted: 09/23/2021 09:17 PM
 Updated: 09/23/2021 09:17 PM
 
-%%230490094start%%
+
 #### Extras:
 
-%%230490094end%%
+
 
 
 

@@ -7,10 +7,10 @@ Updated: 02/05/2021 10:59 PM
 Highlights URL: https://readwise.io/bookreview/7570088
 SourceUrl: https://notes.andymatuschak.org/z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu
 
-%%7570088topstart%%
+
 #### Extras:
 **Andy Matuschak**
-%%7570088topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://notes.andymatuschak.org/z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu
 Highlighted: 02/05/2021 10:59 PM
 Updated: 02/05/2021 10:59 PM
 
-%%141871199start%%
+
 #### Extras:
 
-%%141871199end%%
+
 
 
 
@@ -38,10 +38,10 @@ Updated: 02/05/2021 10:59 PM
 Highlighted: 02/05/2021 10:58 PM
 Updated: 02/05/2021 10:58 PM
 
-%%141871050start%%
+
 #### Extras:
 
-%%141871050end%%
+
 
 ------
 
@@ -53,10 +53,10 @@ Comment: sounds like a similar idea to "Show you work" by Austin Kleon. See the 
 Highlighted: 02/05/2021 10:56 PM
 Updated: 02/05/2021 10:57 PM
 
-%%141870857start%%
+
 #### Extras:
 **Austin Kleon****Ali Abdal**
-%%141870857end%%
+
 
 ------
 
@@ -67,10 +67,10 @@ Updated: 02/05/2021 10:57 PM
 Highlighted: 02/05/2021 10:55 PM
 Updated: 02/05/2021 10:56 PM
 
-%%141870847start%%
+
 #### Extras:
 **Robin Sloan**
-%%141870847end%%
+
 
 ------
 

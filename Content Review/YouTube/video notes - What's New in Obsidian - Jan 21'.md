@@ -6,10 +6,10 @@ Title: What's New in Obsidian: Jan 21'
 Category: YouTube
 Published: 02/06/2021 06:15 AM
  ^ytm5T9pJB2DEabout
-%%m5T9pJ_B2DEtopstart%%
+
 #### Extras:
 this isn't the right one. need to fix my import job **Todo for the Readwise and Yinote Sync Tools**
-%%m5T9pJ_B2DEtopend%%
+
 
 -----
 ## Highlights:
@@ -21,10 +21,10 @@ Comment:
 >1. Writing is thinking
 >2. Value of an external system
 >3. Superiority of emergent approach ^ytm5T9pJB2DE123c
-%%123start%%
+
 #### Extras:
 
-%%123end%%
+
 
 
 -----
@@ -32,10 +32,10 @@ Timecode: [2:51](https://www.youtube.com/watch?v=m5T9pJ_B2DE&t=171) ^ytm5T9pJB2D
 
 Comment: 
 >Plenty of folks, myself included, will highlight a passage and think thats it. Theres even plenty of examples of that in this obsidian vault. but thats not going to make it stick. You have to process the thought. Use your own words. What resonates with you? Write it down. That is why writing is thinking, not the result of thinking. ^ytm5T9pJB2DE171c
-%%171start%%
+
 #### Extras:
 
-%%171end%%
+
 
 
 -----
@@ -46,10 +46,10 @@ Comment:
 >1. Fleeting note
 >1. Literature note
 >1. Permanent note ^ytm5T9pJB2DE374c
-%%374start%%
+
 #### Extras:
 
-%%374end%%
+
 
 
 -----
@@ -57,10 +57,10 @@ Timecode: [9:58](https://www.youtube.com/watch?v=m5T9pJ_B2DE&t=598) ^ytm5T9pJB2D
 
 Comment: 
 >the emergent approach refers to the idea that you can consume lots of different types of content. Connections and interesting points bubble up and start connecting in interesting ways. and results emerge from the mess of notes ^ytm5T9pJB2DE598c
-%%598start%%
+
 #### Extras:
 
-%%598end%%
+
 
 
 -----
@@ -68,10 +68,10 @@ Timecode: [10:48](https://www.youtube.com/watch?v=m5T9pJ_B2DE&t=648) ^ytm5T9pJB2
 
 Comment: 
 >results for mike gastin: learning more. Taking longer for him to consume, but he is processing and learning more. he is able to make those connections ^ytm5T9pJB2DE648c
-%%648start%%
+
 #### Extras:
 
-%%648end%%
+
 
 
 -----
@@ -79,10 +79,10 @@ Timecode: [11:09](https://www.youtube.com/watch?v=m5T9pJ_B2DE&t=669) ^ytm5T9pJB2
 
 Comment: 
 >another result: Original thinking. more insight. more mashups of different authors and creators. ^ytm5T9pJB2DE669c
-%%669start%%
+
 #### Extras:
 
-%%669end%%
+
 
 
 -----
@@ -90,10 +90,10 @@ Timecode: [11:52](https://www.youtube.com/watch?v=m5T9pJ_B2DE&t=712) ^ytm5T9pJB2
 
 Comment: 
 >both of those result in better paying gigs. ^ytm5T9pJB2DE712c
-%%712start%%
+
 #### Extras:
 
-%%712end%%
+
 
 
 ## Video Description on YouTube:

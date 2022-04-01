@@ -6,10 +6,10 @@ Title: The Strangest Secret by Earl Nightingale (Daily Listening)
 Category: YouTube
 Published: 11/23/2019 08:11 PM
  ^ytNbBHRCD56Mabout
-%%NbBHR_CD56Mtopstart%%
+
 #### Extras:
 
-%%NbBHR_CD56Mtopend%%
+
 
 -----
 ## Highlights:
@@ -19,11 +19,11 @@ Timecode: [0:14](https://www.youtube.com/watch?v=NbBHR_CD56M&t=14) ^ytNbBHRCD56M
 Comment: 
 >Whats wrong with men today - asked to Albert Schweizer
 >The answer was "Men simply don't think" ^ytNbBHRCD56M14c
-%%14start%%
+
 #### Extras:
 [Albert Schweitzer - Wikipedia](/knowledge/Content Review/articles/Albert Schweitzer - Wikipedia)
 
-%%14end%%
+
 
 
 -----
@@ -31,10 +31,10 @@ Timecode: [1:44](https://www.youtube.com/watch?v=NbBHR_CD56M&t=104) ^ytNbBHRCD56
 
 Comment: 
 >success is the progressive realization of a worthy ideal. ^ytNbBHRCD56M104c
-%%104start%%
+
 #### Extras:
 
-%%104end%%
+
 
 
 -----
@@ -43,11 +43,11 @@ Timecode: [0:14](https://www.youtube.com/watch?v=NbBHR_CD56M&t=14) ^ytNbBHRCD56M
 Comment: 
 >Whats wrong with men today - asked to Albert Schweizer
 >The answer was "Men simply don't think" ^ytNbBHRCD56M14c
-%%14start%%
+
 #### Extras:
 [Albert Schweitzer - Wikipedia](/knowledge/Content Review/articles/Albert Schweitzer - Wikipedia)
 
-%%14end%%
+
 
 
 -----
@@ -55,10 +55,10 @@ Timecode: [1:44](https://www.youtube.com/watch?v=NbBHR_CD56M&t=104) ^ytNbBHRCD56
 
 Comment: 
 >success is the progressive realization of a worthy ideal. ^ytNbBHRCD56M104c
-%%104start%%
+
 #### Extras:
 
-%%104end%%
+
 
 
 -----
@@ -67,11 +67,11 @@ Timecode: [0:14](https://www.youtube.com/watch?v=NbBHR_CD56M&t=14) ^ytNbBHRCD56M
 Comment: 
 >Whats wrong with men today - asked to Albert Schweizer
 >The answer was "Men simply don't think" ^ytNbBHRCD56M14c
-%%14start%%
+
 #### Extras:
 [Albert Schweitzer - Wikipedia](/knowledge/Content Review/articles/Albert Schweitzer - Wikipedia)
 
-%%14end%%
+
 
 
 -----
@@ -79,10 +79,10 @@ Timecode: [1:44](https://www.youtube.com/watch?v=NbBHR_CD56M&t=104) ^ytNbBHRCD56
 
 Comment: 
 >success is the progressive realization of a worthy ideal. ^ytNbBHRCD56M104c
-%%104start%%
+
 #### Extras:
 
-%%104end%%
+
 
 
 ## Video Description on YouTube:

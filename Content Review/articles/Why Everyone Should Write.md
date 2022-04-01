@@ -7,10 +7,10 @@ Updated: 01/19/2021 10:21 AM
 Highlights URL: https://readwise.io/bookreview/7003909
 SourceUrl: http://www.collaborativefund.com/blog/why-everyone-should-write/
 
-%%7003909topstart%%
+
 #### Extras:
 
-%%7003909topend%%
+
 
 
  
@@ -25,10 +25,10 @@ SourceUrl: http://www.collaborativefund.com/blog/why-everyone-should-write/
 Highlighted: 01/03/2021 10:11 PM
 Updated: 01/19/2021 10:21 AM
 
-%%128011972start%%
+
 #### Extras:
 **Warren Buffet**
-%%128011972end%%
+
 
 
 
@@ -42,10 +42,10 @@ Comment: you can't focus on something in your head for long. getting them writte
 Highlighted: 01/03/2021 10:06 PM
 Updated: 01/19/2021 10:21 AM
 
-%%128011971start%%
+
 #### Extras:
 
-%%128011971end%%
+
 
 
 
@@ -59,10 +59,10 @@ Comment: Unless you write your ideas to process tthem, you are just going on int
 Highlighted: 01/03/2021 10:03 PM
 Updated: 01/19/2021 10:21 AM
 
-%%128011970start%%
+
 #### Extras:
 **writing to think**
-%%128011970end%%
+
 
 
 
@@ -76,10 +76,10 @@ Comment: We al have ideas but since we don't write its just phantom intelligence
 Highlighted: 01/03/2021 10:02 PM
 Updated: 01/19/2021 10:21 AM
 
-%%128011969start%%
+
 #### Extras:
 **phantom intelligence**
-%%128011969end%%
+
 
 
 

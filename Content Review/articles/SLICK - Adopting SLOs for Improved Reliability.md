@@ -7,10 +7,10 @@ Updated: 12/29/2021 06:02 PM
 Highlights URL: https://readwise.io/bookreview/12519137
 SourceUrl: https://www.inoreader.com/article/3a9c6e7af8da854d-slick-adopting-slos-for-improved-reliability
 
-%%12519137topstart%%
+
 #### Extras:
 
-%%12519137topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.inoreader.com/article/3a9c6e7af8da854d-slick-adopting-slo
 Highlighted: 12/29/2021 05:55 PM
 Updated: 12/29/2021 05:55 PM
 
-%%263989620start%%
+
 #### Extras:
 
-%%263989620end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 12/29/2021 05:55 PM
 Highlighted: 12/29/2021 05:56 PM
 Updated: 12/29/2021 05:56 PM
 
-%%263989657start%%
+
 #### Extras:
 
-%%263989657end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 12/29/2021 05:56 PM
 Highlighted: 12/29/2021 05:57 PM
 Updated: 12/29/2021 05:57 PM
 
-%%263989674start%%
+
 #### Extras:
 
-%%263989674end%%
+
 
 
 
@@ -72,10 +72,10 @@ Updated: 12/29/2021 05:57 PM
 Highlighted: 12/29/2021 06:00 PM
 Updated: 12/29/2021 06:00 PM
 
-%%263990037start%%
+
 #### Extras:
 
-%%263990037end%%
+
 
 
 
@@ -88,10 +88,10 @@ Updated: 12/29/2021 06:00 PM
 Highlighted: 12/29/2021 06:00 PM
 Updated: 12/29/2021 06:00 PM
 
-%%263990056start%%
+
 #### Extras:
 
-%%263990056end%%
+
 
 
 
@@ -104,10 +104,10 @@ Updated: 12/29/2021 06:00 PM
 Highlighted: 12/29/2021 06:01 PM
 Updated: 12/29/2021 06:01 PM
 
-%%263990176start%%
+
 #### Extras:
 
-%%263990176end%%
+
 
 
 
@@ -120,10 +120,10 @@ Updated: 12/29/2021 06:01 PM
 Highlighted: 12/29/2021 06:02 PM
 Updated: 12/29/2021 06:02 PM
 
-%%263990323start%%
+
 #### Extras:
 
-%%263990323end%%
+
 
 
 

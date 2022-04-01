@@ -7,10 +7,10 @@ Updated: 03/03/2021 12:54 PM
 Highlights URL: https://readwise.io/bookreview/8078263
 SourceUrl: https://blog.appoptics.com/an-in-depth-guide-to-kubernetes-monitoring/
 
-%%8078263topstart%%
+
 #### Extras:
 
-%%8078263topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://blog.appoptics.com/an-in-depth-guide-to-kubernetes-monitoring
 Highlighted: 03/03/2021 10:49 AM
 Updated: 03/03/2021 10:49 AM
 
-%%152991367start%%
+
 #### Extras:
 
-%%152991367end%%
+
 
 ------
 
@@ -36,10 +36,10 @@ Updated: 03/03/2021 10:49 AM
 Highlighted: 03/03/2021 10:49 AM
 Updated: 03/03/2021 10:49 AM
 
-%%152991384start%%
+
 #### Extras:
 
-%%152991384end%%
+
 
 ------
 
@@ -55,10 +55,10 @@ Unknown – the pod’s state can’t be determined ^rw153000690hl
 Highlighted: 03/03/2021 11:25 AM
 Updated: 03/03/2021 11:25 AM
 
-%%153000690start%%
+
 #### Extras:
 
-%%153000690end%%
+
 
 ------
 
@@ -70,10 +70,10 @@ Comment: One way to  identify a problem with the scheduler ^rw153000718comment
 Highlighted: 03/03/2021 11:25 AM
 Updated: 03/03/2021 11:26 AM
 
-%%153000718start%%
+
 #### Extras:
 
-%%153000718end%%
+
 
 ------
 
@@ -84,10 +84,10 @@ Updated: 03/03/2021 11:26 AM
 Highlighted: 03/03/2021 11:26 AM
 Updated: 03/03/2021 11:26 AM
 
-%%153000770start%%
+
 #### Extras:
 
-%%153000770end%%
+
 
 ------
 
@@ -98,10 +98,10 @@ Updated: 03/03/2021 11:26 AM
 Highlighted: 03/03/2021 11:26 AM
 Updated: 03/03/2021 11:26 AM
 
-%%153000774start%%
+
 #### Extras:
 
-%%153000774end%%
+
 
 ------
 
@@ -117,10 +117,10 @@ Updated – the number of non-terminated pods matching the latest deployment spe
 Highlighted: 03/03/2021 11:27 AM
 Updated: 03/03/2021 11:27 AM
 
-%%153000785start%%
+
 #### Extras:
 
-%%153000785end%%
+
 
 ------
 
@@ -133,10 +133,10 @@ Comment: Pods failing to meet spec ^rw153001047comment
 Highlighted: 03/03/2021 11:32 AM
 Updated: 03/03/2021 11:33 AM
 
-%%153001047start%%
+
 #### Extras:
 
-%%153001047end%%
+
 
 ------
 
@@ -147,10 +147,10 @@ Updated: 03/03/2021 11:33 AM
 Highlighted: 03/03/2021 11:33 AM
 Updated: 03/03/2021 11:33 AM
 
-%%153001214start%%
+
 #### Extras:
 
-%%153001214end%%
+
 
 ------
 
@@ -167,10 +167,10 @@ Comment: 1. Check resources
 Highlighted: 03/03/2021 12:50 PM
 Updated: 03/03/2021 12:54 PM
 
-%%153022097start%%
+
 #### Extras:
 
-%%153022097end%%
+
 
 ------
 

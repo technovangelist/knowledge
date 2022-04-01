@@ -7,10 +7,10 @@ Updated: 03/02/2021 04:17 PM
 Highlights URL: https://readwise.io/bookreview/8070308
 SourceUrl: https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
 
-%%8070308topstart%%
+
 #### Extras:
 
-%%8070308topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
 Highlighted: 03/02/2021 04:17 PM
 Updated: 03/02/2021 04:17 PM
 
-%%152773577start%%
+
 #### Extras:
 
-%%152773577end%%
+
 
 ------
 

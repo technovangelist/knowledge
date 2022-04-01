@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/51lJS4WXBnL._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1537447
 
-%%1537447topstart%%
+
 #### Extras:
 **Ronan Farrow**
-%%1537447topend%%
+
  
 -----
  ## Highlights:
@@ -25,10 +25,10 @@ Comment: Who is countryman
 Highlighted: 03/07/2020 08:56 PM
 Updated: 03/09/2020 01:30 PM
 
-%%42991938start%%
+
 #### Extras:
 
-%%42991938end%%
+
 
 ------
 
@@ -40,10 +40,10 @@ Comment: Nuclear treaties are hard ^rw42991939comment
 Highlighted: 03/07/2020 08:56 PM
 Updated: 03/09/2020 01:30 PM
 
-%%42991939start%%
+
 #### Extras:
 
-%%42991939end%%
+
 
 ------
 
@@ -54,10 +54,10 @@ Updated: 03/09/2020 01:30 PM
 Highlighted: 03/07/2020 08:56 PM
 Updated: 03/09/2020 01:30 PM
 
-%%42991940start%%
+
 #### Extras:
 
-%%42991940end%%
+
 
 ------
 
@@ -68,10 +68,10 @@ Updated: 03/09/2020 01:30 PM
 Highlighted: 03/07/2020 08:56 PM
 Updated: 03/09/2020 01:30 PM
 
-%%42991941start%%
+
 #### Extras:
 
-%%42991941end%%
+
 
 ------
 
@@ -83,10 +83,10 @@ Comment: The hardest part of the diplomats job ^rw42991942comment
 Highlighted: 03/07/2020 08:56 PM
 Updated: 03/09/2020 01:30 PM
 
-%%42991942start%%
+
 #### Extras:
 
-%%42991942end%%
+
 
 ------
 
@@ -97,10 +97,10 @@ Updated: 03/09/2020 01:30 PM
 Highlighted: 03/07/2020 08:56 PM
 Updated: 03/09/2020 01:30 PM
 
-%%42991943start%%
+
 #### Extras:
 
-%%42991943end%%
+
 
 ------
 
@@ -111,10 +111,10 @@ Updated: 03/09/2020 01:30 PM
 Highlighted: 03/07/2020 08:56 PM
 Updated: 03/09/2020 01:30 PM
 
-%%42991944start%%
+
 #### Extras:
 
-%%42991944end%%
+
 
 ------
 
@@ -126,10 +126,10 @@ Comment: Resignations are standard but no one expects them to be accepted ^rw429
 Highlighted: 03/07/2020 08:56 PM
 Updated: 03/09/2020 01:30 PM
 
-%%42991945start%%
+
 #### Extras:
 
-%%42991945end%%
+
 
 ------
 
@@ -140,10 +140,10 @@ Updated: 03/09/2020 01:30 PM
 Highlighted: 03/07/2020 08:56 PM
 Updated: 03/09/2020 01:30 PM
 
-%%42991946start%%
+
 #### Extras:
 
-%%42991946end%%
+
 
 ------
 
@@ -154,10 +154,10 @@ Updated: 03/09/2020 01:30 PM
 Highlighted: 03/07/2020 08:56 PM
 Updated: 03/09/2020 01:30 PM
 
-%%42991947start%%
+
 #### Extras:
 
-%%42991947end%%
+
 
 ------
 
@@ -168,10 +168,10 @@ Updated: 03/09/2020 01:30 PM
 Highlighted: 03/07/2020 08:56 PM
 Updated: 03/09/2020 01:30 PM
 
-%%42991948start%%
+
 #### Extras:
 **Thomas Friedman**
-%%42991948end%%
+
 
 ------
 
@@ -182,10 +182,10 @@ Updated: 03/09/2020 01:30 PM
 Highlighted: 03/07/2020 08:56 PM
 Updated: 03/09/2020 01:30 PM
 
-%%42991949start%%
+
 #### Extras:
 **September 11**
-%%42991949end%%
+
 
 ------
 
@@ -196,10 +196,10 @@ Updated: 03/09/2020 01:30 PM
 Highlighted: 03/07/2020 08:56 PM
 Updated: 03/09/2020 01:30 PM
 
-%%42991950start%%
+
 #### Extras:
 **the Pottery Barn rule**
-%%42991950end%%
+
 
 ------
 
@@ -210,10 +210,10 @@ Updated: 03/09/2020 01:30 PM
 Highlighted: 03/07/2020 08:56 PM
 Updated: 03/09/2020 01:30 PM
 
-%%42991951start%%
+
 #### Extras:
 **Barack Obama****George W. Bush**
-%%42991951end%%
+
 
 ------
 
@@ -225,10 +225,10 @@ Comment: Henry kissinger ^rw168256799comment
 Highlighted: 04/16/2021 09:56 PM
 Updated: 04/16/2021 11:59 PM
 
-%%168256799start%%
+
 #### Extras:
 
-%%168256799end%%
+
 
 
 

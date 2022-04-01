@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/41ET8OFVFCL._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1214107
 
-%%1214107topstart%%
+
 #### Extras:
 **Steven Pressfield**
-%%1214107topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlights URL: https://readwise.io/bookreview/1214107
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507108start%%
+
 #### Extras:
 **inspiration**
-%%35507108end%%
+
 
 
 

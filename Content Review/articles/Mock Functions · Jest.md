@@ -7,10 +7,10 @@ Updated: 02/12/2021 10:04 AM
 Highlights URL: https://readwise.io/bookreview/7693313
 SourceUrl: https://jest-bot.github.io/jest/docs/mock-functions.html
 
-%%7693313topstart%%
+
 #### Extras:
 **jest** **testing** **javascript**
-%%7693313topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://jest-bot.github.io/jest/docs/mock-functions.html
 Highlighted: 02/12/2021 10:04 AM
 Updated: 02/12/2021 10:04 AM
 
-%%144778424start%%
+
 #### Extras:
 
-%%144778424end%%
+
 
 
 

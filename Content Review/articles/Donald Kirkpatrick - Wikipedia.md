@@ -7,10 +7,10 @@ Updated: 02/10/2021 08:19 AM
 Highlights URL: https://readwise.io/bookreview/7655565
 SourceUrl: https://en.wikipedia.org/wiki/Donald_Kirkpatrick
 
-%%7655565topstart%%
+
 #### Extras:
 **Training Models**[Kilpatrick Model](/knowledge/Other Notes/Kilpatrick Model)
-%%7655565topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://en.wikipedia.org/wiki/Donald_Kirkpatrick
 Highlighted: 02/10/2021 08:19 AM
 Updated: 02/10/2021 08:19 AM
 
-%%143904836start%%
+
 #### Extras:
 
-%%143904836end%%
+
 
 
 

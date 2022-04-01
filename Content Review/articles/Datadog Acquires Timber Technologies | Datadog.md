@@ -7,10 +7,10 @@ Updated: 02/11/2021 02:10 PM
 Highlights URL: https://readwise.io/bookreview/7678627
 SourceUrl: https://www.datadoghq.com/about/latest-news/press-releases/datadog-acquires-timber-technologies/
 
-%%7678627topstart%%
+
 #### Extras:
 **Timber Technologies****Zach Sherman****Ben Johnson****acquisition**
-%%7678627topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://www.datadoghq.com/about/latest-news/press-releases/datadog-ac
 Highlighted: 02/11/2021 02:10 PM
 Updated: 02/11/2021 02:10 PM
 
-%%144393543start%%
+
 #### Extras:
 
-%%144393543end%%
+
 
 
 
@@ -38,10 +38,10 @@ Updated: 02/11/2021 02:10 PM
 Highlighted: 02/11/2021 02:10 PM
 Updated: 02/11/2021 02:10 PM
 
-%%144393488start%%
+
 #### Extras:
 
-%%144393488end%%
+
 
 ------
 
@@ -52,10 +52,10 @@ Updated: 02/11/2021 02:10 PM
 Highlighted: 02/11/2021 02:10 PM
 Updated: 02/11/2021 02:10 PM
 
-%%144393487start%%
+
 #### Extras:
 
-%%144393487end%%
+
 
 ------
 
@@ -66,10 +66,10 @@ Updated: 02/11/2021 02:10 PM
 Highlighted: 02/11/2021 02:09 PM
 Updated: 02/11/2021 02:09 PM
 
-%%144393485start%%
+
 #### Extras:
 
-%%144393485end%%
+
 
 ------
 
@@ -80,10 +80,10 @@ Updated: 02/11/2021 02:09 PM
 Highlighted: 02/11/2021 02:09 PM
 Updated: 02/11/2021 02:09 PM
 
-%%144393484start%%
+
 #### Extras:
 
-%%144393484end%%
+
 
 ------
 

@@ -6,10 +6,10 @@ Updated: 06/09/2020 05:21 PM
 Highlights URL: https://readwise.io/bookreview/2986807
 SourceUrl: https://2ality.com/2020/05/records-tuples-first-look.html
 
-%%2986807topstart%%
+
 #### Extras:
 **javascript****Robin Ricard****Rick Button****Tuples**
-%%2986807topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Tuples, immutable compared-by-value versions of Arrays ^rw64831309hl
 Highlighted: 06/09/2020 06:44 AM
 Updated: 06/09/2020 05:21 PM
 
-%%64831309start%%
+
 #### Extras:
 
-%%64831309end%%
+
 
 
 

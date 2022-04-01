@@ -7,10 +7,10 @@ Updated: 02/05/2021 08:07 AM
 Highlights URL: https://readwise.io/bookreview/7558280
 SourceUrl: https://sambupraveen.medium.com/aws-lambda-best-practices-71ebc79c47f1
 
-%%7558280topstart%%
+
 #### Extras:
 [AWS Lambda](/knowledge/Tools I Use/AWS Lambda)**Praveen Sambu**
-%%7558280topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Comment: Depends. Often this is just stupid ^rw141645641comment
 Highlighted: 02/05/2021 06:26 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645641start%%
+
 #### Extras:
 **Keep Lambdas Warm**
-%%141645641end%%
+
 
 
 
@@ -42,10 +42,10 @@ Comment: It depends. If two tasks combined takes 20ms then splitting up can add 
 Highlighted: 02/05/2021 06:24 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645640start%%
+
 #### Extras:
 
-%%141645640end%%
+
 
 
 
@@ -59,10 +59,10 @@ Comment: Great idea ^rw141645639comment
 Highlighted: 02/05/2021 06:23 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645639start%%
+
 #### Extras:
 **S3** #activetodos 
-%%141645639end%%
+
 
 
 
@@ -75,10 +75,10 @@ Updated: 02/05/2021 08:07 AM
 Highlighted: 02/05/2021 06:23 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645637start%%
+
 #### Extras:
 
-%%141645637end%%
+
 
 
 

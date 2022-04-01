@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://m.media-amazon.com/images/I/81K8j5KGICL._SY160.jpg)
 Highlights URL: https://readwise.io/bookreview/8139515
 
-%%8139515topstart%%
+
 #### Extras:
 
-%%8139515topend%%
+
  
 -----
  ## Highlights:
@@ -23,10 +23,10 @@ Highlights URL: https://readwise.io/bookreview/8139515
 Highlighted: 03/07/2021 08:56 PM
 Updated: 03/07/2021 10:46 PM
 
-%%154548771start%%
+
 #### Extras:
 
-%%154548771end%%
+
 
 ------
 
@@ -38,10 +38,10 @@ Comment: ANy video or article bout bill gates brings up vaclav smil ^rw154548772
 Highlighted: 03/07/2021 08:56 PM
 Updated: 03/07/2021 10:46 PM
 
-%%154548772start%%
+
 #### Extras:
 
-%%154548772end%%
+
 
 ------
 
@@ -52,10 +52,10 @@ Updated: 03/07/2021 10:46 PM
 Highlighted: 03/07/2021 08:56 PM
 Updated: 03/07/2021 10:46 PM
 
-%%154548773start%%
+
 #### Extras:
 
-%%154548773end%%
+
 
 ------
 
@@ -66,10 +66,10 @@ Updated: 03/07/2021 10:46 PM
 Highlighted: 03/07/2021 08:56 PM
 Updated: 03/07/2021 10:46 PM
 
-%%154548774start%%
+
 #### Extras:
 
-%%154548774end%%
+
 
 ------
 
@@ -80,10 +80,10 @@ Updated: 03/07/2021 10:46 PM
 Highlighted: 03/07/2021 08:56 PM
 Updated: 03/07/2021 10:46 PM
 
-%%154548775start%%
+
 #### Extras:
 
-%%154548775end%%
+
 
 ------
 
@@ -94,10 +94,10 @@ Updated: 03/07/2021 10:46 PM
 Highlighted: 03/07/2021 08:56 PM
 Updated: 03/07/2021 10:46 PM
 
-%%154548776start%%
+
 #### Extras:
 
-%%154548776end%%
+
 
 ------
 
@@ -108,10 +108,10 @@ Updated: 03/07/2021 10:46 PM
 Highlighted: 03/08/2021 08:56 PM
 Updated: 03/08/2021 11:46 PM
 
-%%154943843start%%
+
 #### Extras:
 
-%%154943843end%%
+
 
 ------
 
@@ -122,10 +122,10 @@ Updated: 03/08/2021 11:46 PM
 Highlighted: 03/08/2021 08:56 PM
 Updated: 03/08/2021 11:46 PM
 
-%%154943844start%%
+
 #### Extras:
 
-%%154943844end%%
+
 
 ------
 
@@ -136,10 +136,10 @@ Updated: 03/08/2021 11:46 PM
 Highlighted: 03/08/2021 08:56 PM
 Updated: 03/08/2021 11:46 PM
 
-%%154943845start%%
+
 #### Extras:
 
-%%154943845end%%
+
 
 ------
 
@@ -150,10 +150,10 @@ Updated: 03/08/2021 11:46 PM
 Highlighted: 03/09/2021 08:56 PM
 Updated: 03/10/2021 00:16 AM
 
-%%155228586start%%
+
 #### Extras:
 
-%%155228586end%%
+
 
 ------
 
@@ -164,10 +164,10 @@ Updated: 03/10/2021 00:16 AM
 Highlighted: 03/09/2021 08:56 PM
 Updated: 03/10/2021 00:16 AM
 
-%%155228587start%%
+
 #### Extras:
 
-%%155228587end%%
+
 
 ------
 
@@ -178,10 +178,10 @@ Updated: 03/10/2021 00:16 AM
 Highlighted: 03/10/2021 08:56 PM
 Updated: 03/11/2021 03:17 AM
 
-%%155546212start%%
+
 #### Extras:
 
-%%155546212end%%
+
 
 ------
 
@@ -192,10 +192,10 @@ Updated: 03/11/2021 03:17 AM
 Highlighted: 03/10/2021 08:56 PM
 Updated: 03/11/2021 03:17 AM
 
-%%155546213start%%
+
 #### Extras:
 
-%%155546213end%%
+
 
 ------
 
@@ -206,10 +206,10 @@ Updated: 03/11/2021 03:17 AM
 Highlighted: 03/10/2021 08:56 PM
 Updated: 03/11/2021 03:17 AM
 
-%%155546214start%%
+
 #### Extras:
 
-%%155546214end%%
+
 
 ------
 
@@ -220,10 +220,10 @@ Updated: 03/11/2021 03:17 AM
 Highlighted: 03/10/2021 08:56 PM
 Updated: 03/11/2021 03:17 AM
 
-%%155546215start%%
+
 #### Extras:
 
-%%155546215end%%
+
 
 ------
 
@@ -234,10 +234,10 @@ Updated: 03/11/2021 03:17 AM
 Highlighted: 03/12/2021 08:56 PM
 Updated: 03/13/2021 06:49 AM
 
-%%156447472start%%
+
 #### Extras:
 
-%%156447472end%%
+
 
 ------
 
@@ -248,10 +248,10 @@ Updated: 03/13/2021 06:49 AM
 Highlighted: 03/12/2021 08:56 PM
 Updated: 03/13/2021 06:49 AM
 
-%%156447473start%%
+
 #### Extras:
 
-%%156447473end%%
+
 
 ------
 
@@ -262,10 +262,10 @@ Updated: 03/13/2021 06:49 AM
 Highlighted: 03/13/2021 08:56 PM
 Updated: 03/14/2021 08:06 AM
 
-%%156848340start%%
+
 #### Extras:
 
-%%156848340end%%
+
 
 ------
 
@@ -276,10 +276,10 @@ Updated: 03/14/2021 08:06 AM
 Highlighted: 03/13/2021 08:56 PM
 Updated: 03/14/2021 08:06 AM
 
-%%156848341start%%
+
 #### Extras:
 
-%%156848341end%%
+
 
 ------
 
@@ -290,10 +290,10 @@ Updated: 03/14/2021 08:06 AM
 Highlighted: 03/13/2021 08:56 PM
 Updated: 03/14/2021 08:06 AM
 
-%%156848342start%%
+
 #### Extras:
 
-%%156848342end%%
+
 
 ------
 
@@ -304,10 +304,10 @@ Updated: 03/14/2021 08:06 AM
 Highlighted: 03/13/2021 08:56 PM
 Updated: 03/14/2021 08:06 AM
 
-%%156848343start%%
+
 #### Extras:
 
-%%156848343end%%
+
 
 ------
 
@@ -318,10 +318,10 @@ Updated: 03/14/2021 08:06 AM
 Highlighted: 03/14/2021 09:56 PM
 Updated: 03/14/2021 10:09 PM
 
-%%157110320start%%
+
 #### Extras:
 
-%%157110320end%%
+
 
 ------
 
@@ -332,10 +332,10 @@ Updated: 03/14/2021 10:09 PM
 Highlighted: 03/14/2021 09:56 PM
 Updated: 03/14/2021 10:09 PM
 
-%%157110321start%%
+
 #### Extras:
 
-%%157110321end%%
+
 
 ------
 
@@ -346,10 +346,10 @@ Updated: 03/14/2021 10:09 PM
 Highlighted: 03/14/2021 09:56 PM
 Updated: 03/14/2021 10:09 PM
 
-%%157110322start%%
+
 #### Extras:
 
-%%157110322end%%
+
 
 ------
 
@@ -360,10 +360,10 @@ Updated: 03/14/2021 10:09 PM
 Highlighted: 03/23/2021 09:56 PM
 Updated: 03/23/2021 11:36 PM
 
-%%160057078start%%
+
 #### Extras:
 
-%%160057078end%%
+
 
 ------
 
@@ -374,10 +374,10 @@ Updated: 03/23/2021 11:36 PM
 Highlighted: 03/23/2021 09:56 PM
 Updated: 03/23/2021 11:36 PM
 
-%%160057079start%%
+
 #### Extras:
 
-%%160057079end%%
+
 
 ------
 
@@ -388,10 +388,10 @@ Updated: 03/23/2021 11:36 PM
 Highlighted: 03/23/2021 09:56 PM
 Updated: 03/23/2021 11:36 PM
 
-%%160057080start%%
+
 #### Extras:
 
-%%160057080end%%
+
 
 ------
 
@@ -402,10 +402,10 @@ Updated: 03/23/2021 11:36 PM
 Highlighted: 03/23/2021 09:56 PM
 Updated: 03/23/2021 11:36 PM
 
-%%160057081start%%
+
 #### Extras:
 
-%%160057081end%%
+
 
 ------
 
@@ -416,10 +416,10 @@ Updated: 03/23/2021 11:36 PM
 Highlighted: 03/27/2021 09:56 PM
 Updated: 03/28/2021 02:30 PM
 
-%%161693381start%%
+
 #### Extras:
 
-%%161693381end%%
+
 
 ------
 
@@ -430,10 +430,10 @@ Updated: 03/28/2021 02:30 PM
 Highlighted: 03/27/2021 09:56 PM
 Updated: 03/28/2021 02:30 PM
 
-%%161693382start%%
+
 #### Extras:
 
-%%161693382end%%
+
 
 ------
 
@@ -444,10 +444,10 @@ Updated: 03/28/2021 02:30 PM
 Highlighted: 04/14/2021 09:56 PM
 Updated: 04/15/2021 08:30 AM
 
-%%167756045start%%
+
 #### Extras:
 
-%%167756045end%%
+
 
 ------
 
@@ -459,10 +459,10 @@ Comment: Progress is good but comes at a cost ^rw172340621comment
 Highlighted: 04/26/2021 09:56 PM
 Updated: 04/26/2021 11:43 PM
 
-%%172340621start%%
+
 #### Extras:
 
-%%172340621end%%
+
 
 ------
 
@@ -473,10 +473,10 @@ Updated: 04/26/2021 11:43 PM
 Highlighted: 04/26/2021 09:56 PM
 Updated: 04/26/2021 11:43 PM
 
-%%172340622start%%
+
 #### Extras:
 
-%%172340622end%%
+
 
 ------
 
@@ -487,10 +487,10 @@ Updated: 04/26/2021 11:43 PM
 Highlighted: 04/26/2021 09:56 PM
 Updated: 04/26/2021 11:43 PM
 
-%%172340623start%%
+
 #### Extras:
 
-%%172340623end%%
+
 
 ------
 
@@ -501,10 +501,10 @@ Updated: 04/26/2021 11:43 PM
 Highlighted: 04/26/2021 09:56 PM
 Updated: 04/26/2021 11:43 PM
 
-%%172340624start%%
+
 #### Extras:
 
-%%172340624end%%
+
 
 ------
 
@@ -515,10 +515,10 @@ Updated: 04/26/2021 11:43 PM
 Highlighted: 04/26/2021 09:56 PM
 Updated: 04/26/2021 11:43 PM
 
-%%172340625start%%
+
 #### Extras:
 
-%%172340625end%%
+
 
 ------
 
@@ -529,10 +529,10 @@ Updated: 04/26/2021 11:43 PM
 Highlighted: 04/26/2021 09:56 PM
 Updated: 04/26/2021 11:43 PM
 
-%%172340626start%%
+
 #### Extras:
 
-%%172340626end%%
+
 
 ------
 
@@ -543,10 +543,10 @@ Updated: 04/26/2021 11:43 PM
 Highlighted: 05/02/2021 09:56 PM
 Updated: 05/03/2021 07:41 AM
 
-%%174749873start%%
+
 #### Extras:
 
-%%174749873end%%
+
 
 
 
@@ -559,10 +559,10 @@ Updated: 05/03/2021 07:41 AM
 Highlighted: 05/02/2021 09:56 PM
 Updated: 05/03/2021 07:41 AM
 
-%%174749874start%%
+
 #### Extras:
 
-%%174749874end%%
+
 
 
 

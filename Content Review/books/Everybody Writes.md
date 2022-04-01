@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/41ZDtvtLunL._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1214105
 
-%%1214105topstart%%
+
 #### Extras:
 
-%%1214105topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlights URL: https://readwise.io/bookreview/1214105
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507106start%%
+
 #### Extras:
 
-%%35507106end%%
+
 
 
 
@@ -41,10 +41,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507105start%%
+
 #### Extras:
 
-%%35507105end%%
+
 
 
 
@@ -57,10 +57,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507104start%%
+
 #### Extras:
 
-%%35507104end%%
+
 
 
 
@@ -73,10 +73,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507103start%%
+
 #### Extras:
 
-%%35507103end%%
+
 
 
 
@@ -89,10 +89,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507102start%%
+
 #### Extras:
 
-%%35507102end%%
+
 
 
 
@@ -105,10 +105,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507101start%%
+
 #### Extras:
 
-%%35507101end%%
+
 
 
 
@@ -121,10 +121,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507100start%%
+
 #### Extras:
 
-%%35507100end%%
+
 
 
 
@@ -137,10 +137,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507099start%%
+
 #### Extras:
 
-%%35507099end%%
+
 
 
 
@@ -153,10 +153,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507098start%%
+
 #### Extras:
 
-%%35507098end%%
+
 
 
 
@@ -169,10 +169,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507097start%%
+
 #### Extras:
 
-%%35507097end%%
+
 
 
 
@@ -185,10 +185,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507096start%%
+
 #### Extras:
 
-%%35507096end%%
+
 
 
 
@@ -201,10 +201,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507095start%%
+
 #### Extras:
 
-%%35507095end%%
+
 
 
 
@@ -217,10 +217,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507094start%%
+
 #### Extras:
 
-%%35507094end%%
+
 
 
 
@@ -233,10 +233,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507093start%%
+
 #### Extras:
 
-%%35507093end%%
+
 
 
 
@@ -250,10 +250,10 @@ Comment: 1) Goal. What's your business goal? What are you trying to achieve? Any
 Highlighted: 01/31/2017 08:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507092start%%
+
 #### Extras:
 
-%%35507092end%%
+
 
 
 

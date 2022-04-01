@@ -7,11 +7,11 @@ Updated: 02/08/2021 08:26 AM
 Highlights URL: https://readwise.io/bookreview/7570127
 SourceUrl: https://notes.andymatuschak.org/zVFGpprS64TzmKGNzGxq9FiCDnAnCPwRU5T
 
-%%7570127topstart%%
+
 #### Extras:
 **morning routine**
 
-%%7570127topend%%
+
  
 -----
  ## Highlights:
@@ -23,10 +23,10 @@ SourceUrl: https://notes.andymatuschak.org/zVFGpprS64TzmKGNzGxq9FiCDnAnCPwRU5T
 Highlighted: 02/08/2021 08:26 AM
 Updated: 02/08/2021 08:26 AM
 
-%%143055642start%%
+
 #### Extras:
 
-%%143055642end%%
+
 
 
 
@@ -43,10 +43,10 @@ Comment: focus attention on thte primary creative projects and ask these prompts
 Highlighted: 02/05/2021 11:04 PM
 Updated: 02/05/2021 11:04 PM
 
-%%141871532start%%
+
 #### Extras:
 
-%%141871532end%%
+
 
 ------
 
@@ -58,10 +58,10 @@ Comment: The way he gets such a full online notebook is that he works at it. He 
 Highlighted: 02/05/2021 11:02 PM
 Updated: 02/05/2021 11:03 PM
 
-%%141871478start%%
+
 #### Extras:
 
-%%141871478end%%
+
 
 ------
 

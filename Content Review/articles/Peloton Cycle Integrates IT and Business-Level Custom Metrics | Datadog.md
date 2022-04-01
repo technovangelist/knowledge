@@ -7,10 +7,10 @@ Updated: 09/23/2021 05:05 PM
 Highlights URL: https://readwise.io/bookreview/11083730
 SourceUrl: https://www.datadoghq.com/blog/peloton-cycle-integrates-it-business-custom-metrics/
 
-%%11083730topstart%%
+
 #### Extras:
 
-%%11083730topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://www.datadoghq.com/blog/peloton-cycle-integrates-it-business-c
 Highlighted: 09/23/2021 02:18 PM
 Updated: 09/23/2021 02:18 PM
 
-%%230404475start%%
+
 #### Extras:
 
-%%230404475end%%
+
 
 ------
 
@@ -37,10 +37,10 @@ Updated: 09/23/2021 02:18 PM
 Highlighted: 09/23/2021 02:18 PM
 Updated: 09/23/2021 02:18 PM
 
-%%230404494start%%
+
 #### Extras:
 
-%%230404494end%%
+
 
 ------
 
@@ -51,10 +51,10 @@ Updated: 09/23/2021 02:18 PM
 Highlighted: 09/23/2021 02:18 PM
 Updated: 09/23/2021 02:18 PM
 
-%%230404521start%%
+
 #### Extras:
 
-%%230404521end%%
+
 
 ------
 
@@ -65,10 +65,10 @@ Updated: 09/23/2021 02:18 PM
 Highlighted: 09/23/2021 02:19 PM
 Updated: 09/23/2021 02:19 PM
 
-%%230404527start%%
+
 #### Extras:
 
-%%230404527end%%
+
 
 ------
 
@@ -79,10 +79,10 @@ Updated: 09/23/2021 02:19 PM
 Highlighted: 09/23/2021 05:05 PM
 Updated: 09/23/2021 05:05 PM
 
-%%230437251start%%
+
 #### Extras:
 
-%%230437251end%%
+
 
 
 
@@ -95,10 +95,10 @@ Updated: 09/23/2021 05:05 PM
 Highlighted: 09/23/2021 02:20 PM
 Updated: 09/23/2021 02:20 PM
 
-%%230404615start%%
+
 #### Extras:
 
-%%230404615end%%
+
 
 ------
 

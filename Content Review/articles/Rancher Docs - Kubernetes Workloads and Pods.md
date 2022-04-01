@@ -7,10 +7,10 @@ Updated: 02/02/2021 12:52 PM
 Highlights URL: https://readwise.io/bookreview/7505024
 SourceUrl: https://rancher.com/docs/rancher/v2.x/en/k8s-in-rancher/workloads/
 
-%%7505024topstart%%
+
 #### Extras:
 **kubernetes**
-%%7505024topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://rancher.com/docs/rancher/v2.x/en/k8s-in-rancher/workloads/
 Highlighted: 02/02/2021 12:52 PM
 Updated: 02/02/2021 12:52 PM
 
-%%140460503start%%
+
 #### Extras:
 
-%%140460503end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 02/02/2021 12:52 PM
 Highlighted: 02/02/2021 12:52 PM
 Updated: 02/02/2021 12:52 PM
 
-%%140460502start%%
+
 #### Extras:
 [desired state](/knowledge/desired state)
-%%140460502end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 02/02/2021 12:52 PM
 Highlighted: 02/02/2021 12:52 PM
 Updated: 02/02/2021 12:52 PM
 
-%%140460500start%%
+
 #### Extras:
 **daemonset**
-%%140460500end%%
+
 
 
 
@@ -72,10 +72,10 @@ Updated: 02/02/2021 12:52 PM
 Highlighted: 02/02/2021 12:52 PM
 Updated: 02/02/2021 12:52 PM
 
-%%140460499start%%
+
 #### Extras:
 **statefulsets**
-%%140460499end%%
+
 
 
 
@@ -88,10 +88,10 @@ Updated: 02/02/2021 12:52 PM
 Highlighted: 02/02/2021 12:51 PM
 Updated: 02/02/2021 12:52 PM
 
-%%140460497start%%
+
 #### Extras:
 **deployments**
-%%140460497end%%
+
 
 
 

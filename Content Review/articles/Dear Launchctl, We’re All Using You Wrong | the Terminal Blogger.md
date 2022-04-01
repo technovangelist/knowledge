@@ -7,10 +7,10 @@ Updated: 02/11/2021 10:28 AM
 Highlights URL: https://readwise.io/bookreview/7676065
 SourceUrl: https://joelsenders.wordpress.com/2019/03/14/dear-launchctl-were-all-using-you-wrong/
 
-%%7676065topstart%%
+
 #### Extras:
 **launchd****launchctl****launchagent****bootstrap****Joel Senders**
-%%7676065topend%%
+
  
 -----
  ## Highlights:
@@ -23,7 +23,7 @@ Comment: huh? launchctl load and unload are old commands and will some day becom
 Highlighted: 02/11/2021 10:27 AM
 Updated: 02/11/2021 10:28 AM
 
-%%144342983start%%
+
 #### Extras:
 the right new way to launch is 
 ```
@@ -37,7 +37,7 @@ With the command launchctl bootstrap. load and unload are deprecated
 
 
 
-%%144342983end%%
+
 
 ------
 

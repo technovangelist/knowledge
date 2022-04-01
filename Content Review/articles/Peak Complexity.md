@@ -6,10 +6,10 @@ Updated: 03/18/2020 09:01 AM
 Highlights URL: https://readwise.io/bookreview/1562225
 SourceUrl: https://sirupsen.com/peak-complexity/
 
-%%1562225topstart%%
+
 #### Extras:
 **Simon Hørup Eskildsen****shopify**
-%%1562225topend%%
+
 
 
  
@@ -23,10 +23,10 @@ SourceUrl: https://sirupsen.com/peak-complexity/
 Highlighted: 03/07/2020 04:47 AM
 Updated: 03/16/2020 08:05 PM
 
-%%43507557start%%
+
 #### Extras:
 
-%%43507557end%%
+
 
 
 
@@ -39,10 +39,10 @@ Updated: 03/16/2020 08:05 PM
 Highlighted: 03/07/2020 04:46 AM
 Updated: 03/16/2020 08:05 PM
 
-%%43507556start%%
+
 #### Extras:
 **complexity budget**
-%%43507556end%%
+
 
 
 
@@ -55,10 +55,10 @@ Updated: 03/16/2020 08:05 PM
 Highlighted: 03/07/2020 04:45 AM
 Updated: 03/16/2020 08:05 PM
 
-%%43507555start%%
+
 #### Extras:
 
-%%43507555end%%
+
 
 
 
@@ -72,10 +72,10 @@ Comment: You have to make things a lot worse before you can start to make them b
 Highlighted: 03/07/2020 04:35 AM
 Updated: 03/16/2020 08:05 PM
 
-%%43507554start%%
+
 #### Extras:
 
-%%43507554end%%
+
 
 
 
@@ -88,10 +88,10 @@ Updated: 03/16/2020 08:05 PM
 Highlighted: 03/07/2020 04:35 AM
 Updated: 03/16/2020 08:05 PM
 
-%%43507553start%%
+
 #### Extras:
 
-%%43507553end%%
+
 
 
 

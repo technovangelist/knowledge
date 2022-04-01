@@ -7,10 +7,10 @@ Updated: 03/04/2021 06:44 PM
 Highlights URL: https://readwise.io/bookreview/8094661
 SourceUrl: https://www.replex.io/blog/kubernetes-in-production-best-practices-for-cluster-autoscaler-hpa-and-vpa
 
-%%8094661topstart%%
+
 #### Extras:
 
-%%8094661topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://www.replex.io/blog/kubernetes-in-production-best-practices-fo
 Highlighted: 03/04/2021 06:39 PM
 Updated: 03/04/2021 06:39 PM
 
-%%153387904start%%
+
 #### Extras:
 
-%%153387904end%%
+
 
 ------
 
@@ -36,10 +36,10 @@ Updated: 03/04/2021 06:39 PM
 Highlighted: 03/04/2021 06:40 PM
 Updated: 03/04/2021 06:40 PM
 
-%%153387935start%%
+
 #### Extras:
 
-%%153387935end%%
+
 
 ------
 
@@ -50,10 +50,10 @@ Updated: 03/04/2021 06:40 PM
 Highlighted: 03/04/2021 06:41 PM
 Updated: 03/04/2021 06:41 PM
 
-%%153388001start%%
+
 #### Extras:
 
-%%153388001end%%
+
 
 ------
 
@@ -64,10 +64,10 @@ Updated: 03/04/2021 06:41 PM
 Highlighted: 03/04/2021 06:41 PM
 Updated: 03/04/2021 06:41 PM
 
-%%153388092start%%
+
 #### Extras:
 
-%%153388092end%%
+
 
 ------
 
@@ -78,10 +78,10 @@ Updated: 03/04/2021 06:41 PM
 Highlighted: 03/04/2021 06:41 PM
 Updated: 03/04/2021 06:41 PM
 
-%%153388099start%%
+
 #### Extras:
 
-%%153388099end%%
+
 
 ------
 
@@ -92,10 +92,10 @@ Updated: 03/04/2021 06:41 PM
 Highlighted: 03/04/2021 06:42 PM
 Updated: 03/04/2021 06:42 PM
 
-%%153388112start%%
+
 #### Extras:
 
-%%153388112end%%
+
 
 ------
 
@@ -106,10 +106,10 @@ Updated: 03/04/2021 06:42 PM
 Highlighted: 03/04/2021 06:42 PM
 Updated: 03/04/2021 06:42 PM
 
-%%153388114start%%
+
 #### Extras:
 
-%%153388114end%%
+
 
 ------
 
@@ -120,10 +120,10 @@ Updated: 03/04/2021 06:42 PM
 Highlighted: 03/04/2021 06:43 PM
 Updated: 03/04/2021 06:43 PM
 
-%%153388156start%%
+
 #### Extras:
 
-%%153388156end%%
+
 
 ------
 
@@ -134,10 +134,10 @@ Updated: 03/04/2021 06:43 PM
 Highlighted: 03/04/2021 06:43 PM
 Updated: 03/04/2021 06:43 PM
 
-%%153388219start%%
+
 #### Extras:
 
-%%153388219end%%
+
 
 ------
 
@@ -148,10 +148,10 @@ Updated: 03/04/2021 06:43 PM
 Highlighted: 03/04/2021 06:43 PM
 Updated: 03/04/2021 06:43 PM
 
-%%153388233start%%
+
 #### Extras:
 
-%%153388233end%%
+
 
 ------
 
@@ -162,10 +162,10 @@ Updated: 03/04/2021 06:43 PM
 Highlighted: 03/04/2021 06:44 PM
 Updated: 03/04/2021 06:44 PM
 
-%%153388255start%%
+
 #### Extras:
 
-%%153388255end%%
+
 
 ------
 

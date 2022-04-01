@@ -7,10 +7,10 @@ Updated: 02/08/2021 10:47 PM
 Highlights URL: https://readwise.io/bookreview/7630583
 SourceUrl: https://en.wikipedia.org/wiki/Richard_de_Crespigny
 
-%%7630583topstart%%
+
 #### Extras:
 **Richard de Crespigny****Qantas****Changi Airport**
-%%7630583topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://en.wikipedia.org/wiki/Richard_de_Crespigny
 Highlighted: 02/08/2021 10:47 PM
 Updated: 02/08/2021 10:47 PM
 
-%%143317702start%%
+
 #### Extras:
 
-%%143317702end%%
+
 
 
 

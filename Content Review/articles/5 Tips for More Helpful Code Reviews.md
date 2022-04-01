@@ -7,10 +7,10 @@ Updated: 01/06/2020 09:31 AM
 Highlights URL: https://readwise.io/bookreview/1220344
 SourceUrl: https://thoughtbot.com/blog/five-tips-for-more-helpful-code-reviews
 
-%%1220344topstart%%
+
 #### Extras:
 **code review**
-%%1220344topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://thoughtbot.com/blog/five-tips-for-more-helpful-code-reviews
 Highlighted: 01/06/2020 09:28 AM
 Updated: 01/06/2020 09:31 AM
 
-%%35608833start%%
+
 #### Extras:
 
-%%35608833end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 01/06/2020 09:31 AM
 Highlighted: 01/06/2020 09:26 AM
 Updated: 01/06/2020 09:31 AM
 
-%%35608832start%%
+
 #### Extras:
 
-%%35608832end%%
+
 
 
 
@@ -57,10 +57,10 @@ Updated: 01/06/2020 09:31 AM
 Highlighted: 01/06/2020 09:25 AM
 Updated: 01/06/2020 09:31 AM
 
-%%35608831start%%
+
 #### Extras:
 
-%%35608831end%%
+
 
 
 

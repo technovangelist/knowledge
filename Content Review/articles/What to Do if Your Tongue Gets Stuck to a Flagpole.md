@@ -7,10 +7,10 @@ Updated: 12/30/2021 05:51 PM
 Highlights URL: https://readwise.io/bookreview/12536497
 SourceUrl: https://www.inoreader.com/article/3a9c6e7afd5f8181-what-to-do-if-your-tongue-gets-stuck-to-a-flagpole
 
-%%12536497topstart%%
+
 #### Extras:
 
-%%12536497topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.inoreader.com/article/3a9c6e7afd5f8181-what-to-do-if-your
 Highlighted: 12/30/2021 05:51 PM
 Updated: 12/30/2021 05:51 PM
 
-%%264409476start%%
+
 #### Extras:
 
-%%264409476end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 12/30/2021 05:51 PM
 Highlighted: 12/30/2021 05:51 PM
 Updated: 12/30/2021 05:51 PM
 
-%%264409492start%%
+
 #### Extras:
 
-%%264409492end%%
+
 
 
 

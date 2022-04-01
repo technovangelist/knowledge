@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/51mjYI8M9sL._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1214116
 
-%%1214116topstart%%
+
 #### Extras:
 
-%%1214116topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlights URL: https://readwise.io/bookreview/1214116
 Highlighted: 08/06/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507251start%%
+
 #### Extras:
 
-%%35507251end%%
+
 
 
 
@@ -41,10 +41,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 08/06/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507250start%%
+
 #### Extras:
 
-%%35507250end%%
+
 
 
 
@@ -57,10 +57,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 08/06/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507249start%%
+
 #### Extras:
 
-%%35507249end%%
+
 
 
 
@@ -74,10 +74,10 @@ Comment: regarding using gloves on a space walk ^rw35507248comment
 Highlighted: 08/06/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507248start%%
+
 #### Extras:
 
-%%35507248end%%
+
 
 
 
@@ -90,10 +90,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 08/06/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507247start%%
+
 #### Extras:
 
-%%35507247end%%
+
 
 
 
@@ -106,10 +106,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 08/06/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507246start%%
+
 #### Extras:
 
-%%35507246end%%
+
 
 
 
@@ -123,10 +123,10 @@ Comment: wierd things that happen in space ^rw35507245comment
 Highlighted: 08/06/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507245start%%
+
 #### Extras:
 
-%%35507245end%%
+
 
 
 
@@ -139,10 +139,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 08/06/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507244start%%
+
 #### Extras:
 
-%%35507244end%%
+
 
 
 

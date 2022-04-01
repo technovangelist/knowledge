@@ -7,10 +7,10 @@ Updated: 01/15/2021 10:34 PM
 Highlights URL: https://readwise.io/bookreview/7188868
 SourceUrl: https://nesslabs.com/metacognition
 
-%%7188868topstart%%
+
 #### Extras:
 [Anne-Laure Le Cunff](/knowledge/Other Notes/Anne-Laure Le Cunff)**metacognition**
-%%7188868topend%%
+
 
 
  
@@ -26,10 +26,10 @@ Metacognitive experiences. The thoughts and feelings you have while studying and
 Highlighted: 01/14/2021 10:43 AM
 Updated: 01/15/2021 10:34 PM
 
-%%132623642start%%
+
 #### Extras:
 
-%%132623642end%%
+
 
 
 
@@ -43,10 +43,10 @@ Comment: while tempting to read everything on a topic up front, you hit a barrie
 Highlighted: 01/14/2021 10:41 AM
 Updated: 01/15/2021 10:34 PM
 
-%%132623641start%%
+
 #### Extras:
 
-%%132623641end%%
+
 
 
 

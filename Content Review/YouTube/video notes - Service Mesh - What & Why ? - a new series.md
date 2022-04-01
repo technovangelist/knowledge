@@ -6,11 +6,11 @@ Title: Service Mesh: What & Why ? - a new series
 Category: YouTube
 Published: 09/30/2020 02:29 AM
  ^ytrVNPnHeGYBEabout
-%%rVNPnHeGYBEtopstart%%
+
 #### Extras:
 **That DevOps Guy**
 
-%%rVNPnHeGYBEtopend%%
+
 
 -----
 ## Highlights:
@@ -18,10 +18,10 @@ Published: 09/30/2020 02:29 AM
 Timecode: [0:35](https://www.youtube.com/watch?v=rVNPnHeGYBE&list=PLHq1uqvAteVsmxHpGsMjTOROn3i99lzTA&index=1&t=35) ^ytrVNPnHeGYBE35t
 
 Comment: ==retry logic handles what happens when service 1 cannot hit service 2== ^ytrVNPnHeGYBE35c
-%%35start%%
+
 #### Extras:
 
-%%35end%%
+
 
 
 ## Video Description on YouTube:

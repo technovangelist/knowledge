@@ -7,10 +7,10 @@ Updated: 02/11/2021 02:00 PM
 Highlights URL: https://readwise.io/bookreview/7678511
 SourceUrl: https://www.datadoghq.com/about/latest-news/press-releases/mendix-selects-datadog-for-monitoring-multi-cloud-microservices-environment/
 
-%%7678511topstart%%
+
 #### Extras:
 **mendix****acquisition**
-%%7678511topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://www.datadoghq.com/about/latest-news/press-releases/mendix-sel
 Highlighted: 02/11/2021 02:00 PM
 Updated: 02/11/2021 02:00 PM
 
-%%144390567start%%
+
 #### Extras:
 
-%%144390567end%%
+
 
 
 

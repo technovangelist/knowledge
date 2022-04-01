@@ -7,10 +7,10 @@ Updated: 02/01/2021 05:00 PM
 Highlights URL: https://readwise.io/bookreview/1460678
 SourceUrl: http://robertheaton.com/2018/12/06/a-blogging-style-guide/
 
-%%1460678topstart%%
+
 #### Extras:
 **blogging****Robert Heaton**
-%%1460678topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: http://robertheaton.com/2018/12/06/a-blogging-style-guide/
 Highlighted: 02/28/2020 02:31 PM
 Updated: 02/01/2021 05:00 PM
 
-%%41448999start%%
+
 #### Extras:
 
-%%41448999end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 02/01/2021 05:00 PM
 Highlighted: 02/28/2020 02:30 PM
 Updated: 02/01/2021 05:00 PM
 
-%%41448998start%%
+
 #### Extras:
 
-%%41448998end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 02/01/2021 05:00 PM
 Highlighted: 02/28/2020 02:30 PM
 Updated: 02/01/2021 05:00 PM
 
-%%41448997start%%
+
 #### Extras:
 
-%%41448997end%%
+
 
 
 
@@ -72,10 +72,10 @@ Updated: 02/01/2021 05:00 PM
 Highlighted: 02/28/2020 02:30 PM
 Updated: 02/01/2021 05:00 PM
 
-%%41448996start%%
+
 #### Extras:
 
-%%41448996end%%
+
 
 
 
@@ -88,10 +88,10 @@ Updated: 02/01/2021 05:00 PM
 Highlighted: 02/28/2020 02:29 PM
 Updated: 02/01/2021 05:00 PM
 
-%%41448995start%%
+
 #### Extras:
 
-%%41448995end%%
+
 
 
 
@@ -104,10 +104,10 @@ Updated: 02/01/2021 05:00 PM
 Highlighted: 02/28/2020 02:29 PM
 Updated: 02/01/2021 05:00 PM
 
-%%41448994start%%
+
 #### Extras:
 
-%%41448994end%%
+
 
 
 
@@ -120,10 +120,10 @@ Updated: 02/01/2021 05:00 PM
 Highlighted: 02/28/2020 02:28 PM
 Updated: 02/01/2021 05:00 PM
 
-%%41448993start%%
+
 #### Extras:
 
-%%41448993end%%
+
 
 
 
@@ -136,10 +136,10 @@ Updated: 02/01/2021 05:00 PM
 Highlighted: 02/28/2020 02:28 PM
 Updated: 02/01/2021 05:00 PM
 
-%%41448992start%%
+
 #### Extras:
 
-%%41448992end%%
+
 
 
 
@@ -152,10 +152,10 @@ Updated: 02/01/2021 05:00 PM
 Highlighted: 02/28/2020 02:04 PM
 Updated: 02/01/2021 05:00 PM
 
-%%41448990start%%
+
 #### Extras:
 
-%%41448990end%%
+
 
 
 
@@ -170,10 +170,10 @@ If you need a quick name for a generic fictional character, consider using one f
 Highlighted: 02/28/2020 02:04 PM
 Updated: 02/01/2021 05:00 PM
 
-%%41448989start%%
+
 #### Extras:
 
-%%41448989end%%
+
 
 
 
@@ -186,10 +186,10 @@ Updated: 02/01/2021 05:00 PM
 Highlighted: 02/28/2020 01:45 PM
 Updated: 02/01/2021 05:00 PM
 
-%%41448987start%%
+
 #### Extras:
 
-%%41448987end%%
+
 
 
 
@@ -203,10 +203,10 @@ Comment: I think this is a problem I tend to have. I usually start with why i wr
 Highlighted: 01/15/2021 10:47 PM
 Updated: 02/01/2021 05:00 PM
 
-%%41448986start%%
+
 #### Extras:
 
-%%41448986end%%
+
 
 
 

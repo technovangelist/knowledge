@@ -7,10 +7,10 @@ Updated: 01/28/2021 02:15 PM
 Highlights URL: https://readwise.io/bookreview/7382331
 SourceUrl: https://hbr.org/2014/10/why-your-brain-loves-good-storytelling
 
-%%7382331topstart%%
+
 #### Extras:
 **Paul J. Zak****story**
-%%7382331topend%%
+
 
 
  
@@ -24,11 +24,11 @@ SourceUrl: https://hbr.org/2014/10/why-your-brain-loves-good-storytelling
 Highlighted: 01/28/2021 02:15 PM
 Updated: 01/28/2021 02:15 PM
 
-%%137383329start%%
+
 #### Extras:
 The Datadog founding myth is a bit lame. how important is the founding myth. 
 - [ ] I need to review what the founding myth is at **infrahq**
-%%137383329end%%
+
 
 
 
@@ -41,10 +41,10 @@ The Datadog founding myth is a bit lame. how important is the founding myth.
 Highlighted: 01/28/2021 02:15 PM
 Updated: 01/28/2021 02:15 PM
 
-%%137383303start%%
+
 #### Extras:
 **Joseph Campbell** **story arc**
-%%137383303end%%
+
 
 
 
@@ -58,10 +58,10 @@ Comment: hearing a story with emotional content that grabs me, means that I am m
 Highlighted: 01/28/2021 02:12 PM
 Updated: 01/28/2021 02:13 PM
 
-%%137382924start%%
+
 #### Extras:
 
-%%137382924end%%
+
 
 
 
@@ -75,10 +75,10 @@ Comment: a story must first sustain attention by developing tension. If it grabs
 Highlighted: 01/28/2021 02:10 PM
 Updated: 01/28/2021 02:11 PM
 
-%%137382598start%%
+
 #### Extras:
 
-%%137382598end%%
+
 
 
 
@@ -92,10 +92,10 @@ Comment: The study looked at if a story told in a video would be as effective as
 Highlighted: 01/28/2021 02:07 PM
 Updated: 01/28/2021 02:08 PM
 
-%%137381470start%%
+
 #### Extras:
 
-%%137381470end%%
+
 
 
 
@@ -108,10 +108,10 @@ Updated: 01/28/2021 02:08 PM
 Highlighted: 01/28/2021 02:06 PM
 Updated: 01/28/2021 02:06 PM
 
-%%137378822start%%
+
 #### Extras:
 
-%%137378822end%%
+
 
 
 
@@ -124,10 +124,10 @@ Updated: 01/28/2021 02:06 PM
 Highlighted: 01/28/2021 02:05 PM
 Updated: 01/28/2021 02:05 PM
 
-%%137378498start%%
+
 #### Extras:
 
-%%137378498end%%
+
 
 
 
@@ -141,10 +141,10 @@ Comment: The author has wired up viewers brains as they watch a James Bond movie
 Highlighted: 01/28/2021 02:02 PM
 Updated: 01/28/2021 02:04 PM
 
-%%137368696start%%
+
 #### Extras:
 
-%%137368696end%%
+
 
 
 

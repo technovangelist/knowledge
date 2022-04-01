@@ -7,10 +7,10 @@ Updated: 02/03/2021 10:14 AM
 Highlights URL: https://readwise.io/bookreview/7522893
 SourceUrl: https://www.datadoghq.com/blog/engineering/secure-publication-of-datadog-agent-integrations-with-tuf-and-in-toto/
 
-%%7522893topstart%%
+
 #### Extras:
 
-%%7522893topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Comment: [](https://www.youtube.com/watch?v=XAlvd4QXngs&feature=emb_imp_woyt) ^r
 Highlighted: 02/03/2021 10:13 AM
 Updated: 02/03/2021 10:14 AM
 
-%%140913207start%%
+
 #### Extras:
 
-%%140913207end%%
+
 
 
 
@@ -42,10 +42,10 @@ Comment: how to protect the integrity of the build of the datadog agent ^rw14091
 Highlighted: 02/03/2021 10:11 AM
 Updated: 02/03/2021 10:11 AM
 
-%%140912712start%%
+
 #### Extras:
 
-%%140912712end%%
+
 
 
 

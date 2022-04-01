@@ -7,10 +7,10 @@ Updated: 05/25/2021 08:18 AM
 Highlights URL: https://readwise.io/bookreview/7503080
 SourceUrl: https://en.wikipedia.org/wiki/Understanding_Comics
 
-%%7503080topstart%%
+
 #### Extras:
 **comics**
-%%7503080topend%%
+
  
 -----
  ## Highlights:
@@ -23,10 +23,10 @@ Comment: looks like a neat book to get up to speed on drawing comics ^rw14040655
 Highlighted: 02/02/2021 11:00 AM
 Updated: 02/02/2021 11:00 AM
 
-%%140406559start%%
+
 #### Extras:
 
-%%140406559end%%
+
 
 ------
 
@@ -38,10 +38,10 @@ Comment: looks like a neat book to get up to speed on drawing comics ^rw18345407
 Highlighted: 02/02/2021 11:00 AM
 Updated: 05/25/2021 08:18 AM
 
-%%183454074start%%
+
 #### Extras:
 
-%%183454074end%%
+
 
 
 

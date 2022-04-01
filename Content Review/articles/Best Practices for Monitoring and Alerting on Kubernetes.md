@@ -7,10 +7,10 @@ Updated: 03/03/2021 11:12 AM
 Highlights URL: https://readwise.io/bookreview/8078434
 SourceUrl: https://rancher.com/learning-paths/best-practices-for-monitoring-and-alerting-on-kubernetes/
 
-%%8078434topstart%%
+
 #### Extras:
 
-%%8078434topend%%
+
  
 -----
  ## Highlights:
@@ -23,10 +23,10 @@ Comment: https:&#x2F;&#x2F;rancher.com&#x2F;img&#x2F;learning-paths&#x2F;03-best
 Highlighted: 03/03/2021 11:09 AM
 Updated: 03/03/2021 11:10 AM
 
-%%152994464start%%
+
 #### Extras:
 ![](https://rancher.com/img/learning-paths/03-best-practices-for-monitoring-and-alerting-on-kubernetes/media/traditional-vs-container-monitoring-layers-orig.png)
-%%152994464end%%
+
 
 ------
 
@@ -37,10 +37,10 @@ Updated: 03/03/2021 11:10 AM
 Highlighted: 03/03/2021 11:11 AM
 Updated: 03/03/2021 11:11 AM
 
-%%152994862start%%
+
 #### Extras:
 
-%%152994862end%%
+
 
 ------
 
@@ -51,10 +51,10 @@ Updated: 03/03/2021 11:11 AM
 Highlighted: 03/03/2021 11:12 AM
 Updated: 03/03/2021 11:12 AM
 
-%%152994871start%%
+
 #### Extras:
 
-%%152994871end%%
+
 
 ------
 
@@ -65,10 +65,10 @@ Updated: 03/03/2021 11:12 AM
 Highlighted: 03/03/2021 11:12 AM
 Updated: 03/03/2021 11:12 AM
 
-%%152994874start%%
+
 #### Extras:
 
-%%152994874end%%
+
 
 ------
 

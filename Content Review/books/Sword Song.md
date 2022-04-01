@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/51GfH25lbSL._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1214097
 
-%%1214097topstart%%
+
 #### Extras:
 **Bernard Cornwell**
-%%1214097topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlights URL: https://readwise.io/bookreview/1214097
 Highlighted: 12/24/2017 08:56 PM
 Updated: 01/05/2020 12:59 PM
 
-%%35507031start%%
+
 #### Extras:
 
-%%35507031end%%
+
 
 
 
@@ -42,10 +42,10 @@ Comment: riveting  interesting useb of the word ^rw35507030comment
 Highlighted: 12/24/2017 08:56 PM
 Updated: 01/05/2020 12:59 PM
 
-%%35507030start%%
+
 #### Extras:
 
-%%35507030end%%
+
 
 
 
@@ -59,10 +59,10 @@ Comment: sothe currnt year is 885  when did the first story begin ^rw35507029com
 Highlighted: 12/24/2017 08:56 PM
 Updated: 01/05/2020 12:59 PM
 
-%%35507029start%%
+
 #### Extras:
 
-%%35507029end%%
+
 
 
 
@@ -75,10 +75,10 @@ Updated: 01/05/2020 12:59 PM
 Highlighted: 12/24/2017 08:56 PM
 Updated: 01/05/2020 12:59 PM
 
-%%35507028start%%
+
 #### Extras:
 
-%%35507028end%%
+
 
 
 
@@ -91,10 +91,10 @@ Updated: 01/05/2020 12:59 PM
 Highlighted: 12/24/2017 08:56 PM
 Updated: 01/05/2020 12:59 PM
 
-%%35507027start%%
+
 #### Extras:
 
-%%35507027end%%
+
 
 
 

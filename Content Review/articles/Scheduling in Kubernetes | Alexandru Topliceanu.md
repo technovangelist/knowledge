@@ -7,10 +7,10 @@ Updated: 01/25/2021 10:08 PM
 Highlights URL: https://readwise.io/bookreview/7341268
 SourceUrl: http://alexandrutopliceanu.ro/post/scheduling-in-kubernetes/
 
-%%7341268topstart%%
+
 #### Extras:
 **Alexandru Topliceanu****kubernetes**
-%%7341268topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Comment: I never fully understand taints. ^rw136366649comment
 Highlighted: 01/25/2021 10:08 PM
 Updated: 01/25/2021 10:08 PM
 
-%%136366649start%%
+
 #### Extras:
 **Kubernetes Taints**
-%%136366649end%%
+
 
 
 
@@ -42,10 +42,10 @@ Comment: K8s does a lot of things depending on who you are. But it's heart is as
 Highlighted: 01/25/2021 10:07 PM
 Updated: 01/25/2021 10:07 PM
 
-%%136365788start%%
+
 #### Extras:
 **scheduler**
-%%136365788end%%
+
 
 
 

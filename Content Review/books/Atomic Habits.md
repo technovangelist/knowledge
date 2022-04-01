@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/51Eqf-URhoL._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1214096
 
-%%1214096topstart%%
+
 #### Extras:
 flash card tags: atomichabits
-%%1214096topend%%
+
 
 
  
@@ -25,7 +25,7 @@ flash card tags: atomichabits
 Highlighted: 01/06/2020 08:56 PM
 Updated: 01/11/2020 00:16 AM
 
-%%36138877start%%
+
 #### Extras:
 
 Who said "Being poor is not having too little, it is wanting more"? #flashcard 
@@ -36,7 +36,7 @@ Seneca
 The Seneca tribe name has no connection to either of the Roman Senecas. Though its possible the anglicization of the name was influenced by the awareness of their names.
 
 **Seneca**
-%%36138877end%%
+
 
 
 
@@ -49,10 +49,10 @@ The Seneca tribe name has no connection to either of the Roman Senecas. Though i
 Highlighted: 01/06/2020 08:56 PM
 Updated: 01/11/2020 00:16 AM
 
-%%36138876start%%
+
 #### Extras:
 
-%%36138876end%%
+
 
 
 
@@ -65,7 +65,7 @@ Updated: 01/11/2020 00:16 AM
 Highlighted: 01/06/2020 08:56 PM
 Updated: 01/11/2020 00:16 AM
 
-%%36138875start%%
+
 #### Extras:
 
 
@@ -75,7 +75,7 @@ Improvement is not just about learning habits, it’s also about {fine-tuning th
 
 
 
-%%36138875end%%
+
 
 
 
@@ -90,10 +90,10 @@ Improvement is not just about learning habits, it’s also about {fine-tuning th
 Highlighted: 01/06/2020 08:56 PM
 Updated: 01/11/2020 00:16 AM
 
-%%36138874start%%
+
 #### Extras:
 
-%%36138874end%%
+
 
 
 
@@ -106,10 +106,10 @@ Updated: 01/11/2020 00:16 AM
 Highlighted: 01/06/2020 08:56 PM
 Updated: 01/11/2020 00:16 AM
 
-%%36138873start%%
+
 #### Extras:
 
-%%36138873end%%
+
 
 
 
@@ -122,7 +122,7 @@ Updated: 01/11/2020 00:16 AM
 Highlighted: 01/06/2020 08:56 PM
 Updated: 01/11/2020 00:16 AM
 
-%%36138872start%%
+
 #### Extras:
 
 Who wrote “Civilization advances by extending the number of operations we can perform without thinking about them.” #flashcard 
@@ -135,7 +135,7 @@ Alfred North Whitehead wrote “{Civilization} advances by extending the {number
 
 
 
-%%36138872end%%
+
 
 
 
@@ -148,10 +148,10 @@ Alfred North Whitehead wrote “{Civilization} advances by extending the {number
 Highlighted: 01/06/2020 08:56 PM
 Updated: 01/11/2020 00:16 AM
 
-%%36138871start%%
+
 #### Extras:
 
-%%36138871end%%
+
 
 
 
@@ -164,7 +164,7 @@ Updated: 01/11/2020 00:16 AM
 Highlighted: 01/06/2020 08:56 PM
 Updated: 01/11/2020 00:16 AM
 
-%%36138870start%%
+
 #### Extras:
 
 We pick up habits from the {people around us} 
@@ -172,7 +172,7 @@ We pick up habits from the {people around us}
 
 
 
-%%36138870end%%
+
 
 
 
@@ -185,10 +185,10 @@ We pick up habits from the {people around us}
 Highlighted: 01/06/2020 08:56 PM
 Updated: 01/11/2020 00:16 AM
 
-%%36138869start%%
+
 #### Extras:
 
-%%36138869end%%
+
 
 
 
@@ -201,10 +201,10 @@ Updated: 01/11/2020 00:16 AM
 Highlighted: 01/06/2020 08:56 PM
 Updated: 01/11/2020 00:16 AM
 
-%%36138868start%%
+
 #### Extras:
 
-%%36138868end%%
+
 
 
 
@@ -217,7 +217,7 @@ Updated: 01/11/2020 00:16 AM
 Highlighted: 01/06/2020 08:56 PM
 Updated: 01/11/2020 00:16 AM
 
-%%36138867start%%
+
 #### Extras:
 
 What is the habit stacking formula? #flashcard 
@@ -226,7 +226,7 @@ What is the habit stacking formula? #flashcard
 
 
 
-%%36138867end%%
+
 
 
 
@@ -239,10 +239,10 @@ What is the habit stacking formula? #flashcard
 Highlighted: 01/06/2020 08:56 PM
 Updated: 01/11/2020 00:16 AM
 
-%%36138866start%%
+
 #### Extras:
 
-%%36138866end%%
+
 
 
 
@@ -255,10 +255,10 @@ Updated: 01/11/2020 00:16 AM
 Highlighted: 01/06/2020 08:56 PM
 Updated: 01/11/2020 00:16 AM
 
-%%36138865start%%
+
 #### Extras:
 
-%%36138865end%%
+
 
 
 
@@ -271,10 +271,10 @@ Updated: 01/11/2020 00:16 AM
 Highlighted: 01/06/2020 08:56 PM
 Updated: 01/11/2020 00:16 AM
 
-%%36138864start%%
+
 #### Extras:
 
-%%36138864end%%
+
 
 
 
@@ -287,14 +287,14 @@ Updated: 01/11/2020 00:16 AM
 Highlighted: 01/06/2020 08:56 PM
 Updated: 01/11/2020 00:16 AM
 
-%%36138863start%%
+
 #### Extras:
 
 How to Break a Bad Habit Inversion of the 1st law (Cue): Make it {invisible}. Inversion of the 2nd law (Craving): Make it {unattractive}. Inversion of the 3rd law (Response): Make it {difficult}. Inversion of the 4th law (Reward): Make it {unsatisfying}.
 <!--ID: 1614665311924-->
 
 
-%%36138863end%%
+
 
 
 
@@ -307,7 +307,7 @@ How to Break a Bad Habit Inversion of the 1st law (Cue): Make it {invisible}. In
 Highlighted: 01/06/2020 08:56 PM
 Updated: 01/11/2020 00:16 AM
 
-%%36138862start%%
+
 #### Extras:
 
 How to Create a Good Habit The 1st law (Cue): Make it {obvious}. The 2nd law (Craving): Make it {attractive}. The 3rd law (Response): Make it {easy}. The 4th law (Reward): Make it {satisfying}.
@@ -315,7 +315,7 @@ How to Create a Good Habit The 1st law (Cue): Make it {obvious}. The 2nd law (Cr
 
 
 
-%%36138862end%%
+
 
 
 
@@ -328,10 +328,10 @@ How to Create a Good Habit The 1st law (Cue): Make it {obvious}. The 2nd law (Cr
 Highlighted: 01/06/2020 08:56 PM
 Updated: 01/11/2020 00:16 AM
 
-%%36138861start%%
+
 #### Extras:
 
-%%36138861end%%
+
 
 
 
@@ -344,10 +344,10 @@ Updated: 01/11/2020 00:16 AM
 Highlighted: 01/06/2020 08:56 PM
 Updated: 01/11/2020 00:16 AM
 
-%%36138860start%%
+
 #### Extras:
 
-%%36138860end%%
+
 
 
 
@@ -360,7 +360,7 @@ Updated: 01/11/2020 00:16 AM
 Highlighted: 01/06/2020 08:56 PM
 Updated: 01/11/2020 00:16 AM
 
-%%36138859start%%
+
 #### Extras:
 
 
@@ -368,7 +368,7 @@ You do not {rise} to the level of your {goals}. You {fall} to the level of your 
 <!--ID: 1614665311959-->
 
 
-%%36138859end%%
+
 
 
 
@@ -381,14 +381,14 @@ You do not {rise} to the level of your {goals}. You {fall} to the level of your 
 Highlighted: 01/06/2020 08:56 PM
 Updated: 01/11/2020 00:16 AM
 
-%%36138858start%%
+
 #### Extras:
 
 The purpose of setting goals is to {win the game}. The purpose of building systems is to {continue playing the game}.
 <!--ID: 1614665311973-->
 
 
-%%36138858end%%
+
 
 
 
@@ -401,10 +401,10 @@ The purpose of setting goals is to {win the game}. The purpose of building syste
 Highlighted: 01/06/2020 08:56 PM
 Updated: 01/11/2020 00:16 AM
 
-%%36138857start%%
+
 #### Extras:
 
-%%36138857end%%
+
 
 
 
@@ -417,11 +417,11 @@ Updated: 01/11/2020 00:16 AM
 Highlighted: 01/04/2020 08:56 PM
 Updated: 01/05/2020 04:15 PM
 
-%%35545286start%%
+
 #### Extras:
 give a man a fish vs teach a man to fish
 **teach a man to fish**
-%%35545286end%%
+
 
 
 
@@ -434,10 +434,10 @@ give a man a fish vs teach a man to fish
 Highlighted: 01/04/2020 08:56 PM
 Updated: 01/05/2020 04:15 PM
 
-%%35545285start%%
+
 #### Extras:
 
-%%35545285end%%
+
 
 
 
@@ -450,10 +450,10 @@ Updated: 01/05/2020 04:15 PM
 Highlighted: 01/04/2020 08:56 PM
 Updated: 01/05/2020 04:15 PM
 
-%%35545284start%%
+
 #### Extras:
 
-%%35545284end%%
+
 
 
 
@@ -466,10 +466,10 @@ Updated: 01/05/2020 04:15 PM
 Highlighted: 01/04/2020 08:56 PM
 Updated: 01/05/2020 04:15 PM
 
-%%35545283start%%
+
 #### Extras:
 
-%%35545283end%%
+
 
 
 
@@ -482,10 +482,10 @@ Updated: 01/05/2020 04:15 PM
 Highlighted: 01/04/2020 08:56 PM
 Updated: 01/05/2020 04:15 PM
 
-%%35545282start%%
+
 #### Extras:
 
-%%35545282end%%
+
 
 
 
@@ -498,10 +498,10 @@ Updated: 01/05/2020 04:15 PM
 Highlighted: 01/04/2020 08:56 PM
 Updated: 01/05/2020 04:15 PM
 
-%%35545281start%%
+
 #### Extras:
 
-%%35545281end%%
+
 
 
 
@@ -514,10 +514,10 @@ Updated: 01/05/2020 04:15 PM
 Highlighted: 01/04/2020 08:56 PM
 Updated: 01/05/2020 04:15 PM
 
-%%35545280start%%
+
 #### Extras:
 
-%%35545280end%%
+
 
 
 
@@ -530,13 +530,13 @@ Updated: 01/05/2020 04:15 PM
 Highlighted: 01/04/2020 08:56 PM
 Updated: 01/05/2020 04:15 PM
 
-%%35545279start%%
+
 #### Extras:
 
 there are no overnight successes.
 **overnight success**
 
-%%35545279end%%
+
 
 
 
@@ -549,14 +549,14 @@ there are no overnight successes.
 Highlighted: 01/04/2020 08:56 PM
 Updated: 01/05/2020 04:15 PM
 
-%%35545278start%%
+
 #### Extras:
 
 Your {outcomes} are a {lagging measure} of {your habits}.
 <!--ID: 1614665311987-->
 
 
-%%35545278end%%
+
 
 
 
@@ -569,10 +569,10 @@ Your {outcomes} are a {lagging measure} of {your habits}.
 Highlighted: 01/04/2020 08:56 PM
 Updated: 01/05/2020 12:59 PM
 
-%%35507026start%%
+
 #### Extras:
 
-%%35507026end%%
+
 
 
 

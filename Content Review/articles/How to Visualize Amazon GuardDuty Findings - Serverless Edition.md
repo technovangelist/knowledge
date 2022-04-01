@@ -6,10 +6,10 @@ Updated: 02/29/2020 06:34 AM
 Highlights URL: https://readwise.io/bookreview/1461486
 SourceUrl: https://aws.amazon.com/blogs/security/how-to-visualize-amazon-guardduty-findings-serverless-edition/
 
-%%1461486topstart%%
+
 #### Extras:
 **Amazon GuardDuty**
-%%1461486topend%%
+
 
 
  
@@ -23,10 +23,10 @@ SourceUrl: https://aws.amazon.com/blogs/security/how-to-visualize-amazon-guarddu
 Highlighted: 02/28/2020 08:33 PM
 Updated: 02/29/2020 06:34 AM
 
-%%41469848start%%
+
 #### Extras:
 
-%%41469848end%%
+
 
 
 

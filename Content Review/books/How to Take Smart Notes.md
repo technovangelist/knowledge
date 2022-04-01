@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/41iVa0x-P-L._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/7589779
 
-%%7589779topstart%%
+
 #### Extras:
 **Sonke Ahrens** **NiklasLuhmann**
-%%7589779topend%%
+
  
 -----
  ## Highlights:
@@ -24,10 +24,10 @@ Comment: Mary’s Hal said reading results in better thinking ^rw142362982commen
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142362982start%%
+
 #### Extras:
 **writing to think**
-%%142362982end%%
+
 
 ------
 
@@ -39,10 +39,10 @@ Comment: Mary’s Hal said reading results in better thinking (can&#39;t remembe
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142362981start%%
+
 #### Extras:
 
-%%142362981end%%
+
 
 ------
 
@@ -54,10 +54,10 @@ Comment: Ann Handley. Whereas that book focuses on the result I think this is on
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142362983start%%
+
 #### Extras:
 
-%%142362983end%%
+
 
 ------
 
@@ -68,12 +68,12 @@ Updated: 02/06/2021 09:02 PM
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142362984start%%
+
 #### Extras:
 
 we write to remember
 
-%%142362984end%%
+
 
 ------
 
@@ -84,10 +84,10 @@ we write to remember
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142362985start%%
+
 #### Extras:
 
-%%142362985end%%
+
 
 ------
 
@@ -98,10 +98,10 @@ Updated: 02/06/2021 09:02 PM
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142362987start%%
+
 #### Extras:
 
-%%142362987end%%
+
 
 ------
 
@@ -112,10 +112,10 @@ Updated: 02/06/2021 09:02 PM
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142362986start%%
+
 #### Extras:
 
-%%142362986end%%
+
 
 ------
 
@@ -127,10 +127,10 @@ Comment: Nobody is reviewing my notes so there isn’t the impetus to do it well
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142362989start%%
+
 #### Extras:
 
-%%142362989end%%
+
 
 ------
 
@@ -141,10 +141,10 @@ Updated: 02/06/2021 09:02 PM
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142362988start%%
+
 #### Extras:
 
-%%142362988end%%
+
 
 ------
 
@@ -155,10 +155,10 @@ Updated: 02/06/2021 09:02 PM
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142362990start%%
+
 #### Extras:
 
-%%142362990end%%
+
 
 ------
 
@@ -169,10 +169,10 @@ Updated: 02/06/2021 09:02 PM
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142362991start%%
+
 #### Extras:
 
-%%142362991end%%
+
 
 ------
 
@@ -183,10 +183,10 @@ Updated: 02/06/2021 09:02 PM
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142362992start%%
+
 #### Extras:
 
-%%142362992end%%
+
 
 ------
 
@@ -197,10 +197,10 @@ Updated: 02/06/2021 09:02 PM
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142362993start%%
+
 #### Extras:
 
-%%142362993end%%
+
 
 ------
 
@@ -211,10 +211,10 @@ Updated: 02/06/2021 09:02 PM
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142362994start%%
+
 #### Extras:
 
-%%142362994end%%
+
 
 ------
 
@@ -225,10 +225,10 @@ Updated: 02/06/2021 09:02 PM
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142362996start%%
+
 #### Extras:
 
-%%142362996end%%
+
 
 ------
 
@@ -239,11 +239,11 @@ Updated: 02/06/2021 09:02 PM
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142362995start%%
+
 #### Extras:
 **Csikszentmihalyi**
 
-%%142362995end%%
+
 
 ------
 
@@ -255,10 +255,10 @@ Comment: What does the cf mean here ^rw142362997comment
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142362997start%%
+
 #### Extras:
 
-%%142362997end%%
+
 
 ------
 
@@ -269,10 +269,10 @@ Updated: 02/06/2021 09:02 PM
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142362998start%%
+
 #### Extras:
 
-%%142362998end%%
+
 
 ------
 
@@ -283,10 +283,10 @@ Updated: 02/06/2021 09:02 PM
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142362999start%%
+
 #### Extras:
 
-%%142362999end%%
+
 
 ------
 
@@ -297,10 +297,10 @@ Updated: 02/06/2021 09:02 PM
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142363000start%%
+
 #### Extras:
 
-%%142363000end%%
+
 
 ------
 
@@ -311,10 +311,10 @@ Updated: 02/06/2021 09:02 PM
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142363001start%%
+
 #### Extras:
 
-%%142363001end%%
+
 
 ------
 
@@ -325,10 +325,10 @@ Updated: 02/06/2021 09:02 PM
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142363002start%%
+
 #### Extras:
 
-%%142363002end%%
+
 
 ------
 
@@ -339,10 +339,10 @@ Updated: 02/06/2021 09:02 PM
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142363003start%%
+
 #### Extras:
 
-%%142363003end%%
+
 
 ------
 
@@ -353,10 +353,10 @@ Updated: 02/06/2021 09:02 PM
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142363004start%%
+
 #### Extras:
 
-%%142363004end%%
+
 
 ------
 
@@ -368,10 +368,10 @@ Comment: I want to leverage the work into lots of deliverables but luhrman was a
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142363005start%%
+
 #### Extras:
 
-%%142363005end%%
+
 
 ------
 
@@ -383,10 +383,10 @@ Comment: He would have done more if he had the time.  ^rw142363006comment
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142363006start%%
+
 #### Extras:
 
-%%142363006end%%
+
 
 ------
 
@@ -397,10 +397,10 @@ Updated: 02/06/2021 09:02 PM
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142363007start%%
+
 #### Extras:
 
-%%142363007end%%
+
 
 ------
 
@@ -412,10 +412,10 @@ Comment: When i writen i need to research and work as i go   ^rw142363008comment
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142363008start%%
+
 #### Extras:
 
-%%142363008end%%
+
 
 ------
 
@@ -426,10 +426,10 @@ Updated: 02/06/2021 09:02 PM
 Highlighted: 02/05/2021 08:56 PM
 Updated: 02/06/2021 09:02 PM
 
-%%142363009start%%
+
 #### Extras:
 
-%%142363009end%%
+
 
 ------
 
@@ -440,10 +440,10 @@ Updated: 02/06/2021 09:02 PM
 Highlighted: 02/11/2021 08:56 PM
 Updated: 02/12/2021 07:48 AM
 
-%%144676660start%%
+
 #### Extras:
 
-%%144676660end%%
+
 
 ------
 
@@ -455,10 +455,10 @@ Comment: Writing is thinking ^rw151389234comment
 Highlighted: 02/26/2021 08:56 PM
 Updated: 02/26/2021 11:34 PM
 
-%%151389234start%%
+
 #### Extras:
 
-%%151389234end%%
+
 
 ------
 
@@ -469,10 +469,10 @@ Updated: 02/26/2021 11:34 PM
 Highlighted: 02/26/2021 08:56 PM
 Updated: 02/26/2021 11:34 PM
 
-%%151389235start%%
+
 #### Extras:
 
-%%151389235end%%
+
 
 ------
 
@@ -483,10 +483,10 @@ Updated: 02/26/2021 11:34 PM
 Highlighted: 02/26/2021 08:56 PM
 Updated: 02/26/2021 11:34 PM
 
-%%151389236start%%
+
 #### Extras:
 
-%%151389236end%%
+
 
 ------
 
@@ -497,10 +497,10 @@ Updated: 02/26/2021 11:34 PM
 Highlighted: 02/26/2021 08:56 PM
 Updated: 02/26/2021 11:34 PM
 
-%%151389237start%%
+
 #### Extras:
 
-%%151389237end%%
+
 
 ------
 
@@ -511,10 +511,10 @@ Updated: 02/26/2021 11:34 PM
 Highlighted: 02/26/2021 08:56 PM
 Updated: 02/26/2021 11:34 PM
 
-%%151389238start%%
+
 #### Extras:
 
-%%151389238end%%
+
 
 ------
 
@@ -526,10 +526,10 @@ Comment: Smart notes ^rw151389239comment
 Highlighted: 02/26/2021 08:56 PM
 Updated: 02/26/2021 11:34 PM
 
-%%151389239start%%
+
 #### Extras:
 
-%%151389239end%%
+
 
 ------
 
@@ -540,10 +540,10 @@ Updated: 02/26/2021 11:34 PM
 Highlighted: 02/26/2021 08:56 PM
 Updated: 02/26/2021 11:34 PM
 
-%%151389240start%%
+
 #### Extras:
 
-%%151389240end%%
+
 
 ------
 
@@ -554,10 +554,10 @@ Updated: 02/26/2021 11:34 PM
 Highlighted: 03/01/2021 08:56 PM
 Updated: 03/02/2021 01:04 AM
 
-%%152557232start%%
+
 #### Extras:
 
-%%152557232end%%
+
 
 ------
 
@@ -569,10 +569,10 @@ Comment: Going thru at least once per day is the magic i dont do ^rw152557233com
 Highlighted: 03/01/2021 08:56 PM
 Updated: 03/02/2021 01:04 AM
 
-%%152557233start%%
+
 #### Extras:
 
-%%152557233end%%
+
 
 ------
 
@@ -583,10 +583,10 @@ Updated: 03/02/2021 01:04 AM
 Highlighted: 03/01/2021 08:56 PM
 Updated: 03/02/2021 01:04 AM
 
-%%152557234start%%
+
 #### Extras:
 
-%%152557234end%%
+
 
 ------
 
@@ -598,10 +598,10 @@ Comment: Once you have put the fleeting notes to use get rid of them. Once you h
 Highlighted: 03/01/2021 08:56 PM
 Updated: 03/02/2021 01:04 AM
 
-%%152557235start%%
+
 #### Extras:
 
-%%152557235end%%
+
 
 ------
 
@@ -612,10 +612,10 @@ Updated: 03/02/2021 01:04 AM
 Highlighted: 03/01/2021 08:56 PM
 Updated: 03/02/2021 01:04 AM
 
-%%152557236start%%
+
 #### Extras:
 
-%%152557236end%%
+
 
 ------
 
@@ -626,10 +626,10 @@ Updated: 03/02/2021 01:04 AM
 Highlighted: 03/01/2021 08:56 PM
 Updated: 03/02/2021 01:04 AM
 
-%%152557237start%%
+
 #### Extras:
 
-%%152557237end%%
+
 
 ------
 
@@ -640,10 +640,10 @@ Updated: 03/02/2021 01:04 AM
 Highlighted: 03/01/2021 08:56 PM
 Updated: 03/02/2021 01:04 AM
 
-%%152557238start%%
+
 #### Extras:
 
-%%152557238end%%
+
 
 ------
 
@@ -654,10 +654,10 @@ Updated: 03/02/2021 01:04 AM
 Highlighted: 03/01/2021 08:56 PM
 Updated: 03/02/2021 01:04 AM
 
-%%152557239start%%
+
 #### Extras:
 
-%%152557239end%%
+
 
 ------
 
@@ -668,10 +668,10 @@ Updated: 03/02/2021 01:04 AM
 Highlighted: 03/01/2021 08:56 PM
 Updated: 03/02/2021 01:04 AM
 
-%%152557240start%%
+
 #### Extras:
 
-%%152557240end%%
+
 
 ------
 
@@ -682,10 +682,10 @@ Updated: 03/02/2021 01:04 AM
 Highlighted: 03/01/2021 08:56 PM
 Updated: 03/02/2021 01:04 AM
 
-%%152557241start%%
+
 #### Extras:
 
-%%152557241end%%
+
 
 ------
 
@@ -696,10 +696,10 @@ Updated: 03/02/2021 01:04 AM
 Highlighted: 03/01/2021 08:56 PM
 Updated: 03/02/2021 01:04 AM
 
-%%152557242start%%
+
 #### Extras:
 
-%%152557242end%%
+
 
 ------
 
@@ -710,10 +710,10 @@ Updated: 03/02/2021 01:04 AM
 Highlighted: 03/01/2021 08:56 PM
 Updated: 03/02/2021 01:04 AM
 
-%%152557243start%%
+
 #### Extras:
 
-%%152557243end%%
+
 
 ------
 
@@ -724,10 +724,10 @@ Updated: 03/02/2021 01:04 AM
 Highlighted: 03/01/2021 08:56 PM
 Updated: 03/02/2021 01:04 AM
 
-%%152557244start%%
+
 #### Extras:
 
-%%152557244end%%
+
 
 ------
 
@@ -738,10 +738,10 @@ Updated: 03/02/2021 01:04 AM
 Highlighted: 03/04/2021 08:56 PM
 Updated: 03/05/2021 09:10 PM
 
-%%153720709start%%
+
 #### Extras:
 
-%%153720709end%%
+
 
 ------
 

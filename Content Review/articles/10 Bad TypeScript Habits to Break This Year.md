@@ -7,10 +7,10 @@ Updated: 02/02/2021 11:35 AM
 Highlights URL: https://readwise.io/bookreview/7503500
 SourceUrl: https://startup-cto.net/10-bad-typescript-habits-to-break-this-year/
 
-%%7503500topstart%%
+
 #### Extras:
 **typescript** 
-%%7503500topend%%
+
 
 
  
@@ -55,10 +55,10 @@ need to play with it ^rw140413612comment
 Highlighted: 02/02/2021 11:31 AM
 Updated: 02/02/2021 11:35 AM
 
-%%140413612start%%
+
 #### Extras:
 #OptionalProperties
-%%140413612end%%
+
 
 
 
@@ -72,10 +72,10 @@ Comment: I have certainly done this. I have plenty of myvar as unknown as string
 Highlighted: 02/02/2021 11:29 AM
 Updated: 02/02/2021 11:29 AM
 
-%%140412770start%%
+
 #### Extras:
 
-%%140412770end%%
+
 
 
 
@@ -89,10 +89,10 @@ Comment: Hmm, need to experiment with ?? vs || ^rw140412667comment
 Highlighted: 02/02/2021 11:27 AM
 Updated: 02/02/2021 11:27 AM
 
-%%140412667start%%
+
 #### Extras:
 
-%%140412667end%%
+
 
 
 
@@ -113,10 +113,10 @@ Comment: always use strict mode in ts ^rw140412432comment
 Highlighted: 02/02/2021 11:24 AM
 Updated: 02/02/2021 11:25 AM
 
-%%140412432start%%
+
 #### Extras:
 
-%%140412432end%%
+
 
 
 

@@ -7,10 +7,10 @@ Updated: 03/04/2021 06:32 PM
 Highlights URL: https://readwise.io/bookreview/8093255
 SourceUrl: https://www.lightnetics.com/topic/25571/blog-monitoring-kubernetes-workloads-the-sidecar-pattern
 
-%%8093255topstart%%
+
 #### Extras:
 
-%%8093255topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://www.lightnetics.com/topic/25571/blog-monitoring-kubernetes-wo
 Highlighted: 03/04/2021 03:51 PM
 Updated: 03/04/2021 03:51 PM
 
-%%153357598start%%
+
 #### Extras:
 
-%%153357598end%%
+
 
 ------
 
@@ -40,10 +40,10 @@ Kube-state-metrics for a big picture view at the Kubernetes cluster level. ^rw15
 Highlighted: 03/04/2021 03:51 PM
 Updated: 03/04/2021 03:51 PM
 
-%%153357599start%%
+
 #### Extras:
 
-%%153357599end%%
+
 
 ------
 
@@ -58,10 +58,10 @@ Monitoring solutions like Sensu with an agent that runs as a sidecar, giving you
 Highlighted: 03/04/2021 06:32 PM
 Updated: 03/04/2021 06:32 PM
 
-%%153387231start%%
+
 #### Extras:
 
-%%153387231end%%
+
 
 ------
 

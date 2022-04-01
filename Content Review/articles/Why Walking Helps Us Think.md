@@ -7,10 +7,10 @@ Updated: 03/18/2020 09:02 AM
 Highlights URL: https://readwise.io/bookreview/1130727
 SourceUrl: http://www.newyorker.com/tech/elements/walking-helps-us-think
 
-%%1130727topstart%%
+
 #### Extras:
 **walking**
-%%1130727topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: http://www.newyorker.com/tech/elements/walking-helps-us-think
 Highlighted: 08/01/2017 11:30 AM
 Updated: 12/07/2019 07:11 PM
 
-%%33272555start%%
+
 #### Extras:
 
-%%33272555end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 12/07/2019 07:11 PM
 Highlighted: 08/01/2017 11:28 AM
 Updated: 12/07/2019 07:11 PM
 
-%%33272554start%%
+
 #### Extras:
 
-%%33272554end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 12/07/2019 07:11 PM
 Highlighted: 08/01/2017 11:28 AM
 Updated: 12/07/2019 07:11 PM
 
-%%33272553start%%
+
 #### Extras:
 **Henry David Thoureau**
-%%33272553end%%
+
 
 
 

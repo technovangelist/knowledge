@@ -7,10 +7,10 @@ Updated: 03/18/2020 09:00 AM
 Highlights URL: https://readwise.io/bookreview/1518110
 SourceUrl: https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125
 
-%%1518110topstart%%
+
 #### Extras:
 **Zettlekasten****NiklasLuhmann**
-%%1518110topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://writingcooperative.com/zettelkasten-how-one-german-scholar-wa
 Highlighted: 03/06/2020 09:57 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579366start%%
+
 #### Extras:
 
-%%42579366end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 09:57 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579365start%%
+
 #### Extras:
 
-%%42579365end%%
+
 
 
 
@@ -56,10 +56,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 09:56 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579364start%%
+
 #### Extras:
 
-%%42579364end%%
+
 
 
 
@@ -72,10 +72,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 09:56 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579363start%%
+
 #### Extras:
 
-%%42579363end%%
+
 
 
 
@@ -88,10 +88,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 09:56 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579362start%%
+
 #### Extras:
 
-%%42579362end%%
+
 
 
 
@@ -104,10 +104,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 09:55 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579361start%%
+
 #### Extras:
 
-%%42579361end%%
+
 
 
 
@@ -120,10 +120,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 09:55 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579360start%%
+
 #### Extras:
 
-%%42579360end%%
+
 
 
 
@@ -136,10 +136,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 09:55 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579359start%%
+
 #### Extras:
 
-%%42579359end%%
+
 
 
 
@@ -152,10 +152,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 09:55 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579358start%%
+
 #### Extras:
 
-%%42579358end%%
+
 
 
 
@@ -168,10 +168,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 09:55 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579357start%%
+
 #### Extras:
 
-%%42579357end%%
+
 
 
 
@@ -184,10 +184,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 09:54 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579356start%%
+
 #### Extras:
 
-%%42579356end%%
+
 
 
 
@@ -200,10 +200,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 09:54 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579355start%%
+
 #### Extras:
 
-%%42579355end%%
+
 
 
 
@@ -216,10 +216,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 09:53 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579354start%%
+
 #### Extras:
 
-%%42579354end%%
+
 
 
 
@@ -232,10 +232,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 09:52 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579353start%%
+
 #### Extras:
 
-%%42579353end%%
+
 
 
 
@@ -248,10 +248,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 09:52 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579352start%%
+
 #### Extras:
 
-%%42579352end%%
+
 
 
 
@@ -264,10 +264,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 09:52 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579351start%%
+
 #### Extras:
 
-%%42579351end%%
+
 
 
 
@@ -280,10 +280,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 09:51 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579350start%%
+
 #### Extras:
 
-%%42579350end%%
+
 
 
 
@@ -296,10 +296,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 09:51 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579349start%%
+
 #### Extras:
 
-%%42579349end%%
+
 
 
 
@@ -312,10 +312,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 09:49 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579348start%%
+
 #### Extras:
 
-%%42579348end%%
+
 
 
 
@@ -328,10 +328,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 09:48 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579347start%%
+
 #### Extras:
 
-%%42579347end%%
+
 
 
 
@@ -344,10 +344,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 09:47 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579346start%%
+
 #### Extras:
 
-%%42579346end%%
+
 
 
 
@@ -360,10 +360,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 09:47 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579345start%%
+
 #### Extras:
 
-%%42579345end%%
+
 
 
 
@@ -376,10 +376,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 09:47 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579344start%%
+
 #### Extras:
 
-%%42579344end%%
+
 
 
 
@@ -392,10 +392,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 09:46 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579343start%%
+
 #### Extras:
 
-%%42579343end%%
+
 
 
 
@@ -409,10 +409,10 @@ Comment: making connections between the things you read is hard ^rw42579342comme
 Highlighted: 03/06/2020 08:55 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579342start%%
+
 #### Extras:
 
-%%42579342end%%
+
 
 
 
@@ -426,10 +426,10 @@ Comment: the problem with every tool you have used to take notes ^rw42579341comm
 Highlighted: 03/06/2020 08:54 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579341start%%
+
 #### Extras:
 
-%%42579341end%%
+
 
 
 
@@ -442,10 +442,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 08:53 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579340start%%
+
 #### Extras:
 
-%%42579340end%%
+
 
 
 
@@ -459,10 +459,10 @@ Updated: 03/06/2020 04:35 PM
 Highlighted: 03/06/2020 08:52 AM
 Updated: 03/06/2020 04:35 PM
 
-%%42579339start%%
+
 #### Extras:
 
-%%42579339end%%
+
 
 
 

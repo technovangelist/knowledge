@@ -7,10 +7,10 @@ Updated: 03/03/2021 01:06 PM
 Highlights URL: https://readwise.io/bookreview/8079436
 SourceUrl: https://github.com/thanos-io/thanos
 
-%%8079436topstart%%
+
 #### Extras:
 **thanos**
-%%8079436topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://github.com/thanos-io/thanos
 Highlighted: 03/03/2021 01:06 PM
 Updated: 03/03/2021 01:06 PM
 
-%%153023809start%%
+
 #### Extras:
 
-%%153023809end%%
+
 
 ------
 

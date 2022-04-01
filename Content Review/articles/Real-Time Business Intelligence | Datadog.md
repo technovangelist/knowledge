@@ -7,10 +7,10 @@ Updated: 09/27/2021 05:57 AM
 Highlights URL: https://readwise.io/bookreview/11088758
 SourceUrl: https://www.datadoghq.com/solutions/real-time-business-intelligence/
 
-%%11088758topstart%%
+
 #### Extras:
 
-%%11088758topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://www.datadoghq.com/solutions/real-time-business-intelligence/
 Highlighted: 09/23/2021 08:48 PM
 Updated: 09/23/2021 08:48 PM
 
-%%230486076start%%
+
 #### Extras:
 
-%%230486076end%%
+
 
 ------
 
@@ -41,10 +41,10 @@ Comment: example business kpis
 Highlighted: 09/23/2021 08:51 PM
 Updated: 09/23/2021 08:51 PM
 
-%%230486316start%%
+
 #### Extras:
 
-%%230486316end%%
+
 
 ------
 
@@ -55,10 +55,10 @@ Updated: 09/23/2021 08:51 PM
 Highlighted: 09/27/2021 05:57 AM
 Updated: 09/27/2021 05:57 AM
 
-%%231643818start%%
+
 #### Extras:
 
-%%231643818end%%
+
 
 
 

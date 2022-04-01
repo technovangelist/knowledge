@@ -7,10 +7,10 @@ Updated: 03/04/2021 06:45 PM
 Highlights URL: https://readwise.io/bookreview/8094709
 SourceUrl: https://nesslabs.com/anxious-for-no-apparent-reason?ck_subscriber_id=1121208601&utm_source=convertkit&utm_medium=email&utm_campaign=Maker+Mind%3A+Anxious+for+no+reason+%F0%9F%92%A7%20-%205417324
 
-%%8094709topstart%%
+
 #### Extras:
 
-%%8094709topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://nesslabs.com/anxious-for-no-apparent-reason?ck_subscriber_id=
 Highlighted: 03/04/2021 06:45 PM
 Updated: 03/04/2021 06:45 PM
 
-%%153388456start%%
+
 #### Extras:
 
-%%153388456end%%
+
 
 ------
 
@@ -36,10 +36,10 @@ Updated: 03/04/2021 06:45 PM
 Highlighted: 03/04/2021 06:45 PM
 Updated: 03/04/2021 06:45 PM
 
-%%153388457start%%
+
 #### Extras:
 #Journaling
-%%153388457end%%
+
 
 ------
 
@@ -50,10 +50,10 @@ Updated: 03/04/2021 06:45 PM
 Highlighted: 03/04/2021 06:45 PM
 Updated: 03/04/2021 06:45 PM
 
-%%153388486start%%
+
 #### Extras:
 
-%%153388486end%%
+
 
 ------
 
@@ -66,10 +66,10 @@ Reset your plan. Do one easy thing that will make you progress. ^rw153388527hl
 Highlighted: 03/04/2021 06:45 PM
 Updated: 03/04/2021 06:45 PM
 
-%%153388527start%%
+
 #### Extras:
 
-%%153388527end%%
+
 
 ------
 

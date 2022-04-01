@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/51cLdmiTR6L._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/7905080
 
-%%7905080topstart%%
+
 #### Extras:
 
-%%7905080topend%%
+
  
 -----
  ## Highlights:
@@ -26,10 +26,10 @@ Comment: They sound like many of the people I had met in Nepal ^rw148879535comme
 Highlighted: 02/21/2021 11:05 PM
 Updated: 02/21/2021 11:05 PM
 
-%%148879535start%%
+
 #### Extras:
 
-%%148879535end%%
+
 
 
 
@@ -43,10 +43,10 @@ Comment: Kailas and mercy is the mountain at the center of so much. The source o
 Highlighted: 02/21/2021 10:56 PM
 Updated: 02/21/2021 10:56 PM
 
-%%148876607start%%
+
 #### Extras:
 
-%%148876607end%%
+
 
 ------
 
@@ -58,10 +58,10 @@ Comment: Adding a rough date to the walk. Sarah dealt with the rebels many times
 Highlighted: 02/21/2021 10:53 PM
 Updated: 02/21/2021 10:53 PM
 
-%%148876273start%%
+
 #### Extras:
 
-%%148876273end%%
+
 
 ------
 
@@ -73,10 +73,10 @@ Comment: Cairn: a mound of rough stones built as a memorial or landmark, typical
 Highlighted: 02/21/2021 10:49 PM
 Updated: 02/21/2021 10:49 PM
 
-%%148870090start%%
+
 #### Extras:
 
-%%148870090end%%
+
 
 ------
 

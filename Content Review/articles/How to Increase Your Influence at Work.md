@@ -7,10 +7,10 @@ Updated: 12/22/2020 10:16 PM
 Highlights URL: https://readwise.io/bookreview/6789501
 SourceUrl: https://hbr.org/2018/02/how-to-increase-your-influence-at-work?_lrsc=0268c091-5443-43e0-9360-1c27b8753bd6
 
-%%6789501topstart%%
+
 #### Extras:
 **Harvard Business Review****Influence**
-%%6789501topend%%
+
 
 
  
@@ -34,10 +34,10 @@ Do
 Highlighted: 06/26/2020 06:28 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380867start%%
+
 #### Extras:
 
-%%122380867end%%
+
 
 
 
@@ -51,10 +51,10 @@ Comment: the internal how I work docs are key ^rw122380866comment
 Highlighted: 06/26/2020 06:28 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380866start%%
+
 #### Extras:
 
-%%122380866end%%
+
 
 
 
@@ -68,10 +68,10 @@ Comment: wow, i have never done anything strategically like this. cool idea. ^rw
 Highlighted: 06/26/2020 06:27 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380865start%%
+
 #### Extras:
 **power map**
-%%122380865end%%
+
 
 
 
@@ -84,10 +84,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 06/26/2020 06:25 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380864start%%
+
 #### Extras:
 
-%%122380864end%%
+
 
 
 
@@ -101,10 +101,10 @@ Comment: even if you think body language is bogus and can think of many places w
 Highlighted: 06/26/2020 06:25 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380863start%%
+
 #### Extras:
 
-%%122380863end%%
+
 
 
 
@@ -118,10 +118,10 @@ Comment: stop what you are doing and listen to them. hear them out and really ac
 Highlighted: 06/26/2020 06:23 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380862start%%
+
 #### Extras:
 
-%%122380862end%%
+
 
 
 
@@ -135,10 +135,10 @@ Comment: not be the best most awesome, just good rapport. work on cultivating pe
 Highlighted: 06/26/2020 06:26 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380861start%%
+
 #### Extras:
 
-%%122380861end%%
+
 
 
 
@@ -151,10 +151,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 06/26/2020 06:20 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380860start%%
+
 #### Extras:
 
-%%122380860end%%
+
 
 
 
@@ -167,10 +167,10 @@ Updated: 12/22/2020 10:16 PM
 Highlighted: 06/26/2020 06:20 AM
 Updated: 12/22/2020 10:16 PM
 
-%%122380859start%%
+
 #### Extras:
 **Dorie Clark**
-%%122380859end%%
+
 
 
 

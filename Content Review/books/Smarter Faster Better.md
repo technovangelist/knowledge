@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://images-na.ssl-images-amazon.com/images/I/51B2dMwPJ5L._SL200_.jpg)
 Highlights URL: https://readwise.io/bookreview/1214108
 
-%%1214108topstart%%
+
 #### Extras:
 **Charle Duhigg**
-%%1214108topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlights URL: https://readwise.io/bookreview/1214108
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507148start%%
+
 #### Extras:
 **Columbia University****decision making**
-%%35507148end%%
+
 
 
 
@@ -41,10 +41,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507147start%%
+
 #### Extras:
 
-%%35507147end%%
+
 
 
 
@@ -57,10 +57,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507146start%%
+
 #### Extras:
 
-%%35507146end%%
+
 
 
 
@@ -73,10 +73,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507145start%%
+
 #### Extras:
 
-%%35507145end%%
+
 
 
 
@@ -89,10 +89,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507144start%%
+
 #### Extras:
 
-%%35507144end%%
+
 
 
 
@@ -105,10 +105,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507143start%%
+
 #### Extras:
 
-%%35507143end%%
+
 
 
 
@@ -121,10 +121,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507142start%%
+
 #### Extras:
 
-%%35507142end%%
+
 
 
 
@@ -137,10 +137,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507141start%%
+
 #### Extras:
 **creative desperation**
-%%35507141end%%
+
 
 
 
@@ -153,10 +153,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507140start%%
+
 #### Extras:
 
-%%35507140end%%
+
 
 
 
@@ -170,10 +170,10 @@ Comment: regarding building bulletbtrains when no one thought it was possiblr  ^
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507139start%%
+
 #### Extras:
 **Jack Welch****GE****bullet train thinking**
-%%35507139end%%
+
 
 
 
@@ -186,10 +186,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507138start%%
+
 #### Extras:
 [Richard De Crespigny - Wikipedia](/knowledge/Content Review/articles/Richard De Crespigny - Wikipedia)
-%%35507138end%%
+
 
 
 
@@ -202,10 +202,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507137start%%
+
 #### Extras:
 **Crocodile Dundee**
-%%35507137end%%
+
 
 
 
@@ -218,10 +218,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507136start%%
+
 #### Extras:
 
-%%35507136end%%
+
 
 
 
@@ -234,10 +234,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507135start%%
+
 #### Extras:
 
-%%35507135end%%
+
 
 
 
@@ -250,10 +250,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507134start%%
+
 #### Extras:
 
-%%35507134end%%
+
 
 
 
@@ -266,10 +266,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507133start%%
+
 #### Extras:
 
-%%35507133end%%
+
 
 
 
@@ -282,10 +282,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507132start%%
+
 #### Extras:
 
-%%35507132end%%
+
 
 
 
@@ -299,10 +299,10 @@ Comment: said laszlo bock. head of people ops at google ^rw35507131comment
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507131start%%
+
 #### Extras:
 
-%%35507131end%%
+
 
 
 
@@ -315,10 +315,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507130start%%
+
 #### Extras:
 
-%%35507130end%%
+
 
 
 
@@ -331,10 +331,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507129start%%
+
 #### Extras:
 
-%%35507129end%%
+
 
 
 
@@ -348,10 +348,10 @@ Comment: re lorne michaels ^rw35507128comment
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507128start%%
+
 #### Extras:
 
-%%35507128end%%
+
 
 
 
@@ -364,10 +364,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507127start%%
+
 #### Extras:
 
-%%35507127end%%
+
 
 
 
@@ -381,10 +381,10 @@ Comment: the reading mind test was looking at pics of eyes and guessing the emot
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507126start%%
+
 #### Extras:
 
-%%35507126end%%
+
 
 
 
@@ -397,10 +397,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507125start%%
+
 #### Extras:
 
-%%35507125end%%
+
 
 
 
@@ -413,10 +413,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507124start%%
+
 #### Extras:
 
-%%35507124end%%
+
 
 
 
@@ -429,10 +429,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507123start%%
+
 #### Extras:
 
-%%35507123end%%
+
 
 
 
@@ -445,10 +445,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507122start%%
+
 #### Extras:
 
-%%35507122end%%
+
 
 
 
@@ -461,10 +461,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507121start%%
+
 #### Extras:
 
-%%35507121end%%
+
 
 
 
@@ -478,10 +478,10 @@ Comment: 2008 carnegie mellon ^rw35507120comment
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507120start%%
+
 #### Extras:
 
-%%35507120end%%
+
 
 
 
@@ -494,10 +494,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507119start%%
+
 #### Extras:
 
-%%35507119end%%
+
 
 
 
@@ -510,10 +510,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507118start%%
+
 #### Extras:
 
-%%35507118end%%
+
 
 
 
@@ -526,10 +526,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507117start%%
+
 #### Extras:
 
-%%35507117end%%
+
 
 
 
@@ -542,10 +542,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507116start%%
+
 #### Extras:
 
-%%35507116end%%
+
 
 
 
@@ -558,10 +558,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507115start%%
+
 #### Extras:
 
-%%35507115end%%
+
 
 
 
@@ -574,10 +574,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507114start%%
+
 #### Extras:
 
-%%35507114end%%
+
 
 
 
@@ -590,10 +590,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507113start%%
+
 #### Extras:
 
-%%35507113end%%
+
 
 
 
@@ -606,10 +606,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507112start%%
+
 #### Extras:
 
-%%35507112end%%
+
 
 
 
@@ -622,10 +622,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507111start%%
+
 #### Extras:
 
-%%35507111end%%
+
 
 
 
@@ -638,10 +638,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507110start%%
+
 #### Extras:
 
-%%35507110end%%
+
 
 
 
@@ -654,10 +654,10 @@ Updated: 01/05/2020 01:00 PM
 Highlighted: 09/14/2016 09:56 PM
 Updated: 01/05/2020 01:00 PM
 
-%%35507109start%%
+
 #### Extras:
 
-%%35507109end%%
+
 
 
 

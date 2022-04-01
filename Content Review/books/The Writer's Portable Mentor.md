@@ -8,10 +8,10 @@ CoverImageUrl:
 ![|200](https://books.google.com/books/content?id=E5FlDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=public)
 Highlights URL: https://readwise.io/bookreview/8221031
 
-%%8221031topstart%%
+
 #### Extras:
 
-%%8221031topend%%
+
  
 -----
  ## Highlights:
@@ -24,10 +24,10 @@ Comment: This is the first sentence of the book  I think this can be written abo
 Highlighted: 03/13/2021 06:44 PM
 Updated: 03/13/2021 06:44 PM
 
-%%156631991start%%
+
 #### Extras:
 
-%%156631991end%%
+
 
 ------
 
@@ -39,10 +39,10 @@ Comment: Should devs do something similar. 10 mins of free programming to build 
 Highlighted: 03/13/2021 06:53 PM
 Updated: 03/13/2021 06:53 PM
 
-%%156632529start%%
+
 #### Extras:
 
-%%156632529end%%
+
 
 ------
 
@@ -55,10 +55,10 @@ Comment: This reminds me of a video I saw recently about design patterns by Gang
 Highlighted: 03/13/2021 06:51 PM
 Updated: 03/13/2021 06:51 PM
 
-%%156632425start%%
+
 #### Extras:
 
-%%156632425end%%
+
 
 ------
 

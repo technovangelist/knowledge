@@ -7,10 +7,10 @@ Updated: 01/15/2021 10:34 PM
 Highlights URL: https://readwise.io/bookreview/7188866
 SourceUrl: https://nesslabs.com/creating-habits?ck_subscriber_id=1121208601&utm_source=convertkit&utm_medium=email&utm_campaign=Creating+Habits+%F0%9F%A7%A4%20-%205117179
 
-%%7188866topstart%%
+
 #### Extras:
 [Anne-Laure Le Cunff](/knowledge/Other Notes/Anne-Laure Le Cunff)**habit**
-%%7188866topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Comment: going longer than the 21 days is fine. it takes as long as it takes ^rw
 Highlighted: 01/14/2021 10:39 AM
 Updated: 01/15/2021 10:34 PM
 
-%%132623632start%%
+
 #### Extras:
 
-%%132623632end%%
+
 
 
 
@@ -42,10 +42,10 @@ Comment: fewer goals is better. Don't try to solve everything at once. Take on o
 Highlighted: 01/14/2021 10:38 AM
 Updated: 01/15/2021 10:34 PM
 
-%%132623631start%%
+
 #### Extras:
 
-%%132623631end%%
+
 
 
 
@@ -59,10 +59,10 @@ Comment: written by a plastic surgeon. the 21 days number was based on how long 
 Highlighted: 01/14/2021 10:35 AM
 Updated: 01/15/2021 10:34 PM
 
-%%132623630start%%
+
 #### Extras:
 
-%%132623630end%%
+
 
 
 

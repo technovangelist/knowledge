@@ -7,10 +7,10 @@ Updated: 12/26/2021 04:05 PM
 Highlights URL: https://readwise.io/bookreview/12458869
 SourceUrl: https://www.calnewport.com/blog/2020/05/07/on-doing-less-to-produce-more-a-novelist-embraces-a-minimalist-lockdown/
 
-%%12458869topstart%%
+
 #### Extras:
 
-%%12458869topend%%
+
 
 
  
@@ -28,10 +28,10 @@ Highlighted: 12/26/2021 03:44 PM
 Updated: 12/26/2021 04:05 PM
 https://instapaper.com/read/1303073266/18340732
 
-%%262534289start%%
+
 #### Extras:
 
-%%262534289end%%
+
 
 
 
@@ -45,10 +45,10 @@ Highlighted: 12/26/2021 03:44 PM
 Updated: 12/26/2021 04:05 PM
 https://instapaper.com/read/1303073266/18340734
 
-%%262534290start%%
+
 #### Extras:
 
-%%262534290end%%
+
 
 
 
@@ -63,10 +63,10 @@ Highlighted: 12/26/2021 03:45 PM
 Updated: 12/26/2021 04:05 PM
 https://instapaper.com/read/1303073266/18340741
 
-%%262534291start%%
+
 #### Extras:
 
-%%262534291end%%
+
 
 
 

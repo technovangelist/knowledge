@@ -7,10 +7,10 @@ Updated: 02/08/2021 09:11 PM
 Highlights URL: https://readwise.io/bookreview/7629707
 SourceUrl: https://notes.andymatuschak.org/z3DaBP4vN1dutjUgrk3jbEeNxScccvDCxDgXe
 
-%%7629707topstart%%
+
 #### Extras:
 **Andy Matuschak**
-%%7629707topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: https://notes.andymatuschak.org/z3DaBP4vN1dutjUgrk3jbEeNxScccvDCxDgXe
 Highlighted: 02/08/2021 09:11 PM
 Updated: 02/08/2021 09:11 PM
 
-%%143302937start%%
+
 #### Extras:
 
-%%143302937end%%
+
 
 
 
@@ -40,10 +40,10 @@ Updated: 02/08/2021 09:11 PM
 Highlighted: 02/08/2021 09:10 PM
 Updated: 02/08/2021 09:10 PM
 
-%%143302909start%%
+
 #### Extras:
 
-%%143302909end%%
+
 
 
 

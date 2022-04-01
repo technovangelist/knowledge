@@ -7,10 +7,10 @@ Updated: 03/18/2020 09:02 AM
 Highlights URL: https://readwise.io/bookreview/1130729
 SourceUrl: http://calnewport.com/blog/2016/10/12/a-famous-rabbis-advice-for-getting-important-things-done/
 
-%%1130729topstart%%
+
 #### Extras:
 **Cal Newport**
-%%1130729topend%%
+
 
 
  
@@ -24,10 +24,10 @@ SourceUrl: http://calnewport.com/blog/2016/10/12/a-famous-rabbis-advice-for-gett
 Highlighted: 10/12/2016 05:54 AM
 Updated: 12/07/2019 07:11 PM
 
-%%33272557start%%
+
 #### Extras:
 **compassion**
-%%33272557end%%
+
 
 
 

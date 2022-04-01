@@ -7,10 +7,10 @@ Updated: 02/05/2021 03:15 PM
 Highlights URL: https://readwise.io/bookreview/7188864
 SourceUrl: https://andymatuschak.org/prompts/?ck_subscriber_id=1121208601&utm_source=convertkit&utm_medium=email&utm_campaign=Creating+Habits+%F0%9F%A7%A4%20-%205117179
 
-%%7188864topstart%%
+
 #### Extras:
 **Andy Matuschak****spaced repetition**
-%%7188864topend%%
+
 
 
  
@@ -26,10 +26,10 @@ Comment: ignore. testing breaks in highlights ^rw141729364comment
 Highlighted: 02/05/2021 03:11 PM
 Updated: 02/05/2021 03:11 PM
 
-%%141729364start%%
+
 #### Extras:
 
-%%141729364end%%
+
 
 
 
@@ -42,10 +42,10 @@ Updated: 02/05/2021 03:11 PM
 Highlighted: 02/05/2021 07:08 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645675start%%
+
 #### Extras:
 
-%%141645675end%%
+
 
 
 
@@ -58,10 +58,10 @@ Updated: 02/05/2021 08:07 AM
 Highlighted: 02/05/2021 07:08 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645674start%%
+
 #### Extras:
 
-%%141645674end%%
+
 
 
 
@@ -75,10 +75,10 @@ Comment: This is why using obsidian to create the prompts is magic ^rw141645673c
 Highlighted: 02/05/2021 07:07 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645673start%%
+
 #### Extras:
 
-%%141645673end%%
+
 
 
 
@@ -91,10 +91,10 @@ Updated: 02/05/2021 08:07 AM
 Highlighted: 02/05/2021 07:06 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645672start%%
+
 #### Extras:
 
-%%141645672end%%
+
 
 
 
@@ -107,10 +107,10 @@ Updated: 02/05/2021 08:07 AM
 Highlighted: 02/05/2021 07:06 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645671start%%
+
 #### Extras:
 
-%%141645671end%%
+
 
 
 
@@ -123,10 +123,10 @@ Updated: 02/05/2021 08:07 AM
 Highlighted: 02/05/2021 07:05 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645670start%%
+
 #### Extras:
 
-%%141645670end%%
+
 
 
 
@@ -139,10 +139,10 @@ Updated: 02/05/2021 08:07 AM
 Highlighted: 02/05/2021 07:03 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645669start%%
+
 #### Extras:
 
-%%141645669end%%
+
 
 
 
@@ -155,10 +155,10 @@ Updated: 02/05/2021 08:07 AM
 Highlighted: 02/05/2021 07:03 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645668start%%
+
 #### Extras:
 
-%%141645668end%%
+
 
 
 
@@ -171,10 +171,10 @@ Updated: 02/05/2021 08:07 AM
 Highlighted: 02/05/2021 07:02 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645667start%%
+
 #### Extras:
 
-%%141645667end%%
+
 
 
 
@@ -187,10 +187,10 @@ Updated: 02/05/2021 08:07 AM
 Highlighted: 02/05/2021 07:02 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645666start%%
+
 #### Extras:
 
-%%141645666end%%
+
 
 
 
@@ -204,10 +204,10 @@ Comment: When first reading a programming article, create a few prompts then try
 Highlighted: 02/05/2021 07:01 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645665start%%
+
 #### Extras:
 
-%%141645665end%%
+
 
 
 
@@ -220,10 +220,10 @@ Updated: 02/05/2021 08:07 AM
 Highlighted: 02/05/2021 07:00 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645664start%%
+
 #### Extras:
 
-%%141645664end%%
+
 
 
 
@@ -236,10 +236,10 @@ Updated: 02/05/2021 08:07 AM
 Highlighted: 02/05/2021 07:00 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645663start%%
+
 #### Extras:
 
-%%141645663end%%
+
 
 
 
@@ -252,10 +252,10 @@ Updated: 02/05/2021 08:07 AM
 Highlighted: 02/05/2021 07:00 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645662start%%
+
 #### Extras:
 
-%%141645662end%%
+
 
 
 
@@ -268,10 +268,10 @@ Updated: 02/05/2021 08:07 AM
 Highlighted: 02/05/2021 06:58 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645661start%%
+
 #### Extras:
 
-%%141645661end%%
+
 
 
 
@@ -285,10 +285,10 @@ Comment: You can’t know it before you really understand it ^rw141645660comment
 Highlighted: 02/05/2021 06:58 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645660start%%
+
 #### Extras:
 
-%%141645660end%%
+
 
 
 
@@ -301,10 +301,10 @@ Updated: 02/05/2021 08:07 AM
 Highlighted: 02/05/2021 06:57 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645659start%%
+
 #### Extras:
 
-%%141645659end%%
+
 
 
 
@@ -317,10 +317,10 @@ Updated: 02/05/2021 08:07 AM
 Highlighted: 02/05/2021 06:57 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645658start%%
+
 #### Extras:
 
-%%141645658end%%
+
 
 
 
@@ -334,10 +334,10 @@ Comment: Where tags = a list of items ^rw141645657comment
 Highlighted: 02/05/2021 06:53 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645657start%%
+
 #### Extras:
 
-%%141645657end%%
+
 
 
 
@@ -354,10 +354,10 @@ A. “Should I use stock instead?” ^rw141645655hl
 Highlighted: 02/05/2021 06:51 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645655start%%
+
 #### Extras:
 
-%%141645655end%%
+
 
 
 
@@ -376,10 +376,10 @@ A. Water ^rw141645654hl
 Highlighted: 02/05/2021 06:50 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645654start%%
+
 #### Extras:
 
-%%141645654end%%
+
 
 
 
@@ -400,10 +400,10 @@ A. Water ^rw141645653hl
 Highlighted: 02/05/2021 06:50 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645653start%%
+
 #### Extras:
 
-%%141645653end%%
+
 
 
 
@@ -420,10 +420,10 @@ A. Building block. ^rw141645652hl
 Highlighted: 02/05/2021 06:50 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645652start%%
+
 #### Extras:
 
-%%141645652end%%
+
 
 
 
@@ -438,10 +438,10 @@ Updated: 02/05/2021 08:07 AM
 Highlighted: 02/05/2021 06:50 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645651start%%
+
 #### Extras:
 
-%%141645651end%%
+
 
 
 
@@ -458,10 +458,10 @@ A. To make them more versatile. ^rw141645650hl
 Highlighted: 02/05/2021 06:49 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645650start%%
+
 #### Extras:
 
-%%141645650end%%
+
 
 
 
@@ -475,10 +475,10 @@ Updated: 02/05/2021 08:07 AM
 Highlighted: 02/05/2021 06:48 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645649start%%
+
 #### Extras:
 
-%%141645649end%%
+
 
 
 
@@ -491,10 +491,10 @@ Updated: 02/05/2021 08:07 AM
 Highlighted: 02/05/2021 06:46 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645648start%%
+
 #### Extras:
 
-%%141645648end%%
+
 
 
 
@@ -507,10 +507,10 @@ Updated: 02/05/2021 08:07 AM
 Highlighted: 02/05/2021 06:45 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645647start%%
+
 #### Extras:
 
-%%141645647end%%
+
 
 
 
@@ -523,10 +523,10 @@ Updated: 02/05/2021 08:07 AM
 Highlighted: 02/05/2021 06:44 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645646start%%
+
 #### Extras:
 
-%%141645646end%%
+
 
 
 
@@ -539,10 +539,10 @@ Updated: 02/05/2021 08:07 AM
 Highlighted: 02/05/2021 06:44 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645645start%%
+
 #### Extras:
 
-%%141645645end%%
+
 
 
 
@@ -556,10 +556,10 @@ Comment: When trying to remember a process edit down to something simple then pu
 Highlighted: 02/05/2021 06:42 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645644start%%
+
 #### Extras:
 
-%%141645644end%%
+
 
 
 
@@ -579,10 +579,10 @@ A. 2 smashed cloves per pound ^rw141645643hl
 Highlighted: 02/05/2021 06:41 AM
 Updated: 02/05/2021 08:07 AM
 
-%%141645643start%%
+
 #### Extras:
 
-%%141645643end%%
+
 
 
 
@@ -595,10 +595,10 @@ Updated: 02/05/2021 08:07 AM
 Highlighted: 01/15/2021 11:51 PM
 Updated: 01/16/2021 05:36 PM
 
-%%132882302start%%
+
 #### Extras:
 
-%%132882302end%%
+
 
 
 
@@ -612,10 +612,10 @@ Comment: Focus on single concept prompts at the beginning. But as your knowledge
 Highlighted: 01/15/2021 11:42 PM
 Updated: 01/16/2021 05:36 PM
 
-%%132882301start%%
+
 #### Extras:
 
-%%132882301end%%
+
 
 
 
@@ -629,10 +629,10 @@ Comment: If you think you have written too many prompts you might be close to wr
 Highlighted: 01/15/2021 03:34 PM
 Updated: 01/15/2021 10:40 PM
 
-%%132623623start%%
+
 #### Extras:
 
-%%132623623end%%
+
 
 
 
@@ -646,10 +646,10 @@ Comment: There is no limit to the prompts you can and should write. Squeezing it
 Highlighted: 01/15/2021 03:31 PM
 Updated: 01/15/2021 10:41 PM
 
-%%132623622start%%
+
 #### Extras:
 
-%%132623622end%%
+
 
 
 
@@ -663,10 +663,10 @@ Comment: you might need to do a bit more research to fully understand every deta
 Highlighted: 01/15/2021 03:25 PM
 Updated: 01/15/2021 10:40 PM
 
-%%132623621start%%
+
 #### Extras:
 
-%%132623621end%%
+
 
 
 
@@ -680,10 +680,10 @@ Comment: Writing prompts isn’t something you can do as you read. You need to t
 Highlighted: 01/15/2021 03:19 PM
 Updated: 01/15/2021 10:34 PM
 
-%%132623620start%%
+
 #### Extras:
 
-%%132623620end%%
+
 
 
 
@@ -696,10 +696,10 @@ Updated: 01/15/2021 10:34 PM
 Highlighted: 01/15/2021 02:53 PM
 Updated: 01/15/2021 10:34 PM
 
-%%132623619start%%
+
 #### Extras:
 
-%%132623619end%%
+
 
 
 
@@ -712,10 +712,10 @@ Updated: 01/15/2021 10:34 PM
 Highlighted: 01/15/2021 02:51 PM
 Updated: 01/15/2021 10:34 PM
 
-%%132623618start%%
+
 #### Extras:
 
-%%132623618end%%
+
 
 
 
@@ -729,10 +729,10 @@ Comment: Don’t give the answer away. There should be work involved to remember
 Highlighted: 01/14/2021 10:34 PM
 Updated: 01/15/2021 10:34 PM
 
-%%132623617start%%
+
 #### Extras:
 
-%%132623617end%%
+
 
 
 
@@ -746,10 +746,10 @@ Comment: It’s not an essay question. Make it obvious what kind of answer you a
 Highlighted: 01/14/2021 10:32 PM
 Updated: 01/15/2021 10:34 PM
 
-%%132623616start%%
+
 #### Extras:
 
-%%132623616end%%
+
 
 
 
@@ -763,10 +763,10 @@ Comment: Keep the questions focused on one specific concept at a time. Too many 
 Highlighted: 01/14/2021 10:30 PM
 Updated: 01/15/2021 10:34 PM
 
-%%132623615start%%
+
 #### Extras:
 
-%%132623615end%%
+
 
 
 
@@ -780,10 +780,10 @@ Comment: I think just re-reading is what I tend to do and that’s why I don’t
 Highlighted: 01/14/2021 11:55 AM
 Updated: 01/15/2021 10:34 PM
 
-%%132623614start%%
+
 #### Extras:
 
-%%132623614end%%
+
 
 
 
@@ -797,10 +797,10 @@ Comment: What you write in your prompt is going to be read by a future you. Make
 Highlighted: 01/14/2021 11:51 AM
 Updated: 02/05/2021 02:53 PM
 
-%%132623613start%%
+
 #### Extras:
 
-%%132623613end%%
+
 
 
 
@@ -814,10 +814,10 @@ Comment: Spaced repetition can only be successful when you write good prompts...
 Highlighted: 01/14/2021 11:18 AM
 Updated: 02/05/2021 03:15 PM
 
-%%132623612start%%
+
 #### Extras:
 
-%%132623612end%%
+
 
 
 

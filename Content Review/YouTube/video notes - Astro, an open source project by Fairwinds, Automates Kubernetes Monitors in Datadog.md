@@ -6,10 +6,10 @@ Title: Astro, an open source project by Fairwinds, Automates Kubernetes Monitors
 Category: YouTube
 Published: 08/28/2020 08:31 AM
  ^yt1T18OIqmmgabout
-%%1-T18OIqmmgtopstart%%
+
 #### Extras:
 **Astro****Fairwinds****kubernetes****datadog**
-%%1-T18OIqmmgtopend%%
+
 
 -----
 ## Highlights:
@@ -18,10 +18,10 @@ Timecode: [4:20](https://www.youtube.com/watch?v=1-T18OIqmmg&t=260) ^yt1T18OIqmm
 
 Comment: 
 >Cool demo of Astro to create and remove monitors in datadog ^yt1T18OIqmmg260c
-%%260start%%
+
 #### Extras:
 !**video notes - How To Take Smart Notes#^8ee880**
-%%260end%%
+
 
 
 -----
@@ -29,10 +29,10 @@ Timecode: [4:20](https://www.youtube.com/watch?v=1-T18OIqmmg&t=260) ^yt1T18OIqmm
 
 Comment: 
 >Cool demo of Astro to create and remove monitors in datadog ^yt1T18OIqmmg260c
-%%260start%%
+
 #### Extras:
 !**video notes - How To Take Smart Notes#^8ee880**
-%%260end%%
+
 
 
 -----
@@ -40,10 +40,10 @@ Timecode: [4:20](https://www.youtube.com/watch?v=1-T18OIqmmg&t=260) ^yt1T18OIqmm
 
 Comment: 
 >Cool demo of Astro to create and remove monitors in datadog ^yt1T18OIqmmg260c
-%%260start%%
+
 #### Extras:
 !**video notes - How To Take Smart Notes#^8ee880**
-%%260end%%
+
 
 
 ## Video Description on YouTube:

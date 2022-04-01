@@ -7,10 +7,10 @@ Updated: 12/26/2021 05:07 PM
 Highlights URL: https://readwise.io/bookreview/12459375
 SourceUrl: https://ryanholiday.net/how-you-do-anything/
 
-%%12459375topstart%%
+
 #### Extras:
 
-%%12459375topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlighted: 12/26/2021 04:38 PM
 Updated: 12/26/2021 05:07 PM
 https://instapaper.com/read/1276651083/18341157
 
-%%262548348start%%
+
 #### Extras:
 
-%%262548348end%%
+
 
 
 

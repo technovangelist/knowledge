@@ -7,10 +7,10 @@ Updated: 03/02/2021 03:18 PM
 Highlights URL: https://readwise.io/bookreview/7504523
 SourceUrl: https://scoutapm.com/blog/monitoring-kubernetes
 
-%%7504523topstart%%
+
 #### Extras:
 **kubernetes****sensu****scout apm**
-%%7504523topend%%
+
  
 -----
  ## Highlights:
@@ -22,10 +22,10 @@ SourceUrl: https://scoutapm.com/blog/monitoring-kubernetes
 Highlighted: 02/02/2021 12:17 PM
 Updated: 02/02/2021 12:17 PM
 
-%%140448305start%%
+
 #### Extras:
 
-%%140448305end%%
+
 
 ------
 
@@ -36,10 +36,10 @@ Updated: 02/02/2021 12:17 PM
 Highlighted: 02/02/2021 12:19 PM
 Updated: 02/02/2021 12:19 PM
 
-%%140448335start%%
+
 #### Extras:
 
-%%140448335end%%
+
 
 ------
 
@@ -50,10 +50,10 @@ Updated: 02/02/2021 12:19 PM
 Highlighted: 02/02/2021 12:20 PM
 Updated: 02/02/2021 12:20 PM
 
-%%140448358start%%
+
 #### Extras:
 
-%%140448358end%%
+
 
 ------
 
@@ -64,10 +64,10 @@ Updated: 02/02/2021 12:20 PM
 Highlighted: 02/02/2021 12:21 PM
 Updated: 02/02/2021 12:21 PM
 
-%%140449023start%%
+
 #### Extras:
 
-%%140449023end%%
+
 
 ------
 
@@ -79,10 +79,10 @@ Comment: Got quite a way into this when I realized the author just copied an art
 Highlighted: 02/02/2021 12:31 PM
 Updated: 02/02/2021 12:31 PM
 
-%%140453975start%%
+
 #### Extras:
 
-%%140453975end%%
+
 
 ------
 
@@ -93,10 +93,10 @@ Updated: 02/02/2021 12:31 PM
 Highlighted: 03/02/2021 03:18 PM
 Updated: 03/02/2021 03:18 PM
 
-%%152765274start%%
+
 #### Extras:
 
-%%152765274end%%
+
 
 ------
 

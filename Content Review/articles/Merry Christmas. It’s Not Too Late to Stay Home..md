@@ -7,10 +7,10 @@ Updated: 12/27/2020 04:08 AM
 Highlights URL: https://readwise.io/bookreview/6841164
 SourceUrl: https://everywhereist.com/2020/12/merry-christmas-its-not-too-late-to-stay-home/
 
-%%6841164topstart%%
+
 #### Extras:
 **Geraldine DeRuiter****travel**
-%%6841164topend%%
+
 
 
  
@@ -25,10 +25,10 @@ Highlighted: 12/26/2020 04:59 PM
 Updated: 12/27/2020 04:08 AM
 https://instapaper.com/read/1372710415/14975006
 
-%%123718365start%%
+
 #### Extras:
 
-%%123718365end%%
+
 
 
 

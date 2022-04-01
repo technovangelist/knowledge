@@ -7,10 +7,10 @@ Updated: 03/18/2020 09:02 AM
 Highlights URL: https://readwise.io/bookreview/1130730
 SourceUrl: http://www.kitchensoap.com/2014/11/14/the-infinite-hows-or-the-dangers-of-the-five-whys/
 
-%%1130730topstart%%
+
 #### Extras:
 
-%%1130730topend%%
+
 
 
  
@@ -27,10 +27,10 @@ Progressively probe and re-build how the world looked to people inside of the si
 Highlighted: 09/06/2016 08:23 PM
 Updated: 12/07/2019 07:11 PM
 
-%%33272569start%%
+
 #### Extras:
 
-%%33272569end%%
+
 
 
 
@@ -43,10 +43,10 @@ Updated: 12/07/2019 07:11 PM
 Highlighted: 09/06/2016 08:22 PM
 Updated: 12/07/2019 07:11 PM
 
-%%33272568start%%
+
 #### Extras:
 
-%%33272568end%%
+
 
 
 
@@ -59,10 +59,10 @@ Updated: 12/07/2019 07:11 PM
 Highlighted: 09/06/2016 08:21 PM
 Updated: 12/07/2019 07:11 PM
 
-%%33272567start%%
+
 #### Extras:
 
-%%33272567end%%
+
 
 
 
@@ -75,10 +75,10 @@ Updated: 12/07/2019 07:11 PM
 Highlighted: 09/06/2016 08:21 PM
 Updated: 12/07/2019 07:11 PM
 
-%%33272566start%%
+
 #### Extras:
 
-%%33272566end%%
+
 
 
 
@@ -91,10 +91,10 @@ Updated: 12/07/2019 07:11 PM
 Highlighted: 09/06/2016 08:14 PM
 Updated: 12/07/2019 07:11 PM
 
-%%33272565start%%
+
 #### Extras:
 
-%%33272565end%%
+
 
 
 
@@ -108,10 +108,10 @@ Comment: Bounded rationality is the idea that when individuals make decisions, t
 Highlighted: 09/06/2016 08:13 PM
 Updated: 12/07/2019 07:11 PM
 
-%%33272564start%%
+
 #### Extras:
 
-%%33272564end%%
+
 
 
 
@@ -124,10 +124,10 @@ Updated: 12/07/2019 07:11 PM
 Highlighted: 09/06/2016 08:12 PM
 Updated: 12/07/2019 07:11 PM
 
-%%33272563start%%
+
 #### Extras:
 
-%%33272563end%%
+
 
 
 
@@ -140,10 +140,10 @@ Updated: 12/07/2019 07:11 PM
 Highlighted: 09/06/2016 08:11 PM
 Updated: 12/07/2019 07:11 PM
 
-%%33272562start%%
+
 #### Extras:
 
-%%33272562end%%
+
 
 
 
@@ -156,10 +156,10 @@ Updated: 12/07/2019 07:11 PM
 Highlighted: 09/06/2016 08:06 PM
 Updated: 12/07/2019 07:11 PM
 
-%%33272561start%%
+
 #### Extras:
 
-%%33272561end%%
+
 
 
 
@@ -175,10 +175,10 @@ Updated: 12/07/2019 07:11 PM
 Highlighted: 09/06/2016 08:06 PM
 Updated: 12/07/2019 07:11 PM
 
-%%33272560start%%
+
 #### Extras:
 
-%%33272560end%%
+
 
 
 
@@ -198,10 +198,10 @@ The method provides no hard and fast rules about what lines of questions to expl
 Highlighted: 09/06/2016 07:35 PM
 Updated: 12/07/2019 07:11 PM
 
-%%33272559start%%
+
 #### Extras:
 
-%%33272559end%%
+
 
 
 
@@ -215,10 +215,10 @@ Comment: This is written by John Allspaw of Etsy on November 14, 2014 ^rw3327255
 Highlighted: 09/06/2016 07:33 PM
 Updated: 12/07/2019 07:11 PM
 
-%%33272558start%%
+
 #### Extras:
 
-%%33272558end%%
+
 
 
 
