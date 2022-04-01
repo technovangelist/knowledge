@@ -27,7 +27,7 @@ Updated: 02/01/2021 01:29 PM
 
 %%139965322start%%
 #### Extras:
-**kubernetes** **cadvisor** 
+[[kubernetes]] [[cadvisor]] 
 %%139965322end%%
 
 

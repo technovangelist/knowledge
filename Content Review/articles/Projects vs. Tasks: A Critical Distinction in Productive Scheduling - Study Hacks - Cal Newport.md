@@ -9,7 +9,7 @@ SourceUrl: https://www.calnewport.com/blog/2021/01/02/projects-vs-tasks-a-critic
 
 %%7341072topstart%%
 #### Extras:
-**Cal Newport**
+[[Cal Newport]]
 %%7341072topend%%
 
 
@@ -64,7 +64,7 @@ https://instapaper.com/read/1375139485/15306261
 
 %%136362846start%%
 #### Extras:
-**David Allen**
+[[David Allen]]
 %%136362846end%%
 
 
@@ -82,7 +82,7 @@ https://instapaper.com/read/1375139485/15306241
 
 %%136360924start%%
 #### Extras:
-The [podcasts](Content Review/podcasts.md) turned out to be a bit of a waste of time. Too much of 'you need to use this tool to be productive'
+The [[podcasts]] turned out to be a bit of a waste of time. Too much of 'you need to use this tool to be productive'
 %%136360924end%%
 
 

@@ -9,7 +9,7 @@ SourceUrl: https://www.openshift.com/blog/kubernetes-naming-things
 
 %%7341239topstart%%
 #### Extras:
-**kubernetes**
+[[kubernetes]]
 %%7341239topend%%
 
 

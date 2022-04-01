@@ -1,4 +1,4 @@
-Notes for New Relic: Three Core Elements of Business Observability
+Notes for New Relic - Three Core Elements of Business Observability
 
 ## Source:
 Author: itbrief.com.au

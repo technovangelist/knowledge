@@ -9,7 +9,7 @@ SourceUrl: http://www.businessinsider.com/etsy-chad-dickerson-blameless-post-mor
 
 %%1130732topstart%%
 #### Extras:
-**Etsy****Owen Thomas**
+[[Etsy]][[Owen Thomas]]
 %%1130732topend%%
 
 

@@ -11,7 +11,7 @@ SourceUrl: https://www.airr.io/episode/5fe384389d9282b3c84203df
 
 %%6795677topstart%%
 #### Extras:
-**The Long Conversation**#podcastnotes
+[[The Long Conversation]]#podcastnotes
 %%6795677topend%%
 
 

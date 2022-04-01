@@ -8,7 +8,7 @@ SourceUrl: https://ryanholiday.net/benefits-of-walking/
 
 %%1466323topstart%%
 #### Extras:
-**walking**
+[[walking]]
 %%1466323topend%%
 
 
@@ -25,7 +25,7 @@ Updated: 03/01/2020 06:34 AM
 
 %%41529128start%%
 #### Extras:
-**Charles Darwin****Amos Tversky****Daniel Kahneman**
+[[Charles Darwin]][[Amos Tversky]][[Daniel Kahneman]]
 
 Who said "I did the best thinking of my life on leisurely walks with Amos"? #flashcard 
 Daniel Kahneman, talking about his colleague Amos Tversky
@@ -47,7 +47,7 @@ Updated: 03/01/2020 06:34 AM
 
 %%41529127start%%
 #### Extras:
-**Ernest Hemingway**
+[[Ernest Hemingway]]
 %%41529127end%%
 
 
@@ -63,7 +63,7 @@ Updated: 03/01/2020 06:34 AM
 
 %%41529126start%%
 #### Extras:
-**Nikola Tesla**
+[[Nikola Tesla]]
 
 What was Tesla doing when he discovered the rotating magnetic field, one of the most important scientific discoveries in modern history? #flashcard 
 Walking through a city park in Budapest in 1882
@@ -85,7 +85,7 @@ Updated: 03/01/2020 06:34 AM
 
 %%41529125start%%
 #### Extras:
-**Kierkegaard**
+[[Kierkegaard]]
 
 
 Who said this to his sister: “Above all,” he told her in 1847, “do not lose your desire to walk: Every day I walk myself into a state of well-being,” he wrote, “and walk away from every illness; I have walked myself into my best thoughts, and I know of no thought so burdensome that one cannot walk away from it.” #flashcard 

@@ -9,7 +9,7 @@ SourceUrl: https://nesslabs.com/mindful-productivity-2
 
 %%6789495topstart%%
 #### Extras:
-[Anne-Laure Le Cunff](Other Notes/Anne-Laure Le Cunff.md)**World Health Organization**
+[[Anne-Laure Le Cunff]][[World Health Organization]]
 %%6789495topend%%
 
 
@@ -58,7 +58,7 @@ Updated: 12/22/2020 10:16 PM
 
 %%122380831start%%
 #### Extras:
-**Albert Camus**
+[[Albert Camus]]
 %%122380831end%%
 
 

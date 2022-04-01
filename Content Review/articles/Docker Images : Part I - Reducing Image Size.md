@@ -1,4 +1,4 @@
-Notes for Docker Images : Part I - Reducing Image Size
+Notes for Docker Images - Part I - Reducing Image Size
 
 ## Source:
 Author: ardanlabs.com
@@ -9,7 +9,7 @@ SourceUrl: https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-i
 
 %%1548110topstart%%
 #### Extras:
-**Docker****multi-stage builds**
+[[Docker]][[multi-stage builds]]
 %%1548110topend%%
  
 -----

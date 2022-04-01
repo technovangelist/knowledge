@@ -11,7 +11,7 @@ SourceUrl: https://www.airr.io/episode/5fe325fc796094aed8f4c5a5
 
 %%7174971topstart%%
 #### Extras:
-**devops****Jeffrey Smith**
+[[devops]][[Jeffrey Smith]]
 %%7174971topend%%
 
 
@@ -28,7 +28,7 @@ https://www.airr.io/quote/600131cdf34dae794b30d7c0
 
 %%132294981start%%
 #### Extras:
-**audit****policy**
+[[audit]][[policy]]
 %%132294981end%%
 
 

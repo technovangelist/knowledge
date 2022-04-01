@@ -9,7 +9,7 @@ SourceUrl: https://eclecticlight.co/2016/06/13/jack-of-all-tasks-launchd-and-how
 
 %%7380864topstart%%
 #### Extras:
-**hoakley****launchd****kext****eclecticlight**
+[[hoakley]][[launchd]][[kext]][[eclecticlight]]
 %%7380864topend%%
  
 -----

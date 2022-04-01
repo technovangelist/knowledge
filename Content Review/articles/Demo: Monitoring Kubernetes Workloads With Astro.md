@@ -9,7 +9,7 @@ SourceUrl: https://www.fairwinds.com/blog/demo-monitoring-kubernetes-workloads-a
 
 %%7504213topstart%%
 #### Extras:
-**kubernetes****Astro****Fairwinds**
+[[kubernetes]][[Astro]][[Fairwinds]]
 %%7504213topend%%
 
 

@@ -9,7 +9,7 @@ SourceUrl: https://www.jcf.org/works/titles/the-hero-with-a-thousand-faces/
 
 %%7383361topstart%%
 #### Extras:
-**Joseph Campbell**
+[[Joseph Campbell]]
 %%7383361topend%%
 
 

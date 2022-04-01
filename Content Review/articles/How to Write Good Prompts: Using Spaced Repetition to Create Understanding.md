@@ -9,7 +9,7 @@ SourceUrl: https://andymatuschak.org/prompts/?ck_subscriber_id=1121208601&utm_so
 
 %%7188864topstart%%
 #### Extras:
-**Andy Matuschak****spaced repetition**
+[[Andy Matuschak]][[spaced repetition]]
 %%7188864topend%%
 
 

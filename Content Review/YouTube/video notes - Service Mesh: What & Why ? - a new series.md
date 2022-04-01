@@ -8,7 +8,7 @@ Published: 09/30/2020 02:29 AM
  ^ytrVNPnHeGYBEabout
 %%rVNPnHeGYBEtopstart%%
 #### Extras:
-**That DevOps Guy**
+[[That DevOps Guy]]
 
 %%rVNPnHeGYBEtopend%%
 

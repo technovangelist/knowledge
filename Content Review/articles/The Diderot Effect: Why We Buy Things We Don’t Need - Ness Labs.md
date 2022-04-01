@@ -11,7 +11,7 @@ SourceUrl: https://nesslabs.com/the-diderot-effect?ck_subscriber_id=1121208601&u
 #### Extras:
 The article talks about the Diderot effect, but then talks about buying things we don't need on their own. One has a trigger of a shiny thing, but the article talks about spending that doesn't have that trigger. 
 
-[Denis Diderot](Other Notes/Denis Diderot.md)**Diderot Effect****Managing Spending**[Anne-Laure Le Cunff](Other Notes/Anne-Laure Le Cunff.md)
+[[Denis Diderot]][[Diderot Effect]][[Managing Spending]][[Anne-Laure Le Cunff]]
 %%7677230topend%%
  
 -----

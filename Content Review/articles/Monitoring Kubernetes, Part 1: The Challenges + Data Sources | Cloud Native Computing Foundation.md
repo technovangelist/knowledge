@@ -12,7 +12,7 @@ Highlights:
 ==Before Kubernetes, it was non trivial to have applications distributed across multiple clouds (public and private, as well as different cloud providers). Now that it’s easy to distribute applications, we have a new set of problems== ^rw139911054hl
 
 <!--start139911054-->
-**kubernetes**
+[[kubernetes]]
 <!--end139911054-->
 
 

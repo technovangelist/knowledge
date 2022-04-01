@@ -8,7 +8,7 @@ SourceUrl: https://aws.amazon.com/blogs/security/how-to-visualize-amazon-guarddu
 
 %%1461486topstart%%
 #### Extras:
-**Amazon GuardDuty**
+[[Amazon GuardDuty]]
 %%1461486topend%%
 
 

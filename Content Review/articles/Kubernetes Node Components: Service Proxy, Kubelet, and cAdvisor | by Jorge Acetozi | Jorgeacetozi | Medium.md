@@ -38,7 +38,7 @@ Updated: 02/01/2021 04:01 PM
 
 %%140045978start%%
 #### Extras:
-**kubernetes** **serviceproxy** **serviceproxy**
+[[kubernetes]] [[serviceproxy]] [[serviceproxy]]
 %%140045978end%%
 
 ------
@@ -52,7 +52,7 @@ Updated: 02/01/2021 09:13 PM
 
 %%140166144start%%
 #### Extras:
-**kubernetes** **kubelet** 
+[[kubernetes]] [[kubelet]] 
 %%140166144end%%
 
 ------

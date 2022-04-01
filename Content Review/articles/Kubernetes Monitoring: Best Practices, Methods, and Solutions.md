@@ -9,7 +9,7 @@ SourceUrl: https://logz.io/blog/kubernetes-monitoring/
 
 %%7380792topstart%%
 #### Extras:
-**kubernetes**
+[[kubernetes]]
 %%7380792topend%%
  
 -----
@@ -39,7 +39,7 @@ Updated: 01/28/2021 12:34 PM
 
 %%137331447start%%
 #### Extras:
-**Heapster**
+[[Heapster]]
 %%137331447end%%
 
 ------

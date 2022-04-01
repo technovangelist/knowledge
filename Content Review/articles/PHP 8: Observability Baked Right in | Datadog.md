@@ -9,7 +9,7 @@ SourceUrl: https://www.datadoghq.com/blog/engineering/php-8-observability-baked-
 
 %%7520626topstart%%
 #### Extras:
-**php****Observability****wordpress**
+[[php]][[Observability]][[wordpress]]
 %%7520626topend%%
 
 

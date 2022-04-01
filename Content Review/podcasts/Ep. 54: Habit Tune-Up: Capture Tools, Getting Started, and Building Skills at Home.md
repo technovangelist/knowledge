@@ -11,7 +11,7 @@ SourceUrl: https://www.airr.io/episode/5fdb993f8ac3a84d50611608
 
 %%7560666topstart%%
 #### Extras:
-**Cal Newport**
+[[Cal Newport]]
 %%7560666topend%%
 
 

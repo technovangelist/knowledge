@@ -9,7 +9,7 @@ SourceUrl: https://github.com/rollup/awesome
 
 %%7503485topstart%%
 #### Extras:
-**rollup**
+[[rollup]]
 %%7503485topend%%
  
 -----

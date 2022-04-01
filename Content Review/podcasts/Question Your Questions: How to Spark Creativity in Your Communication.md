@@ -11,7 +11,7 @@ SourceUrl: https://www.airr.io/episode/5f6d669c3d291657bbc774ce
 
 %%7484917topstart%%
 #### Extras:
-**creativity**
+[[creativity]]
 %%7484917topend%%
 
 
@@ -50,7 +50,7 @@ https://www.airr.io/quote/60186bdedd66005e1e0c2dcf
 
 "Entrepreneurs Do Much More Than Imaginable"
 
-**Entrepreneurs** can see the opportunities that others miss.
+[[Entrepreneurs]] can see the opportunities that others miss.
 %%139950976end%%
 
 
@@ -67,7 +67,7 @@ https://www.airr.io/quote/60186bd1dd6600096b0c2dc4
 
 %%139950942start%%
 #### Extras:
-**mindset**
+[[mindset]]
 All you have is your reputation. 
 
 The world is opportunity rich

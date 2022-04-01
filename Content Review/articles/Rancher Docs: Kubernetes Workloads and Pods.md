@@ -9,7 +9,7 @@ SourceUrl: https://rancher.com/docs/rancher/v2.x/en/k8s-in-rancher/workloads/
 
 %%7505024topstart%%
 #### Extras:
-**kubernetes**
+[[kubernetes]]
 %%7505024topend%%
 
 
@@ -42,7 +42,7 @@ Updated: 02/02/2021 12:52 PM
 
 %%140460502start%%
 #### Extras:
-[desired state](desired state.md)
+[[desired state]]
 %%140460502end%%
 
 
@@ -58,7 +58,7 @@ Updated: 02/02/2021 12:52 PM
 
 %%140460500start%%
 #### Extras:
-**daemonset**
+[[daemonset]]
 %%140460500end%%
 
 
@@ -74,7 +74,7 @@ Updated: 02/02/2021 12:52 PM
 
 %%140460499start%%
 #### Extras:
-**statefulsets**
+[[statefulsets]]
 %%140460499end%%
 
 
@@ -90,7 +90,7 @@ Updated: 02/02/2021 12:52 PM
 
 %%140460497start%%
 #### Extras:
-**deployments**
+[[deployments]]
 %%140460497end%%
 
 

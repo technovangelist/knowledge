@@ -11,7 +11,7 @@ SourceUrl: https://www.airr.io/episode/5feb13615f4a0a8a90456206
 
 %%7341480topstart%%
 #### Extras:
-**kubernetes****Chris Love**
+[[kubernetes]][[Chris Love]]
 %%7341480topend%%
 
 

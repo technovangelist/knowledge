@@ -9,7 +9,7 @@ SourceUrl: https://github.com/derailed/k9s
 
 %%7400401topstart%%
 #### Extras:
-**kubernetes**[K9S](Tools I Use/K9S.md)
+[[kubernetes]][[K9S]]
 %%7400401topend%%
 
 

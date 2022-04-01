@@ -8,7 +8,7 @@ Published: 02/06/2021 06:15 AM
  ^ytm5T9pJB2DEabout
 %%m5T9pJ_B2DEtopstart%%
 #### Extras:
-this isn't the right one. need to fix my import job **Todo for the Readwise and Yinote Sync Tools**
+this isn't the right one. need to fix my import job [[Todo for the Readwise and Yinote Sync Tools]]
 %%m5T9pJ_B2DEtopend%%
 
 -----

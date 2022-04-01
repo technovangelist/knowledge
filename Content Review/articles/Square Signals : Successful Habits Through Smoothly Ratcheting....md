@@ -9,7 +9,7 @@ SourceUrl: https://blog.andymatuschak.org/post/169043084412/successful-habits-th
 
 %%7629719topstart%%
 #### Extras:
-**Andy Matuschak****Habits**
+[[Andy Matuschak]][[Habits]]
 %%7629719topend%%
 
 

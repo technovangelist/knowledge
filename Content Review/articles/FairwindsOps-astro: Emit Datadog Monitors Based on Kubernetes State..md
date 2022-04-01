@@ -9,7 +9,7 @@ SourceUrl: https://github.com/FairwindsOps/astro
 
 %%7504209topstart%%
 #### Extras:
-**datadog monitors****kubernetes**
+[[datadog monitors]][[kubernetes]]
 %%7504209topend%%
 
 

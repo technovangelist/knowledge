@@ -9,7 +9,7 @@ SourceUrl: https://sensu.io/blog/monitoring-kubernetes-docker-part-2-prometheus
 
 %%7493113topstart%%
 #### Extras:
-**kubernetes** **prometheus** **cncf**
+[[kubernetes]] [[prometheus]] [[cncf]]
 
 %%7493113topend%%
 

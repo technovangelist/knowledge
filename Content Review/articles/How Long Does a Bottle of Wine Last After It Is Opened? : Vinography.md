@@ -9,7 +9,7 @@ SourceUrl: https://www.vinography.com/2020/12/how-long-does-a-bottle-of-wine-las
 
 %%7501657topstart%%
 #### Extras:
-**wine**
+[[wine]]
 %%7501657topend%%
 
 
@@ -26,7 +26,7 @@ Updated: 02/02/2021 10:24 AM
 
 %%140395029start%%
 #### Extras:
-**vacuvin**
+[[vacuvin]]
 %%140395029end%%
 
 
@@ -42,7 +42,7 @@ Updated: 02/02/2021 10:23 AM
 
 %%140394778start%%
 #### Extras:
-**cork**
+[[cork]]
 
 flash card tags: wine
 

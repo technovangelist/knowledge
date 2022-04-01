@@ -26,7 +26,7 @@ Updated: 12/07/2019 07:11 PM
 
 %%33272552start%%
 #### Extras:
-**Tesla****Tesla Model S**
+[[Tesla]][[Tesla Model S]]
 %%33272552end%%
 
 

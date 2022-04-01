@@ -9,7 +9,7 @@ SourceUrl: https://www.technologyreview.com/2021/01/28/1016867/lunik-cia-heist-s
 
 %%7386038topstart%%
 #### Extras:
-**Lunik****CIA**
+[[Lunik]][[CIA]]
 %%7386038topend%%
 
 
@@ -27,7 +27,7 @@ Updated: 01/28/2021 08:53 PM
 
 %%137481473start%%
 #### Extras:
-**Operation Lightfire**
+[[Operation Lightfire]]
 %%137481473end%%
 
 
@@ -77,7 +77,7 @@ Updated: 01/28/2021 08:43 PM
 
 %%137477272start%%
 #### Extras:
-**Jaime Maussan**
+[[Jaime Maussan]]
 %%137477272end%%
 
 
@@ -94,7 +94,7 @@ Updated: 01/28/2021 08:41 PM
 
 %%137476733start%%
 #### Extras:
-**Robert Zambernardi**
+[[Robert Zambernardi]]
 %%137476733end%%
 
 
@@ -112,7 +112,7 @@ Updated: 01/28/2021 08:40 PM
 
 %%137476225start%%
 #### Extras:
-**José Gómez Huerta**
+[[José Gómez Huerta]]
 %%137476225end%%
 
 
@@ -214,7 +214,7 @@ Updated: 01/28/2021 08:32 PM
 
 %%137464511start%%
 #### Extras:
-**Steven Johnson**
+[[Steven Johnson]]
 %%137464511end%%
 
 
@@ -246,7 +246,7 @@ Updated: 01/28/2021 08:28 PM
 
 %%137463971start%%
 #### Extras:
-**Baikonur Cosmodrome**
+[[Baikonur Cosmodrome]]
 %%137463971end%%
 
 
@@ -262,7 +262,7 @@ Updated: 01/28/2021 08:27 PM
 
 %%137462521start%%
 #### Extras:
-**López Mateos**
+[[López Mateos]]
 %%137462521end%%
 
 
@@ -294,7 +294,7 @@ Updated: 01/28/2021 08:08 PM
 
 %%137449412start%%
 #### Extras:
-**Winston Scott**
+[[Winston Scott]]
 %%137449412end%%
 
 

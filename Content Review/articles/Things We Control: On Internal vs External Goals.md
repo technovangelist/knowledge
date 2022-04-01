@@ -9,7 +9,7 @@ SourceUrl: https://www.alexstrick.com/blog/internal-vs-external-goals
 
 %%1130724topstart%%
 #### Extras:
-**Alex Strick Van Linschoten**
+[[Alex Strick Van Linschoten]]
 %%1130724topend%%
 
 
@@ -26,7 +26,7 @@ Updated: 12/07/2019 07:05 PM
 
 %%33272418start%%
 #### Extras:
-**William Irvine**
+[[William Irvine]]
 %%33272418end%%
 
 

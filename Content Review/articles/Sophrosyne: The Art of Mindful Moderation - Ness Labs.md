@@ -9,7 +9,7 @@ SourceUrl: https://nesslabs.com/sophrosyne?ck_subscriber_id=1121208601&utm_sourc
 
 %%7677370topstart%%
 #### Extras:
-**sophrosyne****hubris****lucifer****satan****Plato**[Anne-Laure Le Cunff](Other Notes/Anne-Laure Le Cunff.md)
+[[sophrosyne]][[hubris]][[lucifer]][[satan]][[Plato]][[Anne-Laure Le Cunff]]
 %%7677370topend%%
  
 -----
@@ -25,7 +25,7 @@ Updated: 02/11/2021 12:08 PM
 
 %%144368157start%%
 #### Extras:
-**minimalism****Demophilus**
+[[minimalism]][[Demophilus]]
 %%144368157end%%
 
 ------

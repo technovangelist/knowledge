@@ -27,7 +27,7 @@ Updated: 12/22/2020 10:16 PM
 
 %%122380889start%%
 #### Extras:
-**datadog** #bestpractices **Datadog Best Practices**
+[[datadog]] #bestpractices [[Datadog Best Practices]]
 %%122380889end%%
 
 
@@ -44,7 +44,7 @@ Updated: 12/22/2020 10:16 PM
 
 %%122380888start%%
 #### Extras:
-**datadog** #bestpractices **Datadog Best Practices**
+[[datadog]] #bestpractices [[Datadog Best Practices]]
 %%122380888end%%
 
 
@@ -60,7 +60,7 @@ Updated: 12/22/2020 10:16 PM
 
 %%122380887start%%
 #### Extras:
-**Datadog Best Practices**
+[[Datadog Best Practices]]
 %%122380887end%%
 
 
@@ -76,7 +76,7 @@ Updated: 12/22/2020 10:16 PM
 
 %%122380886start%%
 #### Extras:
-**Observability**
+[[Observability]]
 %%122380886end%%
 
 

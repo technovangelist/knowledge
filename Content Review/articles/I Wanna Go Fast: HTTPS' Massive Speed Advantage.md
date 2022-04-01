@@ -9,7 +9,7 @@ SourceUrl: https://www.troyhunt.com/i-wanna-go-fast-https-massive-speed-advantag
 
 %%1130733topstart%%
 #### Extras:
-**Troy Hunt****HTTPS**
+[[Troy Hunt]][[HTTPS]]
 %%1130733topend%%
 
 
