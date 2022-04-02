@@ -1,6 +1,7 @@
 # How would i like to process notes and do something useful with them? I don't have this figured out yet.
 
 This is a mermaid js graph. But if you are looking at this on the published site, it will be just text. sorry. 
+x
 
 ```mermaid
 graph TD
