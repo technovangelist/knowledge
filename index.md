@@ -11,3 +11,5 @@ Then everything else is stuff that doesn't go anywhere yet.
 I wrote everything above this a year ago. I still haven't really figured this stuff out. 
 
 Another section is [LIP](/knowledge/LIP): Learn in Public. The notes I will put together in a weekly stream revolving around my employer, [InfraHQ](/knowledge/LIP/What is Infra).
+
+This is a pretty cool page and site.
