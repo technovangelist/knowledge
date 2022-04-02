@@ -6,8 +6,10 @@ maybe fixed.
 
 and with the js
 
+ok now it really should have the js
 
-<div class=mermaid>
+
+<script src='https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js'></script><div class=mermaid>
 graph TD
 A((Things I want to remember)) --> AV   & Paper[Paper Media] & Online[Online Reading]  & Social[Social Media] 
 Social --> Discord & Slack & Twitter
