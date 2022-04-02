@@ -1,9 +1,9 @@
 # How would i like to process notes and do something useful with them? I don't have this figured out yet.
-<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-This is a mermaid js graph. But if you are looking at this on the published site, it will be just text. sorry. 
-x
 
-<div class="mermaid">
+This is a mermaid js graph. But if you are looking at this on the published site, it will be just text. sorry. 
+
+
+```mermaid
 graph TD
 A((Things I want to remember)) --> AV   & Paper[Paper Media] & Online[Online Reading]  & Social[Social Media] 
 Social --> Discord & Slack & Twitter
@@ -26,6 +26,6 @@ Discord --> Todo
 Slack --> Todo
 Paper -->|Take Photo in Readwise| Readwise
 Memex --> Obsidian
-</div>
+```
 
 
