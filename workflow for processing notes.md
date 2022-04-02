@@ -2,8 +2,10 @@
 
 This is a mermaid js graph. But if you are looking at this on the published site, it will be just text. sorry. 
 
+maybe fixed
 
-```mermaid
+
+<div class=mermaid>
 graph TD
 A((Things I want to remember)) --> AV   & Paper[Paper Media] & Online[Online Reading]  & Social[Social Media] 
 Social --> Discord & Slack & Twitter
@@ -26,6 +28,6 @@ Discord --> Todo
 Slack --> Todo
 Paper -->|Take Photo in Readwise| Readwise
 Memex --> Obsidian
-```
+</div>
 
 
