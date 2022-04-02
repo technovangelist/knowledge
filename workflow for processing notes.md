@@ -2,7 +2,9 @@
 
 This is a mermaid js graph. But if you are looking at this on the published site, it will be just text. sorry. 
 
-maybe fixed
+maybe fixed.
+
+and with the js
 
 
 <div class=mermaid>
