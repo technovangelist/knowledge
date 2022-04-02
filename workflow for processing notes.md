@@ -27,15 +27,4 @@ Paper -->|Take Photo in Readwise| Readwise
 Memex --> Obsidian
 ```
 
-
-
-- test
-- asht
-	- tset
-		- asht
-	- asht
-- asht
-- asht
-- ashtasht
-
-
+exit
