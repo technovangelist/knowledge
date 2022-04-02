@@ -27,4 +27,4 @@ Paper -->|Take Photo in Readwise| Readwise
 Memex --> Obsidian
 ```
 
-exit
+
