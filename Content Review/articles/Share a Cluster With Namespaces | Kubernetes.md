@@ -27,7 +27,6 @@ Updated: 03/05/2021 08:43 AM
 #### Extras:
 #todo 
 - [ ] research attaching authorization policy to a namespace
-- [ ] 
 
 
 ------
