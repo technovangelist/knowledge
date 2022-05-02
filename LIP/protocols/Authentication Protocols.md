@@ -2,7 +2,7 @@
 - SAML
 - SCIM
 - OAuth
-- OpenID or OIDC
+- OpenID or [OIDC](/knowledge/LIP/OIDC)
 - XACML
 - RADIUS
 - Kerberos
