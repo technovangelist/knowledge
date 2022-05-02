@@ -6,5 +6,4 @@ https://openid.net/connect/
 	- simple layer ontop of oauth2.0
 	- allows client to verify id of end user
 - how is it relevant to us?
-- t,st
-- t
+- 
