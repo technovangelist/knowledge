@@ -11,4 +11,5 @@ https://openid.net/connect/
 			- 
 	- allows client to verify id of end user
 - how is it relevant to us?
-- 
+
+OIDC. Open ID Connect. You might have seen these letters as you navigate the web, but what does it mean. 
