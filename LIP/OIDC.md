@@ -12,4 +12,4 @@ https://openid.net/connect/
 	- allows client to verify id of end user
 - how is it relevant to us?
 
-OIDC. Open ID Connect. You might have seen those letters as you navigate the web, but what does it mean. Well the first three letters are for OpenID. You may remember this as an early way to login to some of the web apps you used. But versions 1 and 2 of OpenID didn't get a lot of adoption. Version 3, or OpenID Connect, has gotten rid of the XML and custom message signature schema used and instead leverages OAuth 2 which uses TLS, and that is already in use on every client and server platform today. 
+OIDC. Open ID Connect. You might have seen those letters as you navigate the web, but what does it mean. Well the first three letters are for OpenID. You may remember this as an early way to login to some of the web apps you used. But versions 1 and 2 of OpenID didn't get a lot of adoption. Version 3, or OpenID Connect, has gotten rid of the XML and custom message signature schema used and instead leverages OAuth 2 which uses TLS, and that is already in use on every client and server platform today. So what is Oauth 2?? Well OAuth is an authori
