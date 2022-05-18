@@ -7,4 +7,6 @@ jwt.io
 
 Outline
 
-ScriptN
+
+Script
+JWT. JSON Web Token. But it's usually pronounced as jot. so if you hear someone talk about a jot, it might actually be a JSON Web Token
