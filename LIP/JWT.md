@@ -35,4 +35,8 @@ The iat value is the time this token was issued. nbf says that this token is not
 
 The nonce is a required value for OpenIdConnect JWTs and ensures that this token hasn't been used before. 
 
-So the last two values in the token are the actual claim. Groups and Name. The name is 
+So the last two values in the token are the actual claim. Groups and Name. The name is the user who is running the command and the groups lists out the groups this user is a member of. 
+
+Now that information is used by the destination to determine what roles this user should be allowed to assume. 
+
+And that is what a JWT is and how they are used in Infra. On this channel we look at a lot of the tools and technologies used in Infra as well as tangential technologies in similar areas. If you found the video useful, please like and subscribe to see more. Thanks so much for watching. Goodbye. 
