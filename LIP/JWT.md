@@ -15,3 +15,24 @@ If you look around the web for information about JWT, you will find a lot of art
 
 Infra uses jots for a different purpose and sets a short expiration time. In the video about OIDC, you saw that we use jots to record the claim of what this user's email address is and what groups they belong to. That on its own does not guarantee access to resources since the destination determines what access that user or group should have at run time. The digital signature on the claim allows the client and the destination to be confident that the user is who they claim to be and the groups are the groups they do in fact belong to. Let's take a look at one of these jots. First the raw jot looks like this. 
 (((show on screen eyJhbGciOiJFZERTQSIsImtpZCI6InFBQ1NCdndib0Y1djU0S0RPRGlDY2xTMk0ybVRFeGNnTVl5VzBsZ2w3Zjg9IiwidHlwIjoiSldUIn0.eyJleHAiOjE2NTI5NjY2MzAsImdyb3VwcyI6bnVsbCwiaWF0IjoxNjUyOTY2MzMwLCJuYW1lIjoiYWRtaW4iLCJuYmYiOjE2NTI5NjYwMzAsIm5vbmNlIjoiQW1IVXBKOVc4NSJ9.66_ScBIIG5jmsAV_-b-NDb-fQF4VMYgLzdtt4nxD3P7jGw58kTO23vxHc0yOQsuGvXBtIs4-vLH_jDeUsmE3Dg)))
+
+A jot is made of three components. First there is the header, then the payload, and finally the signature. And those three components are separated using dots or periods. So lets pull out the middle component. Each of these components is Base64 encoded. That’s what ensures the URL safe part that we mentioned before. Base64 encoding is not encryption, just a standard way of encoding the text. 
+
+Now that that component is Base64 decoded, we see that the payload is this.
+
+(((show on screen 
+{
+  "exp": 1652966630,
+  "groups": null,
+  "iat": 1652966330,
+  "name": "admin",
+  "nbf": 1652966030,
+  "nonce": "AmHUpJ9W85"
+}
+)))
+
+The iat value is the time this token was issued. nbf says that this token is not valid before this time. and exp is the time when this token expires. We can translate those Unix Timestamps to more common date and time formats and can see that this token has a lifetime of 5 minutes. 
+
+The nonce is a required value for OpenIdConnect JWTs and ensures that this token hasn't been used before. 
+
+So the last two values in the token are the actual claim. Groups and Name. The name is 
