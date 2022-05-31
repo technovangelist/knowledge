@@ -1,0 +1,1 @@
+There are a lot of parts about Kubernetes that are hard. The end result makes access to compute easier to scale in interesting ways, but getting there can be complicated. One of the challenging aspects of Kubernetes is the idea of Roles. When you first set up a kubernetes cluster, you will probably see a kubeconfig file that gives you the full Cluster Admin role. 
