@@ -40,3 +40,9 @@ So the last two values in the token are the actual claim. Groups and Name. The n
 Now that information is used by the destination to determine what roles this user should be allowed to assume. 
 
 And that is what a JWT is and how they are used in Infra. On this channel we look at a lot of the tools and technologies used in Infra as well as tangential technologies in similar areas. If you found the video useful, please like and subscribe to see more. Thanks so much for watching. Goodbye. 
+
+## Tweets
+Do you know what a JSON Web Token is? Find out here: 
+
+JWTs can be awesome for some things and suck for others. We use them in the awesome way: 
+
