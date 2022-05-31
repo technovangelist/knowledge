@@ -42,14 +42,14 @@ Now that information is used by the destination to determine what roles this use
 And that is what a JWT is and how they are used in Infra. On this channel we look at a lot of the tools and technologies used in Infra as well as tangential technologies in similar areas. If you found the video useful, please like and subscribe to see more. Thanks so much for watching. Goodbye. 
 
 ## Tweets
-Do you know what a JSON Web Token is? Find out here: 
+Do you know what a JSON Web Token is? Find out here: https://youtu.be/UuKXMDHzcPc
 
-JWTs can be awesome for some things and suck for others. We use them in the awesome way: 
+JWTs can be awesome for some things and suck for others. We use them in the awesome way. Learn about it in the latest video on our channel: https://youtu.be/UuKXMDHzcPc
 
-See how we use JWTs here at Infra to enable single sign on to Kubernetes:
+See how we use JWTs here at Infra to enable single sign on to Kubernetes:https://youtu.be/UuKXMDHzcPc
 
-Is there a question you have about how we made Infra. Let me know and it may get turned into a video like this one about JWTs:
+Is there a question you have about how we made Infra. Let me know and it may get turned into a video like this one about JWTs: https://youtu.be/UuKXMDHzcPc
 
-Why isn't token revokation a problem for us at Infra when using JWTs? Find out in this video:
+Why isn't token revokation a problem for us at Infra when using JWTs? Find out in this video: https://youtu.be/UuKXMDHzcPc
 
-Did you watch our video about OIDC? Well this here is the latest one about JWT: 
+Did you watch our video about OIDC? Well this here is the latest one about JWT: https://youtu.be/UuKXMDHzcPc
