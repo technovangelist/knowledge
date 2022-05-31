@@ -46,3 +46,10 @@ Do you know what a JSON Web Token is? Find out here:
 
 JWTs can be awesome for some things and suck for others. We use them in the awesome way: 
 
+See how we use JWTs here at Infra to enable single sign on to Kubernetes:
+
+Is there a question you have about how we made Infra. Let me know and it may get turned into a video like this one about JWTs:
+
+Why isn't token revokation a problem for us at Infra when using JWTs? Find out in this video:
+
+Did you watch our video about OIDC? Well this here is the latest one about JWT: 
