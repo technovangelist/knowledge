@@ -2,4 +2,4 @@ There are a lot of parts about Kubernetes that are hard. Once everything is conf
 
 If everyone has cluster admin, then anyone can do things they shouldn't. What can a cluster admin do? Well, everything from delete existing services and pods, or running processes that might be against company policy, all the way up to deleting nodes. Some of these actions could be intentional while others, perhaps most, are probably accidental. Once you are a cluster admin, its too easy to copy and paste a command that destroys your environment. And if your machine is compromised, the attacker can also do anything they like. 
 
-The principle of least privilege says that a subject should be given only those privileges needed for it to complete its task. 
+The principle of least privilege says that a subject should be given only those privileges needed for it to complete its task. This applies to kubernetes just as much as it does to the operating system on your computer. 
