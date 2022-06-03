@@ -11,3 +11,7 @@ Then you need to build the kube config file so that starts by defining a cluster
 And despite all those steps we have done, we have only created a user. If that user tries to do anything they will get an error since they aren't allowed to do anything yet. 
 
 Now you need to create the roles and bind the roles to the user certificate. Defining roles is a bit easier. Your roles are going to be a collection of verbs and the resources those verbs apply to. The verbs you can include can be found in the chart on this page (https://kubernetes.io/docs/reference/access-authn-authz/authorization/#determine-the-request-verb). The resources can include any of the resources available in your cluster. 
+
+So creating roles is relatively easy but users is a bit of a challenge. If however, you are using Infra, the user part is easy and linking the user to the role is just as easy. 
+
+Lets take a look at the roles that are defined on this cluster. There are actually two types of roles in Kubernetes: Roles and ClusterRoles. Roles are defined per namespace and clusterroles are defined for the cluster. You can see that there are a lot of cluster roles defined for the system to function. You probably won't ever touch those. 
