@@ -67,5 +67,7 @@ roleRef:
 ```
 xxxx
 
-So you can see that binding is actually pretty easy as well. But setting up the binding for lots of users is where this part gets challenging and that’s why using groups and OIDC providers in Infra becomes a huge timesaver. Let's go through those steps again right now. I have already installed Infra on a cluster and setup the integration with Okta. I have this set of groups defined in Okta and I have already defined these roles in the cluster. So now i just have to run this command to bind the two together. And now every user who is a member o
+So you can see that binding is actually pretty easy as well. But setting up the binding for lots of users is where this part gets challenging and that’s why using groups and OIDC providers in Infra becomes a huge timesaver. Let's go through those steps again right now. I have already installed Infra on a cluster and setup the integration with Okta. I have this set of groups defined in Okta and I have already defined these roles in the cluster. So now i just have to run this command to bind the two together. And now every user who is a member of  that group has the access defined in that role. This is all achievable without Infra but everything gets so much easier when you use it. 
+
+And that’s a little bit about RBAC, Kubernetes, and Infra. On this channel we look at a lot of the tools and technologies used in Infra as well as tangential technologies in similar areas. If you found the video useful, please like and subscribe to see more. Thanks so much for watching. Goodbye. 
  `
