@@ -25,5 +25,47 @@ RBAC. Role Based Access Control. You will see that term used in lots of differen
 
 In kubernetes, you can have many roles bound to any one user, but its important to remember that access in kubernetes is additive. If a user has been assigned a role that is minimal in the level of access it provides but they have also been assigned a role with more access they have all the access defined in all the roles combined. There is no way to remove access without removing the role that provided that access. Also there are two general types of roles: Roles which apply to a namespace, and ClusterRoles that apply to the whole cluster. In a simple test environment, this is easy to deal with, but in a larger environment where a user may have hundreds of roles of both types, navigating through permissions can be a challenge. There are tools to help navigate those permissions and in a future video we will take a look at some of them.
 
-Creating roles in Kubernetes is somewhat easy. You define which resource you want the subject to have access to. We switched over to the word 'subject' because that can refer to both a human user as well as a process running an application automatically. Then you list out the verbs that subject should be able to apply to that resource. There are a number of verbs that work. This chart in the kubernetes documentation lists them out. Get will get an individual resource, list with get collections. and watch will watch an individual or collection of resources. And then there is create, update, patch, delete, and deletecollection. The resources are that we can work with can be seen when we run `kubectl api-resources`. So i could create a role that allows someone to get, list, update, and create Pods. In most cases, a role will be a collection of these verb resource pairings. You can see this if you run the command `kubectl get clusterrole edit`. 
+Creating roles in Kubernetes is somewhat easy. You define which resource you want the subject to have access to. We switched over to the word 'subject' because that can refer to both a human user as well as a process running an application automatically. Then you list out the verbs that subject should be able to apply to that resource. There are a number of verbs that work. This chart in the kubernetes documentation lists them out. Get will get an individual resource, list with get collections. and watch will watch an individual or collection of resources. And then there is create, update, patch, delete, and deletecollection. The resources are that we can work with can be seen when we run `kubectl api-resources`. So i could create a role that allows someone to get, list, update, and create Pods. In most cases, a role will be a collection of these verb resource pairings. You can see this if you run the command `kubectl get clusterrole edit`. This shows us all the permissions in the edit cluster-role. Lets take a look at a very simple role that just allows a subject get, watch, and list of a pod. You can see that it is called pod-reader and applies only to the default namespace.  
+
+xxxxx
+using this
+```yaml
+apiVersion: rbac.authorization.k8s.io/v1
+kind: Role
+metadata:
+  namespace: default
+  name: pod-reader
+rules:
+- apiGroups: [""] # "" indicates the core API group
+  resources: ["pods"]
+  verbs: ["get", "watch", "list"]
+```
+xxxx
+
+Creating roles is pretty easy. Creating users and groups is not easy, so we will take a look at that in a future video. But once you have a user and role, then you bind the two together. Here we can see an example of this, binding the pod-reader role from a few seconds ago.
+
+xxxx
+using this
+```yaml
+apiVersion: rbac.authorization.k8s.io/v1
+# This role binding allows "jane" to read pods in the "default" namespace.
+# You need to already have a Role named "pod-reader" in that namespace.
+kind: RoleBinding
+metadata:
+  name: read-pods
+  namespace: default
+subjects:
+# You can specify more than one "subject"
+- kind: User
+  name: jane # "name" is case sensitive
+  apiGroup: rbac.authorization.k8s.io
+roleRef:
+  # "roleRef" specifies the binding to a Role / ClusterRole
+  kind: Role #this must be Role or ClusterRole
+  name: pod-reader # this must match the name of the Role or ClusterRole you wish to bind to
+  apiGroup: rbac.authorization.k8s.io
+```
+xxxx
+
+So you can see that binding is actually pretty easy as well. But setting up the binding for lots of users is where this part gets challenging and that’s why using groups and OIDC providers in Infra becomes a huge timesaver. Let's go through those steps again right now. I have already installed Infra on a cluster and setup the integration with Okta. I have this set of groups defined in Okta and I have already defined these roles in the cluster. So now i just have to run this command to bind the two together. And now every user who is a member o
  `
