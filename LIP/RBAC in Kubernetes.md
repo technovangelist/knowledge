@@ -7,6 +7,8 @@ This may not sound like a lot of effort. But now replicate that for each user in
 With Infra, everything around user certificates is automated. The kubeconfig is automatically generated and kept up to date as long as you are using Infra. 
 
 And that’s a little bit about creating users for RBAC manually vs using Infra. On this channel we look at a lot of the tools and technologies used in Infra as well as tangential technologies in similar areas. If you found the video useful, please like and subscribe to see more. Thanks so much for watching. Goodbye. 
+
+
 ----
 
 
